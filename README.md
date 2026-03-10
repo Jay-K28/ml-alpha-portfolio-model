@@ -1,2 +1,6 @@
-# ml-alpha-portfolio-model
-Machine Learning–Driven Alpha Generation Model with Backtesting and Benchmark Comparison (NIFTY 50)
+# Machine Learning Based Alpha Generation for NIFTY 100
+
+## Project Summary
+• Built LightGBM models to predict future returns using financial features and earnings call sentiment  
+• Evaluated signals using Information Coefficient, sector-wise AUC, and long–short portfolio simulations  
+• Conducted sector-neutralization and robustness tests to validate signal stability
