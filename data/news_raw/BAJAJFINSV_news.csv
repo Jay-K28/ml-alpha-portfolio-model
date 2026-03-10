@@ -1,51 +1,35 @@
 ticker,date,headline,sentiment_score
-BAJAJFINSV,2012-04-28,"Most Active Shares - F&O Market, All Futures & Options, Index Futures, Index Options, Stock Futures, Stock Options - Moneycontrol",-0.9498177766799927
-BAJAJFINSV,2024-11-15,"Bajaj Finserv | Splits > Finance - Investments > Dividends declared by Bajaj Finserv - BSE: 532978, NSE: BAJAJFINSV - Moneycontrol",-0.9194179177284241
-BAJAJFINSV,2011-07-09,Bajaj Finserv Ltd. - Moneycontrol,-0.9497536420822144
-BAJAJFINSV,2011-07-23,Bajaj Finserv Ltd. - Moneycontrol,-0.9497536420822144
-BAJAJFINSV,2024-11-15,"Bajaj Finserv | AGM/EGM > Finance - Investments > Meetings of Bajaj Finserv - BSE: 532978, NSE: BAJAJFINSV - Moneycontrol",-0.9497798085212708
-BAJAJFINSV,2024-11-15,"Bajaj Finserv | Bonus > Finance - Investments > Bonus declared by Bajaj Finserv - BSE: 532978, NSE: BAJAJFINSV - Moneycontrol",-0.9316398501396179
-BAJAJFINSV,2018-01-05,"bajaj finserv Forum Discussion on Market View, Business sectors,Stocks, Commodity, Personal Finance & More - Moneycontrol",-0.9427967071533203
-BAJAJFINSV,2024-11-15,Bajaj Finserv - Moneycontrol,-0.9442261457443237
-BAJAJFINSV,2024-11-14,Bajaj Finserv - Moneycontrol,-0.9442261457443237
-BAJAJFINSV,2024-11-14,"Bajaj Finserv | Rights > Finance - Investments > Rights declared by Bajaj Finserv - BSE: 532978, NSE: BAJAJFINSV - Moneycontrol",-0.9511368870735168
-BAJAJFINSV,2011-07-13,Bajaj Finserv Ltd. - Moneycontrol,-0.9497536420822144
-BAJAJFINSV,2018-07-15,"Bajaj Finserv Profit & Loss account, Bajaj Finserv Financial Statement & Accounts - Moneycontrol",-0.8417263627052307
-BAJAJFINSV,2018-07-15,"Bajaj Finserv Profit & Loss account, Bajaj Finserv Financial Statement & Accounts - Moneycontrol",-0.8417263627052307
-BAJAJFINSV,2024-01-31,Bajaj Finserv Ltd - images.moneycontrol.com,-0.9483835697174072
-BAJAJFINSV,2024-08-26,Stock Market Highlights: Nifty 68 points away from record high. Here’s how to trade on Tuesday - The Economic Times,-0.8223223090171814
-BAJAJFINSV,2025-05-21,US Stock Market Updates: US stocks slide lower as tax-cut bill debate weighs on sentiment; Bitcoin hits r... - The Economic Times,-0.9603622555732727
+BAJAJFINSV,2024-11-14,Bajaj Finserv - Moneycontrol.com,-0.9467165470123291
+BAJAJFINSV,2011-07-09,Bajaj Finserv Ltd. - Moneycontrol.com,-0.9497544169425964
+BAJAJFINSV,2024-11-15,Bajaj Finserv - Moneycontrol.com,-0.9467165470123291
+BAJAJFINSV,2011-07-23,Bajaj Finserv Ltd. - Moneycontrol.com,-0.9497544169425964
+BAJAJFINSV,2018-07-15,"Bajaj Finserv Balance Sheet, Bajaj Finserv Financial Statement & Accounts - Moneycontrol.com",-0.9447969198226929
 BAJAJFINSV,2025-05-05,Bajaj Finserv Ltd - images.moneycontrol.com,-0.9483835697174072
-BAJAJFINSV,2025-09-24,"Stock Market Highlights: Sensex settles 386 pts lower; Nifty below 25,100; TaMo falls 3%, BEL 2% - The Economic Times",-0.9691428542137146
-BAJAJFINSV,2024-09-27,Stock Market Highlights: Nifty forms negative candle at record highs; how to trade next week - The Economic Times,-0.8950154185295105
-BAJAJFINSV,2025-01-24,Earnings worries yank Indian shares to third week of losses - Reuters,-0.9005164504051208
-BAJAJFINSV,2025-06-11,"Stock Market Highlights | Closing Bell: Sensex settles 123 pts higher, Nifty above 25,100; HCL Tech rises... - The Economic Times",0.9171513915061951
-BAJAJFINSV,2025-01-27,"Bajaj Finserv Healthcare Fund Regular-Growth (₹ 9.11) - NAV, Reviews & asset allocation - The Economic Times",-0.9219960570335388
-BAJAJFINSV,2025-07-24,"Bajaj Finance Q1 Results Live Updates: Net profit at Rs 4,700 crore vs Rs 3,912 crore, up 20% YoY - The Economic Times",0.9479756355285645
+BAJAJFINSV,2025-01-27,"Bajaj Finserv Healthcare Fund Regular-Growth (₹ 9.37) - NAV, Reviews & asset allocation - The Economic Times",-0.9207220077514648
+BAJAJFINSV,2025-09-16,"BHEL.NS Stock Analysis: Prediction, Earnings, Dividend - Reuters",-0.9389897584915161
 BAJAJFINSV,2024-02-02,RBI penalises Bajaj Housing Finance - The Economic Times,-0.6777449250221252
-BAJAJFINSV,2025-05-20,"Bajaj Group get CCI's nod to acquire Allianz's 26 pc stake in insurance JVs for Rs 24,180 cr - The Economic Times",0.4989858567714691
-BAJAJFINSV,2025-05-30,"Stock Market Highlights: Sensex settles 182 pts lower, Nifty at 24,750; HCL Tech, TechM slip 2% each - The Economic Times",-0.9628066420555115
-BAJAJFINSV,2024-06-21,Stock Market Highlights | Nifty chart shows bearish candle formation. What should traders do on Monday? - The Economic Times,-0.8880517482757568
-BAJAJFINSV,2018-05-02,"F&O Market Snapshot: Future and Options NSE, BSE, F&O margin, F&O quotes - Moneycontrol",-0.9373857378959656
-BAJAJFINSV,2021-10-22,"RIL Q2 PAT at Rs 13680 crore, beats estimate - The Economic Times",-0.9149449467658997
-BAJAJFINSV,2022-03-07,"Closing Bell: Sensex falls 1,400 points, Nifty ends below 15,900; realty, banks fall 4-5% - Moneycontrol",-0.9522532224655151
-BAJAJFINSV,2018-06-03,"Bajaj Finserv Cash Flow, Bajaj Finserv Financial Statement & Accounts - Moneycontrol",-0.9471526741981506
-BAJAJFINSV,2025-11-11,"Bajaj Finserv Q2 results: Net profit up 7.5% at Rs 2,244 crore, revenue rises 11% YoY - Moneycontrol",0.9519442319869995
-BAJAJFINSV,2022-03-16,"Closing Bell: Sensex gains 1,040 pts, Nifty above 16,900 ahead of US Fed decision; all sectors in the green - Moneycontrol",0.9320917129516602
-BAJAJFINSV,2021-01-25,"Closing Bell: Nifty ends below 14,250, Sensex falls 531 pts; pharma stocks outshine - Moneycontrol",-0.8914118409156799
-BAJAJFINSV,2022-01-13,"Closing Bell: Market ends marginally higher amid volatility; metals outshine, realty, bank drag - Moneycontrol",0.8227593898773193
-BAJAJFINSV,2020-08-26,"Closing Bell: Nifty ends above 11,500, Sensex gains 230 pts led by auto, banks - Moneycontrol",0.884583592414856
-BAJAJFINSV,2021-10-14,"Closing Bell: Nifty ends above 18,300, Sensex surpasses 61,000 for the first time - Moneycontrol",0.47859546542167664
-BAJAJFINSV,2022-02-24,"Closing Bell: Carnage on Street with Nifty below 16,300, Sensex crashing 2,700 pts on Russia-Ukraine crisis - Moneycontrol",-0.7884558439254761
-BAJAJFINSV,2021-12-10,"Closing Bell: Sensex, Nifty end flat amid volatility; realty, PSU Banks outshine - Moneycontrol",0.6894159913063049
-BAJAJFINSV,2022-01-03,CLOSING BELL | Bulls back on Dalal Street as Sensex zooms 929 pts led by banks & financials - Moneycontrol,0.494336873292923
-BAJAJFINSV,2018-05-17,"Increase in Open Interest, Increase in Price, Increase in Open Interest & Increase in Price in All Futures For All Expiries - Moneycontrol",0.8093093633651733
-BAJAJFINSV,2021-09-29,"Market LIVE Updates: Sensex, Nifty end lower amid volatility; power, metal stock shine - Moneycontrol",0.4999423027038574
-BAJAJFINSV,2021-07-13,"Closing Bell: Sensex, Nifty end almost a percent higher; mid, smallcaps underperform - Moneycontrol",0.8733511567115784
-BAJAJFINSV,2021-12-27,"Closing Bell: Sensex, Nifty end higher amid volatility; IT, pharma outshine - Moneycontrol",0.8920377492904663
-BAJAJFINSV,2021-12-22,"Closing Bell: Nifty ends above 16,900, Sensex up 611 points led by gains in auto, metal, banks - Moneycontrol",0.9350609183311462
-BAJAJFINSV,2022-02-23,"Closing Bell: Indices end volatile day in the red, Nifty holds 17,000; auto, capital goods top losers - Moneycontrol",-0.6581229567527771
-BAJAJFINSV,2021-03-23,"Closing Bell: Sensex rises 280 points, Nifty settles above 14,800; bank, cement stocks hog the limelight - Moneycontrol",0.8372170329093933
-BAJAJFINSV,2022-02-21,Closing Bell: Market ends lower amid volatility; except bank all other sectoral indices in the red - Moneycontrol,-0.9560548663139343
-BAJAJFINSV,2020-12-31,"Closing Bell: Sensex, Nifty end flat; mid, smallcaps outperform - Moneycontrol",0.4830687642097473
-BAJAJFINSV,2020-07-18,"Top Gainers - F&O Market, All Futures & Options, Index Futures, Index Options, Stock Futures, Stock Options - Moneycontrol",-0.9313272833824158
+BAJAJFINSV,2025-01-30,"Bajaj Finserv Q3 results: Net profit rises 3% to Rs 2,231 crore - Moneycontrol.com",0.9331991076469421
+BAJAJFINSV,2018-05-10,"Indian Stock/Share Market: Sensex, Nifty, Stock/Share Prices, Share Market Live, Stock/Share Recommendations, Hot Stocks, Stock Market Investing, BSE, NSE, Derivatives, Best Stocks to Buy, Penny Stocks India - Moneycontrol.com",-0.943528413772583
+BAJAJFINSV,2018-05-02,"F&O Market Snapshot: Future and Options NSE, BSE, F&O margin, F&O quotes - Moneycontrol - Moneycontrol.com",-0.9391407370567322
+BAJAJFINSV,2011-06-01,"Bajaj Finserv Registered Address Contact Details, Bajaj Finserv Management - Moneycontrol.com",-0.9511790871620178
+BAJAJFINSV,2024-11-12,Bajaj Finserv - Moneycontrol.com,-0.9467165470123291
+BAJAJFINSV,2018-06-03,"Bajaj Finserv Cash Flow, Bajaj Finserv Financial Statement & Accounts - Moneycontrol.com",-0.9441539645195007
+BAJAJFINSV,2022-09-26,Trade setup for today: Top 15 things to know before the opening bell - Moneycontrol.com,-0.9378705024719238
+BAJAJFINSV,2025-03-19,Bajaj Finance’s Rajeev Jain likely to be elevated to Bajaj Finserv’s board - Moneycontrol.com,-0.9266186356544495
+BAJAJFINSV,2018-01-13,"Highest Open Interest, Highest Open Interest In All Futures For All Expires - Moneycontrol.com",-0.9388270974159241
+BAJAJFINSV,2022-03-31,Trade setup for today: Top 15 things to know before the opening bell - Moneycontrol.com,-0.9378705024719238
+BAJAJFINSV,2018-01-28,"Index Wise Open Interest & Volume, F&O Index Wise Open Interest , Arbitrage in Near Month Open Int % wise - Moneycontrol.com",-0.9465937614440918
+BAJAJFINSV,2025-04-27,Check these top 4 stocks turning bullish on charts - Moneycontrol.com,-0.8816779851913452
+BAJAJFINSV,2018-01-13,"Bajaj Finance Balance Sheet, Bajaj Finance Financial Statement & Accounts - Moneycontrol.com",-0.9452753663063049
+BAJAJFINSV,2023-07-14,Bajaj Finserv Flexi Cap Fund Regular Growth - Moneycontrol.com,-0.9473134279251099
+BAJAJFINSV,2024-07-22,"Bajaj Finance Q1 preview: NII, profit to grow in double-digits YoY led by strong loan growth - Moneycontrol.com",0.9520936012268066
+BAJAJFINSV,2018-06-11,Active Puts - Moneycontrol.com,-0.9390040040016174
+BAJAJFINSV,2018-05-29,"Increase in Open Interest, Decrease in Price, Increase in Open Interest & Decrease in Price In All Futures For All Expiries - Moneycontrol.com",-0.7928507924079895
+BAJAJFINSV,2018-02-26,"Bajaj Finserv | Latest & Breaking News on Bajaj Finserv | Photos, Videos, Breaking Stories and Articles on Bajaj Finserv - Moneycontrol.com",-0.9325153827667236
+BAJAJFINSV,2012-04-21,Lowest Open Interest in all Futures for all Expires - Moneycontrol.com,-0.8598935604095459
+BAJAJFINSV,2018-07-20,Nifty flirts with 11K but over 270 stocks on the NSE hit a fresh 52-week low - Moneycontrol.com,-0.826370358467102
+BAJAJFINSV,2025-04-30,Bajaj Finserv shares slide 6% after Q4 results fail to impress investors - The Economic Times,-0.9602157473564148
+BAJAJFINSV,2025-07-25,"Bajaj Finserv Q1 Results: Cons profit jumps 30% YoY to Rs 2,789 crore; revenue up 13% - The Economic Times",0.9472470879554749
+BAJAJFINSV,2025-09-13,"F&O Talk| Nifty closes at 8-week high, bulls to now eye 25,500–25,700 levels: Sudeep Shah - The Economic Times",-0.8611113429069519
+BAJAJFINSV,2025-06-06,"Promoters likely sell Rs 5,500 cr stake in Bajaj Finserv block deal - The Economic Times",-0.9374539852142334
+BAJAJFINSV,2018-09-15,"Bajaj Finserv Consolidated Balance Sheet, Bajaj Finserv Financial Statement & Accounts - Moneycontrol.com",-0.9456996917724609
