@@ -1,51 +1,51 @@
 ticker,date,headline,sentiment_score
-VBL,2017-05-17,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",-0.9387364387512207
-VBL,2026-03-08,"Varun Beverages Consolidated Key Financial Ratios, Varun Beverages Financial Statement & Accounts - Moneycontrol.com",-0.9414036870002747
-VBL,2011-04-18,Cummins India Ltd. - Moneycontrol.com,-0.9472764134407043
-VBL,2025-02-25,Varun Beverages extends deadline for acquisition of Ghana-based SBC Beverages to March 31 - The Economic Times,-0.9163268804550171
+VBL,2026-03-09,"Indian soft drinks industry well-positioned for healthy recovery, non-fizz drinks gain traction: VBL - The Economic Times",0.8650344014167786
+VBL,2026-03-10,Indian edible oil buyers move to secure prompt shipments as prices surge - The Economic Times,-0.5746667981147766
+VBL,2026-03-11,Delhi High Court rejects Parle Products' appeal in Avon Agro case - The Economic Times,-0.6696635484695435
+VBL,2026-03-11,Toing: Mumbai gets a new food delivery app - The Economic Times,0.7534605860710144
+VBL,2026-03-12,"FSSAI directs independent milk producers, vendors to obtain mandatory registration - The Economic Times",-0.929591715335846
+VBL,2026-03-11,Iran war threatens kitchens and sales of Indian QSR giants from McDonald’s to KFC - The Economic Times,-0.7514970302581787
+VBL,2026-03-12,"Packaged food makers explore use of electrical equipment, bio-fuels to tackle LPG supply crunch - The Economic Times",-0.8184648156166077
+VBL,2026-03-12,India's Feb palm oil imports jump 11% to six-month high on price discount - The Economic Times,0.9139698147773743
+VBL,2026-03-13,West Asia war: Britannia says operations unaffected despite gas supply fears - The Economic Times,0.7526605725288391
+VBL,2026-03-13,"FSSAI licences, registrations to have perpetual validity; no renewals needed - The Economic Times",-0.9442747235298157
+VBL,2026-03-13,Packaged food companies slash production amid LPG crunch - The Economic Times,-0.9508712291717529
+VBL,2026-03-10,"Emami expands Healthy & Tasty folio, targets ₹2,000 crore from HoReCa & foodservices - The Economic Times",0.6780000329017639
+VBL,2026-03-09,Dixon gets govt nod for JV with China’s HKC Overseas - The Economic Times,-0.6537501215934753
+VBL,2026-03-09,"Israel-Iran-US war: Goldman Sachs, other Wall Street banks Offer UAE staff option to relocate temporarily - The Economic Times",-0.7633605003356934
+VBL,2026-03-09,Shooting near Rihanna’s home: Who is the alleged suspect Ivanna Ortiz and what police say so far - The Economic Times,-0.8570305109024048
+VBL,2026-03-09,"$1,500 payment plus $500 monthly: How the new NEST Program could work and the date when Americans will rec - The Economic Times",-0.9357302188873291
+VBL,2026-03-09,Word of the Day: Smaragdine - The Economic Times,-0.900702714920044
+VBL,2026-03-09,Zoff Foods raises $2 million from JM Financial PE - The Economic Times,0.5168209671974182
+VBL,2026-03-09,India's inbound student numbers likely to rise 8% per year: QS report - The Economic Times,0.7925529479980469
+VBL,2026-03-09,Quote of the day by Plato: 'Only the dead have seen the end of war' - The Economic Times,-0.8927645683288574
+VBL,2026-03-09,"UAE, Qatar, Saudi Arabia flights March 9: Check updated schedules, rebooking steps and refund eligibility - The Economic Times",-0.9257799386978149
+VBL,2026-03-09,How US-Israeli war on Iran is upending global business - The Economic Times,-0.4841454327106476
+VBL,2026-03-09,ideaForge launches specialised drone flight-test training programme for NATO personnel in US - The Economic Times,0.5224536061286926
+VBL,2026-03-09,This common Social Security mistake can shrink monthly benefits by $622 - The Economic Times,-0.9549461603164673
+VBL,2026-03-09,Water emerges as a dangerous new war target - The Economic Times,-0.554815411567688
+VBL,2026-03-09,"Iran war puts at risk key pipelines, terminals and refineries that supply the world with oil and gas - The Economic Times",-0.6517998576164246
+VBL,2026-03-09,"WBJEE 2026 registration starts tomorrow at wbjeeb.nic.in; check exam date, steps to apply and other key de - The Economic Times",-0.9540210366249084
+VBL,2026-03-09,Word of the Day: Tatterdemalion - The Economic Times,-0.913572371006012
+VBL,2026-03-09,Tax season guide: The truth behind Social Security tax change claims - The Economic Times,-0.9117589592933655
+VBL,2026-03-09,US Primary elections tomorrow: See the states holding key votes and why they matter - The Economic Times,-0.9369425773620605
+VBL,2021-03-19,Easy Trip Planners Ltd. - Moneycontrol.com,-0.9483786225318909
+VBL,2025-02-11,Varun Beverages shares crack over 6% after Q3 results. What analysts say? - The Economic Times,-0.6565864682197571
+VBL,2024-05-14,"Varun Beverages shares surge over 5% post Q1 results. Should you buy, sell or hold? - The Economic Times",-0.9256552457809448
 VBL,2025-12-22,VBL IN Equity 21Dec25 - images.moneycontrol.com,-0.9471939206123352
+VBL,2025-02-25,Varun Beverages extends deadline for acquisition of Ghana-based SBC Beverages to March 31 - The Economic Times,-0.9163268804550171
+VBL,2025-03-09,"PepsiCo to double India revenue in 5 yrs, invest in capacity building in key market - The Economic Times",0.9050561785697937
 VBL,2025-12-22,"Varun Beverages to acquire South African beverage firm Twizza at enterprise value of Rs 1,118.7 crore - The Economic Times",-0.9001423120498657
+VBL,2025-10-29,Varun Beverages inks distribution pact with Carlsberg for African markets - The Economic Times,-0.5677146911621094
 VBL,2025-01-02,Varun Beverages to invest Rs 412 cr in South African subsidiary - The Economic Times,-0.8662260174751282
 VBL,2025-09-04,Varun Beverages Ltd forms JV with Everest International to make refrigerators - The Economic Times,-0.8614675998687744
-VBL,2025-10-29,Varun Beverages inks distribution pact with Carlsberg for African markets - The Economic Times,-0.5677146911621094
 VBL,2025-11-03,Varun Beverages in talks with partner PepsiCo for its foray into hard drinks - The Economic Times,0.6292415857315063
-VBL,2025-11-01,"Morgan Stanley adds RIL, Varun Beverages to its focus list. Here’s why these 2 largecaps made the cut - The Economic Times",-0.9119884967803955
-VBL,2025-10-29,"Varun Beverages joins hands with Carlsberg for African beer market, announces new refrigeration venture in - The Economic Times",0.6275550127029419
-VBL,2025-03-09,"PepsiCo to double India revenue in 5 yrs, invest in capacity building in key market - The Economic Times",0.9050561785697937
 VBL,2019-04-19,India's per-capita soft drink consumption to be almost double to 84 bottles a year by 2021: VBL - The Economic Times,-0.6939423680305481
-VBL,2024-04-23,"RJ Corp's succession plan finalised; Ravi Jaipuria's son gets food & beverages business, daughter gets hea - The Economic Times",-0.9049890041351318
+VBL,2025-10-29,"Varun Beverages joins hands with Carlsberg for African beer market, announces new refrigeration venture in - The Economic Times",0.6275550127029419
 VBL,2024-03-27,Varun Beverages completes acquisition of South African bottler BevCo - The Economic Times,-0.7821500897407532
-VBL,2019-03-25,Varun Beverages gets CCI nod to acquire PepsiCo's franchise rights - The Economic Times,0.56468266248703
+VBL,2024-10-22,Is it still summer for a cola war? What Varun Beverages said on Ambani's Campa as competition - The Economic Times,-0.9203258156776428
+VBL,2024-04-23,"RJ Corp's succession plan finalised; Ravi Jaipuria's son gets food & beverages business, daughter gets hea - The Economic Times",-0.9049890041351318
 VBL,2025-09-12,From fizz to fault lines: The Varun Beverages journey - The Economic Times,-0.8838901519775391
 VBL,2025-05-01,VBL IN Equity 01May25 - images.moneycontrol.com,-0.9453416466712952
-VBL,2026-02-03,Varun Beverages Q3 net profit rises 33% to Rs 260 crore - Moneycontrol.com,0.8938695192337036
-VBL,2025-07-30,India’s thirst for ‘no added sugar’ increases; Varun Beverages notes significant shift in consumption habi - The Economic Times,0.8888595104217529
-VBL,2024-12-11,"Bhartia family set to acquire 40% stake in Coca-Cola’s bottling arm HCCB for Rs 12,500 crore - The Economic Times",-0.887173056602478
-VBL,2023-12-19,Varun Beverages to acquire PepsiCo's South Africa bottler Bevco - The Economic Times,-0.8924282789230347
-VBL,2024-09-28,The coming cola war: Can Reliance's Campa compete with Coca-Cola and PepsiCo? - The Economic Times,-0.8424205183982849
-VBL,2025-03-17,"JM Financial sees 38% upside in Varun Beverages, says correction overdone, reaffirms Buy rating - The Economic Times",0.8854948282241821
-VBL,2014-11-19,PepsiCo India divests 4 plants in North India to RJ Corp - The Economic Times,-0.9245724678039551
-VBL,2024-09-12,Varun Beverages 2:5 stock split record date tomorrow; last day to buy for eligibility - The Economic Times,-0.9154734015464783
-VBL,2025-12-22,Buy Varun Beverages; target of Rs 615: Emkay Global Financial - Moneycontrol.com,-0.9384204745292664
 VBL,2024-11-16,"Varun Beverages | Board Meetings > Food Processing > Board Meetings of Varun Beverages - BSE: 540180, NSE: VBL - Moneycontrol.com",-0.9442420601844788
-VBL,2025-10-30,Buy Varun Beverages; target of Rs 580: Motilal Oswal - Moneycontrol.com,-0.936635434627533
-VBL,2024-06-18,Coca-Cola offers a $1-billion swig to India Inc families - The Economic Times,-0.6371676921844482
-VBL,2025-02-13,Buy Varun Beverages; target of Rs 680: Motilal Oswal - Moneycontrol.com,-0.9333059191703796
-VBL,2025-05-01,Buy Varun Beverages; target of Rs 665: Motilal Oswal - Moneycontrol.com,-0.9383613467216492
-VBL,2025-07-30,Buy Varun Beverages; target of Rs 620: Motilal Oswal - Moneycontrol.com,-0.9383919835090637
-VBL,2024-11-14,"Varun Beverages | Dividends > Food Processing > Dividends declared by Varun Beverages - BSE: 540180, NSE: VBL - Moneycontrol.com",-0.9285220503807068
-VBL,2025-03-18,Buy Varun Beverages; target of Rs 625: Asit C Mehta - Moneycontrol.com,-0.9394143223762512
-VBL,2025-08-05,Varun Beverages Ltd. Result Update Q2CY25 - images.moneycontrol.com,-0.9491114020347595
-VBL,2024-11-13,Varun Beverages shares in focus on acquiring two firms in Africa to expand manufacturing - Moneycontrol.com,-0.5856927037239075
-VBL,2026-01-12,‘Camouflaged’ disclosure is ‘no disclosure at all’ rules SAT in Varun Beverages case of... - Moneycontrol.com,-0.9214941263198853
-VBL,2024-08-21,Varun Beverages gains as BoFA gives buy rating; analysts see 23% upside - Moneycontrol.com,0.740606963634491
-VBL,2024-10-09,"Varun Beverages board approves raising up to Rs 7,500 crore via QIP - Moneycontrol.com",-0.573598325252533
-VBL,2021-01-21,"Varun Beverages > Listing Details > Food Processing > Listing Details of Varun Beverages - BSE: 540180, NSE: VBL - Moneycontrol.com",-0.9504960775375366
-VBL,2025-03-25,Buy Varun Beverages; target of Rs 680: Motilal Oswal - Moneycontrol.com,-0.9333059191703796
-VBL,2025-07-31,Hold Varun Beverages; target of Rs 500: ICICI Securities - Moneycontrol.com,-0.9512200355529785
-VBL,2024-04-13,Varun Beverages starts commercial production of carbonated drinks at Gorakhpur facility - The Economic Times,-0.8788249492645264
-VBL,2019-01-14,Varun Beverages Ltd may drink up PepsiCo's bottling operations - The Economic Times,-0.7322530746459961
-VBL,2025-03-18,Varun Beverages shares extend gains by 5% on bullish views as street hopes of strong summer demand - Moneycontrol.com,0.9143942594528198
-VBL,2025-11-03,Why Pepsi could be seeking a 'high' in India - The Economic Times,-0.8709660172462463
-VBL,2019-02-18,PepsiCo divests West and South bottling franchise to Varun Beverages - The Economic Times,-0.9343845248222351
-VBL,2024-07-16,"Varun Beverages Ltd to set up units for PepsiCo snacks in Zimbabwe, Zambia - The Economic Times",-0.8241178393363953
+VBL,2026-02-03,Varun Beverages Q3 net profit rises 33% to Rs 260 crore - Moneycontrol.com,0.8938695192337036
