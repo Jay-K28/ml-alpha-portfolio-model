@@ -1,51 +1,99 @@
 ticker,date,headline,sentiment_score
-TITAN,2026-03-11,"QSR chain Boba Bhai raises $4.3 million from 8i Ventures, Titan Capital Winners Fund, Global Growth Capita - The Economic Times",0.5282186269760132
-TITAN,2024-04-26,Titan Company Stocks Live Updates: Titan Company Closes at Rs 3571.1 with Stable Performance and High Tra - The Economic Times,0.860724151134491
-TITAN,2026-03-13,"Stocks to buy in 2026 for long term: Mrs Bectors Food, Titan among 5 stocks that could give 10-40% return - The Economic Times",-0.7536928057670593
-TITAN,2026-03-07,NASA’s Dragonfly Will Land on Titan… Then Do Something No Spacecraft Has Done Before - The Economic Times,-0.9190858006477356
-TITAN,2024-04-19,Titan Company Share Price Live Updates: Titan Company Closes at Rs 3525.1 with Strong Trading Volume - The Economic Times,0.7190254330635071
-TITAN,2024-05-03,Breakouts Updates: Titan Company Faces Bearish Trend as Prices Plummet Below S2 Support Level - The Economic Times,-0.9481217861175537
-TITAN,2024-03-13,Price Updates: Titan Company's Share Price Drops Over 2% as Percentage Change Stands at -2.00% - The Economic Times,-0.9633926153182983
-TITAN,2024-04-29,Titan Company Share Price Live Updates: Titan Company Sees Marginal Decline in Stock Price with Low Marke - The Economic Times,-0.8820433616638184
-TITAN,2024-02-20,"Titan Company Share Price Today Live Updates: Titan Company Sees a 0.56% Decrease in Price Today, SMA7 at - The Economic Times",-0.9055794477462769
-TITAN,2026-03-11,Gujarat Titans IPL 2026 Schedule: GT set for four matches in opening phase; start with PBKS clash - The Economic Times,-0.9336553812026978
-TITAN,2024-04-29,Titan Company Share Price Live Updates: Titan Company Closes at Rs 3584.80 with 6-Month Beta of 0.746 - The Economic Times,-0.6287958025932312
-TITAN,2024-05-16,Titan Company Share Price Today Live Updates: Titan Company Dividend Updates - The Economic Times,-0.9370949864387512
-TITAN,2023-12-26,"Titan Company Share Price Live Updates: Titan Company Closes at Rs 3,627.35 with 6-Month Beta of 0.746 - The Economic Times",-0.5964688062667847
-TITAN,2024-04-26,"Titan Company Stocks Live Updates: Titan Company Closes at Rs 3571.1 with -4.26% 3-Month Return, Demonstr - The Economic Times",0.4190526306629181
-TITAN,2024-01-05,Titan Company Share Price Today Live Updates: Titan Company Sees a Slight Dip in Price with -0.52% Change - The Economic Times,-0.7987954020500183
-TITAN,2026-03-10,Titan Company - Top 10 high growth large-cap stocks: Profit surges over 50% YoY in Q3FY26 - The Economic Times,0.9070447087287903
-TITAN,2024-03-22,"Moving Averages Updates: Titan Company's Stock Price Surges Above 20-day SMA, Reaching Rs 3680.05 - The Economic Times",0.916623592376709
-TITAN,2024-04-18,Titan Company Share Price Live Updates: Titan Company Sees Marginal Decline in Stock Price with EMA Showi - The Economic Times,-0.9163093566894531
-TITAN,2024-04-30,"Titan Company Share Price Live Updates: Titan Company Sees Slight Price Increase, Registers 0.38% 1-Day R - The Economic Times",0.7704226970672607
-TITAN,2024-04-15,"Titan Company Share Price Today Live Updates: Titan Company Sees Minor Decline in Stock Price, Weekly Ret - The Economic Times",-0.9286739826202393
-TITAN,2023-12-27,Titan Company Share Price Today Live Updates: Titan Company Closes at Rs 3656.7 with 1-Week Return of 1.2 - The Economic Times,-0.8163618445396423
-TITAN,2024-04-29,Titan Company Share Price Live Updates: Titan Company Sees Slight Price Increase Today Despite Recent Dec - The Economic Times,0.9473392963409424
-TITAN,2024-02-28,"Moving Averages Updates: Titan Company's Stock Price Drops Below 20-day EMA, Currently at Rs 3646.6 - The Economic Times",-0.9641886353492737
-TITAN,2026-03-09,NASA Is Sending a Flying Robot to Another World: Here’s Why Wheels Are No Longer Enough - The Economic Times,-0.9051393866539001
-TITAN,2024-01-02,"Titan Company Share Price Live Updates: Titan Company Closes at Rs 3,677.15 with Slight Gain, Trading Vol - The Economic Times",0.7828809022903442
-TITAN,2024-04-10,Titan Company Share Price Live Updates: Titan Company Records Weekly Return of -2.04% as Stock Closes at - The Economic Times,0.49471771717071533
-TITAN,2023-12-29,"Titan Company Share Price Live Updates: Titan Company Stock Price Drops by 1.13% Today, 3-Month Returns a - The Economic Times",-0.9627482891082764
-TITAN,2024-04-25,Breakouts Updates: Titan Company Sees Bearish Price Breakout Below S2 Support Level - The Economic Times,-0.8435019254684448
-TITAN,2024-03-01,"Titan Company Stocks Live Updates: Titan Company Sees 2.73% Increase in Price Today, 6-Month Returns at 1 - The Economic Times",0.9092687368392944
-TITAN,2024-04-10,Titan Company Share Price Live Updates: Titan Company Closes at Rs 3679.35 with 1.86% Decline in Previous - The Economic Times,-0.9096465110778809
-TITAN,2024-04-23,Titan Company Stocks Live Updates: Titan Company Sees Positive Momentum with Current Price at Rs 3631.75 - The Economic Times,0.9323049783706665
-TITAN,2024-04-10,Titan Company Share Price Live Updates: Titan Company Shows Resilience with 0.72% Price Increase and 43.3 - The Economic Times,0.9493804574012756
-TITAN,2024-04-22,Titan Company Stocks Live Updates: Titan Company Sees Slight Price Uptick Amid Lower Volatility Trend - The Economic Times,0.7477874159812927
-TITAN,2024-04-16,"Titan Company Share Price Live Updates: Titan Company Sees 1.18% Price Increase, 0.87% One-Day Returns - The Economic Times",0.8969489336013794
-TITAN,2024-02-23,Titan Company Stocks Live Updates: Titan Company News - The Economic Times,-0.935631275177002
-TITAN,2024-02-29,"Titan Company Share Price Today Live Updates: Titan Company Sees a 0.69% Increase in Price Today, with an - The Economic Times",0.9447283744812012
-TITAN,2024-04-25,"Titan Company Share Price Today Live Updates: Titan Company Sees Minor Decline in Stock Price, Trading Vo - The Economic Times",-0.9383717179298401
-TITAN,2024-04-10,Titan Company Share Price Live Updates: Titan Company Closes at Rs 3679.35 with -0.94% 3-Month Return - The Economic Times,-0.60504150390625
-TITAN,2024-04-05,Titan Company Stocks Live Updates: Titan Company Closes at Rs 3712.5 with Robust Trading Volume Exceeding - The Economic Times,0.8298791646957397
-TITAN,2024-05-06,Titan Company Share Price Live Updates: Titan Company Records Decrease in Stock Price with -3.07% One-Mon - The Economic Times,-0.9651634097099304
-TITAN,2020-07-12,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",-0.9387364387512207
-TITAN,2026-03-09,Reliance Retail Limited acquires beauty and wellness brand 'Pahadi Local' - The Economic Times,-0.6701327562332153
-TITAN,2026-03-09,"Realme unveils NARZO Power 5G with a first-ever comic strip reveal; check features, price and more - The Economic Times",-0.8976910710334778
-TITAN,2026-03-09,"Gold, silver fall as strong dollar dampens rate cut hopes - The Economic Times",-0.6831502914428711
-TITAN,2026-03-09,"2026 Hyundai Verna launched at Rs 10.98 lakh: Check variant-wise prices, images, features and full details - The Economic Times",-0.9470648765563965
-TITAN,2024-02-05,"Titan Company Share Price Live Updates: Titan Company Sees a 0.46% Decrease in Price Today, with Average - The Economic Times",-0.9144713282585144
-TITAN,2026-03-13,"ETtech Deals Digest: Startups raise $139 million this week, down 59% on-year - The Economic Times",-0.9735959768295288
-TITAN,2026-03-12,Accel set to lead $12 million round in AI fintech Oolka - The Economic Times,-0.8224412798881531
-TITAN,2026-03-11,Quince raises $500 million at $10.1 billion valuation - The Economic Times,-0.73932945728302
-TITAN,2026-03-12,Code-gen startup Cursor in talks for $50 billion valuation: Bloomberg - The Economic Times,-0.910734236240387
+TITAN,2023-12-11,Titan Company Share Price Today Live Updates: Titan Company Sees a 0.54% Decrease in Current Price with - - The Economic Times,-0.4975970685482025
+TITAN,2024-01-02,"Titan Company Share Price Live Updates: Titan Company Sees Slight Increase in Current Price, SMA7 at Rs 3 - The Economic Times",0.929429829120636
+TITAN,2023-12-26,"Titan Company Share Price Live Updates: Titan Company Closes at Rs 3,627.35 with 10.46% 3-Month Return - The Economic Times",-0.7531365156173706
+TITAN,2026-03-18,Russian Oil Bound for China Is Diverted as India Grabs More - Bloomberg.com,-0.6492842435836792
+TITAN,2026-03-16,"""Attack on Titan"" x Nijigen no Mori Collaboration Event Opens on Awaji Island, Japan, March 14-Dec 13, 2026 - Business Standard",-0.926696240901947
+TITAN,2023-12-12,"Breakouts Updates: Titan Company's Stock Price Breaks Support Level, Trading Below S2 at 3577.1 Rs - The Economic Times",-0.9250878691673279
+TITAN,2024-01-10,"Titan Company Stocks Live Updates: Titan Company Sees 0.16% Increase Today, 3-Year Returns at 138.87% - The Economic Times",0.8092113733291626
+TITAN,2026-03-19,Jensen Huang touts Nvidia's dominance at AI conference - Reuters,-0.8623930215835571
+TITAN,2026-03-19,Seven China-bound oil tankers now headed for India - ET Infra,-0.803885817527771
+TITAN,2026-03-20,JPMorgan Strategists Cut S&P 500 Target on Iran War Uncertainty - Bloomberg.com,-0.8000428676605225
+TITAN,2026-03-21,"Iranian Navy Guided Indian Tanker Through Hormuz, Crew Member Says - Bloomberg.com",-0.9055957794189453
+TITAN,2026-03-20,"Wall Street Angst Mounts as Oil Shock, Fed Freeze Roil Markets - Bloomberg.com",-0.4791733920574188
+TITAN,2026-03-20,Traders Fully Price Three Quarter-Point ECB Rate Hikes This Year - Bloomberg.com,-0.8969513177871704
+TITAN,2026-03-19,US Will Fast-Track $16.5 Billion in Weapons to Mideast Allies - Bloomberg.com,-0.8537395000457764
+TITAN,2026-03-21,First US Oil Barrels From Emergency Release to Hit Market - Bloomberg.com,-0.9237398505210876
+TITAN,2026-03-20,Shock Resignation of India Bank Chief Baffles Global Investors - Bloomberg.com,-0.5883485674858093
+TITAN,2026-03-19,Philippine Wealth Fund Likes Physical Assets as Iran War Rages - Bloomberg.com,-0.9290684461593628
+TITAN,2026-03-20,China Pulls Silver From Global Markets to Meet Surging Demand - Bloomberg.com,-0.6373172402381897
+TITAN,2026-03-19,Jes Staley’s Wife Files for Divorce After Epstein Fallout - Bloomberg.com,-0.6920409798622131
+TITAN,2026-03-20,Peter Thiel’s Founders Fund Backs AI Cow Collar Startup at $2 Billion Valuation - Bloomberg.com,-0.8815582990646362
+TITAN,2026-03-21,Sam Altman Sister’s Abuse Claims Against Him Dismissed for Now - Bloomberg.com,-0.8646072745323181
+TITAN,2026-03-20,Key UK Yield Hits Highest Level Since 2008 as Oil Prices Climb - Bloomberg.com,0.5167468786239624
+TITAN,2026-03-20,Markets Raise Bets on Bank of Canada Hikes as Oil Fears Mount - Bloomberg.com,-0.7045732140541077
+TITAN,2026-03-21,"Palantir AI System Wins Key Pentagon Status, Reuters Reports - Bloomberg.com",-0.7004492282867432
+TITAN,2026-03-20,SoftBank Plans Giant Ohio AI Data Center Powered by Gas Plants - Bloomberg.com,-0.9442933201789856
+TITAN,2026-03-20,ECB Tells Banks to Identify Leverage Providers on SRT Deals - Bloomberg.com,-0.9470502138137817
+TITAN,2026-03-19,India Sends Warships Near Gulf of Oman to Escort Fuel Ships - Bloomberg.com,-0.9199281930923462
+TITAN,2026-03-20,French Finance Gets a $2 Trillion Investor Warning Over Europe’s Waning Appeal - Bloomberg.com,-0.774192214012146
+TITAN,2026-03-17,Oaktree’s Howard Marks Says Investors Are Underestimating AI - Bloomberg.com,-0.8529115915298462
+TITAN,2026-03-18,Samsung Weighs Multi-Year Deals to Ease Memory Chip Crunch Fears - Bloomberg.com,-0.8262025713920593
+TITAN,2026-03-21,China Commerce Minister Hopes Lilly Will Deepen China Commitment - Bloomberg.com,-0.6969317197799683
+TITAN,2026-03-20,"Meta, Alphabet Join Credit-Risk Index as AI Hedging Demand Soars - Bloomberg.com",-0.9086754322052002
+TITAN,2026-03-20,Iran’s Government Seen as Tightening Grip Despite Strikes - Bloomberg.com,-0.8524011969566345
+TITAN,2026-03-20,Fear Gauge Shows India Stock Strain as Iran Shock Eases in Asia - Bloomberg.com,-0.741334080696106
+TITAN,2026-03-20,"US Stock Futures Drop as Traders Eye Longer War, Options Expiry - Bloomberg.com",-0.8852198719978333
+TITAN,2026-03-20,Traders Turn Positive on US Dollar for First Time This Year - Bloomberg.com,-0.7460654973983765
+TITAN,2026-03-20,Markets Are Underpricing This Commodity Shock - Bloomberg.com,-0.7980135083198547
+TITAN,2026-03-20,Swiss Ban Arms Exports to US During Iran War Over Neutrality - Bloomberg.com,-0.6663129925727844
+TITAN,2026-03-20,Dallas Fed Sees Hit to Global GDP if Strait of Hormuz Stays Shut - Bloomberg.com,-0.5116398334503174
+TITAN,2026-03-20,Savvy Agrees to Buy ByteDance Game Studio Moonton for $6 Billion - Bloomberg.com,-0.9148955941200256
+TITAN,2026-03-19,"Bezos Seeks $100 Billion to Use AI in Manufacturing, WSJ Says - Bloomberg.com",-0.8094581365585327
+TITAN,2026-03-19,Lilly’s Experimental Diabetes Shot Yields Record Weight Loss in Study - Bloomberg.com,-0.8476252555847168
+TITAN,2026-03-20,Russia Poised for Measured Rate Cut as Risks Cloud Outlook - Bloomberg.com,-0.6807782649993896
+TITAN,2026-03-20,British Airway Parent Leans Toward Dropping TAP Air Portugal Pursuit - Bloomberg.com,-0.9337000846862793
+TITAN,2026-03-20,Economists Pivot to See ECB Hikes While Diverging on First Move - Bloomberg.com,-0.8610448241233826
+TITAN,2026-03-20,Asian LNG Buyers Monitor Tense Market on Lengthy Qatar Outage - Bloomberg.com,-0.6505622267723083
+TITAN,2026-03-20,"South Africa Imposes Anti-Dumping Duties on Chinese, Thai Steel - Bloomberg.com",-0.6743041276931763
+TITAN,2026-03-20,Iran War: Oil Refiners Pay Huge Premiums to Replace Middle East Crude - Bloomberg.com,-0.8810395002365112
+TITAN,2026-03-20,China Starts Year With Fastest Increase in Spending Since 2022 - Bloomberg.com,0.6137647032737732
+TITAN,2026-03-20,Nvidia CEO Finds It Harder to Wow His Audience - Bloomberg.com,-0.8896657824516296
+TITAN,2026-03-20,Xiaomi Shares Fall on Concern Refreshed EV Will Hurt Margins - Bloomberg.com,-0.9556527733802795
+TITAN,2026-03-19,"If War Cracks Budgets, Watch Indonesia First - Bloomberg.com",-0.9198307394981384
+TITAN,2026-03-19,Copper Gives Up 2026 Gains as Iran War Roils Metals Markets - Bloomberg.com,-0.7916436791419983
+TITAN,2026-03-19,Saudi Aramco Briefly Halts Crude Loadings at Yanbu After Strike - Bloomberg.com,-0.7504298686981201
+TITAN,2026-03-17,"Fed Expected to Hold Rates, Weigh Oil Shock - Bloomberg.com",-0.8950363397598267
+TITAN,2026-03-17,Nvidia CEO Says Company Is Firing Up H200 Production for China - Bloomberg.com,-0.7056495547294617
+TITAN,2024-02-06,"Titan Company Share Price Live Updates: Titan Company Sees Slight Dip in Price, EMA3 at 3575.69 - The Economic Times",-0.955223798751831
+TITAN,2024-04-04,Titan Company Share Price Today Live Updates: Titan Company Sees Minor Decline in Price with EMA7 Slightl - The Economic Times,-0.9472957849502563
+TITAN,2026-03-18,What to Know About the UK Meningitis Outbreak - Bloomberg.com,-0.9116256833076477
+TITAN,2026-03-20,Polymarket’s Latest Pop-Up Is a Sports Bar for Watching the News - Bloomberg.com,-0.9476141333580017
+TITAN,2026-03-17,Lilly Gets Lone Sell From HSBC Ahead of Deeper Weight Loss Drug Price Cuts - Bloomberg.com,-0.6451578140258789
+TITAN,2026-03-20,IFQM'S First MSME Symposium Calls For A 'National Quality Sprint' To Integrate With Global Value Chains - Business Standard,-0.6977410316467285
+TITAN,2026-03-20,Have All Sides in the Iran War Just Blinked? - Bloomberg.com,-0.9049619436264038
+TITAN,2026-03-16,"Gas shortage: Why Nomura sees 'negligible impact' on HUL, ITC, Dabur? - Business Standard",-0.874146044254303
+TITAN,2026-03-18,Russian oil bound for China diverted to India amid demand surge - Business Standard,-0.8987082839012146
+TITAN,2026-03-18,Govt offers additional 10% commercial LPG to states backing PNG transition - Business Standard,0.5775056481361389
+TITAN,2026-03-22,PM Modi reviews energy supplies at CCS meet amid West Asia conflict - Business Standard,-0.7689078450202942
+TITAN,2026-03-18,"Firewood, 3AM Queues, Fisticuffs Show India Pain From LPG Crunch - Bloomberg.com",-0.7250753045082092
+TITAN,2026-03-17,"Vivo launches T5x 5G with 7200mAh battery, OriginOS 6 in India: Details - Business Standard",-0.9053828120231628
+TITAN,2023-11-28,"Titan Company Share Price Live Updates: Titan Company Closes at Rs 3,396.95 with a 0.34% Decrease in Prev - The Economic Times",-0.8655096888542175
+TITAN,2011-08-09,Titan Kogyo -1qtr parent results - Reuters,-0.9374991059303284
+TITAN,2021-07-06,Titan Company Ltd - Reuters,-0.9414300918579102
+TITAN,2026-01-07,Titan Company| BUY - bsmedia.business-standard.com,-0.9507997035980225
+TITAN,2014-03-15,TTAN: Titan Co Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9474915862083435
+TITAN,2025-07-07,Indian jewellery maker Titan's quarterly revenue rises on higher gold prices - Reuters,0.8855812549591064
+TITAN,2025-11-03,India's Titan beats quarterly profit forecast on high gold prices - Reuters,-0.6198470592498779
+TITAN,2026-01-06,"India's Titan logs quarterly sales surge on gold price rally, festive demand - Reuters",0.6032957434654236
+TITAN,2025-02-07,Titan America valued at nearly $3 bln as shares rise 1.25% in NYSE debut - Reuters,-0.725548267364502
+TITAN,2025-05-08,"India's Titan posts higher quarterly profit on strong demand for premium jewellery, gold coins - Reuters",0.9500653743743896
+TITAN,2017-08-06,Check out Titan Company Ltd's stock price (TITAN-IN) in real time - CNBC,-0.9455568790435791
+TITAN,2020-11-26,Titan Company25Nov20 - bsmedia.business-standard.com,-0.9503118395805359
+TITAN,2025-04-07,India's Titan shines on jewellery business revenue boost - Reuters,-0.5856046080589294
+TITAN,2019-05-28,Titan Company - bsmedia.business-standard.com,-0.9528912901878357
+TITAN,2026-03-19,Titan Company Ltd. - The Economic Times,-0.9265291690826416
+TITAN,2025-02-07,Cement producer Titan America raises $384 million in US IPO - Reuters,-0.71517014503479
+TITAN,2026-03-20,Titan Biotech Ltd. - The Economic Times,-0.9249037504196167
+TITAN,2024-07-05,Tata Group-owned Titan posts weak quarterly rev growth on weak gold demand - Reuters,-0.9696882367134094
+TITAN,2025-08-05,"Titan sub disaster was preventable, US finds in scathing report - Reuters",-0.7271968126296997
+TITAN,2026-03-20,Titan Intech Ltd. - The Economic Times,-0.93180251121521
+TITAN,2021-01-20,Check out Titan SA's stock price (TITC-GR) in real time - CNBC,-0.9468931555747986
+TITAN,2023-04-13,Amazon CEO Andy Jassy says 'really good' A.I. models take 'billions of dollars' to train - CNBC,-0.8782514929771423
+TITAN,2024-11-05,India's Titan's Q2 profit falls as gold import tax cut drives inventory losses - Reuters,-0.9616459608078003
+TITAN,2023-11-03,Titan Company03Nov23 - bsmedia.business-standard.com,-0.9499323964118958
+TITAN,2023-08-21,Fintech firm Titan to pay over $1 mln to settle US SEC charges - Reuters,-0.8060423135757446
+TITAN,2019-08-06,TITC: Titan SA Stock Price Quote - Athens - Bloomberg - Bloomberg.com,-0.9515712857246399
+TITAN,2025-04-07,India's Titan says fourth-quarter revenue grew 25% on surging gold prices - Reuters,0.9523820877075195
+TITAN,2019-05-14,TTAM: Titan America SA Stock Price Quote - New York - Bloomberg - Bloomberg.com,-0.9487291574478149
+TITAN,2026-02-10,"Indian jeweller Titan's profit jumps on higher prices, festive demand - Reuters",0.8632822036743164

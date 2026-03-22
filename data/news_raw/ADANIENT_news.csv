@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-ADANIENT,2026-03-09,"Active Infrastructur Yearly results, Financial Summary - The Economic Times",-0.9231715798377991
-ADANIENT,2011-07-31,Adani Power Ltd. - Moneycontrol.com,-0.9509094953536987
-ADANIENT,2025-09-22,"adani enterpris Forum Discussion on Market View, Business sectors,Stocks, Commodity, Personal Finance & More - Moneycontrol.com",-0.9464612603187561
-ADANIENT,2022-05-27,Adani Ent to acquire 50% stake in General Aeronautics - The Economic Times,-0.9152542352676392
-ADANIENT,2025-08-26,"Quarterly Results, Adani Enterprises Financial Statement & Accounts - Moneycontrol.com",-0.9363167881965637
-ADANIENT,2024-11-14,"Adani Enterprises | Splits > Trading > Dividends declared by Adani Enterprises - BSE: 512599, NSE: ADANIENT - Moneycontrol.com",-0.89969801902771
-ADANIENT,2025-01-16,"Adani Enterprises | Rights > Trading > Rights declared by Adani Enterprises - BSE: 512599, NSE: ADANIENT - Moneycontrol.com",-0.9529979228973389
-ADANIENT,2024-11-15,"Adani Enterprises | Dividends > Trading > Dividends declared by Adani Enterprises - BSE: 512599, NSE: ADANIENT - Moneycontrol.com",-0.9340202808380127
-ADANIENT,2011-08-01,"Adani Enterprises > Listing Details > Trading > Listing Details of Adani Enterprises - BSE: 512599, NSE: ADANIENT - Moneycontrol.com",-0.9511191248893738
-ADANIENT,2024-11-15,"Adani Enterprises | Bonus > Trading > Bonus declared by Adani Enterprises - BSE: 512599, NSE: ADANIENT - Moneycontrol.com",-0.9409174919128418
-ADANIENT,2024-11-18,"Adani Enterprises | Board Meetings > Trading > Board Meetings of Adani Enterprises - BSE: 512599, NSE: ADANIENT - Moneycontrol.com",-0.9425805807113647
-ADANIENT,2026-03-13,Adani Enterprises Ltd. - Moneycontrol.com,-0.9507490396499634
-ADANIENT,2018-05-13,"F&O Quote - Live FNO BSE/NSE Quote, Nifty Quotes, Indian Stock Market BSE/NSE Price Increase, Chart, Open Interest Analysis & more by Moneycontrol.com - Moneycontrol.com",-0.9385393857955933
-ADANIENT,2025-11-24,Adani Enterprises RE Ltd. - Moneycontrol.com,-0.9507297277450562
-ADANIENT,2019-06-21,"Market Creators Balance Sheets, Financial Statements - The Economic Times",-0.9182497262954712
-ADANIENT,2018-10-10,"Kothari Industrial Corporation Ltd. Yearly results, Financial Summary - The Economic Times",-0.9034430384635925
-ADANIENT,2011-08-01,"Adani Enterprises Registered Address Contact Details, Adani Enterprises Management - Moneycontrol.com",-0.9480852484703064
-ADANIENT,2018-10-11,"Half Yearly Results, Half yearly Earnings for Torrent Pharma - The Economic Times",-0.9129940867424011
-ADANIENT,2024-09-18,"Namo Ewaste Manageme Target Share Price, Namo Ewaste Manageme Share Price Forecast - The Economic Times",-0.9408095479011536
-ADANIENT,2018-10-12,"Sri Chakra Cement Balance Sheets, Financial Statements - The Economic Times",-0.9317097663879395
-ADANIENT,2018-10-12,"Ajooni Biotech Ltd. Cash Flow, Financial Statements - The Economic Times",-0.9222150444984436
-ADANIENT,2025-12-15,Adani Enterprises PP Ltd. - Moneycontrol.com,-0.9513067603111267
-ADANIENT,2015-06-03,"Adani Ent tanks 82%; power, port, transmission biz demerged - Moneycontrol.com",-0.9420071840286255
-ADANIENT,2026-02-24,"Half Yearly Results, Half yearly Earnings for Exim Routes - The Economic Times",-0.9181202054023743
-ADANIENT,2022-09-29,"Nifty rejig: $189 million inflow into Adani Ent, $56 million outflow from Shree Cement - Moneycontrol.com",0.6249423027038574
-ADANIENT,2018-10-13,"Alpa Labs Target Share Price, Alpa Labs Share Price Forecast - The Economic Times",-0.9368739128112793
-ADANIENT,2025-10-04,"Transvoy Logistics Cash Flow, Financial Statements - The Economic Times",-0.9277908802032471
-ADANIENT,2025-03-07,Ajax Engineering Profit and Loss Reports - The Economic Times,-0.7786017656326294
-ADANIENT,2026-02-27,"Ken Enterprises Cash Flow, Financial Statements - The Economic Times",-0.9268326759338379
-ADANIENT,2018-11-20,Mangalam Organics Profit and Loss Reports - The Economic Times,-0.8738469481468201
-ADANIENT,2025-05-22,"Chamunda Electricals Balance Sheets, Financial Statements - The Economic Times",-0.9288018941879272
-ADANIENT,2026-02-24,"Globale Tessile Balance Sheets, Financial Statements - The Economic Times",-0.9316442012786865
-ADANIENT,2026-02-24,"Half Yearly Results, Half yearly Earnings for Gallard Steel - The Economic Times",-0.9133191704750061
-ADANIENT,2025-09-20,"Miven Machine Yearly results, Financial Summary - The Economic Times",-0.9136375784873962
-ADANIENT,2021-07-04,CG-VAK Software Nine Monthly results - The Economic Times,-0.899570882320404
-ADANIENT,2018-10-13,"Havells India Cash Flow, Financial Statements - The Economic Times",-0.9086636900901794
-ADANIENT,2025-05-23,"Suryakrupa Fin Nine Monthly Results, Nine Monthly Earnings for Suryakrupa Fin - The Economic Times",-0.9199007153511047
-ADANIENT,2026-02-24,Atlanta Electricals Profit and Loss Reports - The Economic Times,-0.6722962260246277
-ADANIENT,2026-02-20,"B.R.Goyal Infrastruc Yearly results, Financial Summary - The Economic Times",-0.9200460314750671
-ADANIENT,2026-02-23,"Global Ocean Logisti Yearly results, Financial Summary - The Economic Times",-0.9243242740631104
-ADANIENT,2024-11-07,"GE T&D India Balance Sheets, Financial Statements - The Economic Times",-0.9279619455337524
-ADANIENT,2018-10-13,"G G Engineering Yearly Results, Financial summary, G G Engineering Yearly Earnings - The Economic Times",-0.9308455586433411
-ADANIENT,2026-02-24,"Half Yearly Results, Half yearly Earnings for Suba Hotels - The Economic Times",-0.9146777987480164
-ADANIENT,2025-11-27,"Allcargo Logistics Target Share Price, Allcargo Logistics Share Price Forecast - The Economic Times",-0.9377634525299072
-ADANIENT,2026-03-06,Eternal Ltd. - The Economic Times,-0.9158318638801575
-ADANIENT,2025-11-26,"Adani Enterprises stock edges up today, but slips over two days as Rs 24,930-cr rights issue opens at... - Moneycontrol.com",-0.9594908952713013
-ADANIENT,2025-06-05,"Half Yearly Results, Half yearly Earnings for Swojas Energy Foods - The Economic Times",-0.9238495230674744
-ADANIENT,2026-02-24,Deccan Transcon Leas Profit and Loss Reports - The Economic Times,-0.8692585229873657
-ADANIENT,2026-03-09,"TRC Financial Target Share Price, TRC Financial Share Price Forecast - The Economic Times",-0.9393351674079895
-ADANIENT,2026-02-24,"Snehaa Organics Yearly results, Financial Summary - The Economic Times",-0.9155498147010803
+ADANIENT,2026-03-20,Director Report - The Economic Times,-0.9034363627433777
+ADANIENT,2026-03-20,Chairman Speech - The Economic Times,-0.9260944724082947
+ADANIENT,2026-03-20,"Nine Monthly Results, Nine Monthly Earnings for - The Economic Times",-0.9184995889663696
+ADANIENT,2026-03-18,Finished Products - The Economic Times,-0.9285897612571716
+ADANIENT,2026-03-20,"Target Share Price, Share Price Forecast - The Economic Times",-0.9389956593513489
+ADANIENT,2026-03-18,"Tankup Engineers Yearly results, Financial Summary - The Economic Times",-0.9109659194946289
+ADANIENT,2026-03-18,"Advance Agrolife Cash Flow, Financial Statements - The Economic Times",-0.9320839047431946
+ADANIENT,2017-08-06,Check out Adani Enterprises Ltd's stock price (ADANIENT-IN) in real time - CNBC,-0.9476739764213562
+ADANIENT,2017-03-23,"Adani Ent. Share Price Today, Adani Ent. Stock Price Live NSE/BSE Updates - The Economic Times",-0.942499041557312
+ADANIENT,2026-03-20,Adani Enterprises Ltd. - The Economic Times,-0.9287752509117126
+ADANIENT,2023-02-01,Adani vs. Hindenburg: How Asia’s richest man lost his crown in just a few days - CNBC,-0.8121866583824158
+ADANIENT,2017-03-24,The Economic Times - The Economic Times,-0.9159992933273315
+ADANIENT,2026-01-23,Adani group stocks plunge as U.S. SEC looks to question founder over fraud charges - CNBC,-0.8197080492973328
+ADANIENT,2017-03-23,"Pidilite Ind Share Price Today, Pidilite Ind Stock Price Live NSE/BSE Updates - The Economic Times",-0.9415810704231262
+ADANIENT,2023-02-09,MSCI to announce changes to free float status of some Adani securities - CNBC,-0.9291279911994934
+ADANIENT,2024-11-26,Adani Group's troubles keep growing as financial and legal headwinds get stronger - CNBC,-0.6457674503326416
+ADANIENT,2025-11-04,Adani Shares Retreat as Profit Lifted by One-Off Gains - Bloomberg.com,-0.9202236533164978
+ADANIENT,2022-06-10,ADEL.NS - Reuters,-0.9453131556510925
+ADANIENT,2026-03-20,Adani Power Ltd. - The Economic Times,-0.9259527921676636
+ADANIENT,2023-02-01,Adani abandons $2.5 billion share sale in big blow to Indian tycoon - CNBC,-0.8859516978263855
+ADANIENT,2026-03-19,Adani Total Gas Ltd. - The Economic Times,-0.9288713335990906
+ADANIENT,2026-03-18,Adani Energy Solutions Ltd. - The Economic Times,-0.926325261592865
+ADANIENT,2017-03-24,"Adani Power Cash Flow, Financial Statements - The Economic Times",-0.9320177435874939
+ADANIENT,2023-02-02,Adani's market losses top $100 bln as crisis shockwaves spread - Reuters,-0.8961122632026672
+ADANIENT,2026-02-17,India's Adani to invest $100 billion in AI data centers over the next decade - CNBC,-0.7621994018554688
+ADANIENT,2025-04-10,AWL Agri Business Ltd. - The Economic Times,-0.9212830066680908
+ADANIENT,2025-05-24,"Adani Wilmar Cash Flow, Financial Statements - The Economic Times",-0.9304009079933167
+ADANIENT,2017-03-29,Jaiprakash Associates Ltd. - The Economic Times,-0.9118995666503906
+ADANIENT,2026-01-23,Adani group firms shed $12.5 billion market cap after SEC seeks court nod to serve summonses - Reuters,-0.8703296780586243
+ADANIENT,2014-03-15,ADE: Adani Enterprises Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.947424054145813
+ADANIENT,2017-03-30,IFL Enterprises Ltd. - The Economic Times,-0.9292446970939636
+ADANIENT,2026-03-17,"Dhariwalcorp L Nine Monthly Results, Nine Monthly Earnings for Dhariwalcorp L - The Economic Times",-0.9140545129776001
+ADANIENT,2021-10-28,SJS Enterprises Ltd. - The Economic Times,-0.9257266521453857
+ADANIENT,2017-03-29,"Half Yearly Results, Half yearly Earnings for Aris Intnl - The Economic Times",-0.9239465594291687
+ADANIENT,2017-03-31,"NHPC Yearly Results, Financial summary, NHPC Yearly Earnings - The Economic Times",-0.930685818195343
+ADANIENT,2017-03-31,"Bata India Yearly Results, Financial summary, Bata India Yearly Earnings - The Economic Times",-0.9274420738220215
+ADANIENT,2026-03-16,"Phoenix Overseas Nine Monthly Results, Nine Monthly Earnings for Phoenix Overseas - The Economic Times",-0.9072335362434387
+ADANIENT,2026-01-16,"Park Medi World Yearly results, Financial Summary - The Economic Times",-0.9191035032272339
+ADANIENT,2026-03-18,"Half Yearly Results, Half yearly Earnings for Anya Polytech & Fert - The Economic Times",-0.912422776222229
+ADANIENT,2026-03-16,"Kenrik Industries Yearly results, Financial Summary - The Economic Times",-0.9173136949539185
+ADANIENT,2018-03-22,Oriental Aromatics Share Price - The Economic Times,-0.9246115684509277
+ADANIENT,2017-07-30,"Banco Products Cash Flow, Financial Statements - The Economic Times",-0.9251514077186584
+ADANIENT,2026-03-19,"HP Telecom India Yearly results, Financial Summary - The Economic Times",-0.9157924056053162
+ADANIENT,2026-03-17,"Pranik Logistics Yearly results, Financial Summary - The Economic Times",-0.9208430647850037
+ADANIENT,2017-04-18,"Jayaswal Neco Cash Flow, Financial Statements - The Economic Times",-0.9239409565925598
+ADANIENT,2026-03-17,"Goel Construction Co Nine Monthly Results, Nine Monthly Earnings for Goel Construction Co - The Economic Times",-0.9100645184516907
+ADANIENT,2025-09-02,"Vikram Solar Yearly Results, Financial summary, Vikram Solar Yearly Earnings - The Economic Times",-0.9303573369979858
+ADANIENT,2026-03-16,"Half Yearly Results, Half yearly Earnings for Indo Farm Equipment - The Economic Times",-0.9155609011650085
+ADANIENT,2022-12-18,"Elin Electronics Cash Flow, Financial Statements - The Economic Times",-0.9253056049346924
+ADANIENT,2017-10-22,"Welcure Drugs Cash Flow, Financial Statements - The Economic Times",-0.9292209148406982
+ADANIENT,2017-03-29,"ONGC Nine Monthly Results, Nine Monthly Earnings for ONGC - The Economic Times",-0.9208090305328369
+ADANIENT,2017-08-18,"Half Yearly Results, Half yearly Earnings for RattanIndia Power - The Economic Times",-0.9206029772758484
+ADANIENT,2017-04-20,"Half Yearly Results, Half yearly Earnings for Desh Rakshak - The Economic Times",-0.9253939986228943
+ADANIENT,2026-03-17,"Dhariwalcorp L Yearly results, Financial Summary - The Economic Times",-0.9119253754615784
+ADANIENT,2026-03-16,"Dev Accelerator Nine Monthly Results, Nine Monthly Earnings for Dev Accelerator - The Economic Times",-0.9231399893760681
+ADANIENT,2018-10-23,"REC Cash Flow, Financial Statements - The Economic Times",-0.9201479554176331
+ADANIENT,2017-03-24,"Coal India Ltd Cash Flow, Financial Statements - The Economic Times",-0.928786039352417
+ADANIENT,2026-03-17,"Virtual Galaxy Info Cash Flow, Financial Statements - The Economic Times",-0.9354749917984009
+ADANIENT,2017-03-24,"Clarification sought from Ramco Systems Ltd | Announcement 05 Feb,2026, 06:55PM IST - The Economic Times",-0.9416559934616089
+ADANIENT,2017-04-23,"Half Yearly Results, Half yearly Earnings for Shilchar Tech - The Economic Times",-0.9027162194252014
+ADANIENT,2025-07-29,"Oswal Pumps Cash Flow, Financial Statements - The Economic Times",-0.9234943389892578
+ADANIENT,2026-03-17,"Citichem India Nine Monthly Results, Nine Monthly Earnings for Citichem India - The Economic Times",-0.925534725189209
+ADANIENT,2026-03-19,"Indo Farm Equipment Nine Monthly Results, Nine Monthly Earnings for Indo Farm Equipment - The Economic Times",-0.9149963855743408
+ADANIENT,2025-10-14,LG Electronics India Share Price - The Economic Times,-0.9172084927558899
+ADANIENT,2017-04-12,"Half Yearly Results, Half yearly Earnings for IZMO - The Economic Times",-0.9070402979850769
+ADANIENT,2017-07-30,"GAIL Cash Flow, Financial Statements - The Economic Times",-0.9177282452583313
+ADANIENT,2026-03-17,"Half Yearly Results, Half yearly Earnings for Emmvee Photovoltaic - The Economic Times",-0.9202860593795776
+ADANIENT,2019-05-28,"Half Yearly Results, Half yearly Earnings for Waaree Technologies - The Economic Times",-0.9179971814155579
+ADANIENT,2026-03-16,"Kenrik Industries Nine Monthly Results, Nine Monthly Earnings for Kenrik Industries - The Economic Times",-0.910885214805603
+ADANIENT,2021-02-11,"Railtel Corp Yearly results, Financial Summary - The Economic Times",-0.903741180896759
+ADANIENT,2017-03-29,"Half Yearly Results, Half yearly Earnings for Mphasis - The Economic Times",-0.9150453805923462
+ADANIENT,2026-03-13,"HP Telecom India Nine Monthly Results, Nine Monthly Earnings for HP Telecom India - The Economic Times",-0.9177725315093994
+ADANIENT,2017-04-12,"Zee Media Corp Cash Flow, Financial Statements - The Economic Times",-0.9309818148612976
+ADANIENT,2017-03-29,"SJVN Cash Flow, Financial Statements - The Economic Times",-0.9228930473327637
+ADANIENT,2022-05-06,"Venus Pipes & Tubes Cash Flow, Financial Statements - The Economic Times",-0.929053008556366
+ADANIENT,2017-08-01,"Ion Exchange Cash Flow, Financial Statements - The Economic Times",-0.9250867366790771
+ADANIENT,2017-09-02,"VJTF Eduservice Yearly results, Financial Summary - The Economic Times",-0.9186068773269653
+ADANIENT,2021-10-21,"Angel One Cash Flow, Financial Statements - The Economic Times",-0.9267842769622803
+ADANIENT,2026-03-16,"ATC Energies System Yearly results, Financial Summary - The Economic Times",-0.9198347926139832
+ADANIENT,2017-04-20,"Wanbury Ltd Cash Flow, Financial Statements - The Economic Times",-0.9259151816368103
+ADANIENT,2026-03-19,"Pine Labs Nine Monthly Results, Nine Monthly Earnings for Pine Labs - The Economic Times",-0.9183350801467896
+ADANIENT,2017-03-29,"Tata Power Cash Flow, Financial Statements - The Economic Times",-0.9240463972091675
+ADANIENT,2024-10-08,"Tips Industries Cash Flow, Financial Statements - The Economic Times",-0.9277701377868652
+ADANIENT,2024-07-10,"Half Yearly Results, Half yearly Earnings for Anshuni Comm - The Economic Times",-0.92791348695755
+ADANIENT,2017-03-29,"PTC India Cash Flow, Financial Statements - The Economic Times",-0.9260308742523193
+ADANIENT,2026-03-20,"YES Bank Share Price Today, YES Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9369140267372131
+ADANIENT,2025-01-18,"Denta Water and Infr Cash Flow, Financial Statements - The Economic Times",-0.9277547597885132
+ADANIENT,2017-03-27,"Radico Khaitan Cash Flow, Financial Statements - The Economic Times",-0.9293034076690674
+ADANIENT,2026-03-17,"Jinkushal Industries Nine Monthly Results, Nine Monthly Earnings for Jinkushal Industries - The Economic Times",-0.9127334356307983
+ADANIENT,2020-01-20,"FACT Cash Flow, Financial Statements - The Economic Times",-0.9269641041755676
+ADANIENT,2017-03-26,"PVP Ventures Ltd. Cash Flow, Financial Statements - The Economic Times",-0.924199104309082
+ADANIENT,2026-03-20,Reliance Power Ltd. - The Economic Times,-0.9193907976150513
+ADANIENT,2017-03-23,"Sharda Cropchem Cash Flow, Financial Statements - The Economic Times",-0.9268432259559631
+ADANIENT,2020-09-15,"CAMS Cash Flow, Financial Statements - The Economic Times",-0.924652636051178
+ADANIENT,2017-03-29,"BEML Cash Flow, Financial Statements - The Economic Times",-0.9248396158218384
+ADANIENT,2025-09-23,Pace Digitek Ltd. - The Economic Times,-0.9344900846481323
+ADANIENT,2026-03-16,"Gabion Technologies Yearly results, Financial Summary - The Economic Times",-0.9234181046485901
+ADANIENT,2026-03-17,"Capillary Technologi Nine Monthly Results, Nine Monthly Earnings for Capillary Technologi - The Economic Times",-0.9223172068595886
+ADANIENT,2017-04-12,"Half Yearly Results, Half yearly Earnings for Indosolar Ltd - The Economic Times",-0.9249271154403687
+ADANIENT,2021-12-14,"Supriya Lifescience Cash Flow, Financial Statements - The Economic Times",-0.9273953437805176

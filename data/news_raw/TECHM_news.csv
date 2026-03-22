@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-TECHM,2026-03-13,Kaynes Technology shares fall 2% amid market selloff; BofA purchases stake worth Rs 42 crore via block dea - The Economic Times,-0.9202831387519836
-TECHM,2026-03-09,"Tech Mahindra denies rumours of major layoffs, says no proposal under consideration - The Economic Times",-0.6824621558189392
+TECHM,2009-01-23,US Top News and Analysis - CNBC,-0.9279258847236633
+TECHM,2026-03-19,Alibaba revenue misses estimates in December quarter as net income drops 66% - CNBC,-0.9686318039894104
+TECHM,2026-03-20,"Alibaba, Tencent Shed $66 Billion After AI Vision Falls Flat - Bloomberg.com",-0.6989797949790955
+TECHM,2026-03-18,"Half Yearly Results, Half yearly Earnings for Lenskart Solutions - The Economic Times",-0.9216819405555725
+TECHM,2026-03-19,"Micron has more upside partly based on historic valuation, says BofA's Vivek Arya - CNBC",0.7001969218254089
+TECHM,2026-03-20,Barclays' Brandon Oglenski breaks down FedEx's Q3 results - CNBC,-0.8383949995040894
+TECHM,2026-03-20,Salesforce issues $25 billion in debt to buy back stock. Should we be concerned? - CNBC,-0.8605926632881165
+TECHM,2026-03-21,"FedEx has started delivering 'promotion-ready' AI training to over 400,000 workers - CNBC",-0.6912241578102112
+TECHM,2026-03-19,Figma's stock drops 12% in two days after Google releases 'vibe design' product - CNBC,-0.9377208948135376
+TECHM,2026-03-20,Breaking down FedEx earnings: Here's what you need to know - CNBC,-0.868126630783081
 TECHM,2016-05-26,Tech News | Today's Latest Technology News - Reuters,-0.9235796332359314
-TECHM,2026-03-09,"Tech Mahindra rejects social media claims of 30,000 layoffs, calls rumours false - Moneycontrol.com",-0.8339057564735413
-TECHM,2026-03-12,"Blinkit’s ₹450 Crore War Chest, Jupiter’s Banking Deal Falls Apart & 1,000 Tech Mahindra... - Moneycontrol.com",-0.6154853105545044
-TECHM,2026-03-08,"Women rewriting tech playbook, but leadership pathways need fixing - The Economic Times",-0.8926311135292053
-TECHM,2026-03-12,"Onboarding delays at Tech Mahindra; over 1,000 freshers await offer letters - Moneycontrol.com",-0.8310849070549011
-TECHM,2024-01-24,"Tech Mahindra Stocks Live Updates: Tech Mahindra Sees 2.4% Increase in Stock Price, SMA7 at Rs 1363.41 - The Economic Times",0.9234980344772339
-TECHM,2026-03-12,"Capgemini planning 15,000-seat development centre in Visakhapatnam - The Economic Times",-0.8989549279212952
-TECHM,2024-04-04,Tech Mahindra Share Price Live Updates: Tech Mahindra Closes at Rs 1255.15 with Robust Trading Volume - The Economic Times,0.7635306119918823
-TECHM,2024-04-09,"Moving Averages Updates: Tech Mahindra Stock Price Breaks Above 20-Day SMA, Reaches 1268.7 Rs - The Economic Times",0.6159135103225708
-TECHM,2026-03-11,"Nuvama is bullish on all top-ten IT services stocks, sees up to 84% upside: Here's why - Moneycontrol.com",-0.6974725127220154
-TECHM,2024-03-28,"Tech Mahindra Stocks Live Updates: Tech Mahindra Sees Modest Price Increase of 0.54% Today, 6-Month Retur - The Economic Times",0.942818820476532
-TECHM,2026-03-12,FIR filed against ADAG companies on Axis complaint - The Economic Times,-0.6064299941062927
-TECHM,2024-04-29,Tech Mahindra Stocks Live Updates: Tech Mahindra Sees 1.61% Price Increase with Trading Volume Just Below - The Economic Times,0.9445486068725586
-TECHM,2026-03-09,US market bloodbath soon amid Iran war? Veteran strategist revises forecast - Moneycontrol.com,-0.8712129592895508
-TECHM,2026-03-09,"Quote of the day by Marie Curie: ‘We must believe that we are gifted for something, and that this thing…’ - The Economic Times",-0.5444751381874084
-TECHM,2024-03-01,Tech Mahindra Share Price Today Live Updates: Tech Mahindra Closes at Rs 1273.85 with -3.08% 1-Month Retu - The Economic Times,-0.6606561541557312
-TECHM,2026-03-09,West Asia crisis: Pune gas crematoriums shut temporarily amid LPG restrictions - The Economic Times,-0.914552628993988
-TECHM,2026-03-12,Tech3 | Blinkit bags Rs 450Cr fuel for q-comm war; Jupiter’s SBM India deal collapses; and more - Moneycontrol.com,-0.8093085885047913
-TECHM,2026-03-09,Taking Stock: Markets continue to see sell-off amid crude surge; rupee at record low - Moneycontrol.com,-0.7156931161880493
-TECHM,2026-03-09,Abhishek Sharma reveals what he did to break Mohd Amir’s 'slogger' curse before T20 World Cup final and ho - The Economic Times,-0.791701078414917
-TECHM,2026-03-07,Dera Sacha Sauda chief Ram Rahim Singh acquitted in journalist murder case - The Economic Times,-0.6663641929626465
-TECHM,2026-03-09,Powerball jackpot rises to $46 million for March 9 drawing - Here's what the winner could actually pocket - The Economic Times,-0.6531350612640381
-TECHM,2026-03-09,Who is Taron Johnson? Veteran cornerback released by Buffalo Bills - The Economic Times,-0.9101929068565369
-TECHM,2026-03-09,"Petrol, Diesel price today: Fuel prices changed as crude oil prices cross $100/barrel for first time since - The Economic Times",0.8474563956260681
-TECHM,2026-03-09,Sedemac Mechatronics shares expected to list with modest gains; analysts recommend partial profit booking - Moneycontrol.com,0.5936704874038696
-TECHM,2026-03-07,Daylight Saving Time 2026: What the clock change means for Ramadan timings in the U.S. - The Economic Times,-0.9428660869598389
-TECHM,2024-02-29,"Tech Mahindra Stocks Live Updates: Tech Mahindra Sees Slight Decline in Price, but Shows Positive Returns - The Economic Times",-0.9103543162345886
-TECHM,2026-03-12,"""This is just panic; last jolt for FY26"": Vijay Kedia on long-term capital patience against... - Moneycontrol.com",-0.913324236869812
-TECHM,2026-03-07,"From farms to refineries, Asia is starting to feel the fuel supply strain - The Economic Times",-0.48367244005203247
-TECHM,2026-03-09,From engineers to financial analysts: Anthropic study reveals jobs that AI has or will replace in future - Moneycontrol.com,-0.8822529911994934
-TECHM,2026-03-07,"'Cowardly, compromised 56-inch chest': Congress MP Jairam Ramesh slams Centre over US' 'permission' to buy - The Economic Times",-0.499755859375
-TECHM,2026-03-07,"In the age of AI and platforms, trust remains finance’s most valuable currency: Experts - Moneycontrol.com",-0.863615095615387
-TECHM,2026-03-13,"F&O Quote - Live FNO BSE/NSE Quote, Nifty Quotes, Indian Stock Market BSE/NSE Price Increase, Chart, Open Interest Analysis & more by Moneycontrol.com - Moneycontrol.com",-0.9385393857955933
-TECHM,2026-03-09,"Jobs fall, gas prices jump, stocks slip: Trump’s ‘roaring economy’ faces an early test - Moneycontrol.com",-0.6460273265838623
-TECHM,2026-03-13,"Sensex, Nifty extend losses for third day as crude near $100, weak global cues weigh; banks, IT drag - Moneycontrol.com",-0.9336349368095398
-TECHM,2026-03-09,"Tech3 | Deepinder Goyal's drone bet, Flipkart completes reverse flip to India ahead of IPO; and more - Moneycontrol.com",-0.889016330242157
-TECHM,2026-03-10,"Sensex rises 445 points, Nifty above 24,150 as crude oil prices plunge; IndiGo, Shriram Finance stocks... - Moneycontrol.com",-0.5962231159210205
-TECHM,2026-03-07,"Three investor trip parties, one destination: Hedge funds, oil bosses and dealmakers are packing for... - Moneycontrol.com",-0.9377347826957703
-TECHM,2024-02-09,Tech Mahindra Stocks Live Updates: Tech Mahindra Trades at Rs 1308.95 with a 0.03% Dip; 1-Year Returns St - The Economic Times,-0.6115540266036987
-TECHM,2026-03-09,India's cyber security agency has issued security alert for Google Chrome browser: Check if you are... - Moneycontrol.com,-0.9000638127326965
-TECHM,2026-03-09,Why Trump has left this tiny island untouched in Iran war: 'America's red line' - Moneycontrol.com,-0.9129286408424377
-TECHM,2026-03-09,India bonds skid on 25% oil surge as Middle East war shows no sign of abating - Moneycontrol.com,-0.8617186546325684
-TECHM,2026-03-09,Rupee plunges 47 paise to Rs 92.21 against dollar as oil crosses $100 - Moneycontrol.com,-0.8218050003051758
-TECHM,2026-03-07,T20 World Cup 2026: From group stage to glory shot — India’s road to the final - Moneycontrol.com,-0.886144757270813
-TECHM,2026-03-08,"Centre weighs graded curbs on children’s social media use, rules out blanket ban - Moneycontrol.com",-0.8294236063957214
-TECHM,2026-03-07,"US waiver on Russian oil to India brings short-term relief, Aditya Birla Group eyes stake in Rajasthan... - Moneycontrol.com",0.7852693796157837
-TECHM,2026-03-07,"Rahul Gandhi unveils 5 poll guarantees for Kerala, targets PM Modi and CM Vijayan - Moneycontrol.com",-0.9083379507064819
-TECHM,2026-03-08,"T20 World Cup: Jasprit Bumrah achieves big India record, Varun Chakaravarthy finishes as joint-highest... - Moneycontrol.com",0.5580470561981201
+TECHM,2026-03-20,FedEx jumps on strong earnings and upbeat demand outlook - CNBC,0.9124084115028381
+TECHM,2015-09-30,International: Top News And Analysis - CNBC,-0.935094952583313
+TECHM,2026-03-21,3 themes that gripped Wall Street as stocks dropped for a 4th straight week - CNBC,-0.9478567242622375
+TECHM,2026-03-20,The clock is ticking for the stock market as the Iran war stretches into a fourth week - CNBC,-0.8745526075363159
+TECHM,2026-03-20,JPMorgan Strategists Cut S&P 500 Target on Iran War Uncertainty - Bloomberg.com,-0.8000428676605225
+TECHM,2026-03-21,Buffett defends 'Giving Pledge' against Thiel and 'billionaire backlash' - CNBC,-0.8392191529273987
+TECHM,2026-03-20,Value investors see mispriced opportunities from sports to fertilizer - CNBC,-0.9063554406166077
+TECHM,2026-03-22,From satellites to space data centers: Why low earth orbit is attracting billions in investment - CNBC,-0.8444321751594543
+TECHM,2026-03-20,"Maruti, Tata Motors, M&M, Bajaj Auto: CLSA decodes strategy for auto stocks - Business Standard",-0.8751552104949951
+TECHM,2026-03-22,The story behind promotions in PSBs and the growing need for reform - Business Standard,-0.8896358013153076
+TECHM,2026-03-20,Petronet LNG share price: Nomura cuts target as Qatar crisis hits volumes - Business Standard,-0.8319348692893982
+TECHM,2026-03-22,"Turbulence ahead as Iran war escalates, threatens equity market stability - Business Standard",-0.7532548904418945
+TECHM,2026-03-20,"OMC stocks rally on softer crude; HPCL, IOC, BPCL shares gain up to 5% - Business Standard",0.93863445520401
+TECHM,2026-03-19,Volatility is back- so is value in equities: Axis MF lists quality themes - Business Standard,-0.914396345615387
+TECHM,2026-03-20,IT stocks advance after strong Accenture Q2 - Business Standard,0.9430186152458191
+TECHM,2026-03-22,"West Asia war, crude oil prices likely to steer stock markets this week - Business Standard",-0.8223477005958557
+TECHM,2026-03-20,"Qatar gas strike impact; Petronet LNG, Gail could dip another 10%: Analysts - Business Standard",-0.5188938975334167
+TECHM,2018-03-09,"HAL Share Price Today, HAL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387754201889038
+TECHM,2025-10-15,TECHM IN Equity 14Oct25 RU - bsmedia.business-standard.com,-0.9461953043937683
+TECHM,2017-03-23,"Tech Mahindra Share Price Today, Tech Mahindra Stock Price Live NSE/BSE Updates - The Economic Times",-0.9400528073310852
+TECHM,2014-03-22,TECHM: Tech Mahindra Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9462260603904724
+TECHM,2017-08-07,Check out Tech Mahindra Ltd's stock price (TECHM-IN) in real time - CNBC,-0.9429465532302856
+TECHM,2024-10-24,Check out Tech Mahindra Ltd's stock price (TECHM-IN&__SOURCE=OTS) in real time - CNBC,-0.945708692073822
+TECHM,2026-03-18,"Micron rides memory price spike into earnings with stock up 62%, drubbing its tech peers - CNBC",0.9229279160499573
+TECHM,2017-10-14,"Dixon Tech Share Price Today, Dixon Tech Stock Price Live NSE/BSE Updates - The Economic Times",-0.94094318151474
+TECHM,2026-02-02,Palantir Earnings Arrive Just as Stock Could Use Some Good News - Bloomberg.com,-0.8439505100250244
+TECHM,2025-08-02,Big Tech Earnings Strength Is Bright Light in Murky Stock Market - Bloomberg.com,-0.8624326586723328
+TECHM,2025-12-18,Micron stock pops 10% as AI memory demand soars: 'We are more than sold out' - CNBC,0.8486121296882629
+TECHM,2026-03-18,Micron Earnings Face High Expectations as Its Stock Keeps Rising - Bloomberg.com,-0.521615743637085
+TECHM,2026-02-22,Nvidia’s Stock Is So Stuck Even Blowout Earnings May Not Lift It - Bloomberg.com,-0.6606835722923279
+TECHM,2026-03-19,Micron CEO says it can't deliver enough memory to key customers after blowout earnings - CNBC,-0.9266611933708191
+TECHM,2026-01-29,Microsoft lost $357 billion in market cap as stock plunged most since 2020 - CNBC,-0.9495437145233154
+TECHM,2025-07-22,"Wall Street is upbeat on tech megacaps, but big questions loom on AI spending, China, Trump tariffs - CNBC",-0.8630667328834534
+TECHM,2022-11-06,"Kaynes Technology Share Price Today, Kaynes Technology Stock Price Live NSE/BSE Updates - The Economic Times",-0.9407498240470886
+TECHM,2015-04-07,"TCS, Wipro, TechM, Infy are key to Apple's supply chain - ET CIO",-0.838560163974762
+TECHM,2025-03-06,Marvell plunges nearly 20% as outlook falls short of high expectations - CNBC,-0.9386650919914246
+TECHM,2025-07-23,US stock market concentration risks come to fore as megacaps report earnings - Reuters,-0.6069909930229187
+TECHM,2025-02-14,Trump Media reports $400 million in 2024 losses - CNBC,-0.7717323303222656
+TECHM,2025-02-27,Nvidia earnings offer little cheer for tech shares - Reuters,-0.561928927898407
+TECHM,2025-05-05,"Palantir shares fall as company reports in-line earnings, lifts full-year guidance - CNBC",-0.9632007479667664
+TECHM,2025-09-04,Broadcom Earnings Run Headlong Into Stock’s $730 Billion Rally - Bloomberg.com,-0.8757145404815674
+TECHM,2025-11-14,Wall St Week Ahead: Skittish tech stock investors turn to Nvidia results for next cues - Reuters,-0.7694635987281799
+TECHM,2025-10-29,"Fiserv stock sinks 42% as forecast cut, leadership shake-up spook investors - Reuters",-0.9630891680717468
+TECHM,2025-09-23,Micron beats on earnings as company sales rise 46% on AI boom - CNBC,0.9041494131088257
+TECHM,2025-12-17,Micron forecasts surging revenue as computer memory demand for AI remains high - CNBC,0.6742579936981201
+TECHM,2025-06-25,"Micron reports earnings, revenue beat and issues strong forecast - CNBC",0.7682432532310486
+TECHM,2026-02-24,Nvidia earnings report collides with Wall Street skepticism over AI spending - CNBC,-0.5739234685897827
+TECHM,2026-03-09,"Continuous margin improvement, large deal rise reflects clients' trust in new positioning: TechM CEO - ET Telecom",0.9299203753471375
+TECHM,2026-03-10,Oracle stock jumps 10% on earnings beat and increased guidance as cloud revenue climbs 44% - CNBC,0.9441627264022827
+TECHM,2025-10-27,"Wall St scales fresh highs on tech earnings, US-China trade optimism - Reuters",0.5856522917747498
+TECHM,2017-03-24,"L&T Tech Share Price Today, L&T Tech Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387945532798767
+TECHM,2017-08-04,Check out Micron Technology's stock price (MU) in real time - CNBC,-0.9456266760826111
+TECHM,2026-03-18,"Micron revenue almost triples, tops estimates as demand for memory soars - CNBC",0.8783125877380371
+TECHM,2026-01-25,Big Tech Earnings Land With 2026’s AI Winners Still In Question - Bloomberg.com,-0.9000422358512878
+TECHM,2025-10-20,Wall St ends sharply higher as earnings optimism fuels risk appetite - Reuters,0.7814944386482239
+TECHM,2025-11-20,"Wall Street indexes end lower after sharp reversal, tech leads drop - Reuters",-0.9520891308784485
+TECHM,2025-07-30,Arm shares slip as smartphone royalties disappoint - CNBC,-0.9617834687232971
+TECHM,2024-10-31,"Amazon shares pop on earnings beat, cloud growth - CNBC",0.7713396549224854
+TECHM,2021-02-23,Ad tech company PubMatic stock pops 10% in first earnings report after December IPO - CNBC,0.6956191062927246
+TECHM,2025-08-05,Opendoor tanks after earnings as CEO thanks new investors for 'increased visibility' - CNBC,0.691432535648346
+TECHM,2025-12-02,Michael Burry calls Tesla 'ridiculously overvalued' and knocks tech industry for a widely used practice - CNBC,-0.7419400811195374
+TECHM,2025-06-25,Drone maker AeroVironment shares pop 21% on earnings beat - CNBC,0.9063853025436401
+TECHM,2025-08-01,Amazon stock sinks 8% after earnings: Here are the key takeaways - CNBC,-0.5035265684127808
+TECHM,2025-11-12,"Firefly Aerospace shares jump 15% on strong revenues, boosted guidance - CNBC",0.9433879256248474
+TECHM,2025-08-29,"Marvell stock slumps 18% after chipmaker's data center revenue, forecast disappoint - CNBC",-0.9667784571647644
+TECHM,2024-10-27,Big Tech Stocks Lose Some of Their Aura as Earnings Growth Slows - Bloomberg.com,-0.8817250728607178
+TECHM,2025-12-02,Marvell to acquire Celestial AI for as much as $5.5 billion - CNBC,-0.922131359577179
+TECHM,2026-01-27,Tech's massive AI spend is under scrutiny ahead of earnings. Here's what to watch - CNBC,-0.8001837730407715
+TECHM,2025-08-07,AppLovin CEO sees benefits from Apple-Epic fallout as stock pops on earnings - CNBC,-0.5097422003746033
+TECHM,2025-11-03,"Palantir tops estimates, boosts fourth-quarter guidance on AI adoption - CNBC",0.9151625633239746
+TECHM,2024-05-20,"DJT: Trump Media reports $770,500 revenue for first quarter, net loss of $327.6 million - CNBC",-0.5450140237808228
+TECHM,2026-01-27,"GM tops earnings expectations, announces dividend increase and stock buyback program - CNBC",0.5844538807868958
+TECHM,2023-11-08,Arm reports first post-IPO earnings and the stock is down 7% - CNBC,-0.9631448984146118
+TECHM,2025-05-08,Palantir now among 10 most valuable U.S. tech companies — its earnings multiple is astronomical - CNBC,-0.5629276633262634
+TECHM,2026-01-22,"Intel stock plunges 13% on soft guidance, concerns about chip production - CNBC",-0.945409893989563
+TECHM,2026-02-26,Stocks Stall as Nvidia Fails to Stoke AI Trade: Markets Wrap - Bloomberg.com,-0.8174673318862915
+TECHM,2025-11-20,Stocks stuck on rollercoaster despite strong Nvidia earnings - Reuters,-0.803522527217865
+TECHM,2025-07-30,"Meta shares climb 10% on revenue beat, raised forecast - CNBC",0.9135932922363281
+TECHM,2024-05-22,"Nvidia forecasts quarterly revenue above estimates, unveils stock split - Reuters",-0.8534796833992004
+TECHM,2025-11-20,"Nvidia stock closes nearly 3% lower, wiping out post-earnings rally - CNBC",-0.960699737071991
+TECHM,2025-02-04,Palantir soars 24% to record high as AI powers strong earnings and guidance - CNBC,0.9231058359146118
+TECHM,2026-02-24,HSBC Faces Earnings Test After Stock Rallies 89% From Low - Bloomberg.com,0.8499475121498108
+TECHM,2025-08-08,The winners and losers in tech's AI-powered ad race - CNBC,-0.9170705080032349
+TECHM,2026-01-29,Caterpillar Tops Estimates as Data Centers Boost Power Demand - Bloomberg.com,0.5890512466430664
+TECHM,2026-01-15,"European shares extend record run on technology, financial gains - Reuters",0.8620779514312744
+TECHM,2025-11-20,"Nvidia earnings takeaways: Bubble talk, 'half a trillion' forecast and China orders - CNBC",-0.903551459312439
+TECHM,2025-10-22,"IBM tops third-quarter estimates and lifts guidance, but stock drops - CNBC",-0.6608317494392395
+TECHM,2026-01-29,Tech selloff drags Europe stocks lower as SAP's results disappoint - Reuters,-0.9562194347381592
+TECHM,2025-11-21,Tech stocks wrap big losing week as AI names get rocked after Nvidia earnings - CNBC,-0.523120641708374

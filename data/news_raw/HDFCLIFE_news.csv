@@ -1,51 +1,99 @@
 ticker,date,headline,sentiment_score
-HDFCLIFE,2024-01-29,HDFC Life Insurance Company Share Price Live Updates: HDFC Life Insurance Company Sees Slight Decline in - The Economic Times,-0.9560877680778503
-HDFCLIFE,2024-03-26,HDFC Life Insurance Company Share Price Live Updates: HDFC Life Insurance Company Closes at Rs 623.85 wit - The Economic Times,-0.9315035939216614
-HDFCLIFE,2024-04-25,HDFC Life Insurance Company Stocks Live Updates: HDFC Life Insurance Company Sees Minor Decline in Stock - The Economic Times,-0.9600905776023865
-HDFCLIFE,2023-11-17,HDFC Life Insurance Company Share Price Live Updates: HDFC Life Insurance Company Closes at Rs 634.95 wit - The Economic Times,-0.9305088520050049
-HDFCLIFE,2023-12-08,HDFC Life Insurance Company Stocks Live Updates: HDFC Life Insurance Company Closes at Rs 678.3 with 3-Mo - The Economic Times,-0.9114736914634705
-HDFCLIFE,2024-04-18,HDFC Life Insurance Company Share Price Live Updates: HDFC Life Insurance Company Closes at Rs 604.6 with - The Economic Times,-0.9292742609977722
-HDFCLIFE,2023-11-29,HDFC Life Insurance Company Stocks Live Updates: HDFC Life Insurance Company Reports 0.4% Increase in Sto - The Economic Times,0.9344508051872253
-HDFCLIFE,2024-04-25,HDFC Life Insurance Company Stocks Live Updates: HDFC Life Insurance Closes at Rs 594.20 with 1.36% Declin - The Economic Times,-0.8540353775024414
-HDFCLIFE,2023-12-20,HDFC Life Insurance Company Stocks Live Updates: HDFC Life Insurance Company Sees Slight Increase in Pric - The Economic Times,0.8966085910797119
-HDFCLIFE,2024-02-27,HDFC Life Insurance Company Stocks Live Updates: HDFC Life Insurance Company Sees 1.99% Increase in Stock - The Economic Times,0.8551002740859985
-HDFCLIFE,2011-01-09,Stock Market: Stock Market Today | Stock Market Live News Update - Moneycontrol.com,-0.9418009519577026
-HDFCLIFE,2026-03-12,Indian shares drop for second session on raging Mideast war; power stocks buck trend - Reuters,-0.9597545266151428
-HDFCLIFE,2024-04-15,HDFC Life Insurance Company Share Price Today Live Updates: HDFC Life Insurance Company Sees 1.83% Declin - The Economic Times,-0.8780221939086914
-HDFCLIFE,2024-04-25,HDFC Life Insurance Company Stocks Live Updates: HDFC Life Insurance Company Stock Details - The Economic Times,-0.9365852475166321
-HDFCLIFE,2011-03-12,Latest News | Latest Business News | BSE | IPO News - Moneycontrol.com,-0.9293828010559082
-HDFCLIFE,2026-03-13,"F&O Quote - Live FNO BSE/NSE Quote, Nifty Quotes, Indian Stock Market BSE/NSE Price Increase, Chart, Open Interest Analysis & more by Moneycontrol.com - Moneycontrol.com",-0.9385393857955933
-HDFCLIFE,2026-03-09,"Private life insurers clock strong February growth; Axis Max Life, Canara HSBC lead - Moneycontrol.com",0.6671842336654663
-HDFCLIFE,2024-02-29,HDFC Life Insurance Company Share Price Live Updates: HDFC Life Insurance Company Closes at Rs 580.6 with - The Economic Times,-0.9262992739677429
-HDFCLIFE,2024-03-01,HDFC Life Insurance Company Share Price Live Updates: HDFC Life Insurance Company News - The Economic Times,-0.9427700638771057
-HDFCLIFE,2025-09-22,"hdfc life Forum Discussion on Market View, Business sectors,Stocks, Commodity, Personal Finance & More - Moneycontrol.com",-0.9470551013946533
-HDFCLIFE,2025-07-16,"Stocks in news: HDFC Life, HDB Financial, Tech Mahindra, Dixon Tech, ITC Hotels - The Economic Times",-0.9376420378684998
-HDFCLIFE,2025-04-21,HDFC Life shares in focus after 15% YoY rise in Q4 profit. Should you invest? - The Economic Times,-0.805302619934082
-HDFCLIFE,2025-03-10,"Tax savings no longer driving middle class to buy life insurance: Vibha Padalkar, MD & CEO, HDFC Life Insu - The Economic Times",-0.883092999458313
-HDFCLIFE,2024-11-25,"HDFC Life Insurance faces data breach, assessing potential impact - The Economic Times",-0.7182204723358154
-HDFCLIFE,2025-01-15,"HDFC Life Q3 Results: Cons PAT jumps 15% YoY to Rs 421 crore, net premium income up 10% - The Economic Times",0.9480299353599548
-HDFCLIFE,2023-06-23,Insurance regulator approves transfer of HDFC Life shares to HDFC Bank - The Economic Times,-0.9008054137229919
-HDFCLIFE,2025-04-24,"Buy HDFC Life, target price Rs 850: JM Financial - The Economic Times",-0.9320091605186462
-HDFCLIFE,2025-01-14,"HDFC Life Q3 Preview: PAT may grow 21% YoY, margins to decline - The Economic Times",-0.9569659233093262
-HDFCLIFE,2025-01-22,HDFC Life announces corporate agency tie-up with CARS24 financial services pvt. ltd - The Economic Times,-0.8612081408500671
+HDFCLIFE,2023-12-28,HDFC Life Insurance Company Stocks Live Updates: HDFC Life Insurance Company Closes at Rs 643.8 with Stro - The Economic Times,-0.9234514236450195
+HDFCLIFE,2023-12-08,HDFC Life Insurance Company Stocks Live Updates: HDFC Life Insurance Company Closes at Rs 678.3 with Impr - The Economic Times,-0.9317766427993774
+HDFCLIFE,2026-03-18,Finished Products - The Economic Times,-0.9285897612571716
+HDFCLIFE,2026-03-19,"Ecoline Exim Yearly results, Financial Summary - The Economic Times",-0.923266589641571
+HDFCLIFE,2026-03-18,"Galaxy Cloud Kitchens Cash Flow, Financial Statements - The Economic Times",-0.922142744064331
+HDFCLIFE,2026-03-20,India 10-year yield posts biggest weekly jump in 15 weeks on oil shock - The Economic Times,0.5372693538665771
+HDFCLIFE,2026-03-18,"Indo Farm Equipment Cash Flow, Financial Statements - The Economic Times",-0.9221656322479248
+HDFCLIFE,2026-03-20,"Zetwerk plans to confidentially file for Indian IPO, targets $4 billion valuation, sources say - Reuters",-0.9427482485771179
+HDFCLIFE,2026-03-21,Tech Quiz Online | C-Level (CIO / CTO / CDO / CXOall C-Level) | ETCIO.com - ET CIO,-0.9498721957206726
+HDFCLIFE,2026-03-18,"Health insurance priority for govt, to cover all by 2033: Sitharaman - ET HealthWorld",-0.855846643447876
+HDFCLIFE,2026-03-16,"Index heavyweights, autos help Nifty, Sensex snap three-session losing run - Reuters",-0.550927996635437
+HDFCLIFE,2019-01-23,"HDFC Life Share Price Today, HDFC Life Stock Price Live NSE/BSE Updates - The Economic Times",-0.9412044286727905
+HDFCLIFE,2021-06-16,HDFC Life Insurance Company Ltd - Reuters,-0.9383672475814819
+HDFCLIFE,2017-11-18,Check out HDFC Life Insurance Company Ltd's stock price (HDFCLIFE-IN) in real time - CNBC,-0.9464260935783386
+HDFCLIFE,2025-10-15,India's HDFC Life posts quarterly profit rise on retail insurance demand - Reuters,0.9184892177581787
+HDFCLIFE,2025-07-15,HDFC Life Q1 profits rises 14 pc to Rs 546 cr - ET BFSI,0.9455721378326416
+HDFCLIFE,2025-04-20,HDFC Life sees steady VNB gains despite APE growth slowdown - ET BFSI,0.9482167363166809
+HDFCLIFE,2025-01-15,India's HDFC Life posts Q3 profit rise on insurance boost - Reuters,0.8369846343994141
+HDFCLIFE,2017-11-16,HDFCLIFE: HDFC Life Insurance Co Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9488039016723633
+HDFCLIFE,2026-01-15,India's HDFC Life profit rises marginally as tax cuts drive demand amid high costs - Reuters,0.9076906442642212
 HDFCLIFE,2022-06-07,HDFL.NS - Reuters,-0.9446925520896912
-HDFCLIFE,2025-12-18,Economic Times Awards for Corporate Excellence 2025: HDFC Life’s Vibha Padalkar named Businesswoman of the - The Economic Times,0.5855804681777954
-HDFCLIFE,2023-06-13,Abrdn's exit from HDFC Life nets 14x gains since JV formation in 2000 - The Economic Times,0.846871018409729
-HDFCLIFE,2024-10-14,"HDFC Life Q2 Results Preview: APE may grow up to 26% YoY, VNB in range of 12-22% - The Economic Times",0.8848230242729187
-HDFCLIFE,2025-10-16,GST impact caps HDFC Life’s Q2 profit growth at 3% - The Economic Times,-0.7273297905921936
-HDFCLIFE,2022-06-10,"Buy HDFC Life Insurance Company, target price Rs 690: Emkay Global - The Economic Times",-0.9304072856903076
-HDFCLIFE,2024-08-02,IRDAI imposes penalty of Rs 2 Cr on HDFC Life for violating regulations - The Economic Times,-0.5943548679351807
-HDFCLIFE,2020-10-20,Stock market news: HDFC Life Insurance Company shares trade flat with a negative bias in afternoon session - The Economic Times,-0.8945537209510803
-HDFCLIFE,2017-03-02,ETMONEY joins forces with HDFC Life to bring India's first data-led life insurance policy for millennials - The Economic Times,0.7491827011108398
-HDFCLIFE,2021-11-01,Why Prasun Gajri of HDFC Life is sticking to large-cap stocks in this market - The Economic Times,-0.9131680130958557
-HDFCLIFE,2023-11-20,Karnataka Bank inks pact with HDFC Life to distribute life insurance products - The Economic Times,-0.6266376376152039
-HDFCLIFE,2025-04-21,"Stocks to Watch Today: Infosys, ICICI Bank, HDFC Bank, HDFC Life, NIIT, ABB India, Tata Elxsi, Just Dial,... - Moneycontrol.com",-0.9449324011802673
+HDFCLIFE,2021-09-03,"HDFC Life to acquire 100% stake in Exide Life Insurance for Rs 6,687 crore - ET BFSI",-0.9196453094482422
+HDFCLIFE,2020-04-27,"HDFC Life Q4 Results: Cons PAT rises 15% YoY to Rs 475 crore, revenue jumps 16% - The Economic Times",0.9350414872169495
+HDFCLIFE,2024-04-18,HDFC Life Insurance reports weaker new business margin for FY 2024 - ET BFSI,-0.971524178981781
+HDFCLIFE,2022-06-15,"HDFC Life Q2 Results: Profit rises 19% YoY to Rs 326 crore, misses estimates - The Economic Times",0.9351717233657837
+HDFCLIFE,2026-03-13,The Economic Times - The Economic Times,-0.9159992933273315
+HDFCLIFE,2025-08-11,"HDFC Life and Northern Arc Capital Enter into a Strategic Partnership, Offering Financial Security to Custom.. - ET BFSI",0.8869361281394958
+HDFCLIFE,2022-12-17,AU Small Finance Bank and HDFC Life Announce Bancassurance Tie-up - ET BFSI,-0.8595804572105408
+HDFCLIFE,2026-03-11,"LIC, HDFC Life in focus as retail insurance growth seen extending into FY27 - ET BFSI",0.9314145445823669
+HDFCLIFE,2026-03-17,HDFC Life Insurance Company Ltd. - The Economic Times,-0.9294619560241699
+HDFCLIFE,2026-01-19,"HDFC Life Insurance eyes durable growth, VNB margin recovery amid protection momentum - ET BFSI",0.9397996068000793
+HDFCLIFE,2024-09-09,"How LIC, SBI Life, HDFC Life and others are gearing up for higher surrender value regime - ET BFSI",-0.5411818623542786
+HDFCLIFE,2024-04-25,HDFC Life and Peerless Financial Products Distribution Ltd. (PFPDL) Enter into a Corporate Agency Tie-Up - ET BFSI,-0.8647484183311462
+HDFCLIFE,2025-01-21,OMD India awarded the integrated media mandate for HDFC Life - ET BrandEquity,0.8357080221176147
+HDFCLIFE,2024-09-23,"HDFC Life CFO says focus is on navigating regulatory changes, risk management, and profitability - ETCFO.com",-0.9245228171348572
+HDFCLIFE,2024-11-25,"India's HDFC Life launches probe after customer data shared with ""mala fide"" intent - Reuters",-0.4851670265197754
+HDFCLIFE,2025-09-10,"HDFC Life CFO targets 17–18% CAGR, banks on Rs 300 crore tech transformation, small town expansion - ETCFO.com",-0.8162069916725159
 HDFCLIFE,2023-06-23,India's insurance regulator approves transfer of HDFC Life shares to HDFC Bank - Reuters,-0.9246078133583069
-HDFCLIFE,2018-09-08,Amitabh Chaudhry of HDFC Life appointed CEO & MD of Axis Bank - The Economic Times,-0.8956148624420166
-HDFCLIFE,2025-10-16,"Stocks to Watch Today: Rubicon Research, HDB Financial, HDFC Life, Axis Bank, Bharat Electronics, Jyoti... - Moneycontrol.com",-0.9498782753944397
-HDFCLIFE,2025-08-25,"Quarterly Results, HDFC Life Insurance Company Financial Statement & Accounts - Moneycontrol.com",-0.9421986937522888
-HDFCLIFE,2025-11-27,"Trade Spotlight: How should you trade Bajaj Auto, Max Financial, HDFC Life Insurance, Siemens, L&T... - Moneycontrol.com",-0.9469794034957886
-HDFCLIFE,2023-12-19,"Karur Vysya Bank, HDFC Life enter into corporate agency tie-up - The Economic Times",-0.8690711259841919
-HDFCLIFE,2021-04-28,"HDFC Bank, Axis Bank and HDFC Life top picks for next 12-18 months: Avneesh Sukhija - The Economic Times",-0.9071091413497925
-HDFCLIFE,2025-10-16,Buy HDFC Life Insurance; target of Rs 850: Emkay Global Financial - Moneycontrol.com,-0.9324151277542114
-HDFCLIFE,2026-01-14,HDFC Life Q3 preview: Double-digit APE growth likely in Q3; input tax credit loss to weigh on margins - Moneycontrol.com,-0.9185466766357422
+HDFCLIFE,2022-10-10,HDFC Life adopts cloud for efficient financial reporting - ET CIO,-0.8119331002235413
+HDFCLIFE,2025-10-17,"HDFC Life expects margins recovery, strong VNB growth by FY28 amid product mix shift - ET BFSI",0.9555211663246155
+HDFCLIFE,2026-01-22,Hdfc Life’s reinforces the role of values and financial planning in latest brand campaign - ET BrandEquity,-0.7711496949195862
+HDFCLIFE,2025-05-02,Vishal Subharwal quits HDFC Life; Pritika Shah elevated to head marketing - ET BrandEquity,-0.9201325178146362
+HDFCLIFE,2021-09-24,Here's how HDFC life elevated their data modernization journey - ET CIO,-0.922173023223877
+HDFCLIFE,2025-07-17,HDFC Life’s growth outlook cautiously optimistic; margins to stay range-bound - ET BFSI,0.9428186416625977
+HDFCLIFE,2021-03-31,Mentoring with a transparent culture will help women employees hold key business positions in future: Vibhas.. - ETHRWorld.com,-0.7913202047348022
+HDFCLIFE,2020-05-22,How IT enabled 18% revenue growth at HDFC Life amidst Covid-19 - ET CIO,0.9122312068939209
+HDFCLIFE,2018-09-12,HDFC Life names Vibha Padalkar as MD & CEO - The Economic Times Video | ET Now - The Economic Times,-0.94190514087677
+HDFCLIFE,2021-09-03,HDFC Life to Acquire Rival in India’s Biggest Insurance Deal - Bloomberg.com,-0.6322878003120422
+HDFCLIFE,2019-11-07,HDFC Life collaborates with Google to maximise campaign results - ET BrandEquity,0.5568550229072571
+HDFCLIFE,2018-02-03,Dentsu Webchutney presents Captain Life at Comic-Con Bengaluru for HDFC Life - ET BrandEquity,-0.9351891279220581
+HDFCLIFE,2018-06-25,We are trying to disrupt ourselves from within: HDFC Life COO Subrat Mohanty - ET CIO,-0.6175970435142517
+HDFCLIFE,2025-12-08,Hdfc Life inspires Indians to secure their ‘life ki script’ - ET BrandEquity,0.7045420408248901
+HDFCLIFE,2015-12-17,HDFC Life implements SAP HANA for its entire SAP portfolio - ET CIO,-0.8907515406608582
+HDFCLIFE,2024-09-09,Rishabh Pant’s story powers HDFC Life’s campaign - ET BrandEquity,-0.7976207733154297
+HDFCLIFE,2022-10-15,HDFC Life completes merger of Exide Life - ET BFSI,-0.8693591356277466
+HDFCLIFE,2024-12-05,1.6 crore customer records of HDFC Life being sold on Dark Web: CyberPeace - ET CIO,-0.9431431889533997
+HDFCLIFE,2022-10-15,Irdai grants approval to merger of Exide Life into HDFC Life - ETLegalWorld.com,-0.7885440587997437
+HDFCLIFE,2024-04-04,"Rohit Kilam, CTO, HDFC Life Insurance on the transformation of BFSI - ET CIO",-0.9200063943862915
+HDFCLIFE,2017-03-02,HDFC Life in partnership with Haptik brings first of its kind life insurance chatbot in India - ET CIO,0.5290423631668091
+HDFCLIFE,2024-11-07,HDFC Life & riidl Somaiya Vidyavihar Join Hands for Futurance Phase 6 'Demo Day' - ET BFSI,-0.6741340756416321
+HDFCLIFE,2025-12-26,"HDFC Life to rely on internal cash flows, not equity, as solvency norms tighten: CFO Niraj Shah - ETCFO.com",-0.9105571508407593
+HDFCLIFE,2024-12-13,Pushkar Wadhone joins HDFC Life as Vice President - HR - ETHRWorld.com,-0.942449152469635
+HDFCLIFE,2024-12-15,HDFC Life Insurance faces ₹3.09 cr demand under GST - ETLegalWorld.com,-0.5392831563949585
+HDFCLIFE,2017-05-22,HDFC Life brings India's first AI-based insurance email bot SPOK - ET CIO,-0.7293092608451843
+HDFCLIFE,2021-02-22,Thomson Thomas CIO of HDFC Life resigns - ET CIO,-0.9486161470413208
+HDFCLIFE,2025-01-24,HDFC Life’s new campaign highlights parental values and financial planning - ET BrandEquity,-0.7442691922187805
+HDFCLIFE,2022-07-26,HDFC Life’s latest campaign promotes financial planning for the children’s futures - ET BrandEquity,-0.7278539538383484
+HDFCLIFE,2017-02-08,HDFC Life promotes the idea of self-reliance in its new ad campaign - ET BrandEquity,-0.836770236492157
+HDFCLIFE,2015-08-08,HDFC Life brings in Lisa Ray to promote new 'Cancer Care' offering - ET BrandEquity,-0.661915123462677
+HDFCLIFE,2025-10-15,HDB Financial Services Q2 profit slips 1.5 pc to Rs 581 crore - ET BFSI,-0.9720715284347534
+HDFCLIFE,2024-09-25,HDFC Life Announces a Tri-party Tie-Up with Metropolis and CallHealth - ET BFSI,-0.7174901366233826
+HDFCLIFE,2017-10-14,"SBI Life Share Price Today, SBI Life Stock Price Live NSE/BSE Updates - The Economic Times",-0.939715564250946
+HDFCLIFE,2024-12-06,"Working Women, Tier-3 Cities drive growth in life insurance confidence: Report - ET BFSI",0.5604862570762634
+HDFCLIFE,2021-02-10,HDFC Life’s new digital film salutes the Indian Army - ET BrandEquity,-0.8070398569107056
+HDFCLIFE,2022-02-07,Pratik Gandhi asks customers to ‘compromise no more’ in HDFC Life ad - ET BrandEquity,-0.8625746965408325
+HDFCLIFE,2025-02-11,Private life insurers to lead APE growth in FY25 as LIC struggles - ET BFSI,0.8992915749549866
+HDFCLIFE,2022-08-13,Kalpesh Doshi Joins HDFC Life as CISO - ET CIO,-0.9459370970726013
+HDFCLIFE,2020-08-05,HDFC Life’s new campaign sheds light on term insurance plans - ET BrandEquity,-0.9101420044898987
+HDFCLIFE,2019-05-13,Airtel bundles HDFC Life insurance cover with Rs 249 prepaid plan - ET Telecom,-0.6575583815574646
+HDFCLIFE,2019-09-14,"Sbi life insurance - Latest sbi life insurance , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9516432881355286
+HDFCLIFE,2021-01-08,"HDFC AMC Q1 Results: PAT jumps 26% YoY to Rs 604 crore, revenue surges 35% - The Economic Times",0.9387610554695129
+HDFCLIFE,2022-04-27,"LIC Share Price Today, LIC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9366926550865173
+HDFCLIFE,2019-06-27,"HDFC Life launches its musical logo, to be used across customer touch points - ET BrandEquity",-0.7928168773651123
+HDFCLIFE,2019-10-04,"Icici prudential life insurance - Latest icici prudential life insurance , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9506882429122925
+HDFCLIFE,2017-03-23,"Max Financial Share Price Today, Max Financial Stock Price Live NSE/BSE Updates - The Economic Times",-0.9417448043823242
+HDFCLIFE,2024-04-03,"Life Insurance brands failing to raise CX bar, Industry's NPS stagnated - ET BFSI",-0.8899871706962585
+HDFCLIFE,2017-10-15,SBI Life Insurance Company Ltd. - The Economic Times,-0.9276003241539001
+HDFCLIFE,2026-03-05,HDFL.NS - | Stock Price & Latest News - Reuters,-0.9287397861480713
+HDFCLIFE,2026-03-10,HDFL.M3 - | Stock Price & Latest News - Reuters,-0.9339846968650818
+HDFCLIFE,2019-11-18,"Keki mistry - Latest keki mistry , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9475017189979553
+HDFCLIFE,2025-04-24,"India's SBI Life quarterly profit flat, group insurance demand slows - Reuters",-0.9673377871513367
+HDFCLIFE,2018-07-18,"HDFC AMC Share Price Today, HDFC AMC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9410324692726135
+HDFCLIFE,2025-07-21,"HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains - Reuters",0.6184461116790771
+HDFCLIFE,2025-01-05,HDFC Bank gets RBI approval to hike investments in 3 banks - ET BFSI,0.9067702889442444
+HDFCLIFE,2025-12-06,"SBI Life, Max Financial ripe for re-rating as insurance sector navigates regulatory shifts - ET BFSI",-0.5814689993858337
+HDFCLIFE,2018-07-18,HDFC Asset Management Company Ltd. - The Economic Times,-0.9318380951881409
+HDFCLIFE,2025-04-29,"Pahalgam terror attack: Insurers step up with special window, support measures - ET BFSI",0.805364191532135
+HDFCLIFE,2026-01-28,ICICI Prudential Life Insurance Company Ltd. - The Economic Times,-0.9318598508834839

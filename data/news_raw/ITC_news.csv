@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-ITC,2024-04-25,ITC Share Price Live Updates: ITC Stock Details - The Economic Times,-0.9355031251907349
-ITC,2024-06-07,"ITC Stocks Live Updates: ITC Sees 1.16% Price Increase, Average Daily Volatility at 2.86 Units Over 3 Mon - The Economic Times",0.8867439031600952
-ITC,2024-03-12,ITC Share Price Today Live Updates: ITC Stock Details - The Economic Times,-0.9360087513923645
-ITC,2026-03-12,"Delta Autocorp Cash Flow, Financial Statements - The Economic Times",-0.9261279702186584
-ITC,2026-03-09,"Half Yearly Results, Half yearly Earnings for Stanbik Agro - The Economic Times",-0.9261316657066345
-ITC,2024-01-17,ITC Stocks Live Updates: ITC Closes at Rs 472.3 with 0.3% Decrease in Previous Day's Trading - The Economic Times,-0.9644275307655334
-ITC,2026-03-09,"Kenrik Industries Nine Monthly Results, Nine Monthly Earnings for Kenrik Industries - The Economic Times",-0.910885214805603
-ITC,2024-04-10,"ITC Stocks Live Updates: ITC Sees Marginal Price Increase, EMA7 Reflects Positive Trend - The Economic Times",0.9150387644767761
-ITC,2026-03-11,"Grover Jewells Cash Flow, Financial Statements - The Economic Times",-0.9256701469421387
-ITC,2024-01-24,ITC Stocks Live Updates: ITC News - The Economic Times,-0.9372614622116089
-ITC,2023-12-08,"Breakouts Updates: ITC Stock Price Breaks Support Level, Trading Below S2 at 452.65 Rs - The Economic Times",-0.9265727996826172
-ITC,2024-01-15,"ITC Stocks Live Updates: ITC Trades at Rs 467.35 with Slight Gain of 0.14% Today, EMA5 at Rs 466.35 - The Economic Times",0.4851122796535492
-ITC,2024-03-26,ITC Stocks Live Updates: ITC Closes at Rs 428.6 with 1-Month Return of 3.41% - The Economic Times,-0.8361698389053345
-ITC,2024-04-18,"Moving Averages Updates: ITC Stock Price Falls Below 20-Day EMA at Rs 424.55, Registers 0.32% Decline - The Economic Times",-0.9685415625572205
-ITC,2024-03-06,"ITC Stocks Live Updates: ITC Trades at Rs 403.3, Registers -0.71% Change Today and 41.28% 5-Year Returns - The Economic Times",-0.7937542200088501
-ITC,2024-04-19,ITC Stocks Live Updates: ITC Sees Marginal Price Increase of 0.83% with SMA3 Holding Steady at 422.35 - The Economic Times,0.9438300728797913
-ITC,2026-03-12,"West Asia Crisis: Indian paper industry faces rising energy cost, export disruption - The Economic Times",-0.9552009105682373
-ITC,2024-02-09,"ITC Stocks Live Updates: ITC Sees Slight Increase in Price Today, but Weekly Returns Show a Decline - The Economic Times",0.6815102696418762
-ITC,2026-03-12,"Taking Stock: Nifty, Sensex extend losses for second day as oil surges; rupee falls - Moneycontrol.com",-0.9351736903190613
-ITC,2026-03-12,"JioBlackRock Flexi Cap Fund adds Swiggy, Gujarat Gas; exits Mahanagar Gas and 18 others - The Economic Times",-0.8369818329811096
-ITC,2024-04-10,"ITC Stocks Live Updates: ITC Closes at Rs 426.35 with 0.64% Decline in Previous Day Trading, Volume Reach - The Economic Times",-0.9634401798248291
-ITC,2024-05-09,ITC Share Price Today Live Updates: ITC News - The Economic Times,-0.9407238960266113
-ITC,2026-03-13,ET Prime Special: How companies manipulate government incentives and create a false picture - The Economic Times,-0.7512105107307434
-ITC,2026-03-13,"India, get a foot into FIFA World Cup? - The Economic Times",-0.9190269708633423
-ITC,2026-03-13,"TRAI proposes AI tools to detect & block spam calls, messages - The Economic Times",-0.901605486869812
-ITC,2026-03-13,India-Gulf flights slowly resume amid turbulence - The Economic Times,-0.5013644099235535
-ITC,2026-03-13,Competition for Russian crude oil set to intensify - The Economic Times,-0.7873034477233887
-ITC,2026-03-13,NARCL to buy Kurukshetra e-way debt - The Economic Times,-0.8755174875259399
-ITC,2026-03-13,"Inside Akasa’s big plans, and other exclusives - The Economic Times",-0.9452126026153564
-ITC,2026-03-13,HDFC Defence Fund exits this large cap stock that went up by 400% in 5 years - The Economic Times,0.8061690330505371
-ITC,2026-03-13,Gas Shortage and Wajid Ali Shah’s Biryani: How energy shocks could reshape food supply - The Economic Times,-0.8558648824691772
-ITC,2023-12-01,"ITC Stocks Live Updates: ITC Sees 2.74% Increase in Price Today, Delivers 31.63% Returns in 1 Year - The Economic Times",0.933978259563446
-ITC,2026-03-13,"Why US stock market surging today: Dow Jones, S&P 500, Nasdaq rise as Russell 2000 leads - PCE inflation d - The Economic Times",-0.790666937828064
-ITC,2026-03-13,"West Asia War: India steelmakers brace for higher input costs, risk of cheaper imports - The Economic Times",-0.6783453226089478
-ITC,2026-03-13,Y Combinator brings Startup School to India; here is what it means for your startup - The Economic Times,-0.8999419212341309
-ITC,2026-03-13,Urea shortage to halt goods movement? Auto industry warns diesel truck fleet could be immobilised - The Economic Times,-0.9187871217727661
-ITC,2026-03-13,Fitch raises India FY26 GDP growth forecast to 7.5% on strong domestic demand - The Economic Times,0.9126535654067993
-ITC,2026-03-12,"US stock market deep in red today: Why Dow Jones, S&P 500 and Nasdaq crash again - Dow drops 600 points an - The Economic Times",-0.7914751172065735
-ITC,2026-03-10,Parag Parikh Flexi Cap Fund: MCX and IGL among stocks bought and sold in February - Largest fund portfolio - The Economic Times,-0.8698049187660217
-ITC,2026-03-13,"Smartphone brand Nothing plans to make India an export hub, begins shipments to US - The Economic Times",0.5543187260627747
-ITC,2026-03-13,India’s captive and commercial coal output crosses 200 MT so far in FY26 - The Economic Times,0.535907506942749
-ITC,2026-03-13,Why S&P 500 and Nasdaq down today while Dow Jones holds steady: US stock market turns cautious as VIX at 2 - The Economic Times,-0.9307298064231873
-ITC,2026-03-13,"Heineken doubles down on India, eyes 'biggest untapped beer market' - The Economic Times",-0.5713523030281067
-ITC,2026-03-13,Stolen Indian idols abroad: Why global rules on sacred antiquities must change - The Economic Times,-0.8333113789558411
-ITC,2026-03-13,Inside Dubai’s Cashless 2026 Shift - The Economic Times,-0.8856378793716431
-ITC,2026-03-13,"India’s imports from China slowed overtime, exports grow faster: Govt tells Parliament - The Economic Times",-0.6681627631187439
-ITC,2026-03-13,"India protects key sectors under 'powerful' US trade deal, says Piyush Goyal - The Economic Times",0.8838736414909363
-ITC,2026-03-13,TRAI moots termination charges to tackle spam - The Economic Times,-0.7138910293579102
-ITC,2026-03-13,Auto sector races to record February on double-digit sales growth - The Economic Times,0.8440303206443787
-ITC,2026-03-13,Adobe CEO Shantanu Narayen to step down after 18 years - The Economic Times,-0.8375062346458435
+ITC,2026-03-20,ITC stock heads for worst FY return in 6 years; is this buy opportunity? - Business Standard,-0.7684497237205505
+ITC,2026-03-20,"ITC gains 3%, outperforms Sensex in recent market fall; here's why - Business Standard",0.6614199280738831
+ITC,2026-03-16,"Gas shortage: Why Nomura sees 'negligible impact' on HUL, ITC, Dabur? - Business Standard",-0.874146044254303
+ITC,2026-03-22,Hyatt Regency Dehradun Resort and Spa appoints Ashish Singh as executive housekeeper - ET Hospitality,-0.9164257049560547
+ITC,2026-03-21,"Zetwerk IPO: Size, valuation, timeline and other details we know so far - The Economic Times",-0.9510206580162048
+ITC,2026-03-22,"'BJP a zero-seat party,' Shashi Tharoor says UDF set to win Kerala | Kerala assembly elections - The Economic Times",-0.8035221099853516
+ITC,2026-03-21,"‘Not America first, America alone’: Grace Meng slams Trump over ‘illegal’ Iran war; $2.2bn UN debt - The Economic Times",-0.7712024450302124
+ITC,2026-03-21,"F-35 hit mid-mission, USS Ford fire: Is US military dominance under real-world stress test now - The Economic Times",-0.5856313705444336
+ITC,2026-03-21,US-Israel-Iran War Day 22 | Iranian missile hits Kindergarten in central Israel; no injuries reported - The Economic Times,-0.7326543927192688
+ITC,2026-03-20,Happiest Minds up 11% as PE firms eye majority stake; company clarifies - Business Standard,0.9399566054344177
+ITC,2026-03-20,Firstcry parent Brainbees Solutions hits 20% upper circuit on heavy volumes - Business Standard,0.8859072327613831
+ITC,2026-03-20,"Sensex and Nifty rise after rout, volatile crude oil prices cap gains - Business Standard",0.599944531917572
+ITC,2026-03-20,Maha Rashtra Apex Corporation Ltd leads losers in 'B' group - Business Standard,-0.8162589073181152
+ITC,2026-03-20,Petronet LNG share price: Nomura cuts target as Qatar crisis hits volumes - Business Standard,-0.8319348692893982
+ITC,2026-03-20,Sensex surges over 516 pts; pharma shares advance - Business Standard,0.9185733795166016
+ITC,2026-03-22,"Capex pours into 3 states, yet efficiency blooms elsewhere: Report - Business Standard",-0.6198165416717529
+ITC,2026-03-20,"Samvardhana Motherson shares rise 3% on dividend announcement, JV update - Business Standard",0.8019720911979675
+ITC,2026-03-22,The story behind promotions in PSBs and the growing need for reform - Business Standard,-0.8896358013153076
+ITC,2026-03-20,"Mahindra Holidays launches new resorts in Maharashtra, Madhya Pradesh - Business Standard",-0.5953995585441589
+ITC,2026-03-22,South Indian Bank appoints ex-RBI ED Jose Kattoor as part-time chairman - Business Standard,-0.936099648475647
+ITC,2026-03-22,"Share Market Today | Latest Stock Market News, Sensex Today and Nifty Live Updates - Business Standard",-0.9348509311676025
+ITC,2026-03-20,Silver may retest $64 support; break could trigger fall to $59-$60: Analyst - Business Standard,-0.9212088584899902
+ITC,2026-03-22,"Turbulence ahead as Iran war escalates, threatens equity market stability - Business Standard",-0.7532548904418945
+ITC,2026-03-22,Uber India shifts from reactive to predictive safety: Sooraj Nair - Business Standard,-0.885952889919281
+ITC,2026-03-21,Parliamentary panel flags underutilisation of funds in river-linking scheme - Business Standard,-0.9299471974372864
+ITC,2026-03-22,Govt likely to consider OFS option for raising public float in IDBI Bank - Business Standard,-0.8133952021598816
+ITC,2026-03-22,"SC directs states, UTs to submit details on prisons, including overcrowding - Business Standard",-0.9523983001708984
+ITC,2026-03-21,"Gen-Next Bharat Startup Summit at ACIC-VGU Highlights MeitY GENESIS Momentum, Positions Jaipur as Emerging Education and Startup Hub - Business Standard",0.9236611127853394
+ITC,2026-03-20,Balkrishna Industries gets new 'Buy' from JM Fin; sees 15% stock upside - Business Standard,0.9247793555259705
+ITC,2026-03-20,"Sell Gold with tight stop-loss as bears eye $4,400 support: Analyst - Business Standard",-0.845984935760498
+ITC,2026-03-22,"West Asia biz 'near normal' amid war, says L&T's Subramanian Sarma - Business Standard",0.6079135537147522
+ITC,2026-03-22,NCLT allows withdrawal of insolvency process against ATS Knightsbridge - Business Standard,-0.9143730401992798
+ITC,2026-03-22,"FPI flows into FAR securities turn negative amid global risks, oil surge - Business Standard",-0.9512001872062683
+ITC,2026-03-22,"Apple CEO praises Chinese developers, partners amid Beijing's pressure - Business Standard",0.8103986382484436
+ITC,2026-03-22,India a long-term investment with strong ecomm growth potential: Amazon V-P - Business Standard,0.724316418170929
+ITC,2026-03-22,"West Asia war, crude oil prices likely to steer stock markets this week - Business Standard",-0.8223477005958557
+ITC,2026-03-22,Orissa High Court upholds elderly man's right to stay in ancestral home - Business Standard,-0.7581387162208557
+ITC,2026-03-22,AC makers cautious as unusual rain may disrupt early summer demand - Business Standard,-0.939431369304657
+ITC,2026-03-22,More than half of countries have banned phones in schools: Unesco - Business Standard,-0.5283114314079285
+ITC,2026-03-22,"Gold, silver may see mild recovery next week; PMI, crude in focus - Business Standard",0.6422553062438965
+ITC,2026-03-22,'Skoda Auto India eyeing up to 12% sales growth in 2026 on product push' - Business Standard,0.8890604376792908
+ITC,2026-03-22,"New tax rules ease registration, cut record-keeping for charitable trusts - Business Standard",-0.7604405283927917
+ITC,2026-03-21,Govt to lift airfare cap from March 23 imposed after IndiGo disruptions - Business Standard,-0.6501175165176392
+ITC,2026-03-22,EPC player Trenzet Infra files papers with Sebi to raise funds via IPO - Business Standard,-0.9117437601089478
+ITC,2026-03-22,"'India, Australia must boost renewable energy ties via climate partnership' - Business Standard",0.7770909070968628
+ITC,2026-03-21,"PM Modi conveys greetings on Eid-ul-Fitr, hopes for further brotherhood - Business Standard",0.6075044870376587
+ITC,2026-03-22,Amazon India workers union calls for better wages amid LPG curbs - Business Standard,-0.7098594307899475
+ITC,2026-03-22,"Sebi board to consider FPI settlement norms, intermediary reforms on Monday - Business Standard",-0.8886487483978271
+ITC,2026-03-22,Kotak Mahindra Capital divests nearly 31% stake in Infina Finance - Business Standard,-0.6665306091308594
+ITC,2026-03-22,Domestic urea plants at half capacity as West Asia war choke gas supplies - Business Standard,-0.9525384306907654
+ITC,2026-03-22,Shockwave of West Asia conflict is rippling through global economy - Business Standard,-0.5187004804611206
+ITC,2026-03-22,Diesel price hike hits sugar mills; mining sector flags cost impact - Business Standard,-0.946414589881897
+ITC,2026-03-22,Seven killed in Qatar helicopter crash due to technical malfunction - Business Standard,-0.9471708536148071
+ITC,2026-03-21,Govt raises commercial LPG allocation to 50% as gas crisis hits sectors - Business Standard,0.8224103450775146
+ITC,2026-03-21,Air India to introduce crew fitness policy; lapses may lead to pay loss - Business Standard,-0.9653970003128052
+ITC,2026-03-21,Villarreal defeat Real Sociedad 3-1 to move into third place in La Liga - Business Standard,0.7752519845962524
+ITC,2026-03-22,Hike in bulk diesel prices withdrawn for Gujarat fishermen after state push - Business Standard,0.7897020578384399
+ITC,2026-03-22,"Iran war halts Qatar helium output, threatening global tech supply chains - Business Standard",-0.9400915503501892
+ITC,2026-03-20,RBI to conduct ₹1 trn overnight variable rate repo auction on Mar 23 - Business Standard,-0.9456554651260376
+ITC,2026-03-22,JSW MG Motor bets on non-metros to accelerate sales of EV Windsor - Business Standard,0.9485291838645935
+ITC,2026-03-22,"Dredging Corp aiming to more than double turnover to ₹3,000 cr: CEO - Business Standard",-0.555565357208252
+ITC,2026-03-22,Tata Capital gets ₹413 cr tax demand; to challenge reassessment order - Business Standard,0.6070727705955505
+ITC,2026-03-21,"Delhi CM meets PM Modi, discusses national capital's development - Business Standard",-0.9334501028060913
+ITC,2026-03-21,"World Water Day: 97% Unusable, 2.5% Limited, 0.007% Critical: Earth's Water Equation - Business Standard",-0.9301208257675171
+ITC,2026-03-22,"L&T hopes govt will sustain capex, widen deficit amid West Asia crisis - Business Standard",0.9270492196083069
+ITC,2026-03-22,"Orleans Masters 2026: Tanvi, Isharani defeat ends India's campaign - Business Standard",-0.8527475595474243
+ITC,2026-03-22,Ready to supply more than 20% ethanol blends amid rising oil prices: AIDA - Business Standard,0.7481046319007874
+ITC,2026-03-22,Brighton hand Liverpool 2-1 defeat to extend Premier League slump - Business Standard,-0.8969457745552063
+ITC,2026-03-22,"IPL 2026: Kohli calls on RCB to switch on, avoid wasting any minute - Business Standard",-0.8978816270828247
+ITC,2026-03-21,IPL 2026: Iyer eyes title win as Punjab Kings stress squad bonding - Business Standard,-0.5272645354270935
+ITC,2026-03-22,"Coal imports fall 4.2% in Apr-Jan FY26, to remain subdued in near term - Business Standard",-0.9696567058563232
+ITC,2026-03-22,"Qatar confirms 6 killed in helicopter crash in Persian Gulf, 1 missing - Business Standard",-0.9313554763793945
+ITC,2026-03-21,Kerala approaches Centre to verify reports of native's death in Israel - Business Standard,-0.9254018068313599
+ITC,2026-03-21,"Himachal CM Sukhu tables ₹54,928-crore Budget for FY27 in Assembly - Business Standard",-0.8783072233200073
+ITC,2026-03-22,"Rain, thunderstorms hit large parts of India; temperatures set to rise: IMD - Business Standard",-0.8583934307098389
+ITC,2026-03-22,PM Modi reviews energy supplies at CCS meet amid West Asia conflict - Business Standard,-0.7689078450202942
+ITC,2026-03-22,Narine to Jadeja: IPL legends who have not won the Purple Cap so far - Business Standard,-0.8487045168876648
+ITC,2026-03-21,IPL 2026: Kolkata's bowling lacks the fear factor this year - R Ashwin - Business Standard,-0.8812646865844727
+ITC,2026-03-22,PSL 2026 to be played without crowds due to West Asia conflict; here's why - Business Standard,-0.9281641840934753
+ITC,2026-03-21,Iranian Navy guided Indian LPG tanker through Strait of Hormuz: Report - Business Standard,-0.8737937808036804
+ITC,2026-03-22,"Uttarakhand emerges as top tourism destination for faith, adventure - Business Standard",0.8227716684341431
+ITC,2026-03-22,ISL 2026: Punjab FC secure 3-1 win over Kerala Blasters FC in clash - Business Standard,0.9204546809196472
+ITC,2026-03-21,"IPL 2026: Dhoni likely to play mentor-cum-player role for CSK, says Uthappa - Business Standard",-0.8396813273429871
+ITC,2026-03-21,"PWD installs QR code boards on roads for public feedback, transparency - Business Standard",-0.9250470399856567
+ITC,2026-03-22,Senegal's FIFA World Cup 2026 kit to carry one AFCON star instead of two - Business Standard,-0.920061469078064
+ITC,2026-03-21,Cameron McEvoy claims 50m freestyle world record in record-breaking swim - Business Standard,-0.7491795420646667
+ITC,2026-03-20,"Sensex settles 326 pts higher; Nifty ends above 23,100 level - Business Standard",0.8976506590843201
+ITC,2026-03-22,Delhi set to host first international film festival from March 25-31 - Business Standard,-0.8973799347877502
+ITC,2026-03-22,FIFA World Cup 2026: What are Italy's chances of dropping the ball again? - Business Standard,-0.8707795739173889
+ITC,2026-03-22,Telangana's total debt stands at ₹8 trn as of Dec 2025: Govt report - Business Standard,-0.9429861903190613
+ITC,2026-03-21,Punjab Minister Laljit Bhullar resigns after manager's suicide in Amritsar - Business Standard,-0.7863473892211914
+ITC,2026-03-22,Indian refiners willing to purchase Iranian energy after US waiver - Business Standard,-0.520004153251648
+ITC,2026-03-22,"West Asia crisis: Hormuz closure forcing Trump, importers to seek solution - Business Standard",-0.7760692238807678
+ITC,2026-03-21,"Assam Assembly elections: BJP expands list, announces 2 more candidates - Business Standard",-0.7503785490989685
+ITC,2026-03-22,CoinDCX founders arrested in fraud case; crypto firm flags 'impersonation' - Business Standard,-0.8641796112060547
+ITC,2026-03-22,Belding India Share Price - Business Standard,-0.935222864151001
+ITC,2026-03-21,Iran ready to allow Japanese vessels through Strait of Hormuz after talks - Business Standard,0.5638167858123779
+ITC,2026-03-22,West Asia war: PM Modi calls ministerial meeting to review energy situation - Business Standard,-0.908900797367096
+ITC,2026-03-21,Sunetra Pawar forwards Rupali Chakankar's resignation to CM Fadnavis - Business Standard,-0.708708643913269
+ITC,2026-03-22,"Odisha lines up 34 mineral blocks for FY27 auction, includes gold deposits - Business Standard",-0.9167168140411377

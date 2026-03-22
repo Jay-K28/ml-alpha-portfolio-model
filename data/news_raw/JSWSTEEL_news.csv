@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-JSWSTEEL,2026-03-11,Buy JSW Steel; target of Rs 1400: Motilal Oswal - Moneycontrol.com,-0.9364681243896484
-JSWSTEEL,2026-03-09,"Crude oil surge impact: Auto, metal shares plunge up to 4.5%; Tata Motors PV, M&M, JSW Steel lead... - Moneycontrol.com",-0.901465892791748
-JSWSTEEL,2024-03-01,JSW Steel Share Price Live Updates: JSW Steel News - The Economic Times,-0.9334137439727783
-JSWSTEEL,2024-04-23,JSW Steel Stocks Live Updates: JSW Steel Closes at Rs 854.80 with 1-Month Return of 3.64% - The Economic Times,-0.4954732060432434
-JSWSTEEL,2024-05-09,JSW Steel Share Price Live Updates: JSW Steel Closes at Rs 864.65 with 6-Month Beta Coefficient of 1.69 - The Economic Times,-0.4608844816684723
-JSWSTEEL,2023-11-17,"JSW Steel Share Price Live Updates: JSW Steel Sees Slight Price Increase of 0.24% Today, EMA3 at 769.14 - The Economic Times",0.9416808485984802
-JSWSTEEL,2023-12-19,"JSW Steel Share Price Updates: JSW Steel Witnesses Slight Price Increase of 0.47% Today, Trading at Rs 85 - The Economic Times",0.9429559707641602
-JSWSTEEL,2024-04-09,"JSW Steel Share Price Live Updates: JSW Steel Sees Minor Decline in Price, EMA3 Indicates Stability - The Economic Times",-0.8703413009643555
-JSWSTEEL,2024-02-19,JSW Steel Share Price Updates: JSW Steel Closes at Rs 820.1 with Slight 0.02% Gain - The Economic Times,-0.500783383846283
-JSWSTEEL,2024-02-12,"Moving Averages Updates: JSW Steel's Stock Price Dips Below 100-Day EMA, Reflecting a 0.60% Decrease - The Economic Times",-0.9740851521492004
-JSWSTEEL,2024-04-12,"JSW Steel Share Price Today Live Updates: JSW Steel Sees Price Dip of 1.18% Today, 3-Month Returns Stand - The Economic Times",-0.7966492176055908
-JSWSTEEL,2024-04-12,JSW Steel Share Price Today Live Updates: JSW Steel Closes at Rs 883.95 with Strong Trading Volume - The Economic Times,0.7149600386619568
-JSWSTEEL,2024-05-30,JSW Steel Stocks Live Updates: JSW Steel Stock Details - The Economic Times,-0.931493878364563
-JSWSTEEL,2023-12-08,"JSW Steel Stocks Live Updates: JSW Steel Witnesses 3.41% Price Surge, SMA5 Indicates Positive Trend - The Economic Times",0.8360203504562378
-JSWSTEEL,2024-04-26,"JSW Steel Share Price Today Live Updates: JSW Steel Sees Minor Decline, EMA5 Suggests Support at Rs 880.9 - The Economic Times",-0.9261139631271362
-JSWSTEEL,2024-04-26,JSW Steel Share Price Today Live Updates: JSW Steel Closes at Rs 905.80 with Strong Trading Volume - The Economic Times,0.671572208404541
-JSWSTEEL,2024-04-25,"JSW Steel Share Price Live Updates: JSW Steel Sees Slight Gain Today, Reports Strong 1-Year Returns of 21 - The Economic Times",0.9303573369979858
-JSWSTEEL,2024-04-29,JSW Steel Share Price Live Updates: JSW Steel Closes at Rs 887.25 with 1-Month Return of 7.95% - The Economic Times,-0.5895516872406006
-JSWSTEEL,2024-04-26,"JSW Steel Share Price Today Live Updates: JSW Steel Sees Price Dip to Rs 896.35, SMA5 Reaches Rs 878.2 Am - The Economic Times",-0.938683271408081
-JSWSTEEL,2024-04-29,JSW Steel Share Price Live Updates: JSW Steel Closes at Rs 887.25 with 6-Month Beta of 1.6872 - The Economic Times,-0.5906854867935181
-JSWSTEEL,2024-02-16,"JSW Steel Share Price Today Live Updates: JSW Steel Sees Slight Gain in Stock Price, Beta Reflects Market - The Economic Times",0.9404345750808716
-JSWSTEEL,2024-02-23,JSW Steel Share Price Live Updates: JSW Steel Closes Marginally Higher at Rs 828.65 with Trading Volume o - The Economic Times,0.8350757360458374
-JSWSTEEL,2024-05-15,"JSW Steel Share Price Live Updates: JSW Steel Sees Price Dip of 1.47% Today, But 6-Month Returns Remain S - The Economic Times",-0.7088356614112854
-JSWSTEEL,2024-05-08,JSW Steel Share Price Live Updates: JSW Steel Stock Details - The Economic Times,-0.9309226274490356
-JSWSTEEL,2024-04-16,"JSW Steel Share Price Today Live Updates: JSW Steel Sees Minor Decline in Stock Price, SMA7 Reflects Shor - The Economic Times",-0.9357671737670898
-JSWSTEEL,2024-04-10,JSW Steel Share Price Today Live Updates: JSW Steel Sees Slight Gain as EMA5 Indicates Positive Trend - The Economic Times,0.9410536885261536
-JSWSTEEL,2024-04-23,"JSW Steel Stocks Live Updates: JSW Steel Sees 1.01% Price Surge, EMA3 at Rs 859.79 Signals Positive Momen - The Economic Times",0.8835697770118713
-JSWSTEEL,2024-05-03,JSW Steel Share Price Live Updates: JSW Steel Sees 1.21% Price Increase with Strong Trading Volume - The Economic Times,0.9420063495635986
-JSWSTEEL,2024-04-12,JSW Steel Share Price Today Live Updates: JSW Steel Closes at Rs 883.95 with 6-Month Beta of 1.69 - The Economic Times,-0.5086382627487183
-JSWSTEEL,2024-04-23,JSW Steel Stocks Live Updates: JSW Steel Sees Incremental Growth: Current Price at Rs 860.60 with 0.68% D - The Economic Times,0.9133086204528809
-JSWSTEEL,2026-03-10,JSW Steel - Top 10 high growth large-cap stocks: Profit surges over 50% YoY in Q3FY26 - The Economic Times,0.8948028087615967
-JSWSTEEL,2024-03-05,JSW Steel Share Price Today Live Updates: JSW Steel Witnesses a 0.98% Decline in Today's Trading; 6-Month - The Economic Times,-0.9135141968727112
-JSWSTEEL,2026-03-12,JSW Steel - 8 Nifty200 stocks where promoters reduced pledges in Q3FY26 - The Economic Times,-0.7427510619163513
-JSWSTEEL,2023-12-19,JSW Steel Share Price Live Updates: JSW Steel Closes at Rs 854.9 with 1.42% Decrease in Previous Day's Tr - The Economic Times,-0.9443155527114868
-JSWSTEEL,2024-03-19,JSW Steel Share Price Live Updates: JSW Steel Trades at Rs 799.1 with -0.66% Change Today and 81.65% 3-Ye - The Economic Times,-0.5824621915817261
-JSWSTEEL,2010-04-08,"Business News Today: Stock and Share Market News, Economy and Finance News, Sensex, Nifty, Global Market, NSE, BSE Live IPO News - Moneycontrol.com - Moneycontrol.com",-0.9459477663040161
-JSWSTEEL,2026-03-09,India's finished steel exports jump 36.6% in April-February - The Economic Times,0.8486505150794983
-JSWSTEEL,2026-03-08,"Middle East crisis may drive up steel costs as oil, freight surge: BigMint - The Economic Times",-0.5553619861602783
-JSWSTEEL,2026-03-09,Lucky numbers and collusion: How an Indian cement cartel came unstuck - The Economic Times,-0.8918620944023132
-JSWSTEEL,2024-04-15,JSW Steel Share Price Today Live Updates: JSW Steel Dividend Updates - The Economic Times,-0.9284059405326843
-JSWSTEEL,2026-03-08,Stainless steel companies seek govt action on China dumping & raw materials - The Economic Times,-0.9092133641242981
-JSWSTEEL,2026-03-13,"Taking Stock: Bears drag Nifty to 23,150, Sensex crashes 1,470 pts; auto, metal, PSU Banks worst hit - Moneycontrol.com",-0.527458131313324
-JSWSTEEL,2026-03-09,Exclusive: Lucky numbers and collusion: how an Indian cement cartel came unstuck - Reuters,-0.908384382724762
-JSWSTEEL,2024-04-24,"Breakouts Updates: JSW Steel Surges Past R2 Resistance Level, Trading at 871.75 - The Economic Times",0.8628957867622375
-JSWSTEEL,2011-03-12,Latest News | Latest Business News | BSE | IPO News - Moneycontrol.com,-0.9293828010559082
-JSWSTEEL,2024-05-02,JSW Steel Share Price Today Live Updates: JSW Steel News - The Economic Times,-0.934198260307312
-JSWSTEEL,2026-03-11,"Bloodbath on D-Street: Sensex settles over 1,300 pts lower, Nifty ends near 23,850; four key factors... - Moneycontrol.com",-0.9391118288040161
-JSWSTEEL,2026-03-12,"Nifty Auto crashes over 3% as crude tops $100 again, LNG fears add pressure; M&M, Maruti among top... - Moneycontrol.com",-0.5280557870864868
-JSWSTEEL,2026-03-13,"Auto stocks extend losses, Nifty Auto falls over 3.5%; JPMorgan prefers Maruti, M&M, Hyundai despite... - Moneycontrol.com",-0.8798272013664246
-JSWSTEEL,2026-03-13,"Metal shares fall nearly 5% as dollar hits three-month high amid US-Iran war; NALCO, SAIL among top losers - Moneycontrol.com",-0.9549423456192017
+JSWSTEEL,2024-02-07,JSW Steel Share Price Today Live Updates: JSW Steel Stock Details - The Economic Times,-0.9337369799613953
+JSWSTEEL,2024-02-16,JSW Steel Share Price Today Live Updates: JSW Steel Closes at Rs 812.35 with a Slight Decrease of 0.11% - The Economic Times,-0.7685445547103882
+JSWSTEEL,2024-03-19,JSW Steel Share Price Live Updates: JSW Steel Closes at Rs 804.4 with Negative 1-Month Return of -1.9% - The Economic Times,-0.9649073481559753
+JSWSTEEL,2026-03-16,"Mounting gas shortages disrupt some steel plants at India's JSW, one unit may face shutdown - Reuters",-0.9559286236763
+JSWSTEEL,2024-02-22,JSW Steel Stocks Live Updates: JSW Steel Trades at Rs 826.1 with a 0.26% Decrease; 3-Month Returns Stand - The Economic Times,-0.9256538152694702
+JSWSTEEL,2023-12-12,"Breakouts Updates: JSW Steel Surges Above Second Resistance Level, Indicating Bullish Breakout - The Economic Times",0.8741500377655029
+JSWSTEEL,2026-03-19,"Amid LPG crisis, how Iran's missile attack on Qatar's Ras Laffan global LNG hub may hit your PNG supply to h.. - ET EnergyWorld",-0.6479933261871338
+JSWSTEEL,2025-01-24,"JSW Steel misses Q3 profit estimates on lower prices, cooling demand - Reuters",-0.9662783145904541
+JSWSTEEL,2025-10-17,"India's JSW Steel posts fourfold quarterly profit rise, expects steel prices to improve - Reuters",0.9546413421630859
+JSWSTEEL,2025-01-24,JSW Steel Posts 70% Plunge in Quarterly Profit on Weaker Prices - Bloomberg.com,-0.9581393599510193
+JSWSTEEL,2014-03-15,JSTL: JSW Steel Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9468532204627991
+JSWSTEEL,2026-01-23,India's JSW Steel beats quarterly profit view on stronger volume - Reuters,0.5503014326095581
+JSWSTEEL,2025-05-23,India's JSW Steel expects improved earnings in current quarter after profit miss - Reuters,0.9029285311698914
+JSWSTEEL,2021-06-16,JSW Steel Ltd - Reuters,-0.9411019086837769
+JSWSTEEL,2026-03-20,"JSW Steel Share Price Today, JSW Steel Stock Price Live NSE/BSE Updates - The Economic Times",-0.9365823268890381
+JSWSTEEL,2023-08-12,Check out JSW Steel Ltd's stock price (JSWSTEEL-IN&__SOURCE=OTS) in real time - CNBC,-0.9434475302696228
+JSWSTEEL,2022-06-11,(JSTL.NS) | Stock Price & Latest News - Reuters,-0.907304584980011
+JSWSTEEL,2026-03-20,JSW Steel Ltd. - The Economic Times,-0.9161775708198547
+JSWSTEEL,2026-01-06,"Exclusive: India probe finds Tata Steel, JSW Steel, SAIL breached antitrust law, regulatory order shows - Reuters",-0.7788134813308716
+JSWSTEEL,2025-07-18,India's JSW Steel says low priced imports a concern after profit beats estimates - Reuters,-0.5370160341262817
+JSWSTEEL,2025-04-16,"JSW Steel announces ₹50,000 crore investment for green steel capacity expansion - The Economic Times B2B",0.64581298828125
+JSWSTEEL,2024-05-17,"JSW Steel sees higher sales, spending in FY25 even as Q4 profit slumps - Reuters",0.9108473658561707
+JSWSTEEL,2025-01-25,JSW Steel's net profit plunges 70 per cent to Rs 717 crore in Oct-Dec quarter - ET Infra,-0.9708158373832703
+JSWSTEEL,2017-03-30,"JSW Steel Target Share Price, JSW Steel Share Price Forecast - The Economic Times",-0.9338186979293823
+JSWSTEEL,2025-12-03,India's JSW Steel to move Bhushan Power's steel business to JV with JFE Steel - Reuters,-0.9105284810066223
+JSWSTEEL,2026-01-28,EU-India trade deal provides much-needed stability: JSW Steel CFO - CNBC,-0.7642462253570557
+JSWSTEEL,2021-10-19,"Jsw steel - Latest jsw steel , Information & Updates - Infra - ET Infra",-0.9458072185516357
+JSWSTEEL,2024-10-18,India's JSW Steel to acquire thyssenkrupp Electrical Steel India via JV - Reuters,-0.926842212677002
+JSWSTEEL,2025-05-27,"JSW Steel doubles down on domestic growth, says ‘focus is primarily on India’ - CNBC",-0.9197719693183899
+JSWSTEEL,2025-10-17,"JSW Steel Q2 FY26 net profit surges four-fold to ₹1,646 crore - ET Infra",0.9413654208183289
+JSWSTEEL,2020-10-06,"JSW Steel Q4 Results: PAT rises 16% YoY to Rs 1,503 crore, revenue falls 3% - The Economic Times",-0.9660033583641052
+JSWSTEEL,2025-10-03,Moody's upgrades outlook on JSW Steel to positive from stable - ET Infra,0.9402698278427124
+JSWSTEEL,2025-07-18,JSW Steel Q1 results: Strong bottomline surge likely despite muted volumes - ET Infra,0.806628406047821
+JSWSTEEL,2026-01-09,JSW Steel Q3 FY26 crude steel production up 6% at 7.48 million tonnes - ET Infra,0.9480985403060913
+JSWSTEEL,2019-03-02,JSW Steel Ltd - Bloomberg.com,-0.9424727559089661
+JSWSTEEL,2024-02-20,India's JSW Steel in talks with Australia's Whitehaven for coal mine stake - Reuters,-0.8913035988807678
+JSWSTEEL,2025-07-17,"India's iron ore imports to rise on JSW steel demand, falling prices - Reuters",-0.7098188400268555
+JSWSTEEL,2025-05-24,JSW Steel evaluating legal options for troubled BPSL assets - ET Infra,-0.9148507714271545
+JSWSTEEL,2023-08-11,"Monnet Ispat Share Price Today, Monnet Ispat Stock Price Live NSE/BSE Updates - The Economic Times",-0.9414701461791992
+JSWSTEEL,2025-05-02,"Top Indian court scraps JSW Steel's bid to acquire Bhushan Power, case lawyers say - Reuters",-0.7697674632072449
+JSWSTEEL,2026-01-28,Watch India's JSW Steel On EU-India Deal Trade Impact - Bloomberg.com,-0.9095519781112671
+JSWSTEEL,2025-08-03,"India's JSW Steel, Japan's JFE to invest $669 million to boost electrical steel output - Reuters",0.8396063446998596
+JSWSTEEL,2023-05-23,Watch JSW Steel CEO Sees Incremental India Demand of 10M Tons - Bloomberg.com,0.541330873966217
+JSWSTEEL,2007-10-25,JSW Steel board OKs merger of Southern Iron - Reuters,-0.9116005301475525
+JSWSTEEL,2010-07-27,JFE invests $1 billion for India's JSW Steel stake - Reuters,-0.9016262292861938
+JSWSTEEL,2021-12-20,JSW Steel Q3 Results: Profit slumps 70% to Rs 719 crore on weak prices of steel - The Economic Times,-0.9716339111328125
+JSWSTEEL,2023-01-22,India's JSW Steel sees exports at more than 10% of 2022/23 sales - Reuters,0.5531919598579407
+JSWSTEEL,2025-01-10,JSW Steel reports record production at 7.03 mn tonnes in Q3 FY25 - ET Infra,0.6841562390327454
+JSWSTEEL,2025-12-03,JSW Steel to form 50:50 JV with Japan's JFE Steel for BPSL unit - ET Infra,-0.8967915773391724
+JSWSTEEL,2021-10-25,India's JSW Steel to set up $20 mln plant in Kashmir - Reuters,-0.8172754049301147
+JSWSTEEL,2025-10-24,"US tariffs are a tailwind to our US business, says JSW Steel CEO - CNBC",-0.9484572410583496
+JSWSTEEL,2018-09-07,"Bhushan power amp steel - Latest bhushan power amp steel , Information & Updates - Energy - ET EnergyWorld",-0.9443641304969788
+JSWSTEEL,2023-07-10,JSW Group CFO Seshagiri Rao paid Rs 12 crore remuneration in FY23 - ETCFO.com,-0.8891450762748718
+JSWSTEEL,2024-10-19,JSW Steel to acquire thyssenkrupp Electrical Steel India via JV - ET EnergyWorld,-0.9152535200119019
+JSWSTEEL,2025-07-17,India’s iron ore imports set to rise as JSW Steel expands capacity - ET Infra,0.9409648776054382
+JSWSTEEL,2022-01-21,Tycoon Jindal’s JSW Steel’s Profits Miss Estimates as Costs Jump - Bloomberg.com,-0.6676969528198242
+JSWSTEEL,2023-04-19,India's JSW Steel plans to sell specialty steel to Russia -company source - Reuters,-0.9235790371894836
+JSWSTEEL,2022-06-14,"JSW Steel Q2 Results: PAT plunges 84% YoY to Rs 439 crore, revenue drops 11% - The Economic Times",-0.9710773229598999
+JSWSTEEL,2025-07-16,MIDC begins land acquisition for JSW’s steel plant in Gadchiroli - ET Infra,-0.8853652477264404
+JSWSTEEL,2024-11-05,"India's JSW Steel, POSCO to invest $7.7 billion in Odisha steel plant, sources say - Reuters",-0.8808529376983643
+JSWSTEEL,2020-12-23,"Jsw steel - Latest jsw steel , Information & Updates - Legal -ET LegalWorld - ETLegalWorld.com",-0.9473812580108643
+JSWSTEEL,2024-02-12,"JSW Steel, Japan's JFE Steel to invest $663 mln in India JV - Reuters",-0.8373149633407593
+JSWSTEEL,2021-07-30,There is a structural shift in demand dynamics for steel: JSW Steel - CNBC,-0.7918288707733154
+JSWSTEEL,2025-07-31,India's top court to revisit order scrapping JSW Steel's $2.3 billion Bhushan Power deal - Reuters,-0.500270426273346
+JSWSTEEL,2023-07-21,JSW Steel appoints Swayam Saurabh as CFO designate - ETCFO.com,-0.9378148913383484
+JSWSTEEL,2023-09-21,"Exclusive: India's JSW Steel slows process to buy stake in Canada Teck coal unit, source says - Reuters",-0.9203071594238281
+JSWSTEEL,2025-08-17,"JSW Steel, POSCO to explore setting up steel plant in India - Reuters",-0.8924675583839417
+JSWSTEEL,2022-06-09,JSW Steel rolls out a new campaign ‘Always Around’ - ET BrandEquity,-0.8068352341651917
+JSWSTEEL,2026-01-23,"JSW Steel Q3 net profit jumps over 3-fold to ₹2,410 crore on tax asset recognition, higher volumes - ET Infra",0.9426290988922119
+JSWSTEEL,2025-09-26,India's top court approves JSW Steel's takeover of Bhushan Power and Steel - Reuters,-0.9038539528846741
+JSWSTEEL,2025-05-01,"India's JSW Steel faces challenges importing coking coal from Mongolia, sources say - Reuters",-0.8368418216705322
+JSWSTEEL,2025-05-02,India Court Rejects JSW Steel’s Plan to Acquire Bhushan Power - Bloomberg.com,-0.6505969762802124
+JSWSTEEL,2025-12-02,"India's January-October iron ore imports at six-year high, JSW Steel top buyer - Reuters",0.7640691995620728
+JSWSTEEL,2024-06-17,JSW Steel appoints Tarun Jha as head of marketing - ET BrandEquity,-0.9165937304496765
+JSWSTEEL,2025-05-06,"JSW Steel-BPSL SC order unprecedented, takes IBC into uncharted territory: Experts - ETCFO.com",-0.8229329586029053
+JSWSTEEL,2017-12-13,"Jsw steel ltd - Latest jsw steel ltd , Information & Updates - Energy - ET EnergyWorld",-0.9470770359039307
+JSWSTEEL,2023-06-28,"Page 2 - Jsw - Latest jsw , Information & Updates - Energy - ET EnergyWorld",-0.9460721611976624
+JSWSTEEL,2025-07-23,JSW Steel CEO: Watching potential Chinese steel export dumping in India - CNBC,-0.7229427695274353
+JSWSTEEL,2024-08-12,India's JSW Steel to buy $120 mln stake in Australian firm to expand coal reserves - Reuters,0.5281097888946533
+JSWSTEEL,2018-05-16,India's JSW Steel March Qtr Consol Profit Nearly Triples - Reuters,-0.7244813442230225
+JSWSTEEL,2025-05-02,Bhushan Power & Steel Ltd - Reuters,-0.9401822686195374
+JSWSTEEL,2017-11-03,"sajjan jindal: Latest News & Videos, Photos about sajjan jindal - The Economic Times",-0.9282029271125793
+JSWSTEEL,2020-01-29,"Uptick in credit flow essential for demand revival, says JSW Steel’s Seshagiri Rao - ETCFO.com",0.9338926672935486
+JSWSTEEL,2025-01-23,India’s JSW Steel Seeks Syndicated Loan of Up to $900 Million - Bloomberg.com,-0.8087396025657654
+JSWSTEEL,2025-09-26,SC upholds JSW Steel's resolution plan for debt-ridden Bhushan Power and Steel Ltd - ET BFSI,-0.7768761515617371
+JSWSTEEL,2025-12-09,JSW Steel’s crude steel output rises 5% to 24.39 lakh tonnes in November - ET Infra,0.9468494653701782
+JSWSTEEL,2025-10-08,SC refuses to interfere with ED proceedings against JSW - ETLegalWorld.com,-0.5390211343765259
+JSWSTEEL,2025-06-25,JSW Steel files review petition before India's top court on Bhushan Power deal collapse (June 25) - Reuters,-0.4789826571941376
+JSWSTEEL,2021-05-22,India’s JSW Steel examining bid for Gupta’s British business -sources - Reuters,-0.9311097264289856
+JSWSTEEL,2018-09-07,Bhushan Power lenders allowed JSW Steel to change parameters of bids: Tata Steel - ET EnergyWorld,-0.9328104853630066
+JSWSTEEL,2025-07-21,"JSW Steel to spend ₹20,000 crore on Dolvi expansion in FY26 - ET Infra",0.6129626035690308
+JSWSTEEL,2024-11-26,"India's JSW Steel, SAIL in talks with Mongolia for coking coal shipments, sources say - Reuters",-0.6295385956764221
+JSWSTEEL,2025-01-10,JSW Steel reports record production at 7.03 mn tonnes in Q3 FY25 - ET Manufacturing,0.607357919216156
+JSWSTEEL,2025-02-12,JSW Group to invest Rs 1.2 lakh cr in Karnataka - ET Infra,-0.8588453531265259
+JSWSTEEL,2019-09-05,NCLT approves JSW Steel's takeover of bankrupt Bhushan Power - Reuters,-0.8492764830589294
+JSWSTEEL,2025-08-12,"JSW Steel challenges ₹6,155 crore Ebitda claim in BPSL dispute - ET Infra",0.5232313275337219
+JSWSTEEL,2023-09-17,"Page 2 - Jsw steel - Latest jsw steel , Information & Updates - Legal -ET LegalWorld - ETLegalWorld.com",-0.9491439461708069
+JSWSTEEL,2025-05-26,Indian Steel Tycoon’s Pathway to Mozambique Coal Deal Reopens - Bloomberg.com,-0.8637568354606628
+JSWSTEEL,2020-02-05,JSW Steel signs Indian cricketer Rishabh Pant as brand ambassador - ET BrandEquity,-0.8408895134925842
+JSWSTEEL,2025-03-29,"India court rejects JSW Steel, Trafigura request to clear certain met coke imports - Reuters",-0.48663395643234253

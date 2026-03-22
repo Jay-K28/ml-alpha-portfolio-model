@@ -1,51 +1,100 @@
 ticker,date,headline,sentiment_score
-JSWENERGY,2024-06-11,"Top Gainers Today - NSE Top Gainers Stocks Live, BSE Top Gainers Shares Today - The Economic Times",-0.9092878699302673
-JSWENERGY,2026-03-13,JSW Energy - Positive Breakout: These 8 stocks cross above their 200 DMAs - The Economic Times,0.8031735420227051
-JSWENERGY,2026-03-10,"JSW Energy terminates Rs 5,321 crore deal to acquire GMR Kamalanga Energy - Moneycontrol.com",-0.8899753093719482
-JSWENERGY,2026-03-12,Dev Accelerator Profit and Loss Reports - The Economic Times,-0.8475498557090759
-JSWENERGY,2026-03-12,How Today Group is shaping the next chapter of Navi Mumbai - The Economic Times,-0.9171352982521057
-JSWENERGY,2026-03-13,NARCL to buy Kurukshetra e-way debt - The Economic Times,-0.8755174875259399
-JSWENERGY,2026-03-13,"F&O Quote - Live FNO BSE/NSE Quote, Nifty Quotes, Indian Stock Market BSE/NSE Price Increase, Chart, Open Interest Analysis & more by Moneycontrol.com - Moneycontrol.com",-0.9385393857955933
-JSWENERGY,2018-01-06,"jsw energy Forum Discussion on Market View, Business sectors,Stocks, Commodity, Personal Finance & More - Moneycontrol.com",-0.9459038376808167
-JSWENERGY,2026-03-13,"F&O Quote - Live FNO BSE/NSE Quote, Nifty Quotes, Indian Stock Market BSE/NSE Price Increase, Chart, Open Interest Analysis & more by Moneycontrol.com - Moneycontrol.com",-0.9385393857955933
-JSWENERGY,2026-03-13,JSW Energy - Growth Leaders: 10 midcap stocks with stellar 50%+ YoY sales gains - The Economic Times,0.5488065481185913
-JSWENERGY,2026-03-12,"Hotter summer ahead? NTPC Green, Tata Power, other power stocks surge up to 15% - The Economic Times",0.8019108176231384
-JSWENERGY,2025-01-28,ITC Hotels Ltd. - Moneycontrol.com,-0.9499388337135315
-JSWENERGY,2025-01-13,JSW Energy stock gave 22.6% return in last one year but will outperformance continue? Here's what analysts - The Economic Times,-0.9040107727050781
-JSWENERGY,2025-11-18,JSW Energy CFO Pritesh Vinay quits - The Economic Times,-0.49629539251327515
-JSWENERGY,2025-11-20,JSW Energy gets CoC nod to acquire Raigarh Champa Rail Infra - The Economic Times,0.6387860178947449
-JSWENERGY,2026-02-27,Bankruptcy Court approves Raigarh Champa rail infrastructure’s acquisition by JSW Energy - The Economic Times,-0.8877244591712952
-JSWENERGY,2026-01-14,"RIL, MCX, JSW Energy feature among mutual funds’ key December trades - The Economic Times",-0.8693272471427917
-JSWENERGY,2025-07-07,JSW Energy commissions 261 MW RE capacity - The Economic Times,-0.8896937966346741
-JSWENERGY,2025-11-11,JSW Energy commissions India's largest green hydrogen plant in Karnataka - The Economic Times,-0.784919261932373
-JSWENERGY,2025-01-13,"JSW Energy bags KSK Mahanadi for Rs 15,985 cr - The Economic Times",-0.9301441311836243
-JSWENERGY,2025-06-22,JSW Energy to bid for Raigarh Champa Rail Infra as NCLAT allows fresh bidding - The Economic Times,-0.7321860790252686
-JSWENERGY,2025-03-04,CCI okays JSW Energy's proposal to acquire KSK Mahanadi Power Company - The Economic Times,-0.8293080925941467
-JSWENERGY,2026-01-05,Former JSW Energy CFO Pritesh Vinay to helm Vayona Energy - The Economic Times,-0.9371353983879089
-JSWENERGY,2025-04-20,"JSW Energy to revise 2030 goals under Vision 3.0, not looking at B2C for now: CEO - The Economic Times",-0.9315046072006226
-JSWENERGY,2025-01-13,JSW Energy gets letter of intent to acquire 3.6 GW KSK Mahanadi thermal plant - The Economic Times,-0.8415215015411377
-JSWENERGY,2025-12-12,JSW Energy arm inks pact to supply 400 MW to Karnataka discoms - The Economic Times,0.6881104707717896
-JSWENERGY,2015-07-29,JSW Energy subsidiary sells 26% stake in South African firm - The Economic Times,-0.9139678478240967
-JSWENERGY,2025-01-15,JSW Energy synchronises Unit 2 of Utkal thermal plant in Odisha - The Economic Times,-0.9113505482673645
-JSWENERGY,2025-03-01,String of acquisitions brings 20 GW target closer to JSW Energy - The Economic Times,0.5680498480796814
-JSWENERGY,2025-07-25,JSW Energy signs power purchase agreement with SECI for FDRE project - The Economic Times,-0.6667078137397766
-JSWENERGY,2025-07-24,JSW Energy signs electricity supply pact with BESCOM for solar project with battery storage - The Economic Times,-0.5596926212310791
-JSWENERGY,2024-10-28,JSW Energy emerges top bidder for KSK Mahanadi Power - The Economic Times,-0.7004907727241516
-JSWENERGY,2025-10-26,JSW Energy looks to operationalise 5 GWh battery assembly unit in Pune in 3rd quarter - The Economic Times,0.6850036978721619
-JSWENERGY,2024-12-16,JSW Energy achieves total locked-in generation capacity of 20 GW - The Economic Times,0.8751721978187561
-JSWENERGY,2024-09-15,JSW Energy arm commissions 300 MW wind project - The Economic Times,-0.8965634703636169
-JSWENERGY,2025-06-09,L&T secures significant order from JSW Energy for heavy civil infrastructure business in Maharashtra - The Economic Times,0.940767765045166
-JSWENERGY,2024-12-27,JSW Energy to buy O2 Power for $1.47 billion - The Economic Times,-0.9014630913734436
-JSWENERGY,2023-03-29,JSW Energy completes acquisition of Mytrah Energy's RE portfolio - The Economic Times,-0.7930247783660889
-JSWENERGY,2024-12-27,JSW Energy appoints Feby Koshy as EVP-Head Thermal - The Economic Times,-0.9200472235679626
-JSWENERGY,2024-08-23,JSW Neo Energy bags 300MW wind-solar hybrid project from NTPC - The Economic Times,-0.8661653399467468
-JSWENERGY,2024-03-22,JSW Energy unit to acquire Reliance Power's wind project for Rs 132 crore - The Economic Times,-0.8287619352340698
-JSWENERGY,2022-03-07,JSW Energy signs PPA with Haryana Power Purchase Centre to supply 240-megawatt hydro power - The Economic Times,0.5033716559410095
-JSWENERGY,2026-01-28,JSW Energy to set up its first nuclear power plant by 2030 - The Economic Times,-0.8709284067153931
-JSWENERGY,2025-02-07,JSW Energy signs PPA with Amazon for 180 MW wind power - The Economic Times,-0.8064523935317993
-JSWENERGY,2025-04-01,JSW Energy installed generation capacity touches 10.9 GW in FY25 - The Economic Times,-0.6079888939857483
-JSWENERGY,2024-10-11,JSW Energy PSP Two signs agreement with Maharashtra for pumped hydro energy storage - The Economic Times,0.7161369323730469
-JSWENERGY,2025-06-25,JSW Energy signs PPA for 300 MW solar-wind hybrid capacity with NHPC - The Economic Times,-0.7024692893028259
-JSWENERGY,2025-04-28,"JSW Energy moves SC challenging Goa's Green Cess Act, cites legislative incompetence of state - The Economic Times",-0.901005208492279
-JSWENERGY,2026-03-13,Positive Breakout: These 8 stocks cross above their 200 DMAs - The Economic Times,0.8022508025169373
-JSWENERGY,2024-08-05,JSW Energy gets 'A' rating in Morgan Stanley Capital International ESG rating - The Economic Times,-0.5207260847091675
+JSWENERGY,2026-03-16,JSW Energy clears key resistance; Shitij Gandhi sees further gains - The Economic Times,0.8287211656570435
+JSWENERGY,2026-03-17,"gujarat tata power: Latest News & Videos, Photos about gujarat tata power - The Economic Times",-0.9354651570320129
+JSWENERGY,2026-03-20,"Buy MCX on dips: Technical setup indicates continued momentum in coming weeks, says Shivangi Sarda - The Economic Times",0.8786808848381042
+JSWENERGY,2017-03-24,"NTPC Share Price Today, NTPC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381704330444336
+JSWENERGY,2025-05-15,India's JSW Energy posts quarterly profit rise on strong demand - Reuters,0.936885416507721
+JSWENERGY,2014-03-24,JSW: JSW Energy Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9491504430770874
+JSWENERGY,2021-07-29,JSW Energy Ltd - Reuters,-0.9467469453811646
+JSWENERGY,2017-03-24,"JSW Energy Share Price Today, JSW Energy Stock Price Live NSE/BSE Updates - The Economic Times",-0.9397336840629578
+JSWENERGY,2017-03-29,The Economic Times - The Economic Times,-0.9159992933273315
+JSWENERGY,2026-03-18,JSW Energy Ltd. - The Economic Times,-0.9203714728355408
+JSWENERGY,2017-08-06,Check out JSW Energy Ltd's stock price (JSWENERGY-IN) in real time - CNBC,-0.9468695521354675
+JSWENERGY,2026-01-24,JSW Energy net profit jumps over two fold to ₹420 cr in Q3 - ET EnergyWorld,0.9370100498199463
+JSWENERGY,2017-11-21,"Jsw energy ltd - Latest jsw energy ltd , Information & Updates - Energy - ET EnergyWorld",-0.9481565356254578
+JSWENERGY,2025-10-22,JSW Energy CEO on Q2 profit dip and growth outlook - CNBC,-0.7923427820205688
+JSWENERGY,2025-12-12,"India's JSW Energy to raise up to $1.11 billion, names new CFO - Reuters",-0.8027276396751404
+JSWENERGY,2017-03-30,"JSW Energy Target Share Price, JSW Energy Share Price Forecast - The Economic Times",-0.9365674257278442
+JSWENERGY,2025-07-31,JSW Energy's Q1 net profit jumps 42% on renewable expansion and acquisitions - ET EnergyWorld,0.9441158175468445
+JSWENERGY,2017-07-17,"JSPL's 1,000 Mw Chhattisgarh power plant buy on track: JSW Energy - ET EnergyWorld",-0.9481446146965027
+JSWENERGY,2025-02-14,NCLT approves JSW bids for KSK Mahanadi Power Company Limited - ETLegalWorld.com,-0.8098471164703369
+JSWENERGY,2025-05-16,"JSW Energy FY25 net profit up 13% at ₹1,951 cr; revenue rises 6% - ET EnergyWorld",0.9522272944450378
+JSWENERGY,2025-01-31,Artificial intelligence will partly drive growth in Indian energy demand: JSW Energy CEO - CNBC,-0.8573517203330994
+JSWENERGY,2024-06-26,"JSW Energy signs PPAs for 1,325 MW of renewable energy projects - ET EnergyWorld",-0.6701749563217163
+JSWENERGY,2024-12-27,India's JSW Energy to buy Temasek-backed O2 Power's units for $1.47 bln - Reuters,-0.8483600616455078
+JSWENERGY,2024-03-19,JSW Steel Share Price Live Updates: JSW Steel Closes at Rs 804.4 with Negative 1-Month Return of -1.9% - The Economic Times,-0.9649073481559753
+JSWENERGY,2024-06-10,JSW Energy forays into energy storage; setting up India’s largest commercial-scale green hydrogen project - ET EnergyWorld,-0.6873301863670349
+JSWENERGY,2025-05-20,"JSW Energy to invest ₹14,000 cr to expand renewable energy capacity of Oxygen Power - ET EnergyWorld",0.8735417127609253
+JSWENERGY,2025-04-09,"JSW Energy completes ₹12,468 crore acquisition of O2 Power’s 4.7 GW RE platform - ET EnergyWorld",-0.5865057110786438
+JSWENERGY,2024-10-08,JSW Energy appoints Anushree Singh as Head - HR - ETHRWorld.com,-0.9278445243835449
+JSWENERGY,2021-07-29,Australia's Fortescue teams up with India's JSW Energy for hydrogen projects - Reuters,0.6804062724113464
+JSWENERGY,2024-09-10,JSW Energy subsidiary get 600 MW wind-solar hybrid power project from Maharashtra State company - ET EnergyWorld,0.5793055891990662
+JSWENERGY,2025-07-25,JSW Energy subsidiary signs PPA with SECI under FDRE scheme - ET EnergyWorld,-0.855100154876709
+JSWENERGY,2025-04-21,"JSW Energy's ₹16,000 crore Salboni project most competitive in capex: Officials - ET EnergyWorld",0.5092859864234924
+JSWENERGY,2025-03-05,CCI okays JSW Energy's proposal to acquire KSK Mahanadi Power Company - ET EnergyWorld,-0.7706738710403442
+JSWENERGY,2026-03-12,"Gas Shortage, Harsh Summer Lure Bulls to India Power Utilities - Bloomberg.com",-0.9195976257324219
+JSWENERGY,2025-06-22,JSW Energy enters race for Raigarh Champa Rail Infra as NCLAT allows fresh bidding - ETLegalWorld.com,-0.7917892932891846
+JSWENERGY,2024-06-10,JSW Energy begins construction as part of its foray into battery storage services - ET Auto,-0.8196919560432434
+JSWENERGY,2023-06-28,"Page 2 - Jsw - Latest jsw , Information & Updates - Energy - ET EnergyWorld",-0.9460721611976624
+JSWENERGY,2016-12-26,JSW Energy approves raising of 7.50 bln rupees by placement of NCDs - Reuters,0.7568901777267456
+JSWENERGY,2025-08-01,JSW Energy profit rises over 42 pc to Rs 743 cr in Q1 - ET Manufacturing,0.9367636442184448
+JSWENERGY,2018-05-03,India's JSW Energy Exec Says Will Enter Manufacturing Of Electric Buses And Trucks - Reuters,-0.8166053891181946
+JSWENERGY,2017-11-03,"sajjan jindal: Latest News & Videos, Photos about sajjan jindal - The Economic Times",-0.9282029271125793
+JSWENERGY,2024-07-31,"Big industrial projects worth Rs 81,000 crore get Maharashtra cabinet nod ahead of polls - ET EnergyWorld",-0.7664827704429626
+JSWENERGY,2025-03-15,"JSW Energy, WBSEDCL sign PPA to set up 1,600 MW thermal plant in West Bengal - ET EnergyWorld",-0.6946556568145752
+JSWENERGY,2022-01-08,India's clean energy push propels renewable companies' stocks - ET EnergyWorld,0.5034500360488892
+JSWENERGY,2023-12-26,JSW Renew Energy commissions 810 MW wind power project in Tamil Nadu - ET EnergyWorld,-0.8688256144523621
+JSWENERGY,2017-10-20,"Jsw group - Latest jsw group , Information & Updates - Energy - ET EnergyWorld",-0.9484163522720337
+JSWENERGY,2025-10-26,JSW Energy looks to operationalise 5 GWh battery assembly unit in Pune in 3rd quarter - ET EnergyWorld,-0.603830099105835
+JSWENERGY,2017-10-20,"Jsw steel - Latest jsw steel , Information & Updates - Energy - ET EnergyWorld",-0.9451561570167542
+JSWENERGY,2025-06-03,JSW Neo Energy Seeks $675 Million Loan for O2 Power Deal - Bloomberg.com,-0.8783798813819885
+JSWENERGY,2017-04-28,"Jsw steel - Latest jsw steel , Information & Updates - CFO - ETCFO.com",-0.9460294842720032
+JSWENERGY,2022-01-08,India's clean energy push propels renewable companies' stocks - ET Auto,0.7584389448165894
+JSWENERGY,2025-02-06,JSW Energy to develop 1600MW thermal power plant - ET Manufacturing,-0.8626863956451416
+JSWENERGY,2026-03-03,JSWE.BO - | Stock Price & Latest News - Reuters,-0.9237158298492432
+JSWENERGY,2023-12-18,Shares of India's JSW Group drop after rape allegation against chairman - Reuters,-0.9482242465019226
+JSWENERGY,2024-12-17,"Exclusive: LG Energy Solution, India's JSW discuss $1.5 bln battery venture, sources say - Reuters",-0.8986714482307434
+JSWENERGY,2017-03-24,"Suzlon Energy Share Price Today, Suzlon Energy Stock Price Live NSE/BSE Updates - The Economic Times",-0.9410127997398376
+JSWENERGY,2026-03-20,"Welspun Specialty Share Price Today, Welspun Specialty Stock Price Live NSE/BSE Updates - The Economic Times",-0.940177321434021
+JSWENERGY,2017-03-24,"Adani Power Share Price Today, Adani Power Stock Price Live NSE/BSE Updates - The Economic Times",-0.9416555166244507
+JSWENERGY,2024-01-08,JSW Group to double investments in Tamil Nadu: Chairman Sajjan Jindal - ET EnergyWorld,-0.536702036857605
+JSWENERGY,2017-10-20,"Jsw - Latest jsw , Information & Updates - Auto - ET Auto",-0.9476794004440308
+JSWENERGY,2024-11-14,NTPC Green Energy Ltd. - The Economic Times,-0.925265908241272
+JSWENERGY,2025-03-18,CCI approves JSW Neo Energy's acquisition of O2 Power's renewable assets - ET EnergyWorld,0.5059447884559631
+JSWENERGY,2017-11-01,"wbsedcl: Latest News & Videos, Photos about wbsedcl - The Economic Times",-0.9378423690795898
+JSWENERGY,2017-03-24,"Reliance Power Share Price Today, Reliance Power Stock Price Live NSE/BSE Updates - The Economic Times",-0.9376236200332642
+JSWENERGY,2017-03-24,"RattanIndia Power Share Price Today, RattanIndia Power Stock Price Live NSE/BSE Updates - The Economic Times",-0.9400081038475037
+JSWENERGY,2017-03-24,"JP Power Share Price Today, JP Power Stock Price Live NSE/BSE Updates - The Economic Times",-0.9383313059806824
+JSWENERGY,2018-11-16,"akola: Latest News & Videos, Photos about akola - The Economic Times",-0.9335906505584717
+JSWENERGY,2026-03-04,JSWE.NS - | Stock Price & Latest News - Reuters,-0.9215037226676941
+JSWENERGY,2017-03-24,"Gujarat Ind Share Price Today, Gujarat Ind Stock Price Live NSE/BSE Updates - The Economic Times",-0.9364367723464966
+JSWENERGY,2017-03-24,"NLC India Share Price Today, NLC India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387558698654175
+JSWENERGY,2017-03-23,"KEC Int. Share Price Today, KEC Int. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9390612840652466
+JSWENERGY,2021-12-02,"toranagallu: Latest News & Videos, Photos about toranagallu - The Economic Times",-0.9328908920288086
+JSWENERGY,2022-09-23,JSW leans on rupee debt funding - Reuters,-0.8456674814224243
+JSWENERGY,2017-10-15,"West bengal - Latest west bengal , Information & Updates - Energy - ET EnergyWorld",-0.9453393816947937
+JSWENERGY,2025-01-21,JSW Group to invest $35 bln in India's Maharashtra state - Reuters,-0.9101085662841797
+JSWENERGY,2017-10-15,"Thermal power plant - Latest thermal power plant , Information & Updates - Energy - ET EnergyWorld",-0.946426510810852
+JSWENERGY,2017-10-23,"Hydro projects - Latest hydro projects , Information & Updates - Energy - ET EnergyWorld",-0.9493064284324646
+JSWENERGY,2023-12-15,"Bajel Projects Share Price Today, Bajel Projects Stock Price Live NSE/BSE Updates - The Economic Times",-0.9369572401046753
+JSWENERGY,2023-12-11,Rajiv Jain-Led GQG’s $10 Billion India Bet Has Winning Picks Beyond Adani - Bloomberg.com,0.6080699563026428
+JSWENERGY,2020-10-04,Page 6 of 15 - News & Stories by Shivani Phaugat - ETCFO.com,-0.9370431303977966
+JSWENERGY,2021-03-16,"Davangere Sugar Share Price Today, Davangere Sugar Stock Price Live NSE/BSE Updates - The Economic Times",-0.9368863701820374
+JSWENERGY,2017-01-04,"Sajjan jindal - Latest sajjan jindal , Information & Updates - Auto - ET Auto",-0.9488146901130676
+JSWENERGY,2017-10-19,"Bescom - Latest bescom , Information & Updates - Energy - ET EnergyWorld",-0.949508547782898
+JSWENERGY,2018-09-17,JSW Bengal Steel Limited News - The Economic Times,-0.9223785996437073
+JSWENERGY,2023-02-06,"List of Companies Starting with ""J"" - India Company Starting Letter ""J"" | Companies listed on the Stock Exchange in India - The Economic Times",-0.9463437795639038
+JSWENERGY,2017-03-24,"IOL Chemicals Share Price Today, IOL Chemicals Stock Price Live NSE/BSE Updates - The Economic Times",-0.9368892312049866
+JSWENERGY,2022-11-07,Inox Green Energy Services Ltd. - The Economic Times,-0.9095779657363892
+JSWENERGY,2025-01-28,ITC Hotels Ltd. - The Economic Times,-0.925888180732727
+JSWENERGY,2026-03-11,"Half Yearly Results, Half yearly Earnings for Grover Jewells - The Economic Times",-0.9141284823417664
+JSWENERGY,2026-03-09,"Active Infrastructur Yearly results, Financial Summary - The Economic Times",-0.9231715798377991
+JSWENERGY,2017-08-18,GE Power India Ltd. - The Economic Times,-0.9241788387298584
+JSWENERGY,2025-08-01,India's Adani Power posts quarterly profit fall amid tepid power demand - Reuters,-0.9716620445251465
+JSWENERGY,2024-04-23,"JSW, Amara Raja, Reliance submit bids to make batteries in India - Reuters",-0.8671340346336365
+JSWENERGY,2024-09-16,"Adani wins bid to supply 6,600 MW of electricity, Rs 4.08/unit tariff beats JSW, Torrent - ET EnergyWorld",0.8516106009483337
+JSWENERGY,2026-03-02,"Half Yearly Results, Half yearly Earnings for Deccan Bearings - The Economic Times",-0.9132818579673767
+JSWENERGY,2026-01-19,"Sequent Scientific Yearly results, Financial Summary - The Economic Times",-0.9246764183044434
+JSWENERGY,2026-03-07,"Prime Cable Ind Cash Flow, Financial Statements - The Economic Times",-0.931631863117218
+JSWENERGY,2018-06-12,"Rites Cash Flow, Financial Statements - The Economic Times",-0.9150676131248474
+JSWENERGY,2017-03-29,Announcement - The Economic Times,-0.9166386723518372

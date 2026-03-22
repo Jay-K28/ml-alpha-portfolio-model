@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-HDFCBANK,2026-03-11,"Bank Nifty falls over 2%, Axis Bank stock among top Nifty losers; all 14 constituents end in red - Moneycontrol.com",-0.9594630002975464
-HDFCBANK,2026-03-11,"Sunil Singhania-backed Abakkus Flexi Cap Fund raises stake in HDFC Bank, RIL and 26 other stocks - The Economic Times",-0.8340563178062439
-HDFCBANK,2026-03-07,HDFC Bank cuts lending rates for select tenures; loan EMIs set to fall for these borrowers - The Economic Times,-0.8836190104484558
-HDFCBANK,2026-03-10,"Climate-tech startup Newtrace raises $6.3 million from HDFC Bank, Mitsui Sumitomo, Peak XV, others - The Economic Times",0.7620194554328918
-HDFCBANK,2026-03-07,"Quant Small Cap Fund adds HDFC Bank, ICICI Bank and 5 others, reduces stake in Jio Financial and 3 more - The Economic Times",-0.892935574054718
-HDFCBANK,2026-03-09,HDFC Bank shares drop 4%; Nifty Bank slumps as entire banking pack falls - The Economic Times,-0.9573481678962708
-HDFCBANK,2026-03-09,"HDFC Bank, Axis Bank and more: 4 UPI credit cards that include features like cashbacks, rewards airport lo - The Economic Times",-0.9107768535614014
-HDFCBANK,2026-03-10,"Bank Nifty rises nearly 1.5% as banking stocks extend rebound; ICICI Bank, HDFC Bank, Federal Bank lead... - Moneycontrol.com",0.8857895731925964
-HDFCBANK,2026-03-09,"TCS, HDFC Bank among 5 Sensex stocks that hit 52-week lows & slid up to 14% in a month - The Economic Times",-0.9669341444969177
-HDFCBANK,2026-03-11,"Parag Parikh Large Cap Fund: RIL, HDFC Bank, and Infosys among top 10 stock holdings - The Economic Times",-0.8795731663703918
-HDFCBANK,2026-03-12,"NPCI changes RuPay debit card lounge rules from April 1, 2026: PNB, HDFC Bank, PSB and other banks to foll - The Economic Times",-0.9314847588539124
-HDFCBANK,2026-03-09,"HDFC Bank customers alert: 4 key changes announced in MCLR, FD rates, ATM withdrawals and locker charges - The Economic Times",-0.9162678122520447
-HDFCBANK,2026-03-07,"High conviction picks! TCS, HDFC Bank, 9 other stocks with upside potential of up to 40%. Do you own any? - The Economic Times",-0.8874838352203369
-HDFCBANK,2024-01-01,HDFC Bank Share Price Live Updates: HDFC Bank Closes Slightly Higher at Rs 1709.25 with Trading Volume of - The Economic Times,0.9292005300521851
-HDFCBANK,2026-03-13,"HDFC Bank - TCS, Infosys among 6 Sensex stocks that hit 52-week lows; slip up to 18% in a month - The Economic Times",-0.9694151282310486
-HDFCBANK,2024-04-29,HDFC Bank Share Price Live Updates: HDFC Bank Sees Slight Increase in Price Amidst Market Volatility - The Economic Times,0.9028456807136536
-HDFCBANK,2026-03-11,What is a demat account? A beginner’s guide to stock investing - The Economic Times,-0.9272462725639343
-HDFCBANK,2026-03-13,HDFC Defence Fund exits this large cap stock that went up by 400% in 5 years - The Economic Times,0.8061690330505371
-HDFCBANK,2026-03-12,"Higher EMIs ahead as Canara Bank increases MCLR on these tenors; also check Bank of Baroda, IDBI Bank lend - The Economic Times",-0.6916627883911133
-HDFCBANK,2026-03-12,Getting started in the stock market: Account setup and cost evaluation - The Economic Times,-0.9144331216812134
-HDFCBANK,2026-03-11,"India’s GDP, inflation at risk amid West Asia tensions, oil price surge: Economists - The Economic Times",-0.8534965515136719
-HDFCBANK,2026-03-12,Free flights and hotel stays with credit card reward points: Here’s how to maximise your rewards - The Economic Times,-0.8880266547203064
-HDFCBANK,2026-03-13,India stands tall in shaky world economy as Fitch lifts FY26 growth view to 7.5% - The Economic Times,0.8734721541404724
-HDFCBANK,2026-03-13,Best flexi cap mutual funds to invest in March 2026 - The Economic Times,-0.8003702163696289
-HDFCBANK,2026-03-13,Why S&P 500 and Nasdaq down today while Dow Jones holds steady: US stock market turns cautious as VIX at 2 - The Economic Times,-0.9307298064231873
-HDFCBANK,2026-03-13,"PM Kisan 22nd instalment released: If your bank account is not credited, know why and what to do, how to c - The Economic Times",-0.9270408153533936
-HDFCBANK,2026-03-11,"Indian shares end lower as Mideast war, volatile oil hit sentiment - Reuters",-0.9545575976371765
-HDFCBANK,2026-03-13,"India’s forex reserves fall $11.68 billion to $716.81 billion, biggest drop in over a year - The Economic Times",-0.9744828939437866
-HDFCBANK,2026-03-11,Public sector banks still ahead of private peers in credit growth - The Economic Times,-0.5104614496231079
-HDFCBANK,2026-03-13,"RBI unlikely to hike rates now despite crude inflation as it is supply-driven shock, not demand: Natixis E - The Economic Times",-0.8842366337776184
-HDFCBANK,2026-03-13,Fitch raises India FY26 GDP growth forecast to 7.5% on strong domestic demand - The Economic Times,0.9126535654067993
-HDFCBANK,2026-03-13,Highest special FD interest rates from PSU banks: Deadline to invest in this bank’s 6.95% rate FD is neari - The Economic Times,-0.9149460792541504
-HDFCBANK,2026-03-12,Retail inflation climbs to 3.21% in February - The Economic Times,0.9108791947364807
-HDFCBANK,2026-03-13,ET Prime Special: How companies manipulate government incentives and create a false picture - The Economic Times,-0.7512105107307434
-HDFCBANK,2026-03-12,Women borrowers show stronger repayment discipline: Study - The Economic Times,-0.5038830041885376
-HDFCBANK,2026-03-13,Income + Arbitrage FoFs gain ground in choppy market - The Economic Times,-0.6649183034896851
-HDFCBANK,2026-03-13,"India, get a foot into FIFA World Cup? - The Economic Times",-0.9190269708633423
-HDFCBANK,2026-03-13,What is dual investment?High yield opportunities in bull & bear markets - The Economic Times,-0.9174106121063232
-HDFCBANK,2026-03-13,RBI imposes penalty on Manappuram Finance - The Economic Times,-0.4930354058742523
-HDFCBANK,2026-03-13,‘No IFs and BUTs!’: Senate erupts as Moreno schools Democrats on TSA funding bill amid DHS shutdown - The Economic Times,-0.8408210277557373
-HDFCBANK,2026-03-13,Banks recorded higher credit and deposits growth in the fortnight to February 28 - The Economic Times,0.9400175213813782
-HDFCBANK,2026-03-13,Indigenous alternative to LPG? Central lab looks to scale up DME pilot - The Economic Times,-0.6813538670539856
-HDFCBANK,2026-03-13,Inside Dubai’s Cashless 2026 Shift - The Economic Times,-0.8856378793716431
-HDFCBANK,2026-03-13,"Smartphone brand Nothing plans to make India an export hub, begins shipments to US - The Economic Times",0.5543187260627747
-HDFCBANK,2026-03-13,"India protects key sectors under 'powerful' US trade deal, says Piyush Goyal - The Economic Times",0.8838736414909363
-HDFCBANK,2026-03-13,"Heineken doubles down on India, eyes 'biggest untapped beer market' - The Economic Times",-0.5713523030281067
-HDFCBANK,2026-03-13,Top court to clarify law on sanctions under Lokpal act - The Economic Times,-0.8248411417007446
-HDFCBANK,2026-03-13,"ETtech Deals Digest: Startups raise $139 million this week, down 59% on-year - The Economic Times",-0.9735959768295288
-HDFCBANK,2026-03-13,TRAI moots termination charges to tackle spam - The Economic Times,-0.7138910293579102
-HDFCBANK,2026-03-13,"West Asia War: India steelmakers brace for higher input costs, risk of cheaper imports - The Economic Times",-0.6783453226089478
+HDFCBANK,2026-03-19,"HDFC Bank Chair’s Hostile Exit Leaves Board ‘Baffled,” Investors Confused - Bloomberg.com",-0.5799722075462341
+HDFCBANK,2026-03-19,India's HDFC Bank says chairman exit may be over rift with management; stock falls - Reuters,-0.944725751876831
+HDFCBANK,2026-03-19,HDFC Bank shares fall over 5% as part-time chair of India’s largest private bank resigns over 'ethics' - CNBC,-0.9562240242958069
+HDFCBANK,2026-03-20,"Iran war, HDFC Bank offset value buying as Indian shares log weekly losses - Reuters",-0.8613280057907104
+HDFCBANK,2026-03-18,HDFC Bank chairman quits over 'values and ethics'; Keki Mistry is interim head - Reuters,-0.7686645984649658
+HDFCBANK,2026-03-19,"Indian shares log steepest fall in nearly 2 years as HDFC Bank, oil spike weigh - Reuters",-0.9305152297019958
+HDFCBANK,2026-03-20,"Clarity on HDFC Bank CEO succession needed soon to steady stock pressure, say Brokers - ET BFSI",-0.8469027280807495
+HDFCBANK,2026-03-19,HDFC Bank Chair Resigns Citing Ethical Differences - Bloomberg.com,-0.7874898314476013
+HDFCBANK,2026-03-19,India's central bank says found no material concerns at HDFC Bank after chairman exit - Reuters,-0.6181530952453613
+HDFCBANK,2026-03-20,Shock Resignation of India Bank Chief Baffles Global Investors - Bloomberg.com,-0.5883485674858093
+HDFCBANK,2026-03-20,HDFC Bank’s top deck seen 7 exits in two years; ED Bhavesh Zaveri next in April 2026 - ET BFSI,-0.8372336626052856
+HDFCBANK,2026-03-19,HDFC Bank's part-time chairman Atanu Chakraborty resigns over ethical differences - ETHRWorld.com,-0.869255781173706
+HDFCBANK,2026-03-20,HDFC Bank tightens controls after DIFC lapses; three executives shown the door - ET BFSI,-0.7239539623260498
+HDFCBANK,2026-03-19,"India Nifty’s Gains Look Fragile on Soaring Crude, HDFC Bank Board Exit - Bloomberg.com",-0.4992923140525818
+HDFCBANK,2026-03-19,HDFC Bank's Keki Mistry says NRC to meet in a month on CEO succession; not keen to continue as Chairman beyo.. - ET BFSI,-0.9294083118438721
+HDFCBANK,2026-03-19,"HDFC board tried to persuade Atanu Chakraborty to take back resignation, reconsider letter language: CEO Jag.. - ET BFSI",-0.9113991260528564
+HDFCBANK,2026-03-20,HDFC Bank shares could fall more if ADR is an indicator. What’s happening? - The Economic Times,-0.7948547601699829
+HDFCBANK,2026-03-20,PSU banks set to gain share in MSME lending as credit cycle stabilises - ET BFSI,0.9210391640663147
+HDFCBANK,2026-03-22,"'BJP a zero-seat party,' Shashi Tharoor says UDF set to win Kerala | Kerala assembly elections - The Economic Times",-0.8035221099853516
+HDFCBANK,2026-01-18,HDFC Bank’s Recovery Gains Momentum on Lending Expansion - Bloomberg.com,0.8380207419395447
+HDFCBANK,2025-07-19,India's HDFC Bank reports 12.2% profit growth in Q1 due to higher interest income - Reuters,0.9452545642852783
+HDFCBANK,2025-10-18,India's HDFC Bank beats quarterly profit estimates; margins remain weak - Reuters,-0.963021993637085
+HDFCBANK,2024-01-18,Why are HDFC Bank shares falling? - ET BFSI,-0.926250696182251
+HDFCBANK,2025-07-15,How much has HDFC Bank grown in first full year of merger? - ET BFSI,-0.7137305736541748
+HDFCBANK,2025-04-03,India's HDFC Bank says growth in quarterly deposits outpaces loans - Reuters,0.8168204426765442
+HDFCBANK,2026-01-17,India's HDFC Bank beats quarterly profit expectations on better lending margins - Reuters,0.9404294490814209
+HDFCBANK,2025-04-21,"India's HDFC Bank, ICICI Bank close higher as quarterly earnings boost investor confidence - Reuters",0.9271154999732971
+HDFCBANK,2024-01-16,"India's HDFC Bank beats Q3 profit forecast, plans listing consumer finance unit - Reuters",-0.8565685749053955
+HDFCBANK,2024-01-17,HDFC Bank’s Shares Tumble After Results Signal Slowdown - Bloomberg.com,-0.9512388110160828
+HDFCBANK,2024-04-20,India's HDFC Bank misses Q4 profit view on higher provisions; margins stable - Reuters,0.5088596343994141
+HDFCBANK,2024-01-17,India's HDFC Bank posts worst day in nearly 4 years on margin concerns - Reuters,-0.9473960995674133
+HDFCBANK,2021-07-19,India's HDFC Bank slides as profit misses on rising provisions - Reuters,-0.9583955407142639
+HDFCBANK,2022-04-04,HDFC Bank creates Indian lending behemoth in $40 billion deal - Reuters,-0.7555971741676331
+HDFCBANK,2024-07-20,"India's HDFC Bank beats Q1 profit forecast, margins stable - Reuters",0.882148265838623
+HDFCBANK,2025-07-21,HDFC Bank stock climbs over 2 pc post earnings announcement - ET BFSI,0.9292917847633362
+HDFCBANK,2025-07-16,HDFC Bank’s Board to Consider Issue of Bonus Shares on July 19 - Bloomberg.com,-0.9458993077278137
+HDFCBANK,2024-01-16,HDFC Bank Posts Quarterly Profit That Tops Analysts’ Estimates - Bloomberg.com,0.817881166934967
+HDFCBANK,2022-07-16,"HDFC Bank Q1 results: Net profits shoots 19% YoY to Rs 9,196 Cr; NII grew 14.5% - ET BFSI",0.9480335116386414
+HDFCBANK,2024-01-16,IT drags Indian shares after recent rally; HDFC Bank results eyed - Reuters,-0.8636846542358398
+HDFCBANK,2026-01-06,"Indian shares slip from near record highs as Reliance, HDFC Bank weigh - Reuters",-0.9435144662857056
+HDFCBANK,2017-08-04,Check out HDFC Bank Ltd's stock price (HDFCBANK-IN) in real time - CNBC,-0.9452770948410034
+HDFCBANK,2021-06-20,HDFC Bank Ltd - Reuters,-0.942567765712738
+HDFCBANK,2025-07-21,"HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains - Reuters",0.6184461116790771
+HDFCBANK,2026-02-16,"Indian shares up on value buying in HDFC Bank, Reliance - Reuters",0.9099706411361694
+HDFCBANK,2025-07-20,"India's HDFC Bank, ICICI Bank rise on upbeat quarterly results - Reuters",0.7364698648452759
+HDFCBANK,2024-08-20,HDFC Bank keeps focus on sustainable growth and margin improvement - ET BFSI,0.5004459619522095
+HDFCBANK,2024-10-22,"HDFC Bank may undergo prolonged realignment, faces near-term growth challenges - ET BFSI",-0.7496042847633362
+HDFCBANK,2025-07-19,"HDFC Bank, ICICI Bank face profit pressures in Q1 amid tepid loan growth, margin strain - ET BFSI",-0.9625453948974609
+HDFCBANK,2025-07-19,HDFC Bank Profit Beats Estimate Despite Higher Provision - Bloomberg.com,0.6751730442047119
+HDFCBANK,2024-07-20,HDFC Bank’s Profit Beats Estimate Buoyed by Strong Loan Growth - Bloomberg.com,0.8294591903686523
+HDFCBANK,2026-01-17,HDFC Bank’s Net Income Exceeds Estimates on Strong Loan Growth - Bloomberg.com,0.720878541469574
+HDFCBANK,2025-10-05,HDFC Bank records 9% loan growth in Q2; Kotak Bank credit rises 16% - ET BFSI,0.9484310746192932
+HDFCBANK,2024-01-25,How does ICICI Bank compare with HDFC Bank after the market mayhem? - ET BFSI,-0.7040908932685852
+HDFCBANK,2023-07-07,HDFC Bank: Bigger and stronger - ET BFSI,0.9350207448005676
+HDFCBANK,2022-03-15,HDFC Bank to deliver growth post lifting of RBI restrictions: Report - ET BFSI,0.6321893930435181
+HDFCBANK,2026-01-06,HDFC Bank logs 12% rise in loans in December quarter - ET BFSI,0.9488657712936401
+HDFCBANK,2024-01-16,"Will go for granular deposits, replace higher cost borrowings: HDFC Bank CFO - ET BFSI",-0.7765253186225891
+HDFCBANK,2025-04-15,India's HDFC Bank hits four-month high as deposit rate cut seen lifting margins - Reuters,0.9306253790855408
+HDFCBANK,2024-07-03,HDFC Bank shares may gain amid potential MSCI Index weight change - ET BFSI,0.9126676917076111
+HDFCBANK,2016-09-18,"HDFC Bank Share Price Today, HDFC Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379709362983704
+HDFCBANK,2023-10-16,"HDFC Bank Posts $1.91 Billion in Profit, Surpasses Expectations - Bloomberg.com",0.7478069067001343
+HDFCBANK,2014-03-15,HDFCB: HDFC Bank Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9479336738586426
+HDFCBANK,2023-06-30,"HDFC to merge into HDFC Bank on July 1, create India’s financial behemoth - Reuters",-0.9113766551017761
+HDFCBANK,2025-07-15,India's HDFC Bank to consider issuing bonus shares - Reuters,-0.9302483797073364
+HDFCBANK,2025-04-05,"Large lenders report robust growth in Q4 advances, deposits; HDFC Bank shines, IndusInd Bank sees mixed tren.. - ET BFSI",-0.5412601828575134
+HDFCBANK,2025-10-16,India Banks’ Lending Margins to Bottom Out as Rate Cuts Settle In - Bloomberg.com,-0.7326241731643677
+HDFCBANK,2025-07-15,"HDFC Bank CEO eyes accelerated growth, says it’s time to 'go for the boundaries' - ET BFSI",0.7667705416679382
+HDFCBANK,2015-03-19,HDB: HDFC Bank Ltd Stock Price Quote - New York - Bloomberg - Bloomberg.com,-0.947911262512207
+HDFCBANK,2023-03-31,HDFC Bank opens 500th branch in Tamil Nadu - ET BFSI,-0.7795121669769287
+HDFCBANK,2022-04-05,HDFC Bank-HDFC merger: How are they faring right now? - ET BFSI,-0.9022002220153809
+HDFCBANK,2023-12-28,"RBI releases D-SIB list, SBI, HDFC Bank need to maintain higher capital from FY25 - ET BFSI",0.7576349377632141
+HDFCBANK,2025-04-21,We won’t chase low rates to compete: HDFC Bank CFO on 20% drop in home loan disbursals - ET BFSI,-0.8862987160682678
+HDFCBANK,2025-07-14,Confident of growing our advances on par with industry in FY26: HDFC Bank CEO - ET BFSI,0.8935633301734924
+HDFCBANK,2024-01-25,India's HDFC Bank sees period of consolidation as it absorbs mega merger - sources - Reuters,-0.7265580892562866
+HDFCBANK,2023-07-02,India's HDFC Bank completes $40 billion takeover of the country's largest mortgage lender. Here’s what it means - CNBC,-0.9298378825187683
+HDFCBANK,2026-01-07,"India equity benchmarks fall for third session as HDFC Bank, auto stocks drag - Reuters",-0.9601082801818848
+HDFCBANK,2026-01-19,HDFC Bank says ₹305 Cr deposits per branch give confidence on deposit growth outlook - ET BFSI,0.6263810992240906
+HDFCBANK,2025-07-29,Sebi slaps Rs 10 lakh fine on entity for insider trading during HDFC-HDFC Bank merger - ETLegalWorld.com,-0.8564888834953308
+HDFCBANK,2021-09-21,"Hdfc bank loan - Latest hdfc bank loan , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9501277804374695
+HDFCBANK,2025-10-07,"HDFC Bank, Kotak, BoB lead strong credit growth in Q2; Bajaj Finance outperforms among NBFCs - ET BFSI",0.806842565536499
+HDFCBANK,2025-01-25,"HDFC Bank prepares for next growth cycle, but near-term hurdles persist - ET BFSI",0.5404034852981567
+HDFCBANK,2024-07-19,HDFC Bank CSR spend crosses Rs 945 cr in FY24 - ET BFSI,0.7063696980476379
+HDFCBANK,2020-09-12,"Hdfc bank news - Latest hdfc bank news , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9475751519203186
+HDFCBANK,2017-03-31,"HDFC Bank Target Share Price, HDFC Bank Share Price Forecast - The Economic Times",-0.9398233890533447
+HDFCBANK,2024-04-22,"India's HDFC Bank surprises on margin trajectory, garnering deposits, analysts say - Reuters",0.9406411647796631
+HDFCBANK,2017-03-24,The Economic Times - The Economic Times,-0.9159992933273315
+HDFCBANK,2017-03-24,HDFC Bank Ltd. - The Economic Times,-0.9258801341056824
+HDFCBANK,2025-12-15,India's HDFC Bank subsidiaries get nod to buy up to 9.5% stake in IndusInd Bank - Reuters,0.5485361814498901
+HDFCBANK,2023-04-24,HDFC-HDFC Bank Merger: What are the recent RBI clarifications and its impact? - ET BFSI,-0.9465017318725586
+HDFCBANK,2017-08-10,Check out HDFC Bank Ltd's stock price (HDB) in real time - CNBC,-0.944404125213623
+HDFCBANK,2017-09-01,"HDFC IFSC Code: Find HDFC Bank IFSC code, MICR code, Branches and Address - The Economic Times",-0.9471443295478821
+HDFCBANK,2025-02-27,"India's HDFC Bank to grow loan securitisation business over next few years, CFO says - Reuters",0.8565331101417542
+HDFCBANK,2025-01-22,HDFC Bank Posts Profit Growth in Line With Analyst Expectations - Bloomberg.com,0.9216022491455078
+HDFCBANK,2017-03-24,"Federal Bank Share Price Today, Federal Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9357379078865051
+HDFCBANK,2020-06-17,HDFC Bank becomes a ‘Great Place to Work’ - ET BFSI,0.716441810131073
+HDFCBANK,2025-04-19,"India's HDFC Bank sees loan-to-deposit ratio at 85%-90% by FY27, CFO says - Reuters",-0.8672237992286682
+HDFCBANK,2024-12-24,HDFC Bank eyes sustained growth with strategic realignments in FY25 - ET BFSI,0.952522873878479
+HDFCBANK,2025-10-28,HDFC Bank puts bankers on leave amid Credit Suisse bond probe - ET BFSI,-0.8672789335250854
+HDFCBANK,2026-01-05,Loan growth picks up at Indian banks in December quarter - Reuters,0.7449339628219604
+HDFCBANK,2023-10-16,"India's HDFC Bank sees margins drop, bad loans rise post $40 bln merger - Reuters",-0.9637740254402161

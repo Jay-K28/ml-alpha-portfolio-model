@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-TCS,2026-03-11,"Nuvama is bullish on all top-ten IT services stocks, sees up to 84% upside: Here's why - Moneycontrol.com",-0.6974725127220154
-TCS,2026-03-11,TCS sees $100-billion market value erosion since 2021. What lies ahead? - The Economic Times,-0.5462988018989563
-TCS,2026-03-13,"TCS, Infosys among 6 Sensex stocks hit 52-week lows; slip up to 18% in a month - The Economic Times",-0.9555811285972595
-TCS,2026-03-09,"TCS, HDFC Bank among 5 Sensex stocks that hit 52-week lows & slid up to 14% in a month - The Economic Times",-0.9669341444969177
-TCS,2026-03-13,"What IT giants Infosys, HCLTech and Cognizant are advising their employees amid LPG crisis? - The Economic Times",-0.8882107734680176
-TCS,2026-03-13,A vision for future - The Economic Times,-0.8936360478401184
-TCS,2026-03-13,"Why US stock market surging today: Dow Jones, S&P 500, Nasdaq rise as Russell 2000 leads - PCE inflation d - The Economic Times",-0.790666937828064
-TCS,2026-03-10,"Everyone selling IT stocks after record crash, but this Rs 1.3 lakh crore mutual fund doing the exact oppo - The Economic Times",-0.9218059182167053
-TCS,2026-03-13,IT’s time to migrate to AI: Indian tech firms must stop being effort-based vendors - The Economic Times,-0.9120322465896606
-TCS,2026-03-12,"US stock market deep in red today: Why Dow Jones, S&P 500 and Nasdaq crash again - Dow drops 600 points an - The Economic Times",-0.7914751172065735
-TCS,2026-03-13,HDFC Defence Fund exits this large cap stock that went up by 400% in 5 years - The Economic Times,0.8061690330505371
-TCS,2026-03-13,Why S&P 500 and Nasdaq down today while Dow Jones holds steady: US stock market turns cautious as VIX at 2 - The Economic Times,-0.9307298064231873
-TCS,2026-03-13,More Political Gas - The Economic Times,-0.8896679282188416
-TCS,2026-03-13,India must steer WTO 2.0 forward - The Economic Times,-0.6994379162788391
-TCS,2026-03-13,Deja vu 2020? Tech firms revive WFH as Middle East war disrupts fuel - The Economic Times,-0.5417109131813049
-TCS,2026-03-11,Reports of my death are greatly exaggerated! Why Nuvama is screaming buy on all top 10 IT stocks - The Economic Times,-0.9110790491104126
-TCS,2026-03-13,"Why are US stock market indexes down today and Dow Jones, S&P 500 and Nasdaq in red now? Wall Street fall, - The Economic Times",-0.9236201047897339
-TCS,2026-03-13,"Why are US stock market futures rising now, and S&P 500 and Dow Jones in green while Nasdaq in red? Wall s - The Economic Times",-0.9030176997184753
-TCS,2026-03-13,Adobe stock price today: Why ADBE stock dropped as CEO Shantanu Narayen steps down after 18 years - The Economic Times,-0.8281627297401428
-TCS,2026-03-13,"Bloating, cramps, poor digestion? Nutritionist shares simple foods that may help - The Economic Times",-0.8876230716705322
-TCS,2026-03-13,Hansika Motwani shares first Instagram post after divorce from Sohail Khaturiya. What does the Punjabi phr - The Economic Times,-0.940194308757782
-TCS,2026-03-13,Maharashtra's agri AI policy will revolutionise farm sector: Minister Dattatreya Bharane - The Economic Times,-0.8624042868614197
-TCS,2026-03-13,AI agent 'lobster fever' grips China despite risks - The Economic Times,-0.46545517444610596
-TCS,2026-03-13,ET Prime Special: How companies manipulate government incentives and create a false picture - The Economic Times,-0.7512105107307434
-TCS,2026-03-12,"ICICI Prudential Equity & Debt Fund turns Rs 1,000 SIP to Rs 4 crore in nearly 26 years - The Economic Times",0.683419406414032
-TCS,2026-03-13,Iran threatens to 'set region's oil and gas on fire' if energy infrastructure attacked - The Economic Times,-0.615682065486908
-TCS,2026-03-13,Europe takes first step to banning AI-generated child sexual abuse images - The Economic Times,-0.8353609442710876
-TCS,2026-03-13,IndiGo introduces new fuel charge on tickets to ride out ATF price storm unleashed by Iran war - The Economic Times,-0.7457269430160522
-TCS,2026-03-13,"Godrej Properties promoters snap up Rs 2,674 crore shares, raise stake - The Economic Times",-0.8363818526268005
-TCS,2026-03-13,Banks recorded higher credit and deposits growth in the fortnight to February 28 - The Economic Times,0.9400175213813782
-TCS,2026-03-13,Indigenous alternative to LPG? Central lab looks to scale up DME pilot - The Economic Times,-0.6813538670539856
-TCS,2026-03-13,"Smartphone brand Nothing plans to make India an export hub, begins shipments to US - The Economic Times",0.5543187260627747
-TCS,2026-03-13,Parliament Watch: EU rules challenge Indian exporters; Over 1 lakh benefit from RoDTEP in FY26; India’s im - The Economic Times,-0.43568155169487
-TCS,2026-03-13,Electricity demand from data centres to reach 13.56 GW by 2031-32: MeitY's Jitin Prasada - The Economic Times,-0.7336627244949341
-TCS,2026-03-13,EU states back ban on AI generating sexualised deepfakes - The Economic Times,-0.8332748413085938
-TCS,2026-03-13,India’s captive and commercial coal output crosses 200 MT so far in FY26 - The Economic Times,0.535907506942749
-TCS,2026-03-13,"Iran’s new Supreme Leader Mojtaba Khamenei ‘wounded, likely disfigured’: Pentagon - The Economic Times",-0.5127819776535034
-TCS,2026-03-13,"Zippee, quick commerce logistics startup crosses 9 lakh orders in Feb, amid Q commerce boom - The Economic Times",0.7866613864898682
-TCS,2026-03-13,Tata Motors bags orders for over 5000 buses and chassis - The Economic Times,-0.6649523377418518
-TCS,2026-03-13,Quote of the day by Aristotle: “Happiness depends upon...” - The Economic Times,-0.9030588269233704
-TCS,2026-03-13,"Iran War: US, Israel hit more than 15,000 targets since Feb 28, says Pentagon - The Economic Times",-0.8652868270874023
-TCS,2026-03-13,Quote of the day by Robin Williams: 'No matter what people tell you...' - The Economic Times,-0.9156870245933533
-TCS,2026-03-07,"High conviction picks! TCS, HDFC Bank, 9 other stocks with upside potential of up to 40%. Do you own any? - The Economic Times",-0.8874838352203369
-TCS,2026-03-13,"India, get a foot into FIFA World Cup? - The Economic Times",-0.9190269708633423
-TCS,2026-03-13,Fuel shortage disrupts Jindal Stainless operations - The Economic Times,-0.8642686605453491
-TCS,2026-03-13,"Amid LPG crisis, Bengaluru doctor shares 10 simple cooking techniques that halves gas consumption without - The Economic Times",-0.8795830607414246
-TCS,2026-03-13,"India's urea imports from China hit 3-year high, Russian supplies also surge - The Economic Times",0.8499404788017273
-TCS,2026-03-13,RBI imposes penalty on Manappuram Finance - The Economic Times,-0.4930354058742523
-TCS,2026-03-13,Opposition MPs submit notices in both Houses seeking motion for removal of CEC Gyanesh Kumar - The Economic Times,-0.5182353258132935
-TCS,2026-03-13,Large explosion in Tehran square where demonstrations are happening: Iranian state television - The Economic Times,-0.8408343195915222
+TCS,2026-03-19,"HDFC Bank, TCS among 5 Sensex stocks hitting 52-week lows; down up to 16% in a month - The Economic Times",-0.9727522730827332
+TCS,2026-03-19,"TCS partners Amadeus to build AI-driven airline retail, servicing solutions - ET Infra",-0.6243507266044617
+TCS,2026-03-19,"Fed pause, inflation risks drag IT stocks; TCS, Wipro, HCL drop up to 3% - Business Standard",-0.9610984921455383
+TCS,2026-03-20,"Stocks to Watch today: TCS, HDFC Bank, Nestle India, NTPC, JSW Cement - Business Standard",-0.9290828108787537
+TCS,2026-03-18,TCS scales up Chennai presence to 7.79 lakh sq ft with fresh OMR lease - ET Realty,0.9429581761360168
+TCS,2026-03-20,"Stock Alert: TCS, NTPC, Nestle India, Tata Elxsi, ASM Technologies, Lemon Tree Hotels - Business Standard",-0.9398960471153259
+TCS,2026-03-20,Amadeus and TCS partner to advance airline retail technology - ET TravelWorld,0.6222086548805237
+TCS,2026-03-21,Tech Quiz Online | For General Audience / Other | ETCIO.com - ET CIO,-0.9526122212409973
+TCS,2026-03-20,Flipkart Group CFO Sriram Venkataraman quits; Nishant Verman rejoins as SVP - Business Standard,-0.524980902671814
+TCS,2026-03-20,"IndiQube signs ₹54 crore Pune deal for 1,140 seats with GCC client - Business Standard",0.6837422251701355
+TCS,2026-03-20,A-I Delhi-Vancouver flight returns after 7 hours over operational issue - Business Standard,-0.4963364899158478
+TCS,2026-03-20,Thyssenkrupp-Jindal steel sale talks 'not moving forward': Deputy chairman - Business Standard,-0.8360429406166077
+TCS,2026-03-20,Flipkart CFO Venkataraman steps down; Ravi Iyer to take interim role - Business Standard,-0.7047322392463684
+TCS,2026-03-20,Air India flight returns to Delhi after deploying wrong plane for Canada - Business Standard,-0.5745206475257874
+TCS,2022-10-10,TCS Results: Profit Tops Estimates After Outsourcing Giant Wins New Deals - Bloomberg.com,0.5054723024368286
+TCS,2025-04-11,TCS IN Equity 10Apr25 RU - bsmedia.business-standard.com,-0.9470659494400024
+TCS,2025-07-10,TCS revenue falls short as tariffs cast shadow on client spending - Reuters,-0.9628780484199524
+TCS,2025-04-10,India's TCS warns US tariff chaos hurting client sentiment - Reuters,-0.9630637764930725
+TCS,2026-01-12,TCS Profit Misses Estimates in Sign Tech Spending Yet to Pick Up - Bloomberg.com,-0.5626420974731445
+TCS,2025-10-10,TCS IN 10Oct25 - bsmedia.business-standard.com,-0.9460725784301758
+TCS,2025-07-10,TCS Sales Drag as Cautious Clients Hold Back Tech Spends - Bloomberg.com,-0.8825124502182007
+TCS,2025-07-23,TCS Stock Set for Worst Performance Since 2008 After $43 Billion Wipeout - Bloomberg.com,-0.9548800587654114
+TCS,2024-05-09,TCS CEO Krithivasan earned $3 mln in first year at top job - Reuters,-0.7358509302139282
+TCS,2014-03-15,TCS: Tata Consultancy Services Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9453407526016235
+TCS,2024-10-11,"India's TCS slips after Q2 profit miss, other IT firms advance - Reuters",-0.9578256011009216
+TCS,2024-01-11,India's TCS CEO flags uncertain demand as inflation crimps spending - Reuters,-0.8212162852287292
+TCS,2022-07-08,India's TCS sees margin improvement after expenses dent quarterly profit - Reuters,0.9525521993637085
+TCS,2025-01-09,TCS Misses Profit Estimates in Sign IT Spending Yet to Pick Up - Bloomberg.com,-0.7471265196800232
+TCS,2026-01-12,"India's TCS posts slim quarterly revenue beat on AI demand, North America growth - Reuters",0.49748966097831726
+TCS,2025-07-10,India's benchmarks slip on IT drag ahead of TCS earnings - Reuters,-0.9297192692756653
+TCS,2023-10-11,India's TCS flags weak client spending after Q2 revenue miss - Reuters,-0.9678627848625183
+TCS,2025-10-10,Traders See Calmest India Earnings Season as They Look Past TCS - Bloomberg.com,-0.804239809513092
+TCS,2024-07-11,"India's TCS beats Q1 view, flags persistent demand uncertainty - Reuters",-0.4310499131679535
+TCS,2025-05-06,"TCS/PR/SE/09/2025-26 May 6, 2025 National Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, P. J. Tower - bsmedia.business-standard.com",-0.948316216468811
+TCS,2024-01-14,India's TCS to diversify to other markets amid US weakness - Reuters,0.677374541759491
+TCS,2024-10-10,India's TCS misses Q2 profit estimates on North America weakness - Reuters,-0.9048592448234558
+TCS,2025-10-09,Indian Investors Watch IT Stocks After Tata Consultancy Services’ Earnings - Bloomberg.com,-0.9160459041595459
+TCS,2024-07-11,India's TCS jumps after Q1 results indicate 'worst is over' - Reuters,-0.699999213218689
+TCS,2022-06-06,TCS.NS - Reuters,-0.9454762935638428
+TCS,2026-01-07,"Indian top IT firms set for another tepid quarter on weak US demand, client spending - Reuters",-0.9591574668884277
+TCS,2025-10-09,"TCS/BM/SE/117/2025-26 October 9, 2025 National Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, P. J. - bsmedia.business-standard.com",-0.9483959674835205
+TCS,2025-01-09,India's TCS counts on Trump to boost US client spending - Reuters,0.9225521683692932
+TCS,2025-10-09,"Metals, IT drive India shares higher; TCS earnings on tap - Reuters",0.7382755279541016
+TCS,2026-01-12,"TCS, HCL Tech Results Bring Setback for India Stock Bulls - Bloomberg.com",-0.691428542137146
+TCS,2025-10-09,"India's TCS beats quarterly revenue estimates, sees better growth in H2 - Reuters",0.9486880302429199
+TCS,2025-04-10,TCS Net Income Trails Estimate as Companies Curb IT Spending - Bloomberg.com,-0.5393529534339905
+TCS,2025-01-09,India's TCS jumps 6% as CEO signals potential demand revival - Reuters,0.7864471077919006
+TCS,2024-04-12,India's TCS pins hopes on strong deal pipeline to drive growth in fiscal 2025 - Reuters,0.9402798414230347
+TCS,2024-10-10,Asia IT Leader TCS Lags Estimates In Sign of Weak Tech Spending - Bloomberg.com,-0.9574839472770691
+TCS,2025-07-27,"Indian tech company TCS to cut workforce by 2%, affecting more than 12,000 jobs - Reuters",-0.9690452218055725
+TCS,2024-04-14,India’s TCS counts on pricing increases to boost margins - Reuters,0.9468602538108826
+TCS,2024-04-15,Tata Consultancy Services (TCS) - bsmedia.business-standard.com,-0.9494644999504089
+TCS,2017-07-28,Check out Tata Consultancy Services's stock price (TCS-IN) in real time - CNBC,-0.943822979927063
+TCS,2025-10-09,"TCS/BM/SE/118/2025-26 October 9, 2025 National Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, Bandra - bsmedia.business-standard.com",-0.9461491107940674
+TCS,2025-11-20,"India's TCS, TPG partner to invest $2 billion in AI data centre JV - Reuters",-0.5911316275596619
+TCS,2023-11-21,India's TCS to take $125 mln hit to Q3 earnings over US lawsuit - Reuters,-0.6145850419998169
+TCS,2025-10-10,TCS IN Equity 09Oct25 RU - bsmedia.business-standard.com,-0.9471012949943542
+TCS,2023-04-12,India's TCS blames U.S. banking crisis for weak fourth quarter - Reuters,-0.9559997320175171
+TCS,2023-01-09,"India's TCS slips 2.7% on profit miss, weak outlook - Reuters",-0.9699589014053345
+TCS,2012-07-12,India's TCS gains on earnings; Infosys extends falls - Reuters,-0.5485103130340576
+TCS,2025-04-10,"TCS/BM/4/SE/2025-26 April 10, 2025 National Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, Bandra Kur - bsmedia.business-standard.com",-0.9463281035423279
+TCS,2016-10-29,TCS/Q: Tata Consultancy Services Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9466625452041626
+TCS,2023-07-12,TCS Profit Beats Estimates on Demand for Software Services - Bloomberg.com,-0.8036490082740784
+TCS,2025-01-12,"India's TCS expects retail, manufacturing revival after banking recovery - Reuters",0.8415320515632629
+TCS,2023-01-09,"India's TCS Q3 misses view, flags challenges in Europe - Reuters",-0.83256995677948
+TCS,2024-10-10,Indian shares trim gains as IT weighs ahead of TCS earnings; US CPI awaited - Reuters,-0.7663478255271912
+TCS,2026-01-12,"TCS/BM/179/SE/2025-26 January 12, 2026 National Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, P. J - bsmedia.business-standard.com",-0.9485713243484497
+TCS,2026-01-12,"TCS Q3 profit falls 14% to ₹10,657 crore; headcount dips by 11,000 - ET Telecom",-0.9727692008018494
+TCS,2025-08-06,"India's TCS to hike wages of 80% employees after five-month delay, company mail shows - Reuters",-0.4730013608932495
+TCS,2024-03-18,"India's Tata Sons to sell TCS shares worth up to $1.13 bln, term sheet shows - Reuters",-0.9149993658065796
+TCS,2025-01-10,"TCS reports employee headcount drop by 5,370 in Q3 - ETHRWorld.com",-0.9689940810203552
+TCS,2025-12-16,TCS and CII unveil the 2025 Artificial Intelligence & IP Report for India - bsmedia.business-standard.com,-0.9412515759468079
+TCS,2025-08-26,"India's TCS forms AI-focused unit and names insider Kapur as head, company memo shows - Reuters",-0.9360787272453308
+TCS,2026-01-08,"TCS, Infosys, Wipro to Offer Clues on 2026 Demand as Street Estimates Look Up - Bloomberg.com",-0.9249811768531799
+TCS,2026-02-25,"India's TCS urging staff to use AI despite risk to revenue, CEO says - Reuters",-0.6229519248008728
+TCS,2026-01-12,AI emerges as faster-growing lever in TCS’s Q3FY26 results - Indiatimes,-0.6453522443771362
+TCS,2023-03-16,"India's TCS CEO Gopinathan to exit, president Krithivasan to take over - Reuters",-0.9388846158981323
+TCS,2025-12-10,"TCS/SE/160/2025-26 December 10, 2025 National Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, P. J. To - bsmedia.business-standard.com",-0.9480754733085632
+TCS,2025-04-11,TCS defers wage hikes to its 6.07 lakh employees due to business uncertainties triggered by tariff issues - ETHRWorld.com,-0.9352478384971619
+TCS,2025-10-10,"TCS's $7 billion India data centre bet raises questions over returns, fit - Reuters",-0.8998367786407471
+TCS,2025-06-19,India's TCS says none of its systems were compromised in M&S hack - Reuters,-0.8601710200309753
+TCS,2022-06-11,About Tata Consultancy Services Ltd (TCS.BO) - Reuters,-0.943160891532898
+TCS,2023-07-17,"TCS aims to hire 40,000 freshers in FY24: Report - ET Telecom",-0.5134121775627136
+TCS,2025-11-21,TCS IN Equity 21Nov25 - bsmedia.business-standard.com,-0.9485999941825867
+TCS,2024-04-12,India's TCS misses Q4 revenue estimates on weak client spending - ET Telecom,-0.9720825552940369
+TCS,2022-02-01,TCS Recognized as a Leader in IDC MarketScape for Oil & Gas Upstream Asset Management Digital Services - bsmedia.business-standard.com,0.6791090369224548
+TCS,2015-03-22,TTNQY: Tata Consultancy Services Ltd Stock Price Quote - - Bloomberg - Bloomberg.com,-0.9417628049850464
+TCS,2025-03-20,TCS Partners with The Cumberland Building Society to Transform its Core Banking Solution - bsmedia.business-standard.com,0.7624780535697937
+TCS,2025-08-08,India tech giant TCS layoffs herald AI shakeup of $283 billion outsourcing sector - ET Telecom,-0.9509159922599792
+TCS,2022-01-12,Indian IT leaders TCS and Infosys confident on digital services growth - Reuters,0.6676728129386902
+TCS,2025-11-19,"TCS/PR/SE/51/2025-26 November 19, 2025 National Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, P. J. - bsmedia.business-standard.com",-0.9486780762672424
+TCS,2023-06-21,India's TCS signs $1.1 billion contract with UK's Nest - Reuters,0.7791922092437744
+TCS,2025-09-02,India's TCS bags $644 million deal from Scandinavian insurer Tryg - Reuters,0.7486338019371033
+TCS,2025-04-11,"TCS adds 625 employees in Q4, reversing workforce decline from last quarter - ETHRWorld.com",-0.9527976512908936
+TCS,2025-12-15,"TCS/PR/SE/55/2025-26 December 15, 2025 National Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, P. J. - bsmedia.business-standard.com",-0.9482994079589844
+TCS,2025-02-17,Former Staffers Say India’s Biggest IT Firm Was Gaming the US Visa System - Bloomberg.com,-0.9162110090255737
+TCS,2025-01-20,"Infosys, HCLTech report hiring growth in Q3; TCS, Wipro see decline - ETCFO.com",-0.5545862317085266
+TCS,2025-07-14,Wage hikes a priority for TCS; focus on growth with profitability: CFO - ETHRWorld.com,-0.8451402187347412
+TCS,2025-02-18,"TCS Named Global Top Employer for 2025, Achieves New Milestone with Enterprise-Wide Top Employer Certification - bsmedia.business-standard.com",0.9209890961647034
+TCS,2024-01-11,"TCS, Infosys Show Dismal Growth as Clients Remain Cautious - Bloomberg.com",-0.9515591859817505

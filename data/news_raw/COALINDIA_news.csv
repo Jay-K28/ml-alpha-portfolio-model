@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-COALINDIA,2026-03-12,"Coal India shares rise 5%, emerge as top Nifty gainer amid West Asia crisis: Here's why - Moneycontrol.com",0.7339994311332703
-COALINDIA,2026-03-09,Coal India gearing up for breakout after 15 months of consolidation: Shivangi Sarda - The Economic Times,-0.784685492515564
-COALINDIA,2026-03-13,"Coal India shares hit fresh record high, rise 19% in 2026 so far: What lies ahead? - The Economic Times",0.5435259938240051
-COALINDIA,2026-03-11,"Jefferies raises Coal India target price, says valuation reasonable - The Economic Times",-0.7015014290809631
-COALINDIA,2024-03-18,"Coal India Share Price Live Updates: Coal India Sees Marginal Increase in Price, Average Daily Volatility - The Economic Times",0.8781032562255859
-COALINDIA,2026-03-08,"Stock Radar: Coal India could be a good buy amid geopolitical concerns, explains Shivangi Sarda - The Economic Times",0.7409997582435608
-COALINDIA,2026-03-13,"Coal India among 3 stocks flashing bullish signals, hinting at a possible uptrend - The Economic Times",-0.6835207343101501
-COALINDIA,2026-03-12,"Coal India shares rise 4%, emerge as top Nifty gainer amid West Asia crisis: Here's why - Moneycontrol.com",0.7210556268692017
-COALINDIA,2026-03-12,Coal India among 4 stocks that hit 52-week highs & rallied up to 15% in a month - The Economic Times,0.9352805614471436
-COALINDIA,2024-05-17,Coal India Share Price Today Live Updates: Coal India Stock Details - The Economic Times,-0.9391340017318726
-COALINDIA,2026-03-13,Coal India arm CMPDI to launch IPO on March 20. All you need to know - The Economic Times,-0.9427859783172607
-COALINDIA,2024-02-12,"Coal India Share Price Today Live Updates: Coal India Stock Price Drops 5.05% Today, Beta Indicates Moder - The Economic Times",-0.9627770185470581
-COALINDIA,2024-06-10,Coal India Share Price Today Live Updates: Coal India Dividend Updates - The Economic Times,-0.9338812828063965
-COALINDIA,2011-07-16,Coal India Ltd. - Moneycontrol.com,-0.9481598138809204
-COALINDIA,2024-02-12,"Coal India Share Price Today Updates: Coal India Witnesses a 5.41% Decrease in Price Today, EMA5 at Rs 43 - The Economic Times",-0.9125412106513977
-COALINDIA,2026-03-13,Coal India's arm CMPDIL to float IPO on March 20 - Moneycontrol.com,-0.9473317861557007
-COALINDIA,2024-04-23,"Moving Averages Updates: Coal India Ltd Stock Price Slips Below 20-Day EMA, Registers 0.0226% Decline - The Economic Times",-0.9676544666290283
-COALINDIA,2024-03-06,"Moving Averages Updates: Coal India Ltd's Stock Price Falls Below 20-day SMA, Declines by 2.15% - The Economic Times",-0.9696837663650513
-COALINDIA,2024-04-18,"Coal India Share Price Live Updates: Coal India Sees Marginal Gain as Stock Price Reaches Rs 453.75, SMA7 - The Economic Times",0.8987302780151367
-COALINDIA,2024-04-10,Price Updates: Coal India Ltd Stock Price Jumps Over 2% Following Yesterday's Close - The Economic Times,0.846165657043457
-COALINDIA,2024-04-23,"Moving Averages Updates: Coal India Ltd Stock Price Falls Below 20-Day SMA at Rs 441.35, Registers 0.36% D - The Economic Times",-0.9567010402679443
-COALINDIA,2024-04-22,Coal India Share Price Today Live Updates: Coal India Sees Incremental Growth: Current Price at Rs 442.65 - The Economic Times,0.7506486177444458
-COALINDIA,2024-03-21,Price Updates: Coal India Ltd's Share Price Rises by Over 2% on the Financial Markets - The Economic Times,0.906519889831543
-COALINDIA,2024-02-20,"Coal India Share Price Today Live Updates: Coal India Witnesses 3.88% Decline in Price Today, SMA5 at Rs - The Economic Times",-0.9444835186004639
-COALINDIA,2024-03-15,Coal India Stocks Live Updates: Coal India Closes at Rs 427.7 with 2.55% Gain and High Trading Volume - The Economic Times,0.8073588013648987
-COALINDIA,2024-04-25,"Coal India Stocks Live Updates: Coal India Sees Marginal Price Increase, Trading at 445.90 Rupees with 0. - The Economic Times",0.9269014000892639
-COALINDIA,2024-04-24,Coal India Share Price Today Live Updates: Coal India Closes at Rs 440.95 with Lower Trading Volume than - The Economic Times,-0.962616503238678
-COALINDIA,2023-11-21,Coal India Share Price Today Live Updates: Coal India Closes at Rs 347.75 with Impressive 3-Month Return - The Economic Times,0.88524329662323
-COALINDIA,2024-04-08,"Coal India Share Price Live Updates: Coal India Sees Modest Price Increase Today, Reports Strong 3-Month - The Economic Times",0.9356101155281067
-COALINDIA,2024-05-30,Coal India Share Price Live Updates: Coal India Stock Details - The Economic Times,-0.9384282231330872
-COALINDIA,2024-01-16,"Coal India Share Price Live Updates: Coal India Sees 1.6% Decline in Price Today, 1-Week Returns at -1.05 - The Economic Times",-0.960987389087677
-COALINDIA,2024-02-26,Coal India Share Price Live Updates: Coal India Closes at Rs 443.9 with a 0.28% Decrease in Previous Day' - The Economic Times,-0.9085289835929871
-COALINDIA,2024-03-14,"Coal India Share Price Live Updates: Coal India Sees 1.96% Increase in Value Today, but 1-Week Returns Re - The Economic Times",0.9326906800270081
-COALINDIA,2024-04-15,Coal India Share Price Today Live Updates: Coal India Closes at Rs 455.60 with 6-Month Beta of 0.6614 - The Economic Times,-0.6658666729927063
-COALINDIA,2024-04-25,Coal India Stocks Live Updates: Coal India Sees Marginal Price Increase as Trading Volume Remains Stable - The Economic Times,0.9119382500648499
-COALINDIA,2024-01-09,"Coal India Stocks Live Updates: Coal India Sees Marginal Increase in Price, Generates Positive Returns - The Economic Times",0.9422850608825684
-COALINDIA,2024-04-29,"Coal India Share Price Today Live Updates: Coal India Sees Minor Decline in Price, SMA3 Suggests Short-Te - The Economic Times",-0.9253057241439819
-COALINDIA,2023-11-24,"Coal India Share Price Live Updates: Coal India Sees Marginal Increase in Price, Delivers Strong 1-Month - The Economic Times",0.9459145069122314
-COALINDIA,2024-04-23,"Coal India Share Price Live Updates: Coal India Sees Slight Price Uptick Today, Reports Strong 1-Year Ret - The Economic Times",0.9280343055725098
-COALINDIA,2024-04-22,Coal India Share Price Today Live Updates: Coal India Closes at Rs 435.30 with 6-Month Beta of 0.6614 - The Economic Times,-0.8313273787498474
-COALINDIA,2024-04-24,Coal India Share Price Today Live Updates: Coal India Closes at Rs 440.95 with 6-Month Beta of 0.6614 - The Economic Times,-0.8290069103240967
-COALINDIA,2026-03-11,"Mother Nutri Foods Cash Flow, Financial Statements - The Economic Times",-0.928846001625061
-COALINDIA,2024-04-25,"Coal India Stocks Live Updates: Coal India Sees 0.66% Increase in Value, Closes at Rs 443.85 with Trading - The Economic Times",0.9125002026557922
-COALINDIA,2024-01-24,Coal India Share Price Today Live Updates: Coal India Closes at Rs 375.3 with Moderate Trading Volume - The Economic Times,-0.8622598648071289
-COALINDIA,2024-04-16,"Coal India Share Price Today Live Updates: Coal India Sees Marginal Decline in Price, Registers 0.30% 1-D - The Economic Times",-0.9290011525154114
-COALINDIA,2024-03-28,"Coal India Stocks Live Updates: Coal India Sees 0.94% Increase in Stock Price, Trading at Rs 433.45 - The Economic Times",0.9363155961036682
-COALINDIA,2024-04-22,"Moving Averages Updates: Coal India Ltd Breaks Above 20-Day SMA with Price at Rs 441.0, Showing 1.31% Dail - The Economic Times",0.9035954475402832
-COALINDIA,2024-01-11,"Coal India Stocks Live Updates: Coal India Sees Marginal Increase in Price Today, 6-Month Returns Impress - The Economic Times",0.7015117406845093
-COALINDIA,2024-06-11,"Moving Averages Updates: Coal India Ltd Breaks Above 20-Day SMA with Price at Rs 482.0, Showing 0.90% Dail - The Economic Times",0.8931856751441956
-COALINDIA,2024-04-24,Coal India Share Price Today Live Updates: Coal India Closes at Rs 440.95 with Impressive 3-Month Return - The Economic Times,0.8970449566841125
+COALINDIA,2023-12-29,Coal India Stocks Live Updates: Coal India News - The Economic Times,-0.9352300763130188
+COALINDIA,2023-12-19,Coal India Share Price Today Live Updates: Coal India Stock Details - The Economic Times,-0.9391340017318726
+COALINDIA,2024-03-26,Coal India Stocks Live Updates: Coal India Closes at Rs 431.95 with Impressive 3-Month Return of 18.91% - The Economic Times,0.805160641670227
+COALINDIA,2024-02-02,"Coal India Stocks Live Updates: Coal India Sees 1.46% Price Surge, SMA5 at Rs 408.16 - The Economic Times",0.6077846884727478
+COALINDIA,2023-12-11,Coal India Share Price Live Updates: Coal India Closes at Rs 351.0 with Moderate Trading Volume - The Economic Times,-0.8607950806617737
+COALINDIA,2026-03-19,"Coal India: Why extended summer, subsidiary listings, and a 1-billion-tonne vision make this a stock worth - The Economic Times",-0.8852009177207947
+COALINDIA,2024-06-12,Price Updates: Coal India Ltd Stock Price Surges Over 2% Above Previous Close of Rs 476.35 - The Economic Times,0.8653514385223389
+COALINDIA,2026-03-13,"Supreme Facility Man Yearly results, Financial Summary - The Economic Times",-0.915677011013031
+COALINDIA,2026-03-19,"Maxvolt Energy Indus Cash Flow, Financial Statements - The Economic Times",-0.9269565343856812
+COALINDIA,2024-01-11,"Coal India Stocks Live Updates: Coal India Sees Marginal Increase in Price, EMA5 at 382.72 - The Economic Times",0.9101287722587585
+COALINDIA,2026-03-18,"Bai-Kakaji Polymers Yearly results, Financial Summary - The Economic Times",-0.9155518412590027
+COALINDIA,2026-03-16,"Coal India unit Central Mine Planning seeks $1.33 billion valuation, IPO opens Friday - Reuters",-0.9260733723640442
+COALINDIA,2026-03-22,Wealth whisperings: Quiet luxury finds voice among India’s new elite - The Economic Times,-0.8154088258743286
+COALINDIA,2026-03-22,"'BJP a zero-seat party,' Shashi Tharoor says UDF set to win Kerala | Kerala assembly elections - The Economic Times",-0.8035221099853516
+COALINDIA,2017-03-23,"Coal India Ltd Share Price Today, Coal India Ltd Stock Price Live NSE/BSE Updates - The Economic Times",-0.9378774762153625
+COALINDIA,2023-11-23,"Coal India Share Price Today Live Updates: Coal India Sees Minor Decline in Price, SMA5 at Rs 338.17 - The Economic Times",-0.9427093863487244
+COALINDIA,2017-03-24,"Tata Power Share Price Today, Tata Power Stock Price Live NSE/BSE Updates - The Economic Times",-0.9378738403320312
+COALINDIA,2017-03-24,"NTPC Share Price Today, NTPC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381704330444336
+COALINDIA,2014-03-15,COAL: Coal India Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9475008845329285
+COALINDIA,2025-10-29,"Coal India's second-quarter profit misses view on tepid demand, lower e-auction premiums - Reuters",-0.8394320607185364
+COALINDIA,2025-07-31,Coal India's quarterly profit falls on weak power demand - Reuters,-0.9638407826423645
+COALINDIA,2017-08-08,Check out Coal India Ltd's stock price (COALINDIA-IN) in real time - CNBC,-0.9468822479248047
+COALINDIA,2022-06-07,COAL.NS - Reuters,-0.9490777850151062
+COALINDIA,2021-06-17,Coal India Ltd - Reuters,-0.9454241991043091
+COALINDIA,2025-02-23,Coal India and France's EDF to form renewables joint venture - Reuters,-0.8219557404518127
+COALINDIA,2017-03-24,"Coal India Ltd Balance Sheets, Financial Statements - The Economic Times",-0.9299196600914001
+COALINDIA,2026-02-12,Coal India profit falls amid weak power-generation demand - Reuters,-0.9669488668441772
+COALINDIA,2026-01-06,Reliance Shares Take a Big Knock - Bloomberg.com,-0.9102376103401184
+COALINDIA,2020-10-01,"Coal India sees fastest growth in output, sales for six years in Sept - Reuters",0.8881081938743591
+COALINDIA,2026-01-18,Coal India unit Bharat Coking Coal valued at $2.2 billion after stellar market debut - Reuters,-0.8893799185752869
+COALINDIA,2026-03-20,"Bharat Coking Coal Share Price Today, Bharat Coking Coal Stock Price Live NSE/BSE Updates - The Economic Times",-0.9384077787399292
+COALINDIA,2020-10-05,"Coal India Q1 Results: Profit rises 4% YoY to Rs 10,959 cr, beats estimates - The Economic Times",0.9289336204528809
+COALINDIA,2018-10-31,"Coal india share price - Latest coal india share price , Information & Updates - Energy -ET EnergyWorld - ET EnergyWorld",-0.9503505825996399
+COALINDIA,2026-02-12,India Coal Giant’s Profit Drops as Muted Power Demand Hits Sales - Bloomberg.com,-0.9512201547622681
+COALINDIA,2018-05-29,Coal India fourth quarter net profit down 52 per cent - ET EnergyWorld,-0.9684864282608032
+COALINDIA,2026-01-02,"Coal India opens up auctions to buyers from Bangladesh, Nepal and Bhutan - Reuters",-0.8135234713554382
+COALINDIA,2026-01-16,Coal India stock breaks out of long consolidation; Rajesh Palviya sees further upside - The Economic Times,0.8599098324775696
+COALINDIA,2025-07-31,"Coal India Q1 net profit falls over 20% to ₹8,743 cr - ET EnergyWorld",-0.962759256362915
+COALINDIA,2021-12-21,"Coal India Q3 results: Profit falls 16% YoY to Rs 7,166 crore; co declares dividend of Rs 5.5 per share - The Economic Times",-0.9698702096939087
+COALINDIA,2024-08-01,"Coal India beats Q1 profit estimates on higher volumes, lower costs - ET EnergyWorld",0.9520545601844788
+COALINDIA,2017-03-24,The Economic Times - The Economic Times,-0.9159992933273315
+COALINDIA,2025-05-08,"Coal India Q4 net profit rises 12% to ₹9,604 cr - ET EnergyWorld",0.946650505065918
+COALINDIA,2022-06-03,Draft cabinet note issued for listing of 25 per cent shares of Coal India arm - ET EnergyWorld,-0.9319252967834473
+COALINDIA,2023-05-30,Coal India raises non-coking coal prices by 8% - Reuters,0.8841221928596497
+COALINDIA,2025-03-18,"Coal India requests BSE, NSE to waive penalty - ETLegalWorld.com",-0.9121437072753906
+COALINDIA,2010-10-25,Coal India IPO to raise $3.5 bln after final pricing - Reuters,-0.8257129788398743
+COALINDIA,2026-01-05,Coal India Met Coal Unit Sets Price for $119 Million IPO - Bloomberg.com,-0.9411200881004333
+COALINDIA,2025-10-29,"Coal India Q2 profit drops 32% to ₹4,263 crore - ET EnergyWorld",-0.9730729460716248
+COALINDIA,2025-01-27,"Coal India Q2 net profit at Rs 8,491 crore, declares dividend of Rs 5.6 a share - ET EnergyWorld",-0.9133128523826599
+COALINDIA,2018-10-31,Coal India OFS: Institutional buyers portion over-subscribed - ET EnergyWorld,-0.9466684460639954
+COALINDIA,2025-12-16,"CAG flags delays in development of 3,000 MW solar projects by Coal India - ET EnergyWorld",-0.9558566212654114
+COALINDIA,2024-02-13,"Coal India to add new mines, expand existing ones to meet higher demand, chairman says - Reuters",0.873020589351654
+COALINDIA,2021-09-24,"Coal india - Latest coal india , Information & Updates - Legal -ET LegalWorld - ETLegalWorld.com",-0.9500756859779358
+COALINDIA,2021-09-06,Coal India's 39 mining projects running behind schedule - ET Auto,-0.8253699541091919
+COALINDIA,2026-02-27,Coal India Inventories Swell as Miner Gears Up for Summer Demand - Bloomberg.com,-0.7879884839057922
+COALINDIA,2023-05-31,Indian government proposes to sell 3% stake in Coal India - Reuters,-0.9314647912979126
+COALINDIA,2020-08-31,Coal India Limited to create additional board level post to push business development - ET EnergyWorld,-0.8735923767089844
+COALINDIA,2024-10-26,"Coal India Q2 profit drops 22 pc to Rs 6,275 cr - ET EnergyWorld",-0.9702553153038025
+COALINDIA,2026-01-09,Coal India arm Bharat Coking Coal garners ₹273 crore from anchor investors ahead of IPO - ET EnergyWorld,0.8352956175804138
+COALINDIA,2025-06-12,India's coal output to further decline in June followed by fall of 4.7% in Apr-May: Nuvama - ET EnergyWorld,-0.9459450840950012
+COALINDIA,2016-10-30,CLNDY: Coal India Ltd Stock Price Quote - - Bloomberg - Bloomberg.com,-0.9452665448188782
+COALINDIA,2024-06-18,"Coal India exploring lithium assets in Argentina with U.S. firm, source says - Reuters",-0.8781147003173828
+COALINDIA,2020-03-31,"Coal India Q4 Results: Profit rises 12% YoY to Rs 9,593 crore; Co declares Rs 5.15 per share as final dividend for FY25 - The Economic Times",0.9315951466560364
+COALINDIA,2023-10-10,"Coal India's 73,800 jobs at risk till 2050, warns report - ETHRWorld.com",-0.6427108645439148
+COALINDIA,2025-09-02,Coal India fined for non-compliance with SEBI norms - ETLegalWorld.com,-0.8083513379096985
+COALINDIA,2022-05-29,Coal India to import for first time in years as power shortages loom - Reuters,-0.4919813573360443
+COALINDIA,2019-01-20,"Coal projects worth Rs 11,000 cr facing delays; Centre seeks report - ET EnergyWorld",-0.611444890499115
+COALINDIA,2022-05-24,"Coal India to open big, new mine this year to fight power crisis - Reuters",-0.7403756976127625
+COALINDIA,2019-08-16,Coal India's 54 mining projects facing delays - ET EnergyWorld,-0.8968518972396851
+COALINDIA,2025-06-01,Coal India arms BCCL files IPO papers - ETLegalWorld.com,-0.9497093558311462
+COALINDIA,2023-04-30,"COAL INDIA, PRAMOD AGARWAL - ET EnergyWorld",-0.9320604205131531
+COALINDIA,2025-05-27,Coal India unit CMPDIL files for initial public offering - Reuters,-0.9436038732528687
+COALINDIA,2026-01-09,IPO of India's top coking coal miner oversubscribed on first day - Reuters,-0.904143214225769
+COALINDIA,2026-03-12,"Gas Shortage, Harsh Summer Lure Bulls to India Power Utilities - Bloomberg.com",-0.9195976257324219
+COALINDIA,2026-01-01,Coal India output grows 4.6%; offtake dips 5.2% in December - ET EnergyWorld,-0.9240558743476868
+COALINDIA,2025-12-19,BPCL to form JV with Coal India for coal gasification project in Maharashtra - ET EnergyWorld,-0.8569045662879944
+COALINDIA,2024-11-04,Coal India commemorates its 50th Foundation Day with vision for Viksit Bharat - ETGovernment.com,-0.8236607909202576
+COALINDIA,2017-10-15,Energy News | Latest Energy Industry Information and Updates: ET EnergyWorld - ET EnergyWorld,-0.9488213062286377
+COALINDIA,2021-03-10,CIL says coal grade slippage in Q3 down to 34 per cent - ET EnergyWorld,-0.9677291512489319
+COALINDIA,2025-09-03,Coal India Ltd.’s renewable plan looks at a future beyond coal - ET EnergyWorld,-0.7277713418006897
+COALINDIA,2025-04-21,Coal India to set up power plant in joint venture - Reuters,-0.8838444948196411
+COALINDIA,2024-07-29,Advancing 119 projects with sanctioned capital of Rs 1.33 lakh cr to boost output: Coal India - ET EnergyWorld,0.8469895124435425
+COALINDIA,2018-09-27,Coal India to commission 18 new washeries by December 2020 - ET EnergyWorld,-0.8576102256774902
+COALINDIA,2026-01-15,"Coal India eyes rare earth pacts in Australia, Russia and Africa, unit exec says - Reuters",0.7148846983909607
+COALINDIA,2025-09-26,Coal India announces reward of Rs 1.03 lakh for non-executive workers ahead of festival season - ETHRWorld.com,-0.5221242308616638
+COALINDIA,2025-10-29,India Coal Giant’s Profit Drops Amid Weaker Electricity Demand - Bloomberg.com,-0.9620179533958435
+COALINDIA,2017-09-01,Gopal Singh named temporary Coal India Chairman - ET EnergyWorld,-0.9418908357620239
+COALINDIA,2026-02-25,Coal exchange rollout should be phased to protect energy security: Coal India - ET EnergyWorld,-0.7944007515907288
+COALINDIA,2025-09-17,"Coal Minister Kishan Reddy launches new uniform, corporate salary package for Coal India workforce - ET EnergyWorld",-0.803433895111084
+COALINDIA,2022-03-07,Coal India chairman wants its operations to be net zero in 3-4 years - Reuters,-0.8507809042930603
+COALINDIA,2016-02-25,Higher capacity wagons to help Coal India evacuate more coal - ET EnergyWorld,0.8532174825668335
+COALINDIA,2022-11-29,Government offers Coal India flexibility to levy mine closure costs - ET EnergyWorld,-0.8342005610466003
+COALINDIA,2015-12-06,"Fuelling its growth with coal, India champions the poor in Paris - CNBC",-0.7918007373809814
+COALINDIA,2025-04-08,Tumbling Coal Prices to Exacerbate India State Miner’s Glut - Bloomberg.com,-0.9264138340950012
+COALINDIA,2026-03-17,"Half Yearly Results, Half yearly Earnings for Bharat Coking Coal - The Economic Times",-0.9182291030883789
+COALINDIA,2018-02-04,HPCL head to retain designation if ONGC follows Coal India model - ET EnergyWorld,-0.9054949879646301
+COALINDIA,2025-09-12,"Coal India to enhance workers' ex gratia, introduce uniforms: Minister - ET EnergyWorld",-0.8202158808708191
+COALINDIA,2025-09-09,"Coal India Limited mulls setting up data centres in decommissioned mines to boost digital infra, sustainabil.. - ETGovernment.com",-0.8640477061271667
+COALINDIA,2022-05-11,Indian Railways missed Coal India train provision targets for over a year- data shows - ET Infra,-0.8800643682479858
+COALINDIA,2025-09-03,Coal India Ltd.’s renewable plan looks at a future beyond coal - ET Auto,-0.6915273070335388

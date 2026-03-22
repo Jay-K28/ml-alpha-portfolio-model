@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-NAUKRI,2026-03-07,Google Play Store policy revamp: Founders see boost to monetisation but flag delayed India rollout - Moneycontrol.com,-0.6301141977310181
-NAUKRI,2026-03-12,Are Indian techies losing jobs due to AI? CLSA analysts make a strong argument - The Economic Times,-0.8714001178741455
-NAUKRI,2026-03-09,"RRB Group D Vacancy 2026: Last date today for 22,195 Railway jobs, apply now @ rrbapply.gov.in - Moneycontrol.com",-0.9103685021400452
-NAUKRI,2026-03-09,"RRB Paramedical Admit Card 2026 released for March 11, 12, 13 exams; download link here - Moneycontrol.com",-0.9498308897018433
-NAUKRI,2024-09-02,Extended holidays pull down Naukri Jobspeak Index in August - The Economic Times,-0.9367502927780151
-NAUKRI,2026-01-06,"White-collar hiring closes 2025 strong, Naukri data shows - The Economic Times",0.6195095777511597
-NAUKRI,2015-01-15,"Why Sanjeev Bikhchandani, the Naukri man, wants to be a builder and funder with Info Edge - The Economic Times",-0.9336246252059937
-NAUKRI,2025-05-07,"Info Edge’s stakes in Zomato, Policybazaar valued at Rs 31,500 crore - The Economic Times",-0.9223281741142273
-NAUKRI,2024-05-24,India's employment data: PM Modi's naukri numbers appraisal spars with Congress in election fray - The Economic Times,-0.8391114473342896
-NAUKRI,2024-08-09,Naukri parent Info Edge posts 8% on year rise in Q1 revenue to Rs 677 crore - The Economic Times,0.9425594210624695
-NAUKRI,2025-11-12,"Naukri parent Info Edge posts fourfold jump in Q2 profit on one-time gain, announces interim dividend - The Economic Times",0.914334774017334
-NAUKRI,2025-07-02,"Fresher hiring in India goes up by 11% in June, Naukri report says - The Economic Times",0.9129201769828796
-NAUKRI,2025-05-25,Naukri bug exposed recruiter email IDs via mobile apps: Report - The Economic Times,-0.666365385055542
-NAUKRI,2025-10-27,"Do marks matter in life? Naukri.com founder, Shah Rukh Khan's senior at Delhi's St. Columba's School alumn - The Economic Times",-0.905099093914032
-NAUKRI,2025-07-29,"IT sector hiring rose 5% YoY in June; AI, ML see 42% spike: Naukri JobSpeak Report - The Economic Times",0.6686064004898071
-NAUKRI,2025-07-02,Fresher hiring rebounds as white-collar job market grows 11% in June: Naukri - The Economic Times,0.5524765849113464
-NAUKRI,2022-09-02,"Tier II cities drive hiring activity in August, shows Naukri.com jobs index - The Economic Times",-0.4783492088317871
-NAUKRI,2025-05-10,Half of tech workers in India getting AI training at work: Naukri survey - The Economic Times,-0.8844950795173645
-NAUKRI,2025-08-02,"IT sector hiring down 1% YoY in July; AI, ML see continued surge at 41%: Naukri JobSpeak report - The Economic Times",-0.9639208316802979
-NAUKRI,2025-01-23,Emerging jobs in growing Tier 2 and Tier 3 city based tech hubs - The Economic Times,0.4967038631439209
-NAUKRI,2021-07-23,Naukri parent Info Edge acquires HR tech startup DoSelect - The Economic Times,-0.8516904711723328
-NAUKRI,2023-03-14,From IIMA into VC cauldron: how Naukri founder’s hiring of a fresh grad brought an edge to Info Edge - The Economic Times,-0.721785306930542
-NAUKRI,2020-12-06,Flipping: Naukri.com founder Sanjeev Bikchandani says foreign funds colonising Indian startups - The Economic Times,-0.8466997146606445
-NAUKRI,2018-07-09,Stock pick of the week: What analysts have to say about Info Edge - The Economic Times,-0.9185070991516113
-NAUKRI,2026-01-22,Hiring optimism rises even as skill alignment remains biggest challenge - The Economic Times,0.9172160029411316
-NAUKRI,2025-08-01,White-collar hiring grows 7% in July: Report - The Economic Times,-0.485550194978714
-NAUKRI,2025-09-09,"Significant percentage of employees prioritise savings, investments under new tax rules: Report - The Economic Times",-0.9108331799507141
-NAUKRI,2026-01-13,"Gen Z unlikely to stay long in jobs, but it’s not due to a lack of work ethic - The Economic Times",-0.47789448499679565
-NAUKRI,2024-12-16,"Emerging cities put up a strong show in India's job growth, reveals Naukri - The Economic Times",0.9271602034568787
-NAUKRI,2025-01-24,Aiming for a ‘Sarkari Naukri’? Here are 6 attractive perks that accompany the monetary compensation - The Economic Times,-0.8818604946136475
-NAUKRI,2025-04-08,10-foot peanut: This company trolls corporate employees in a very unique way ahead of appraisal season - The Economic Times,-0.9028967618942261
-NAUKRI,2025-08-08,"Info Edge’s Q1 profit grows 32% on year, but falls sequentially - The Economic Times",-0.8401575088500977
-NAUKRI,2024-11-04,"White collar hiring up 10% in Oct, says report - The Economic Times",0.8691262006759644
-NAUKRI,2023-06-01,"White collar hiring activity flat in May, IT sector's woes continue: Report - The Economic Times",-0.9456531405448914
-NAUKRI,2015-07-07,Watch: Success is when a company outlives the founder - Sanjeev Bikhchandani - The Economic Times,-0.8449470400810242
-NAUKRI,2024-03-01,"Google delists popular Indian apps like Naukri, Shaadi, others over billing row - The Economic Times",-0.6162473559379578
-NAUKRI,2024-12-06,AI tools and strategies to follow for a faster job search - The Economic Times,-0.9005200266838074
-NAUKRI,2025-03-03,White-collar job market sees 4 pc growth in Feb: Report - The Economic Times,-0.6263847351074219
-NAUKRI,2025-10-10,Nearly 75% of Indian professionals hesitant to take mental health leave: Survey - The Economic Times,-0.8660710453987122
-NAUKRI,2017-04-13,Info Edge brings AmbitionBox under its fold - The Economic Times,-0.8794050812721252
-NAUKRI,2025-01-13,5 tips to stay informed about government jobs in 2025 - The Economic Times,-0.8827206492424011
-NAUKRI,2020-01-26,"Anand Mahindra, Venu Srinivasan to be honoured with Padma Bhushan; Naukri.com founder to get Padma Shri - The Economic Times",0.7247702479362488
-NAUKRI,2025-05-25,"Info Edge shareholders approve Rs 1,000 crore investment in its VC fund - The Economic Times",0.6725258231163025
-NAUKRI,2024-03-02,Google delisted apps from Play Store without giving due notice: Info Edge - The Economic Times,-0.8843721747398376
-NAUKRI,2022-06-06,(INED.NS) | Stock Price & Latest News - Reuters,-0.9112734794616699
-NAUKRI,2025-10-01,"White-collar hiring in India grows 10% in September, led by non-IT sectors - The Economic Times",0.9391514658927917
-NAUKRI,2023-06-19,"'Verghese Kurien was sarcastic … condescending … caustic.’ After 34 yrs, Naukri.com founder Sanjeev Bikhch - The Economic Times",-0.5229463577270508
-NAUKRI,2023-05-01,Job demand declines 5 per cent in April on IT hiring corrections: Report - The Economic Times,-0.9623978734016418
-NAUKRI,2023-04-04,Seeking a government job in 2023: A goal to achieve or an obsession to overcome? - The Economic Times,-0.8886979818344116
-NAUKRI,2019-05-06,Fake job offers: How to avoid getting duped in job scams - The Economic Times,-0.8568004965782166
+NAUKRI,2026-03-18,Global Category Associate Director - Data Analytics and AI Platforms - Indiatimes,-0.9454072713851929
+NAUKRI,2026-03-17,Technology (AI & Data) Research Associate Manager - Indiatimes,-0.9432712197303772
+NAUKRI,2026-03-20,UPSC exam odds: 0.53% success rate for millions of candidates since 1947 - Business Standard,-0.801143229007721
+NAUKRI,2017-08-06,Check out Info Edge (India) Ltd's stock price (NAUKRI-IN) in real time - CNBC,-0.9450485110282898
+NAUKRI,2017-07-19,"Info Edge Share Price Today, Info Edge Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379327893257141
+NAUKRI,2021-01-08,Info Edge launches first growth-stage investment vehicle; commits Rs 250 crore - The Economic Times,0.5739139318466187
+NAUKRI,2025-02-06,Info Edge Q3 net profit jumps 61% to Rs 242.6 crore - ETHRWorld.com,0.7498330473899841
+NAUKRI,2025-09-01,"White-collar hiring up 3% in Aug; non-IT, AI-ML roles drive growth - ETHRWorld.com",0.5024610757827759
+NAUKRI,2017-08-01,Info Edge (India) Ltd. - The Economic Times,-0.9269024729728699
+NAUKRI,2020-01-07,"naukri com: Latest News & Videos, Photos about naukri com - The Economic Times",-0.9354186654090881
+NAUKRI,2025-12-02,White-collar hiring picks up pace in Nov; witnesses 23% year-on-year growth: Report - ETHRWorld.com,0.7557361125946045
+NAUKRI,2025-11-03,"India’s white‑collar hiring strong in October; education, finance up 13 to 15 % - ETHRWorld.com",0.9080110192298889
+NAUKRI,2020-05-31,"Naukri com - Latest naukri com , Information & Updates - HR - ETHRWorld.com",-0.9472744464874268
+NAUKRI,2025-03-04,White-collar job market sees 4% growth in Feb: Report - ETHRWorld.com,-0.6959616541862488
+NAUKRI,2025-04-02,White collar hiring in March dips marginally by 1.4 pc: Report - ETCFO.com,-0.9691084027290344
+NAUKRI,2023-08-02,Hiring for white collar jobs in India falls 19% in July: Report - ETHRWorld.com,-0.9383915066719055
+NAUKRI,2023-07-05,White-collar hiring in India sees 3% decline in June: Report - ETHRWorld.com,-0.9525690674781799
+NAUKRI,2026-02-20,"Bengaluru, Delhi-NCR, Mumbai dominate AI job openings on Naukri.com with 70% share: CBRE - ETHRWorld.com",-0.9280733466148376
+NAUKRI,2023-01-12,White-collar hiring activities rise 4% in December: Report - ETHRWorld.com,-0.7615616917610168
+NAUKRI,2023-05-02,Job demand declines 5% in April on IT hiring corrections: Report - ETHRWorld.com,-0.9572070240974426
+NAUKRI,2022-09-02,"Insurance sector drives hiring activity in India, up by 87%: Naukri JobSpeak - ET BFSI",0.9421678185462952
+NAUKRI,2023-07-26,Naukri.com encourages professionals to ‘Make Your Career Happen’ - ET BrandEquity,-0.8666866421699524
+NAUKRI,2025-05-01,"FY26 sees 9% uptick in hiring; pharma, realty and GCC sectors shine: Report - ETHRWorld.com",0.7357202768325806
+NAUKRI,2025-11-03,White collar hiring dips 9% in October amid festive slowdown: Report - Business Standard,-0.965347945690155
+NAUKRI,2026-01-07,White-collar hiring ends 2025 with 13% growth in Dec: Report - ETHRWorld.com,-0.853752613067627
+NAUKRI,2020-01-09,"Vibhore Sharma, CTO of Info Edge moves on - ET CIO",-0.9307332038879395
+NAUKRI,2025-05-13,50% Indian tech professionals now getting AI training at work: Report - ET CIO,-0.8567092418670654
+NAUKRI,2025-01-03,White-collar hiring up 9% in December: Report - ETHRWorld.com,-0.6793094277381897
+NAUKRI,2024-09-04,"Hiring in AI-ML, Pharma, and FMCG sectors strong in August: Report - ETHRWorld.com",0.9057997465133667
+NAUKRI,2020-08-25,Hiring for work from home jobs surges in India: Report - ETHRWorld.com,-0.6051021814346313
+NAUKRI,2023-04-03,Job vacancies in BFSI witness significant y-o-y growth in March: Report - ETHRWorld.com,-0.46901336312294006
+NAUKRI,2025-04-18,Naukri’s new IPL campaign backs Gen Z’s bold career choices - ET BrandEquity,0.6391065120697021
+NAUKRI,2025-02-28,Indian white-collar job market to see hiring surge in 2025 1st half - ETHRWorld.com,-0.6499145030975342
+NAUKRI,2017-04-13,"Latest Company Earning News, Stock Earnings and Earning Calendar Information - The Economic Times",-0.9241320490837097
+NAUKRI,2025-04-04,Campus Strategy 2.0: The New Battleground for Top Talent - ETHRWorld.com,-0.8974868655204773
+NAUKRI,2017-05-30,Untitled - bsmedia.business-standard.com,-0.947187066078186
+NAUKRI,2017-01-07,"Job market - Latest job market , Information & Updates - Retail - ET Retail",-0.8875470161437988
+NAUKRI,2025-10-01,Indian job market witnesses 10% growth in September: Report - ETHRWorld.com,-0.7910783290863037
+NAUKRI,2025-12-22,Non-IT sectors primary drivers of hiring in '25 - ETHRWorld.com,-0.8983926177024841
+NAUKRI,2023-02-23,Marrying content marketing with consumer insights: Learn how Info Edge met its campaign KPIs and beyond on D.. - ET BrandEquity,-0.8618895411491394
+NAUKRI,2024-01-09,"Hiring in Indian IT sector declines 21% in Dec, AI jobs see growth - ET CIO",-0.9435477256774902
+NAUKRI,2025-08-23,Majority of employers plan workforce expansion through new job creation: Report - ETHRWorld.com,-0.885642945766449
+NAUKRI,2009-07-23,Info Edge sees 2009/10 profit falling by up to 5 pct-CFO - Reuters,-0.9658764600753784
+NAUKRI,2025-05-29,Niva Bupa elevates Nimish Agrawal to director of digital business & CMO - ET BrandEquity,-0.8486120104789734
+NAUKRI,2024-04-16,India's oil & gas sector sees 22% hiring increase despite wider job slump - ET EnergyWorld,0.9137627482414246
+NAUKRI,2019-09-07,"fresher jobs: Latest News & Videos, Photos about fresher jobs - The Economic Times",-0.9043525457382202
+NAUKRI,2025-04-02,Hiring in India's white-collar job market stable in March 2025: Report - ET Retail,-0.5459273457527161
+NAUKRI,2022-06-06,INED.NS - Reuters,-0.9404349327087402
+NAUKRI,2022-03-10,"Women job applications increasing, but retention remains key to achieving a diverse workforce - ETHRWorld.com",-0.7086821794509888
+NAUKRI,2021-11-06,US job growth picks up in October; unemployment rate falls to 4.6% - ETHRWorld.com,-0.926278829574585
+NAUKRI,2025-05-07,InfoEdge earns 36% gross IRR on startup investments since 2007 - Business Standard,-0.7924054265022278
+NAUKRI,2026-03-09,Over 67% women say pay parity exists at workplaces; 33% believe there is pay gap: Survey - ETHRWorld.com,-0.738323450088501
+NAUKRI,2020-03-02,"Hiring news - Latest hiring news , Information & Updates - CIO - ET CIO",-0.9051976799964905
+NAUKRI,2024-06-04,Jobs in AI and ML surging in India - ET CIO,0.5367011427879333
+NAUKRI,2020-02-15,"Borosil Renewables Share Price Today, Borosil Renewables Stock Price Live NSE/BSE Updates - The Economic Times",-0.9397722482681274
+NAUKRI,2025-03-06,Fear of work-life imbalance holds back women from pursuing leadership roles: Report - ETHRWorld.com,-0.8487813472747803
+NAUKRI,2017-04-11,"Shreyans Ind Share Price Today, Shreyans Ind Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381324648857117
+NAUKRI,2024-10-06,Navigating Change: The decline of HR hiring in India and the path forward - ETHRWorld.com,-0.7582836747169495
+NAUKRI,2026-02-02,"White-collar hiring sees 3% growth in India in Jan, non-IT sectors lead - ETHRWorld.com",-0.6718170046806335
+NAUKRI,2017-04-02,"interim dividend: Latest News & Videos, Photos about interim dividend - The Economic Times",-0.9378726482391357
+NAUKRI,2023-11-22,Aman Mehta joins Dream11 as Vice President of Design - ET CIO,-0.9393604397773743
+NAUKRI,2020-05-19,"Gig economy - Latest gig economy , Information & Updates - HR - ETHRWorld.com",-0.940493643283844
+NAUKRI,2017-03-21,"Mindtree - Latest mindtree , Information & Updates - CFO - ETCFO.com",-0.9464772343635559
+NAUKRI,2021-06-16,"Webinars, Article | ETHRWorld - ETHRWorld.com",-0.9412082433700562
+NAUKRI,2020-03-05,"Jobs - Latest jobs , Information & Updates - Hospitality - ET Hospitality",-0.9057716727256775
+NAUKRI,2020-06-26,"Vadodara - Latest vadodara , Information & Updates - HR - ETHRWorld.com",-0.9468891024589539
+NAUKRI,2024-08-29,Hiring trends indicate revival for white collar jobs - ETHRWorld.com,-0.46180450916290283
+NAUKRI,2026-03-13,Discovery to onboarding: Why every hiring touchpoint matters - ETHRWorld.com,-0.9373811483383179
+NAUKRI,2024-03-01,"Google removes Indian matrimonial, job search apps as fees row escalates - Reuters",-0.5194665193557739
+NAUKRI,2016-02-13,Brands are now suing smaller companies over similar-sounding names - ET BrandEquity,-0.6799399256706238
+NAUKRI,2020-05-02,PHARMACEUTICAL INDUSTRY - ETHRWorld.com,-0.9490793943405151
+NAUKRI,2020-08-29,"It jobs - Latest it jobs , Information & Updates - HR -ETHRWorld - ETHRWorld.com",-0.862747848033905
+NAUKRI,2024-11-26,India registers higher growth in better quality formal sector jobs - ETCFO.com,0.9088423848152161
+NAUKRI,2017-01-05,"Kolkata - Latest kolkata , Information & Updates - Telecom - ET Telecom",-0.9486716389656067
+NAUKRI,2024-08-09,10 INFO EDGE 01 - bsmedia.business-standard.com,-0.9486407041549683
+NAUKRI,2026-02-16,AI job impact: Tech leaders advise upskilling for future employability - ET CIO,-0.8431663513183594
+NAUKRI,2022-02-23,How this startup plans to double its headcount - ETHRWorld.com,-0.8693777918815613
+NAUKRI,2020-01-04,"hyderabad hospital: Latest News & Videos, Photos about hyderabad hospital - The Economic Times",-0.9327839612960815
+NAUKRI,2022-02-15,"Skilled manpower demand in telecom sector rises to 1.3 million; TSSC, Nokia, MediaTek focus on skilling - ETHRWorld.com",0.5956600904464722
+NAUKRI,2018-09-14,SPLENDOR SHELTERS PRIVATE LIMITED - The Economic Times,-0.8848728537559509
+NAUKRI,2020-06-29,"Zomato - Latest zomato , Information & Updates - HR - ETHRWorld.com",-0.9494692087173462
+NAUKRI,2017-05-02,"hiring trends: Latest News & Videos, Photos about hiring trends - The Economic Times",-0.862089991569519
+NAUKRI,2024-06-03,Jobs in AI and machine learning surging in India - ET Telecom,0.5893335342407227
+NAUKRI,2018-07-26,"bpo industry: Latest News & Videos, Photos about bpo industry - The Economic Times",-0.9346131086349487
+NAUKRI,2024-06-25,"85% professionals planning to upskill in FY25, says report - ETHRWorld.com",-0.9189701080322266
+NAUKRI,2025-11-26,"Advantedge nets 30x return on Rapido bet, nears fund closure - The Economic Times B2B",-0.7429371476173401
+NAUKRI,2020-06-15,"chennai lockdown: Latest News & Videos, Photos about chennai lockdown - The Economic Times",-0.9113990664482117
+NAUKRI,2017-03-09,"Unemployment - Latest unemployment , Information & Updates - CFO - ETCFO.com",-0.8386438488960266
+NAUKRI,2024-11-25,Demand for entry-level talent surges 59 pc in India's tech sector - ETCFO.com,0.8152946829795837
+NAUKRI,2015-07-18,Kapil Sharma turns brand ambassador for PolicyBazaar - ET BrandEquity,-0.8595031499862671
+NAUKRI,2021-01-27,How Digital Marketing is changing the HR functions - ETHRWorld.com,-0.9353396892547607
+NAUKRI,2023-01-25,"White collar job - Latest white collar job , Information & Updates - HR - ETHRWorld.com",-0.9043340682983398
+NAUKRI,2021-09-29,Zomato - bsmedia.business-standard.com,-0.9505210518836975
+NAUKRI,2024-06-22,Google allows existing real money game apps to continue on Playstore; AIGF dubs it arbitrary - ETGovernment.com,-0.9505621194839478
+NAUKRI,2024-11-26,India registers higher growth in better quality formal sector jobs - ETHRWorld.com,0.9099763631820679
+NAUKRI,2024-01-24,"Ruchee anand - Latest ruchee anand , Information & Updates - HR - ETHRWorld.com",-0.9470184445381165
+NAUKRI,2026-01-26,Cautious near-term outlook to weigh on Info Edge amid weak IT hiring - Business Standard,-0.952176034450531
+NAUKRI,2021-12-20,Policybazaar News: Policybazaar latest news and recent Policybazaar updates - The Economic Times,-0.9274750351905823
+NAUKRI,2025-11-13,"Buy, sell or hold: What to do with Info Edge (India) stock after Q2 show? - Business Standard",-0.9460386633872986
+NAUKRI,2017-03-30,"ixigo: Latest News & Videos, Photos about ixigo - The Economic Times",-0.9347259402275085
