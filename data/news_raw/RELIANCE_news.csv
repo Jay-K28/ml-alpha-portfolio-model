@@ -1,51 +1,100 @@
 ticker,date,headline,sentiment_score
-RELIANCE,2026-03-12,Mukesh Ambani's Reliance capitalises on shifting energy alliances with US refinery pledge - The Economic Times,0.7023718357086182
-RELIANCE,2026-03-12,"Reliance Industries, ONGC shares in focus as oil jumps 8% near $100. Will prices hit $200? - The Economic Times",-0.6908815503120422
-RELIANCE,2026-03-11,"Sunil Singhania-backed Abakkus Flexi Cap Fund raises stake in HDFC Bank, RIL and 26 other stocks - The Economic Times",-0.8340563178062439
-RELIANCE,2026-03-13,Buy Reliance Industries; target of Rs 1750: Motilal Oswal - Moneycontrol.com,-0.9367885589599609
-RELIANCE,2026-03-12,India's most trusted stock wipes out nearly Rs 3 lakh crore this year. Is RIL still a value bet? - The Economic Times,-0.5530621409416199
-RELIANCE,2026-03-11,RIL shares rise 2% as Trump announces $300 billion US refinery project with Ambani backing - The Economic Times,0.7457357048988342
-RELIANCE,2026-03-13,Jio IPO delay makes Jefferies cut RIL target price but says O2C benefiting amid disruption - The Economic Times,-0.7548334002494812
-RELIANCE,2020-07-31,"Traders' Diary: Nifty faces resistance at 11,135 and 11,180 levels - The Economic Times",-0.7097488641738892
-RELIANCE,2026-03-10,"RIL, ONGC and other oil stocks fall up to 3% as crude logs sharpest intraday reversal - The Economic Times",-0.9652872681617737
-RELIANCE,2026-03-13,HDFC Defence Fund exits this large cap stock that went up by 400% in 5 years - The Economic Times,0.8061690330505371
-RELIANCE,2026-03-09,"Reliance Industries, ONGC shares climb up to 3% as Iran war lifts oil prices by another 30% - The Economic Times",0.9260222911834717
-RELIANCE,2026-03-13,"Buy, Sell or Hold: Motilal Oswal maintains Buy on VA Tech Wabag; sees over 20% upside in RIL - The Economic Times",0.8993964791297913
-RELIANCE,2026-03-13,Inside Dubai’s Cashless 2026 Shift - The Economic Times,-0.8856378793716431
-RELIANCE,2026-03-11,"Stocks in news: Nazara Technologies, IndiGo, Hindustan Zinc, NTPC Green, RIL - The Economic Times",-0.9271216988563538
-RELIANCE,2026-03-13,"'Can't even show his face!': Bibi’s blistering warning to Iran’s new Supreme Leader, Mojtaba Khamenei - The Economic Times",-0.646997332572937
-RELIANCE,2026-03-13,"'Beijing will provide aid worth $200,000!': China backs Iran as US vows crushing response to Tehran - The Economic Times",-0.3948248028755188
-RELIANCE,2026-03-13,"Iran war LIVE | 'Tehran, be ready for…': Hegseth’s chilling threat to Khamenei as blasts rock city - The Economic Times",-0.785088062286377
-RELIANCE,2026-03-13,"‘Today will be the most intense!’: Hegseth’s chilling threat to Iran, vows highest volume of strikes - The Economic Times",-0.7774448394775391
-RELIANCE,2026-03-13,LPG output in India surges 30% as govt tackles gas shortage - The Economic Times,0.8962008953094482
-RELIANCE,2026-03-13,"ONGC, Oil India shares outperform sector with double-digit gains in 2026. Will Iran-Israel crisis fuel mor - The Economic Times",-0.7305430173873901
-RELIANCE,2026-03-12,"Iran war unsettles India's packaged water makers as bottles, caps get pricey - The Economic Times",-0.6138700842857361
-RELIANCE,2026-03-13,Government update on West Asia crisis | Inter-Ministerial briefing | LIVE - The Economic Times,-0.9243625998497009
-RELIANCE,2026-03-13,'London Blitz in World War II…': Gen Grynkewich SHOCKS Senate over 'civilian attacks' | Iran War - The Economic Times,-0.6581321954727173
-RELIANCE,2024-04-29,Reliance Industries Share Price Live Updates: Reliance Industries Sees Slight Price Uptick of 0.79% Today - The Economic Times,0.9305455088615417
-RELIANCE,2024-04-30,Reliance Industries Stocks Live Updates: Reliance Industries Closes at Rs 2930.05 with 0.76% Monthly Retu - The Economic Times,-0.6053358912467957
-RELIANCE,2026-03-13,"LPG cylinder shortage: Govt urges people to avoid panic buying, says production increased by 30% - The Economic Times",0.9461869597434998
-RELIANCE,2026-03-13,A vision for future - The Economic Times,-0.8936360478401184
-RELIANCE,2026-03-13,‘Sanitary pads are not charity’: Raghav Chadha raises issue of menstrual hygiene in Parliament - The Economic Times,-0.9173039793968201
-RELIANCE,2026-03-13,"India reduces minimum public share float, paving way for NSE, Jio listings - The Economic Times",-0.8648122549057007
-RELIANCE,2026-03-13,"Iran war Day 14: Dubai finance hub, Turkey-US base hit; Indian markets crash, energy crisis rises - The Economic Times",-0.8008509874343872
-RELIANCE,2026-03-13,"‘Congress Ki Kamiyan Thi’: Rahul Gandhi says congress errors led to Kanshi Ram’s rise, attacks BJP - The Economic Times",-0.663876473903656
-RELIANCE,2026-03-13,IT’s time to migrate to AI: Indian tech firms must stop being effort-based vendors - The Economic Times,-0.9120322465896606
-RELIANCE,2026-03-13,ET Prime Special: How companies manipulate government incentives and create a false picture - The Economic Times,-0.7512105107307434
-RELIANCE,2026-03-13,"$1,800 tax break for parents? New ‘Family’ Bill promises big savings - The Economic Times",-0.6900979280471802
-RELIANCE,2026-03-13,'Hospital-insurance nexus; Rs 26K cr claims were rejected in 2024': MP Swati Maliwal claims in RS - The Economic Times,-0.7297035455703735
-RELIANCE,2026-03-13,"Iranian president Pezeshkian makes rare public appearance, greets citizens on Al-Quds Day - The Economic Times",-0.8743562698364258
-RELIANCE,2026-03-13,"Why US stock market surging today: Dow Jones, S&P 500, Nasdaq rise as Russell 2000 leads - PCE inflation d - The Economic Times",-0.790666937828064
-RELIANCE,2026-03-13,‘India is our friend’: Iran allows safe passage for Indian ships through Strait of Hormuz - The Economic Times,-0.8184777498245239
-RELIANCE,2024-04-30,Reliance Industries Stocks Live Updates: Reliance Industries Sees 0.93% Price Increase with EMA7 at Rs 29 - The Economic Times,0.9268879294395447
-RELIANCE,2026-03-13,'What's the plan to open Hormuz?': Sen Peters confronts military official over US strategy in Iran - The Economic Times,-0.8004496097564697
-RELIANCE,2026-03-13,"India, get a foot into FIFA World Cup? - The Economic Times",-0.9190269708633423
-RELIANCE,2026-03-13,"A bit much, no, my lordships? The debate over SC’s lifetime ban on academics in NCERT row - The Economic Times",-0.8998618721961975
-RELIANCE,2026-03-12,Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times,-0.933992326259613
-RELIANCE,2026-03-13,Indian diamond polishers to witness 6-7% revenue growth in FY27 to $15.5 bn: Report - The Economic Times,0.8820849061012268
-RELIANCE,2026-03-13,Gas Shortage and Wajid Ali Shah’s Biryani: How energy shocks could reshape food supply - The Economic Times,-0.8558648824691772
-RELIANCE,2026-03-13,'Stop protecting Iran': US confronts Russia & China in an 'ugly' clash over Tehran’s nuclear program - The Economic Times,-0.6063571572303772
-RELIANCE,2026-03-13,More Political Gas - The Economic Times,-0.8896679282188416
-RELIANCE,2026-03-13,Why S&P 500 and Nasdaq down today while Dow Jones holds steady: US stock market turns cautious as VIX at 2 - The Economic Times,-0.9307298064231873
-RELIANCE,2026-03-13,India must steer WTO 2.0 forward - The Economic Times,-0.6994379162788391
-RELIANCE,2026-03-13,"West Asia crisis: Around 23,000 Indian sailors in Gulf, 27 vessels near Strait of Hormuz: Ministry - The Economic Times",-0.7671206593513489
+RELIANCE,2026-03-18,"Ambani's Reliance Jio hires 17 banks for IPO, will raise no new funds, sources say - Reuters",-0.9449161291122437
+RELIANCE,2026-03-21,"Jio sees healthy subscriber additions, continues to lead home broadband segment: JM Financial - ET Telecom",0.9314631223678589
+RELIANCE,2026-03-19,Watch Missed & Unattended experts sessions videos on the ET Markets Recorded - The Economic Times,-0.9175974726676941
+RELIANCE,2026-03-21,CBI questions Anil Ambani for over 7 hours in Reliance Communications loan 'fraud' case - ET Telecom,-0.5895484089851379
+RELIANCE,2026-03-21,"CBI grills Anil Ambani for 2nd consecutive day in Rs 2,929 crore SBI fraud case - ET BFSI",-0.7288188934326172
+RELIANCE,2026-03-19,Meta to Reduce Role of Outside Content Moderators in Favor of AI - Bloomberg.com,-0.9254530072212219
+RELIANCE,2026-03-22,China's heavy reliance on Iranian oil imports - ET Auto,-0.7767842411994934
+RELIANCE,2026-03-20,"Tesla plans India push into energy storage as it expands beyond cars, job ad shows - ET Auto",-0.7860109806060791
+RELIANCE,2026-03-21,Metro-3 faces mobile blackout as telecom infra contract scrapped - ET Telecom,-0.9044634103775024
+RELIANCE,2026-03-19,"India, a major energy consumer and refiner, assesses domestic availability - ET EnergyWorld",-0.8864882588386536
+RELIANCE,2026-03-21,Russia barrels back to top India's oil game as Middle East war shakes markets - ET EnergyWorld,-0.49891915917396545
+RELIANCE,2026-03-22,Wealth whisperings: Quiet luxury finds voice among India’s new elite - The Economic Times,-0.8154088258743286
+RELIANCE,2026-03-22,"'BJP a zero-seat party,' Shashi Tharoor says UDF set to win Kerala | Kerala assembly elections - The Economic Times",-0.8035221099853516
+RELIANCE,2026-03-21,"‘Not America first, America alone’: Grace Meng slams Trump over ‘illegal’ Iran war; $2.2bn UN debt - The Economic Times",-0.7712024450302124
+RELIANCE,2026-03-21,US-Israel-Iran War Day 22 | Iranian missile hits Kindergarten in central Israel; no injuries reported - The Economic Times,-0.7326543927192688
+RELIANCE,2025-07-18,"Reliance Profit Jumps 78%, Beats Estimate on One-Time Gain - Bloomberg.com",0.901547372341156
+RELIANCE,2026-01-09,Reliance Loses $15 Billion Market Cap in Bruising Start to 2026 - Bloomberg.com,-0.5989560484886169
+RELIANCE,2025-07-17,Reliance’s $40 Billion Gain Fuels Best Run Over Nifty Since 2020 - Bloomberg.com,-0.5810741782188416
+RELIANCE,2017-08-04,Check out Reliance Industries Ltd's stock price (RELIANCE-IN) in real time - CNBC,-0.9423654079437256
+RELIANCE,2021-01-24,Reliance Industries shares fall nearly 5% as COVID-19 hits oil business - Reuters,-0.95949786901474
+RELIANCE,2024-08-29,Reliance Shares Climb as Board Considers Bonus Stock Issue - Bloomberg.com,-0.8259884119033813
+RELIANCE,2025-07-01,India's equity benchmarks muted as Reliance Industries offsets broader losses - Reuters,0.6065375208854675
+RELIANCE,2014-03-15,RIL: Reliance Industries Ltd Stock Price Quote - - Bloomberg - Bloomberg.com,-0.943240225315094
+RELIANCE,2026-01-06,Reliance Shares Take a Big Knock - Bloomberg.com,-0.9102376103401184
+RELIANCE,2026-01-06,"Indian shares slip from near record highs as Reliance, HDFC Bank weigh - Reuters",-0.9435144662857056
+RELIANCE,2025-04-25,"Reliance Industries Q4 profit beats estimates on retail, digital boost - Reuters",-0.8445624113082886
+RELIANCE,2025-04-25,Ambani’s Reliance Posts Profit Beat as Energy Unit Recovers - Bloomberg.com,0.7188196182250977
+RELIANCE,2024-07-22,"India's Reliance Industries falls as weak energy, retail weigh on Q1 results - Reuters",-0.9669268727302551
+RELIANCE,2026-01-18,"Earnings Misses at Reliance, ICICI Bank Set to Embolden India Stock Bears - Bloomberg.com",-0.8188013434410095
+RELIANCE,2025-07-21,Reliance slips to one-month low as key segments' earnings underwhelm - Reuters,-0.9616617560386658
+RELIANCE,2026-01-06,Reliance Heads for Worst Day Since 2024 on Retail Sector Worries - Bloomberg.com,-0.9163295030593872
+RELIANCE,2025-07-21,"HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains - Reuters",0.6184461116790771
+RELIANCE,2021-06-19,Reliance Industries Ltd - Reuters,-0.9395522475242615
+RELIANCE,2026-01-16,"Ambani's Reliance misses profit view on higher expenses, retail weakness - Reuters",-0.9149219393730164
+RELIANCE,2025-11-06,Indian stock benchmarks consolidate lower; Reliance offsets some losses - Reuters,-0.9518228769302368
+RELIANCE,2026-01-16,"Reliance Misses Profit Estimate on Sluggish Retail, Petchem - Bloomberg.com",-0.6807693839073181
+RELIANCE,2025-11-20,Reliance leads India's stock benchmarks towards record high levels - Reuters,0.8692134618759155
+RELIANCE,2025-10-17,"Ambani's Reliance disappoints as o2c weakness offsets retail, digital gains - Reuters",0.4120974540710449
+RELIANCE,2026-01-20,India’s largest company is caught in geopolitical tensions. But it faces the biggest challenge at home - CNBC,-0.5581498146057129
+RELIANCE,2025-01-16,"India's Reliance beats Q3 profit estimates on boost from retail, telecom - Reuters",0.9308472275733948
+RELIANCE,2022-06-06,RELI.NS - Reuters,-0.9445667862892151
+RELIANCE,2026-01-18,India's Reliance falls after missing profit view on retail slowdown - Reuters,-0.9492462873458862
+RELIANCE,2025-01-16,Reliance set for best week since June as retail business fuels profit beat - Reuters,0.5934402346611023
+RELIANCE,2025-06-05,"Reliance, rate-sensitive sectors lead Indian shares higher, RBI decision in focus - Reuters",-0.5368145704269409
+RELIANCE,2026-02-26,Reliance Jio strengthens market leadership in Q3FY26 with strong revenue growth: Report - ET Telecom,0.9523300528526306
+RELIANCE,2024-04-22,India's Reliance Jio says Q4 profit rises 13.2% - Reuters,0.883908748626709
+RELIANCE,2022-07-22,Reliance Jio reports 24% rise in quarterly profit - Reuters,0.9364802241325378
+RELIANCE,2025-07-09,"Indian equity benchmarks edge lower as Reliance, metals losses outpace consumer gains - Reuters",-0.9601874947547913
+RELIANCE,2017-03-23,"RIL Share Price Today, RIL Stock Price Live NSE/BSE Updates - The Economic Times",-0.936224102973938
+RELIANCE,2025-09-01,"Reliance to Gain as China Curbs Price Wars, Morgan Stanley Says - Bloomberg.com",0.8717209100723267
+RELIANCE,2017-03-24,"Reliance Infra Share Price Today, Reliance Infra Stock Price Live NSE/BSE Updates - The Economic Times",-0.9378727674484253
+RELIANCE,2017-03-24,"Reliance Power Share Price Today, Reliance Power Stock Price Live NSE/BSE Updates - The Economic Times",-0.9376236200332642
+RELIANCE,2017-03-24,"Reliance Comm Share Price Today, Reliance Comm Stock Price Live NSE/BSE Updates - The Economic Times",-0.9374516606330872
+RELIANCE,2018-04-23,How long is a quarter? 6 months if you’re this India start-up - ETCFO.com,-0.941538393497467
+RELIANCE,2020-08-13,ByteDance is reportedly in talks with India's Reliance about a TikTok investment - CNBC,-0.8498708605766296
+RELIANCE,2024-08-29,Ambani says India's Reliance to more than double in size before end of decade - Reuters,0.8564485907554626
+RELIANCE,2017-01-08,"Reliance industries ltd - Latest reliance industries ltd , Information & Updates - Telecom - ET Telecom",-0.9473701119422913
+RELIANCE,2022-09-21,Reliance Retail Ltd - Reuters,-0.9419044852256775
+RELIANCE,2023-07-07,"India's Reliance Retail independently valued at $92-96 billion, source says - Reuters",-0.9393655061721802
+RELIANCE,2026-03-20,Reliance Power Ltd. - The Economic Times,-0.9193907976150513
+RELIANCE,2017-03-24,"Reliance Chemo Share Price Today, Reliance Chemo Stock Price Live NSE/BSE Updates - The Economic Times",-0.9382302761077881
+RELIANCE,2017-03-24,"Rel Ind Infra Share Price Today, Rel Ind Infra Stock Price Live NSE/BSE Updates - The Economic Times",-0.9402545690536499
+RELIANCE,2018-10-17,Reliance Industries Q2 results: Watch key takeaways - The Economic Times Video | ET Tv - The Economic Times,-0.9361955523490906
+RELIANCE,2023-08-24,India's Reliance Industries to sell additional stake in retail arm - report - Reuters,-0.9215215444564819
+RELIANCE,2026-03-17,"Reliance Home Fin Share Price Today, Reliance Home Fin Stock Price Live NSE/BSE Updates - The Economic Times",-0.9389060139656067
+RELIANCE,2025-12-29,"Exclusive: India claims $30 billion from Reliance Industries, BP for underproduction from gas field, sources say - Reuters",-0.5190409421920776
+RELIANCE,2026-03-05,"Reliance, metals lift Indian shares after three-session selloff - Reuters",0.45843741297721863
+RELIANCE,2023-08-21,"Reliance's Jio Financial hits limit-down on debut, valued at $19 bln - Reuters",-0.8565837144851685
+RELIANCE,2025-03-04,Ambanis Overhaul Retail Unit in Quest of $125 Billion Valuation - Bloomberg.com,-0.9026649594306946
+RELIANCE,2017-03-29,Reliance Power Profit and Loss Reports - The Economic Times,-0.5796449184417725
+RELIANCE,2024-12-31,"Reliance Foundation announces Rs 2 lakh scholarships to 5,000 talented undergraduate students for 2024-25 - Indiatimes",-0.7900912165641785
+RELIANCE,2017-03-29,"Reliance Power Balance Sheets, Financial Statements - The Economic Times",-0.9271871447563171
+RELIANCE,2020-05-22,Investors are piling billions into this Indian telecom operator for a slice of the country's booming digital economy - CNBC,-0.7155158519744873
+RELIANCE,2017-03-29,Reliance Industrial InfraStructure Ltd. - The Economic Times,-0.9190189242362976
+RELIANCE,2025-03-06,"Reliance Retail slashing jobs, tightening operations before public debut: Report - ETCFO.com",-0.9540746808052063
+RELIANCE,2025-10-27,Mukesh Ambani-owned Reliance's investments in AI infra may top $12-15 billion: Report - ET Telecom,-0.9266722798347473
+RELIANCE,2019-07-01,Reliance Group to lease out company headquarters to cut debt - Reuters,-0.5018114447593689
+RELIANCE,2021-12-13,Reliance Industries to announce Q3 results on January 16 - The Economic Times,-0.9097382426261902
+RELIANCE,2025-07-09,"Exclusive: Ambani's Reliance Jio delays India IPO beyond this year, sources say - Reuters",-0.7341218590736389
+RELIANCE,2021-06-19,Reliance Power Ltd - Reuters,-0.9420676827430725
+RELIANCE,2025-12-04,Reliance commences work on draft prospectus for Jio’s IPO: Report - ET Telecom,-0.9448520541191101
+RELIANCE,2025-07-19,Reliance Jio Q1FY26 net profit up nearly 25% on year - ET Telecom,0.9561771154403687
+RELIANCE,2025-08-19,"Reliance, auto stocks lead rise in India's stock benchmarks - Reuters",0.7025688290596008
+RELIANCE,2020-05-01,Reliance said to work with six banks for Jio’s upcoming IPO - The Economic Times,-0.8687679767608643
+RELIANCE,2025-02-06,"Amazon hit by strengthening dollar, underscoring risks in tech to overseas reliance - CNBC",-0.8392589688301086
+RELIANCE,2017-03-28,Reliance Infrastructure Ltd. - The Economic Times,-0.9200677275657654
+RELIANCE,2024-12-14,Ambani announces Ira Bindra as Group President for entire HR at Reliance - ETHRWorld.com,-0.9423210620880127
+RELIANCE,2017-03-27,"Reliance Infra Cash Flow, Financial Statements - The Economic Times",-0.9030419588088989
+RELIANCE,2025-01-17,"Reliance Industries net profit soars 12% driven by digital, retail segment growth - ET EnergyWorld",0.8742582201957703
+RELIANCE,2023-08-06,Reliance Jio gets $2.2 billion fund support from Swedish export credit agency to finance 5G rollout - ETLegalWorld.com,0.6801226139068604
+RELIANCE,2018-10-14,RYOHIN-KEIKAKU RELIANCE INDIA PRIVATE LIMITED - The Economic Times,-0.9299399852752686
+RELIANCE,2024-01-12,Reliance industries launches GET 2024 programme: Online recruitment drive for young engineering talent - ETGovernment.com,-0.901051938533783
+RELIANCE,2017-03-23,The Economic Times - The Economic Times,-0.9159992933273315
+RELIANCE,2018-09-20,RELIANCE ISPAT INDUSTRIES LTD - The Economic Times,-0.9115146398544312
+RELIANCE,2025-10-23,Reliance Jio’s broadband growth offsets slower mobile user additions ahead of IPO - ET Telecom,0.9492843151092529
+RELIANCE,2017-03-26,Reliance Communications Ltd. - The Economic Times,-0.9184339046478271
+RELIANCE,2025-08-29,Billionaire Ambani Says Targeting Reliance Jio IPO by June 2026 - Bloomberg.com,-0.9343407154083252
+RELIANCE,2017-03-24,Reliance Capital Ltd. - The Economic Times,-0.9202414155006409
+RELIANCE,2025-12-30,"Mukesh Ambani unveils Reliance's AI manifesto, aims for 10x productivity boost - ET Telecom",0.8512486219406128

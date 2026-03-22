@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-AXISBANK,2026-03-11,"Bank Nifty falls over 2%, Axis Bank stock among top Nifty losers; all 14 constituents end in red - Moneycontrol.com",-0.9594630002975464
-AXISBANK,2026-03-09,"Bank Nifty plunges over 4% today; SBI, Axis Bank among top Nifty losers amid crude-driven market sell-off - Moneycontrol.com",-0.9406877160072327
-AXISBANK,2026-03-13,"Mumbai police register FIR on Axis Bank complaint against RCFL, ADAG promoters - The Economic Times",-0.6517051458358765
-AXISBANK,2024-04-10,Axis Bank Share Price Today Live Updates: Axis Bank Closes at Rs 1080.0 with 0.37% Gain and Trading Volum - The Economic Times,0.7742230892181396
-AXISBANK,2026-03-09,"HDFC Bank, Axis Bank and more: 4 UPI credit cards that include features like cashbacks, rewards airport lo - The Economic Times",-0.9107768535614014
-AXISBANK,2024-03-06,"Axis Bank Share Price Live Updates: Axis Bank Sees 1.05% Increase in Stock Price, Beta at 1.1232 - The Economic Times",0.9317700862884521
-AXISBANK,2024-06-04,"Axis Bank Share Price Today Live Updates: Axis Bank Sees 4.84% Decline in Current Price, EMA7 at 1146.6 - The Economic Times",-0.9590076804161072
-AXISBANK,2024-02-13,Axis Bank Share Price Today Live Updates: Axis Bank Stock Details - The Economic Times,-0.9341592192649841
-AXISBANK,2024-03-06,Axis Bank Share Price Live Updates: Axis Bank Closes at Rs 1100.8 with 2.02% 1-Week Return - The Economic Times,-0.7899331450462341
-AXISBANK,2024-02-09,"Axis Bank Share Price Live Updates: Axis Bank Sees 1.35% Increase in Stock Price Today, 6-Month Returns a - The Economic Times",0.7662801146507263
-AXISBANK,2024-03-06,Axis Bank Share Price Live Updates: Axis Bank Closes at Rs 1100.8 with -2.79% 3-Month Return - The Economic Times,-0.7712660431861877
-AXISBANK,2024-01-05,"Axis Bank Share Price Live Updates: Axis Bank Sees Modest Price Increase of 0.72% Today, EMA3 at Rs 1121. - The Economic Times",0.9234164953231812
-AXISBANK,2024-04-08,Axis Bank Share Price Live Updates: Axis Bank Sees Marginal Decline in Stock Price with Stable Trend Acco - The Economic Times,-0.9421752095222473
-AXISBANK,2024-01-30,Axis Bank Share Price Today Live Updates: Axis Bank Closes at Rs 1061.25 with 6-Month Beta of 1.1232 - The Economic Times,-0.801479160785675
-AXISBANK,2024-04-25,"Axis Bank Share Price Today Live Updates: Axis Bank Sees 4.17% Price Surge, SMA7 at Rs 1055.06 - The Economic Times",0.7730468511581421
-AXISBANK,2024-03-04,"Axis Bank Share Price Today Live Updates: Axis Bank Sees Marginal Increase in Stock Price, SMA3 at Rs 109 - The Economic Times",0.8850833177566528
-AXISBANK,2024-04-08,Axis Bank Share Price Live Updates: Axis Bank Sees Minor Decline in Price with SMA5 Holding Steady at Rs - The Economic Times,-0.9653086066246033
-AXISBANK,2024-02-20,Price Updates: Axis Bank Share Price Rises by Over 2%: Yesterday's Close at Rs 1062.95 - The Economic Times,0.7122991681098938
-AXISBANK,2026-03-07,Axis Bank - Concurrent Losers: 10 BSE-200 stocks decline for 5 consecutive sessions - The Economic Times,-0.9542711973190308
-AXISBANK,2024-04-23,Axis Bank Share Price Today Live Updates: Axis Bank Closes at Rs 1053.95 with 6-Month Beta of 1.1232 - The Economic Times,-0.7492479681968689
-AXISBANK,2026-03-11,What is a demat account? A beginner’s guide to stock investing - The Economic Times,-0.9272462725639343
-AXISBANK,2024-04-16,Axis Bank Share Price Live Updates: Axis Bank Closes at Rs 1057.95 with 1.44% Decline in Value and Tradin - The Economic Times,-0.9675543308258057
-AXISBANK,2024-04-09,Axis Bank Share Price Today Live Updates: Axis Bank Sees Marginal Gain as EMA3 Indicates Positive Trend - The Economic Times,0.8548693656921387
-AXISBANK,2026-03-12,Getting started in the stock market: Account setup and cost evaluation - The Economic Times,-0.9144331216812134
-AXISBANK,2023-12-21,"Axis Bank Share Price Live Updates: Axis Bank Sees 1.71% Decline in Current Price, 3-Year Returns Stand a - The Economic Times",-0.9050418138504028
-AXISBANK,2026-03-12,FIR filed against ADAG companies on Axis complaint - The Economic Times,-0.6064299941062927
-AXISBANK,2024-02-23,Axis Bank Share Price Today Live Updates: Axis Bank Trading at Rs 1095.45 with a 0.5% Decrease Today and - The Economic Times,-0.8443808555603027
-AXISBANK,2026-03-11,"US stock market Dow Jones, S&P 500, Nasdaq crash: Why Dow, S&P 500 and Nasdaq are down today? Nvidia, Nebi - The Economic Times",-0.8007251620292664
-AXISBANK,2026-03-12,"Why US stock market Dow Jones futures crash today: Dow, S&P 500 and Nasdaq futures turn deep red - Oil sur - The Economic Times",-0.8211140036582947
-AXISBANK,2026-03-11,"Not just LPG cylinder shortage, Induction cooktops also going 'out of stock' on Blinkit, Zepto, and Instam - The Economic Times",-0.9245440363883972
-AXISBANK,2026-03-13,"Why US stock market surging today: Dow Jones, S&P 500, Nasdaq rise as Russell 2000 leads - PCE inflation d - The Economic Times",-0.790666937828064
-AXISBANK,2026-03-12,"US stock market deep in red today: Why Dow Jones, S&P 500 and Nasdaq crash again - Dow drops 600 points an - The Economic Times",-0.7914751172065735
-AXISBANK,2026-03-13,Why S&P 500 and Nasdaq down today while Dow Jones holds steady: US stock market turns cautious as VIX at 2 - The Economic Times,-0.9307298064231873
-AXISBANK,2026-03-12,Not 9% but Nifty has crashed by 24% notionally in 18 months: Is this one of the biggest falls the best tim - The Economic Times,-0.6607376933097839
-AXISBANK,2024-04-29,Axis Bank Stocks Live Updates: Axis Bank News - The Economic Times,-0.9313639402389526
-AXISBANK,2026-03-11,Stryker cyber attack: Has Iran added a new dimension to the US-Iran war? Why Iran-linked hackers targeted - The Economic Times,-0.8494206070899963
-AXISBANK,2024-04-12,Axis Bank Stocks Live Updates: Axis Bank Closes at Rs 1087.80 with 6-Month Beta of 1.1232 - The Economic Times,-0.7662269473075867
-AXISBANK,2026-03-13,"As Indian stock markets crash amid US-Iran war, Shah Rukh Khan’s message for handling bad times shared by - The Economic Times",-0.6953807473182678
-AXISBANK,2026-03-13,HDFC Defence Fund exits this large cap stock that went up by 400% in 5 years - The Economic Times,0.8061690330505371
-AXISBANK,2024-04-24,Axis Bank Share Price Today Live Updates: Axis Bank Sees Slight Uptick in Price with Average Daily Volati - The Economic Times,0.9162741303443909
-AXISBANK,2026-03-11,Nebius Group stock surges 15% — here’s what’s fueling the sudden rally - The Economic Times,-0.8248242735862732
-AXISBANK,2024-04-29,Axis Bank Stocks Live Updates: Axis Bank Closes at Rs 1130.3 with Trading Volume Just Below 7-Day Average - The Economic Times,-0.7142506241798401
-AXISBANK,2026-03-11,"Sunil Singhania-backed Abakkus Flexi Cap Fund raises stake in HDFC Bank, RIL and 26 other stocks - The Economic Times",-0.8340563178062439
-AXISBANK,2020-08-04,"NIFTY BANK Stock Price, Nifty Bank Market Indices, Nifty Bank Price, Stock Performance & Comparison - Moneycontrol.com",-0.9424253106117249
-AXISBANK,2024-01-01,"Axis Bank Stocks Live Updates: Axis Bank Sees Slight Uptick in Price, Delivers Strong 5-Year Returns - The Economic Times",0.9365019798278809
-AXISBANK,2024-03-19,Axis Bank Share Price Live Updates: Axis Bank Trading at Rs 1050.85 with 0.99% Decrease; 1-Year Returns a - The Economic Times,-0.886897087097168
-AXISBANK,2024-02-26,"Axis Bank Share Price Live Updates: Axis Bank Sees 1.01% Decline in Stock Price, Trading Volume Below Ave - The Economic Times",-0.9309316277503967
-AXISBANK,2024-04-03,"Axis Bank Stocks Live Updates: Axis Bank Records 4.51% Decline in 1-Month Returns, Closes at Rs 1047.20 - The Economic Times",-0.9652178287506104
-AXISBANK,2024-04-15,"Axis Bank Share Price Today Live Updates: Axis Bank Sees Minor Decline in Stock Price, Weekly Returns Rem - The Economic Times",-0.9339567422866821
-AXISBANK,2026-03-13,Highest special FD interest rates from PSU banks: Deadline to invest in this bank’s 6.95% rate FD is neari - The Economic Times,-0.9149460792541504
+AXISBANK,2026-03-18,"Axis Bank shares rise 2% as lender set to invest Rs 1,500 crore into NBFC arm Axis Finance - ET BFSI",0.8147084712982178
+AXISBANK,2024-01-17,Axis Bank Share Price Live Updates: Axis Bank Stock Details - The Economic Times,-0.9343801736831665
+AXISBANK,2024-02-26,Axis Bank Share Price Live Updates: Axis Bank News - The Economic Times,-0.9373534917831421
+AXISBANK,2024-02-13,"Axis Bank Share Price Today Live Updates: Axis Bank Sees 1.39% Increase in Stock Price Today, with Averag - The Economic Times",0.9312780499458313
+AXISBANK,2026-03-19,"HDFC Bank Chair’s Hostile Exit Leaves Board ‘Baffled,” Investors Confused - Bloomberg.com",-0.5799722075462341
+AXISBANK,2026-03-22,Wealth whisperings: Quiet luxury finds voice among India’s new elite - The Economic Times,-0.8154088258743286
+AXISBANK,2024-01-08,"Axis Bank Stocks Live Updates: Axis Bank Closes at Rs 1136.95, Registers 1.21% Increase in Previous Day T - The Economic Times",0.5685465931892395
+AXISBANK,2026-01-26,India's Axis Bank posts surprise rise in quarterly profit on healthy loan growth - Reuters,0.9387066960334778
+AXISBANK,2025-10-15,India's Axis Bank profit drops more than expected on trading income hit - Reuters,-0.968606173992157
+AXISBANK,2021-06-25,Axis Bank Ltd - Reuters,-0.9416042566299438
+AXISBANK,2024-07-25,India's Axis Bank falls 5% after Q1 profit miss - Reuters,-0.9570654630661011
+AXISBANK,2024-07-25,"Indian shares end flat as L&T counters Axis Bank, Nestle results - Reuters",-0.8953437209129333
+AXISBANK,2026-01-26,Axis Bank reduces over 950 employees in Q3 as technology investments start to pay off - ET BFSI,-0.9716058969497681
+AXISBANK,2025-07-17,"Axis Bank Shares Tumble as Provisions Climb, Profit Disappoints - Bloomberg.com",-0.926979660987854
+AXISBANK,2025-01-16,"India's Axis Bank tumbles on profit miss, asset quality woes - Reuters",-0.9625676870346069
+AXISBANK,2026-01-26,India's Axis Bank hits 18-month high on surprise profit rise from strong loan growth - Reuters,0.9287556409835815
+AXISBANK,2025-07-18,"India's Axis Bank tumbles on disappointing June quarter, asset quality woes - Reuters",-0.9622359871864319
+AXISBANK,2025-04-24,"India's Axis Bank beats quarterly profit view, sees improved retail loan growth in FY26 - Reuters",0.9481524229049683
+AXISBANK,2025-10-15,"India's Axis Bank climbs on improved asset quality, lower credit costs in second quarter - Reuters",0.9495276808738708
+AXISBANK,2025-07-17,"Axis Bank Q1 FY26: What is the ‘Technical Impact’ that led to NPA spike, profit decline? - ET BFSI",-0.8352851271629333
+AXISBANK,2025-10-15,"RBI advisory prompts Axis Bank’s Rs 1,231 crore standard asset provision on farm loans; expects reversal b.. - ET BFSI",0.7995107769966125
+AXISBANK,2024-01-23,Axis Bank reports 3.7% rise in Q3 profit - ET BFSI,0.9502458572387695
+AXISBANK,2025-07-21,What next for Axis Bank after tepid Q1 results? - ET BFSI,-0.824691116809845
+AXISBANK,2024-07-25,India's Axis Bank misses Q1 profit view on higher provisions - Reuters,-0.8860414624214172
+AXISBANK,2022-10-20,"Axis Bank net profit rises 70% to Rs. 5,329.8 Cr; No plans to raise capital, says Amitabh Chaudhry - ET BFSI",0.9377194046974182
+AXISBANK,2014-03-15,AXSB: Axis Bank Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9479803442955017
+AXISBANK,2025-10-15,"Axis Bank’s corporate loan book rises 20% YoY led by mid-corporates, pricing discipline, relationship lend.. - ET BFSI",0.9532069563865662
+AXISBANK,2024-10-17,India's Axis Bank posts Q2 profit beat on strong credit demand - Reuters,0.8596863746643066
+AXISBANK,2025-04-24,Axis Bank to Raise $6.4 Billion Through Debt and Equity - Bloomberg.com,-0.8460043668746948
+AXISBANK,2017-03-23,"Axis Bank Share Price Today, Axis Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381366968154907
+AXISBANK,2025-10-16,Private banks lead Indian benchmark shares higher post Axis Bank results - ETCFO.com,0.866276204586029
+AXISBANK,2022-06-07,About Axis Bank Ltd (AXBK.NS) - Reuters,-0.9466656446456909
+AXISBANK,2025-10-17,"Axis Bank sees SME, corporate lending driving growth; retail segment gains momentum - ET BFSI",0.94985431432724
+AXISBANK,2025-07-17,Axis Bank to appoint an Executive Director as DMD Rajiv Anand retires - ET BFSI,-0.9457258582115173
+AXISBANK,2020-10-29,AXIS BANK Q2 - ET BFSI,-0.7953367233276367
+AXISBANK,2017-08-02,Check out Axis Bank Ltd's stock price (AXISBANK-IN) in real time - CNBC,-0.9441182613372803
+AXISBANK,2025-07-17,India's Axis Bank posts surprise profit drop as bad loans surge after benchmarking exercise - Reuters,-0.9665148854255676
+AXISBANK,2017-03-23,Axis Bank Profit and Loss Reports - The Economic Times,-0.6959308385848999
+AXISBANK,2025-07-17,Indian Markets May Continue Weekly Loss as Key Earnings Fall Short - Bloomberg.com,-0.9532214403152466
+AXISBANK,2012-01-20,"Axis Bank Q3 net up 24 percent, beats f'cast - Reuters",0.9441062808036804
+AXISBANK,2024-07-25,Axis investing in tech and cybersecurity for a future-ready Bank: Amitabh Chaudhry - ET BFSI,-0.6299525499343872
+AXISBANK,2025-11-28,Axis Bank economist pegs India's fiscal year 2026 growth rate at 7.2% - CNBC,-0.8768727779388428
+AXISBANK,2025-12-16,Indian shares fall for second session; Axis Bank among top laggards - Reuters,-0.9498212933540344
+AXISBANK,2024-06-19,India's Axis Bank raises stake in Max Life Insurance for $4.3 mln - Reuters,-0.8088729381561279
+AXISBANK,2017-03-23,Axis Bank Ltd. - The Economic Times,-0.9236648678779602
+AXISBANK,2023-11-16,RBI imposes ₹90.92-lakh penalty on Axis Bank for violating several norms - ET BFSI,-0.9162865281105042
+AXISBANK,2021-12-25,"Axis Bank Q3 results: Net profit rises 3% YoY to Rs 6,490 crore, NII grows 5% - The Economic Times",0.9468939304351807
+AXISBANK,2024-06-12,FIU imposes over Rs 1.66 cr fine on Axis Bank for failing to detect fraud NSG account - ETLegalWorld.com,-0.7372756004333496
+AXISBANK,2024-07-18,"Credit-Deposit Growth Mismatch to Weigh on India's HDFC, Axis Bank Earnings - Bloomberg.com",-0.5045432448387146
+AXISBANK,2020-07-03,Axis Bank shutters UK ops; to surrender license by April 2021 - ET BFSI,-0.7925633788108826
+AXISBANK,2023-01-23,India's Axis Bank profit beats view on strong interest income - Reuters,-0.7585052251815796
+AXISBANK,2025-03-27,"India's Axis Bank, J.P. Morgan roll out anytime dollar payments for clients - Reuters",-0.9253827929496765
+AXISBANK,2022-10-20,India's Axis Bank beats profit estimates as provisions slide - Reuters,-0.7949837446212769
+AXISBANK,2022-11-09,Indian government To Sell 1.55% Stake In Axis Bank - Reuters,-0.926139235496521
+AXISBANK,2023-10-25,"MSME segment key growth driver, 5k businesses onboarded every month under 'Neo for Business', says Amitabh C.. - ET BFSI",0.6149652600288391
+AXISBANK,2018-12-14,Supreme Court rejects plea of Axis Bank against release of arbitral award money to Japanese firm Daiichi - ETCFO.com,-0.5445981621742249
+AXISBANK,2024-10-19,Axis Bank's sluggish loan growth and elevated slippages raise concerns - ET BFSI,-0.7522688508033752
+AXISBANK,2024-04-09,"Bain Capital exits Axis Bank, raises $429 mln in stake sale - Reuters",-0.9069217443466187
+AXISBANK,2024-10-30,Axis Bank says AI won’t mean job losses as it adds frontliners - ET BFSI,-0.5970261096954346
+AXISBANK,2015-05-22,AXSB/F: Axis Bank Ltd Stock Price Quote - - Bloomberg - Bloomberg.com,-0.9455953240394592
+AXISBANK,2025-10-16,"Earnings, rate cut hopes boost India's stock benchmarks to 3-month highs - Reuters",0.8744770288467407
+AXISBANK,2022-09-08,"Axis Bank Trade Finance Centre Tfc Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9415277242660522
+AXISBANK,2022-06-29,Large banks with healthy performance to outperform industry: Axis Bank MD & CEO - ET BFSI,0.8838372230529785
+AXISBANK,2025-01-16,"India's Axis Bank misses profit view on bad loan provisions, slow loan growth - Reuters",-0.9560166001319885
+AXISBANK,2017-09-01,"Axis Bank IFSC Code: Find Axis Bank IFSC code, MICR code, Branches and Address - The Economic Times",-0.9445434212684631
+AXISBANK,2024-01-23,"Axis Bank Q3 Results: PAT tops estimates; rises 4% YoY to Rs 6,071 cr; NII up 9% - The Economic Times",0.9435082077980042
+AXISBANK,2025-10-29,India-US trade deal is weeks away; deep alignment still intact: Axis Bank - CNBC,-0.7473481893539429
+AXISBANK,2017-08-06,Check out Axis Bank Ltd's stock price (AXB-GB) in real time - CNBC,-0.9455463290214539
+AXISBANK,2022-09-16,"Axis Bank Dadri Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9391596913337708
+AXISBANK,2023-12-13,Bain Capital sells $448 mln stake in India's Axis Bank - Reuters,-0.9293692708015442
+AXISBANK,2022-08-04,India's Axis Bank to wind up UK subsidiary after deal with OpenPayd fails- filing - Reuters,-0.911620020866394
+AXISBANK,2024-04-08,"Bain Capital to sell $429 mln stake in India's Axis Bank, term sheet shows - Reuters",-0.9320007562637329
+AXISBANK,2022-09-17,"Axis Bank Bhaner Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9384392499923706
+AXISBANK,2024-04-24,"India's Axis Bank beats Q4 profit estimates on strong loan, NII growth - Reuters",0.9227535128593445
+AXISBANK,2022-09-08,"Axis Bank Jamkhed Branches IFSC Code, MICR Code & Phone Number - The Economic Times",-0.9437605142593384
+AXISBANK,2017-11-26,"Axis Bank Corporate Banking Branch Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9387405514717102
+AXISBANK,2022-09-10,"Axis Bank Zahirabad Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9374278783798218
+AXISBANK,2022-09-08,"Axis Bank West Zonal Office Wzo Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9414088129997253
+AXISBANK,2017-09-04,"Axis Bank Morigaon Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9377849102020264
+AXISBANK,2017-10-20,"Axis Bank Faizabad Uttar Pradesh Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9394769072532654
+AXISBANK,2023-08-09,India's Axis Bank to raise stake in Max Life via 16.12 bln rupee investment - Reuters,-0.8346825242042542
+AXISBANK,2022-09-16,"Axis Bank Ghazipur Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9395902156829834
+AXISBANK,2022-09-08,"Axis Bank East Zonal Office Ezo Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9412795305252075
+AXISBANK,2017-10-24,"Axis Bank Rampur Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9382396936416626
+AXISBANK,2022-09-16,"Axis Bank Makhanpur Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9378655552864075
+AXISBANK,2022-09-08,"Axis Bank Imphal Manipur Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9379780888557434
+AXISBANK,2017-11-06,"Axis Bank North Zonal Office Nzo Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9402605891227722
+AXISBANK,2017-11-04,"Axis Bank Golpark Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.940480649471283
+AXISBANK,2025-11-21,India's Axis Bank to raise up to $559 million via private debt placement - Reuters,-0.7892453670501709
+AXISBANK,2024-06-13,FIU imposes over Rs 1.66 cr fine on Axis Bank for failing to detect fraud NSG account - ET BFSI,-0.8730919361114502
+AXISBANK,2017-12-07,"Axis Bank Bareilly Uttar Pradesh Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.938860297203064
+AXISBANK,2025-01-18,Axis Bank faces challenges amid sluggish loan growth and elevated asset quality risks - ET BFSI,-0.4436078369617462
+AXISBANK,2024-09-19,Axis Bank partners with Pension Fund Regulatory and Development Authority to launch ‘NPS Vatsalya' - ETGovernment.com,-0.6368725895881653
+AXISBANK,2024-01-24,India's Axis Bank sees loan growth converging with deposits (Jan. 23) - Reuters,0.5622472763061523
+AXISBANK,2022-09-16,"Axis Bank Shadat Nagar Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9414843916893005
+AXISBANK,2026-01-19,Axis Bank Ltd - Bloomberg.com,-0.9443404078483582
+AXISBANK,2017-10-17,"Axis Bank Mandsaur Madhya Pradesh Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9366171360015869
+AXISBANK,2022-09-16,"Axis Bank Mumbapur Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9371201992034912
+AXISBANK,2022-09-18,"Axis Bank Greater Noida West Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9406579732894897
+AXISBANK,2022-09-17,"Axis Bank Tenkasi Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9387926459312439

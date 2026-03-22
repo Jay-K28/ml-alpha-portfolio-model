@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-BEL,2026-03-09,"BEL, HAL, other defence stocks fall up to 3% as Middle East war enters day 10. What are experts saying? - The Economic Times",-0.931374728679657
-BEL,2026-03-09,"Nifty India Defence index falls 3.5% amid profit booking; BEL, Dynamatic Tech lead losses - Moneycontrol.com",-0.9566822648048401
-BEL,2026-03-11,"ICICI BSELiqETF Gr Yearly results, Financial Summary - The Economic Times",-0.9271571040153503
-BEL,2026-03-12,"US stock market deep in red today: Why Dow Jones, S&P 500 and Nasdaq crash again - Dow drops 600 points an - The Economic Times",-0.7914751172065735
-BEL,2026-03-12,"Why US stock market Dow Jones futures crash today: Dow, S&P 500 and Nasdaq futures turn deep red - Oil sur - The Economic Times",-0.8211140036582947
-BEL,2026-03-13,"Why US stock market surging today: Dow Jones, S&P 500, Nasdaq rise as Russell 2000 leads - PCE inflation d - The Economic Times",-0.790666937828064
-BEL,2026-03-13,"As Indian stock markets crash amid US-Iran war, Shah Rukh Khan’s message for handling bad times shared by - The Economic Times",-0.6953807473182678
-BEL,2026-03-13,Why S&P 500 and Nasdaq down today while Dow Jones holds steady: US stock market turns cautious as VIX at 2 - The Economic Times,-0.9307298064231873
-BEL,2026-03-13,HDFC Defence Fund exits this large cap stock that went up by 400% in 5 years - The Economic Times,0.8061690330505371
-BEL,2026-03-12,Not 9% but Nifty has crashed by 24% notionally in 18 months: Is this one of the biggest falls the best tim - The Economic Times,-0.6607376933097839
-BEL,2026-03-13,ET Prime Special: How companies manipulate government incentives and create a false picture - The Economic Times,-0.7512105107307434
-BEL,2026-03-12,Getting started in the stock market: Account setup and cost evaluation - The Economic Times,-0.9144331216812134
-BEL,2026-03-13,"India, get a foot into FIFA World Cup? - The Economic Times",-0.9190269708633423
-BEL,2026-03-13,Gas Shortage and Wajid Ali Shah’s Biryani: How energy shocks could reshape food supply - The Economic Times,-0.8558648824691772
-BEL,2026-03-13,"Why are US stock market indexes down today and Dow Jones, S&P 500 and Nasdaq in red now? Wall Street fall, - The Economic Times",-0.9236201047897339
-BEL,2026-03-13,"West Asia War: India steelmakers brace for higher input costs, risk of cheaper imports - The Economic Times",-0.6783453226089478
-BEL,2026-03-13,"Bloating, cramps, poor digestion? Nutritionist shares simple foods that may help - The Economic Times",-0.8876230716705322
-BEL,2026-03-13,"Godrej Properties promoters snap up Rs 2,674 crore shares, raise stake - The Economic Times",-0.8363818526268005
-BEL,2026-03-13,Inside Dubai’s Cashless 2026 Shift - The Economic Times,-0.8856378793716431
-BEL,2026-03-13,Fitch raises India FY26 GDP growth forecast to 7.5% on strong domestic demand - The Economic Times,0.9126535654067993
-BEL,2026-03-13,Auto sector races to record February on double-digit sales growth - The Economic Times,0.8440303206443787
-BEL,2026-03-13,Hansika Motwani shares first Instagram post after divorce from Sohail Khaturiya. What does the Punjabi phr - The Economic Times,-0.940194308757782
-BEL,2026-03-13,TRAI moots termination charges to tackle spam - The Economic Times,-0.7138910293579102
-BEL,2026-03-13,"Inside Akasa’s big plans, and other exclusives - The Economic Times",-0.9452126026153564
-BEL,2026-03-13,"India protects key sectors under 'powerful' US trade deal, says Piyush Goyal - The Economic Times",0.8838736414909363
-BEL,2026-03-13,Adobe CEO Shantanu Narayen to step down after 18 years - The Economic Times,-0.8375062346458435
-BEL,2026-03-13,"India’s imports from China slowed overtime, exports grow faster: Govt tells Parliament - The Economic Times",-0.6681627631187439
-BEL,2026-03-13,"Amid LPG crisis, Bengaluru doctor shares 10 simple cooking techniques that halves gas consumption without - The Economic Times",-0.8795830607414246
-BEL,2026-03-13,NARCL to buy Kurukshetra e-way debt - The Economic Times,-0.8755174875259399
-BEL,2026-03-13,Hospitality industry bodies welcome govt decision to allocate 20% of average monthly commercial LPG requir - The Economic Times,0.5799015164375305
-BEL,2026-03-13,Home Ministry to review security protocols for VIPs - The Economic Times,-0.8942557573318481
-BEL,2026-03-13,"Heineken doubles down on India, eyes 'biggest untapped beer market' - The Economic Times",-0.5713523030281067
-BEL,2026-03-13,Urea shortage to halt goods movement? Auto industry warns diesel truck fleet could be immobilised - The Economic Times,-0.9187871217727661
-BEL,2026-03-13,India-Gulf flights slowly resume amid turbulence - The Economic Times,-0.5013644099235535
-BEL,2026-03-13,"Lok Sabha Bill redefines transgender, excludes sexual orientation - The Economic Times",-0.9265314340591431
-BEL,2026-03-13,Union Minister George Kurian may contest Kerala elections - The Economic Times,-0.8702941536903381
-BEL,2026-03-13,"TRAI proposes AI tools to detect & block spam calls, messages - The Economic Times",-0.901605486869812
-BEL,2026-03-13,NHRC takes cognizance of reports of physical assault on Manipur woman in Delhi's Malviya Nagar - The Economic Times,-0.6395155191421509
-BEL,2026-03-13,Y Combinator brings Startup School to India; here is what it means for your startup - The Economic Times,-0.8999419212341309
-BEL,2026-03-13,Middle East War: Bodies of 84 Iranian sailors killed off Sri Lanka to be flown home via India - The Economic Times,-0.6381010413169861
-BEL,2026-03-13,Homeward Ho! Indian professionals in West Asia looking east - The Economic Times,-0.8387681841850281
-BEL,2026-03-13,Competition for Russian crude oil set to intensify - The Economic Times,-0.7873034477233887
-BEL,2026-03-13,Opposition protest over LPG repeatedly disrupts Lok Sabha - The Economic Times,-0.9103047847747803
-BEL,2026-03-13,Stolen Indian idols abroad: Why global rules on sacred antiquities must change - The Economic Times,-0.8333113789558411
-BEL,2026-03-13,Govt warns LPG hoarders of action; urges users to switch to piped cooking gas - The Economic Times,-0.541896402835846
-BEL,2026-03-13,Jawaharlal Nehru once said Korea war fueled inflation in India: Modi - The Economic Times,-0.7587201595306396
-BEL,2026-03-13,Congress quietly updated a Social Security rule that no one noticed — how it could affect retirees - The Economic Times,-0.6114991903305054
-BEL,2026-03-13,Motor racing: F1 leader Russell puts Mercedes on pole for China sprint race - The Economic Times,-0.8326933979988098
-BEL,2026-03-13,20 Spine-chilling quotes From Ryan Coogler’s Sinners that will haunt you - The Economic Times,-0.8521917462348938
-BEL,2026-03-13,How technology is helping restaurants scale regional Indian cuisine while maintaining consistent taste - The Economic Times,-0.751560628414154
+BEL,2026-03-17,"BEL secures fresh defence orders worth ₹1,011 crore - ET Manufacturing",0.9482646584510803
+BEL,2026-03-21,Page 3 - Bharat Electronics Ltd News - Business Standard,-0.9463626742362976
+BEL,2026-03-18,Bondada Engineering spurts on bagging order from BEL - Business Standard,0.7406477332115173
+BEL,2026-03-19,"hal bel share price: Latest News & Videos, Photos about hal bel share price - The Economic Times",-0.9377400279045105
+BEL,2026-03-18,"Tankup Engineers Yearly results, Financial Summary - The Economic Times",-0.9109659194946289
+BEL,2026-03-22,Wealth whisperings: Quiet luxury finds voice among India’s new elite - The Economic Times,-0.8154088258743286
+BEL,2026-03-22,"'BJP a zero-seat party,' Shashi Tharoor says UDF set to win Kerala | Kerala assembly elections - The Economic Times",-0.8035221099853516
+BEL,2026-03-21,"‘Not America first, America alone’: Grace Meng slams Trump over ‘illegal’ Iran war; $2.2bn UN debt - The Economic Times",-0.7712024450302124
+BEL,2026-03-21,US-Israel-Iran War Day 22 | Iranian missile hits Kindergarten in central Israel; no injuries reported - The Economic Times,-0.7326543927192688
+BEL,2018-03-09,"HAL Share Price Today, HAL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387754201889038
+BEL,2017-03-24,"NTPC Share Price Today, NTPC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381704330444336
+BEL,2026-03-20,Bhubaneswar gets 2028 World Indoor Athletics Championships hosting rights - Business Standard,-0.9001023173332214
+BEL,2017-08-06,Check out Bharat Electronics Ltd's stock price (BEL-IN) in real time - CNBC,-0.9426882863044739
+BEL,2017-03-24,"BEL Share Price Today, BEL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9399408102035522
+BEL,2021-06-02,Stock Research Report for Bharat Electronics Ltd - The Economic Times,-0.922968327999115
+BEL,2026-03-17,Bharat Electronics Ltd. - The Economic Times,-0.9190561771392822
+BEL,2025-05-16,"Belrise Industries Share Price Today, Belrise Industries Stock Price Live NSE/BSE Updates - The Economic Times",-0.9426720142364502
+BEL,2017-03-29,"Ovobel Foods Ltd Share Price Today, Ovobel Foods Ltd Stock Price Live NSE/BSE Updates - The Economic Times",-0.9401475787162781
+BEL,2022-02-25,Bharat Electronics Limited (BEL) - bsmedia.business-standard.com,-0.9494341611862183
+BEL,2018-03-06,"Bharat Dynamics Share Price Today, Bharat Dynamics Stock Price Live NSE/BSE Updates - The Economic Times",-0.9388870000839233
+BEL,2017-11-16,"Bharat Electronics Ltd. Technical Chart NSE Stock Analysis, Bharat Electronics Ltd. Technical Chart Analysis - The Economic Times",-0.9399611353874207
+BEL,2017-03-29,"BEL Target Share Price, BEL Share Price Forecast - The Economic Times",-0.9395155906677246
+BEL,2025-07-30,BHE IN 30Jul25 - bsmedia.business-standard.com,-0.9444204568862915
+BEL,2022-07-06,About Bharat Electronics Ltd (BAJE.BO) - Reuters,-0.9431416988372803
+BEL,2018-03-06,Bharat Dynamics Ltd. - The Economic Times,-0.9205850958824158
+BEL,2024-04-05,BEML & BEL forge partnership to develop indigenous train control management system - ET Infra,0.7611860036849976
+BEL,2024-05-23,Institutional Equities - bsmedia.business-standard.com,-0.9488208889961243
+BEL,2017-03-23,"BHEL Share Price Today, BHEL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9364915490150452
+BEL,2014-03-24,BHE: Bharat Electronics Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9466700553894043
+BEL,2021-12-07,Top defence PSU HAL and Maharatna BEL among top 100 global arms-producing cos in 2020 - ETGovernment.com,-0.6744982004165649
+BEL,2025-06-01,Belrise Industries Ltd. - The Economic Times,-0.9220111966133118
+BEL,2024-09-12,BEL receives order for supply of indigenous radars worth Rs 850 Cr from Cochin Shipyard Limited - ET Infra,0.8742141127586365
+BEL,2025-11-14,BEL secures new defence orders worth ₹792 crore - ET Manufacturing,0.9394122958183289
+BEL,2020-09-25,"Mazagon Dock Ship Share Price Today, Mazagon Dock Ship Stock Price Live NSE/BSE Updates - The Economic Times",-0.9391072988510132
+BEL,2025-09-24,"L&T, BEL join forces to support India’s AMCA fighter jet programme - ET Infra",0.8047749400138855
+BEL,2023-02-22,"Defence tech: BEL signs MoUs with ADA, DRDO for Advanced Medium Combat Aircraft programme - ETGovernment.com",-0.7651749849319458
+BEL,2017-08-11,"Cochin Shipyard Share Price Today, Cochin Shipyard Stock Price Live NSE/BSE Updates - The Economic Times",-0.9372621774673462
+BEL,2024-10-09,"PRESS RELEASE Britannia and Bel Group Deepen Strategic Partnership to announce Local Cheese Manufacturing in India, producing Br - bsmedia.business-standard.com",0.8318195939064026
+BEL,2022-06-08,BAJE.NS - Reuters,-0.9377416968345642
+BEL,2022-10-23,"BEL opens Li-ion cell development centre, automated battery assembly unit in Pune - ET Auto",-0.8807826042175293
+BEL,2017-05-23,"Lotus Chocolate Share Price Today, Lotus Chocolate Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387183785438538
+BEL,2025-01-13,WTTcT $e)cfg7PicW *TTCcT ÿelcÿlPlcKH - bsmedia.business-standard.com,-0.9479984641075134
+BEL,2021-09-16,"Paras Defence Share Price Today, Paras Defence Stock Price Live NSE/BSE Updates - The Economic Times",-0.9394385814666748
+BEL,2017-03-24,"Astra Microwave Share Price Today, Astra Microwave Stock Price Live NSE/BSE Updates - The Economic Times",-0.941633939743042
+BEL,2023-05-18,RIR Power Electronics Ltd. - The Economic Times,-0.9208942651748657
+BEL,2017-03-24,"Adani Power Share Price Today, Adani Power Stock Price Live NSE/BSE Updates - The Economic Times",-0.9416555166244507
+BEL,2017-03-24,"B L Kashyap Share Price Today, B L Kashyap Stock Price Live NSE/BSE Updates - The Economic Times",-0.9408904910087585
+BEL,2025-02-10,"Aero India 2025: Bharat Electronics Limited to unveil latest innovations, AI-powered warfare tech - ET CIO",0.7379990816116333
+BEL,2026-03-13,BEL.PS - | Stock Price & Latest News - Reuters,-0.9230685830116272
+BEL,2017-03-31,Announcement - The Economic Times,-0.9166386723518372
+BEL,2022-10-25,"DCX Systems Share Price Today, DCX Systems Stock Price Live NSE/BSE Updates - The Economic Times",-0.9374716877937317
+BEL,2017-11-06,"HUDCO Share Price Today, HUDCO Stock Price Live NSE/BSE Updates - The Economic Times",-0.9376680254936218
+BEL,2025-10-14,LG Electronics India Share Price - The Economic Times,-0.9172084927558899
+BEL,2025-11-25,BEL shares rise over 1.5% in early trade on HAMMER deal with Safran - ET Manufacturing,0.8461745977401733
+BEL,2023-06-20,"ideaForge Technology Share Price Today, ideaForge Technology Stock Price Live NSE/BSE Updates - The Economic Times",-0.9413008689880371
+BEL,2024-09-11,BEL secures order for indigenous radar worth Rs 850 cr from Cochin Shipyard - Business Standard,0.9023216962814331
+BEL,2026-03-06,The Economic Times - The Economic Times,-0.9159992933273315
+BEL,2017-03-29,"Darshan Orna Share Price Today, Darshan Orna Stock Price Live NSE/BSE Updates - The Economic Times",-0.940268874168396
+BEL,2018-09-14,"GRSE Share Price Today, GRSE Stock Price Live NSE/BSE Updates - The Economic Times",-0.9360684156417847
+BEL,2017-04-20,Bharat Forge Ltd. - The Economic Times,-0.9186182618141174
+BEL,2026-03-20,"ASM Tech Share Price Today, ASM Tech Stock Price Live NSE/BSE Updates - The Economic Times",-0.9386318325996399
+BEL,2019-03-12,BEL SA - Bloomberg.com,-0.9476301670074463
+BEL,2025-11-24,"India's BEL, France's Safran to produce air-to-ground weapons in India - Reuters",-0.8361400961875916
+BEL,2025-10-14,"Tata Motors PV Share Price Today, Tata Motors PV Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381130933761597
+BEL,2020-07-31,"NDR Auto Components Share Price Today, NDR Auto Components Stock Price Live NSE/BSE Updates - The Economic Times",-0.9389814734458923
+BEL,2024-04-25,"Amkay Products Share Price Today, Amkay Products Stock Price Live NSE/BSE Updates - The Economic Times",-0.9390406608581543
+BEL,2026-03-20,"UTL Industries Share Price Today, UTL Industries Stock Price Live NSE/BSE Updates - The Economic Times",-0.9382580518722534
+BEL,2017-04-14,"Geojit Financial Target Share Price, Geojit Financial Share Price Forecast - The Economic Times",-0.9397427439689636
+BEL,2026-03-20,"Nuvama Wealth Mgmt Share Price Today, Nuvama Wealth Mgmt Stock Price Live NSE/BSE Updates - The Economic Times",-0.9424256682395935
+BEL,2022-12-04,"All E Technologies Share Price Today, All E Technologies Stock Price Live NSE/BSE Updates - The Economic Times",-0.9417211413383484
+BEL,2025-12-30,"Stocks to Watch today: BEL, RVNL, Waaree Energies, Lemon Tree, IndiGo, RIL - Business Standard",-0.9415038228034973
+BEL,2017-04-18,TVS Electronics Ltd. - The Economic Times,-0.9225441217422485
+BEL,2017-03-24,"MOIL Share Price Today, MOIL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9372093081474304
+BEL,2019-02-08,"Anmol India Share Price Today, Anmol India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9392485022544861
+BEL,2026-03-20,"CAMS Share Price Today, CAMS Stock Price Live NSE/BSE Updates - The Economic Times",-0.9364757537841797
+BEL,2017-03-23,"Lupin Share Price Today, Lupin Stock Price Live NSE/BSE Updates - The Economic Times",-0.9361072778701782
+BEL,2026-03-20,"Arvind Ltd Share Price Today, Arvind Ltd Stock Price Live NSE/BSE Updates - The Economic Times",-0.9378593564033508
+BEL,2018-03-05,"HDB Financial Servic Share Price Today, HDB Financial Servic Stock Price Live NSE/BSE Updates - The Economic Times",-0.9433214664459229
+BEL,2024-06-26,"Ola Electric Mobilit Share Price Today, Ola Electric Mobilit Stock Price Live NSE/BSE Updates - The Economic Times",-0.9400895237922668
+BEL,2026-01-30,"Ref: BEL/NSEBSE/BMD/30012026 January 30, 2026 Listing Department National Stock Exchange of India Limited Exchange Plaza, - bsmedia.business-standard.com",-0.945793867111206
+BEL,2022-03-24,"Jeena Sikho Lifecare Share Price Today, Jeena Sikho Lifecare Stock Price Live NSE/BSE Updates - The Economic Times",-0.9436418414115906
+BEL,2017-03-23,"GOCL Corporation Share Price Today, GOCL Corporation Stock Price Live NSE/BSE Updates - The Economic Times",-0.940140962600708
+BEL,2017-08-05,Check out Bel Fuse's stock price (BELFA) in real time - CNBC,-0.945207953453064
+BEL,2017-03-24,"Power Grid Share Price Today, Power Grid Stock Price Live NSE/BSE Updates - The Economic Times",-0.9385402798652649
+BEL,2017-03-23,"Oracle Share Price Today, Oracle Stock Price Live NSE/BSE Updates - The Economic Times",-0.9398483633995056
+BEL,2024-10-15,Stock Research Report for Bharat Global Developers Ltd - The Economic Times,-0.9268919825553894
+BEL,2019-01-07,"Bajaj Consumer Care Share Price Today, Bajaj Consumer Care Stock Price Live NSE/BSE Updates - The Economic Times",-0.9366168975830078
+BEL,2024-03-20,"SRM Contractors Share Price Today, SRM Contractors Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379642009735107
+BEL,2022-11-23,"LTIMindtree Share Price Today, LTIMindtree Stock Price Live NSE/BSE Updates - The Economic Times",-0.9411593675613403
+BEL,2017-03-23,"United Spirits Share Price Today, United Spirits Stock Price Live NSE/BSE Updates - The Economic Times",-0.9406600594520569
+BEL,2022-12-19,"Shriram Finance Share Price Today, Shriram Finance Stock Price Live NSE/BSE Updates - The Economic Times",-0.940354585647583
+BEL,2017-03-23,"Laurus Labs Share Price Today, Laurus Labs Stock Price Live NSE/BSE Updates - The Economic Times",-0.9397490620613098
+BEL,2017-03-31,"Bata India Yearly Results, Financial summary, Bata India Yearly Earnings - The Economic Times",-0.9274420738220215
+BEL,2017-03-24,"KRBL Share Price Today, KRBL Stock Price Live NSE/BSE Updates - The Economic Times",-0.934565544128418
+BEL,2017-04-02,"Hilton Metal Share Price Today, Hilton Metal Stock Price Live NSE/BSE Updates - The Economic Times",-0.9396873712539673
+BEL,2024-11-21,Declared Results - The Economic Times,-0.921174168586731
+BEL,2017-04-18,"Marksans Pharma Share Price Today, Marksans Pharma Stock Price Live NSE/BSE Updates - The Economic Times",-0.9410443902015686
+BEL,2025-01-28,"ITC Hotels Share Price Today, ITC Hotels Stock Price Live NSE/BSE Updates - The Economic Times",-0.9395599961280823
+BEL,2026-03-06,"BEL, Bellatrix Aerospace sign MoU to develop technologies for VLEO - ET Telecom",0.6663920879364014
+BEL,2017-04-12,"Resonance Spec Share Price Today, Resonance Spec Stock Price Live NSE/BSE Updates - The Economic Times",-0.936637282371521

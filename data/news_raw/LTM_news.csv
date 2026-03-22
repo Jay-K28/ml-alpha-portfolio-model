@@ -1,51 +1,100 @@
 ticker,date,headline,sentiment_score
-LTM,2026-03-04,LTM.Z - | Stock Price & Latest News - Reuters,-0.9304882884025574
-LTM,2026-03-05,LTM.Z - | Stock Price & Latest News - Reuters,-0.9304882884025574
-LTM,2026-02-26,LTM.N - | Stock Price & Latest News - Reuters,-0.9298698306083679
-LTM,2026-03-11,About LATAM Airlines Group SA (LTM.P) - Reuters,-0.9461221098899841
-LTM,2026-03-01,LTM - | Stock Price & Latest News - Reuters,-0.9293946027755737
-LTM,2026-03-03,LTM.P - | Stock Price & Latest News - Reuters,-0.9317124485969543
-LTM,2026-02-11,LTIMindtree rebrands as LTM Limited - The Economic Times,-0.9107638001441956
-LTM,2026-03-05,LFL0y.F - | Stock Price & Latest News - Reuters,-0.9286134243011475
-LTM,2026-02-23,LTIMindtree wins $100 million deal with a European medtech firm - The Economic Times,0.841308057308197
-LTM,2026-01-20,Buy LTIMindtree; target of Rs 7375: Anand Rathi - Moneycontrol.com,-0.9432068467140198
-LTM,2025-10-27,LTIMindtree bags $100 million order from US chemical firm - The Economic Times,0.7235211133956909
-LTM,2026-03-12,"LTIMindtree | Dividends > Computers - Software > Dividends declared by LTIMindtree - BSE: 540005, NSE: LTM - Moneycontrol.com",-0.9398860335350037
-LTM,2011-07-30,"Loyal Textiles Mills Registered Address Contact Details, Loyal Textiles Mills Management - Moneycontrol.com",-0.951103150844574
-LTM,2026-02-11,"LTIMindtree is now LTM, unveils new identity and positioning - Moneycontrol.com",-0.9217014908790588
-LTM,2025-07-26,"Hexaware profit lags estimates, shares tank - The Economic Times",-0.6029909253120422
-LTM,2024-01-31,Exclusive: Wipro to lay off hundreds of mid-level employees to improve margins - The Economic Times,-0.9086769223213196
-LTM,2025-04-12,"LTIMindtree | Rights > Computers - Software > Rights declared by LTIMindtree - BSE: 540005, NSE: LTM - Moneycontrol.com",-0.952987015247345
-LTM,2025-08-21,US IT firm Kyndryl to invest $2.25 billion in India over three years - The Economic Times,-0.680523693561554
-LTM,2023-08-22,TCS gets some relief in discrimination lawsuit - The Economic Times,0.7527055144309998
-LTM,2024-06-06,Wipro bags $500 million deal from US communications provider - The Economic Times,0.7621779441833496
-LTM,2026-02-04,"Cognizant to hire about 25,000 freshers in 2026 - The Economic Times",-0.7618510127067566
-LTM,2025-12-18,Accenture beats quarterly revenue estimate - The Economic Times,-0.8706598281860352
-LTM,2025-05-01,"Cognizant to hire 20,000 freshers in 2025 - The Economic Times",-0.7875407934188843
-LTM,2024-06-10,"Meity policy momentum to continue with Ashwini Vaishnaw retaining Electronics, IT portfolio - The Economic Times",-0.7576860189437866
-LTM,2024-11-11,LTIMindtree - Moneycontrol.com,-0.939856767654419
-LTM,2022-12-02,LTIMindtree Ltd. - Moneycontrol.com,-0.9467647075653076
-LTM,2024-10-25,"Tech Mahindra appoints former TCS exec to head tech, media biz - The Economic Times",-0.9193534851074219
-LTM,2024-11-14,"LTIMindtree | Splits > Computers - Software > Dividends declared by LTIMindtree - BSE: 540005, NSE: LTM - Moneycontrol.com",-0.894359290599823
-LTM,2021-08-29,Baring Asia set to accept $3 billion Carlyle offer for Hexaware - The Economic Times,-0.8325831294059753
-LTM,2025-12-24,"IT finds new ways to repackage deal discounts, AI gains - The Economic Times",-0.8098480701446533
-LTM,2025-12-26,Coforge to acquire US-based Encora in $2.35 billion deal - The Economic Times,-0.901016891002655
-LTM,2025-01-07,HCLTech rolls out 1-4% wage hikes for junior employees - The Economic Times,0.4022928476333618
-LTM,2022-10-03,"EPAM sacks 100 in India, revokes offers - The Economic Times",-0.8015672564506531
-LTM,2025-02-19,"Mysuru layoffs: Infosys denies using force, intimidation tactics; says cooperating with labour dept - The Economic Times",-0.9020705223083496
-LTM,2024-11-14,"LTIMindtree | Bonus > Computers - Software > Bonus declared by LTIMindtree - BSE: 540005, NSE: LTM - Moneycontrol.com",-0.9308551549911499
-LTM,2026-02-11,Happiest Minds’ Ashok Soota shrugs off stake sale reports - The Economic Times,-0.8829843997955322
-LTM,2025-09-18,TCS to transform Vodafone Idea's business support system via AI-driven platform - The Economic Times,-0.666711688041687
-LTM,2025-05-01,Infosys completes acquisition of MRE Consulting - The Economic Times,-0.8911850452423096
-LTM,2025-04-17,Infosys to acquire MRE Consulting for $36 million in all-cash deal - The Economic Times,-0.8994077444076538
-LTM,2025-01-10,Cognizant's future 'predominantly India-based': CEO Ravi Kumar S - The Economic Times,-0.9270766973495483
-LTM,2025-07-24,"Persistent Systems posts 39% profit growth, misses estimates - The Economic Times",-0.7383118867874146
-LTM,2022-01-25,"SAP picks up minority stake in Icertis, valuation likely tops $5 billion - The Economic Times",-0.5893322229385376
-LTM,2026-01-16,"LTIMindtree bags Rs 3,000 crore deal from CBDT to build AI-based tax analytics platform - The Economic Times",0.7833423614501953
-LTM,2026-01-15,"HCLTech names chief growth officer for India, other high-potential markets - The Economic Times",-0.8992205262184143
-LTM,2026-02-18,Investors' fears ridiculous; IT firms will enable AI to flourish: Piyush Goyal - The Economic Times,-0.7974352836608887
-LTM,2025-05-09,"Coforge to top $2 billion revenue target, CEO says - The Economic Times",0.767338752746582
-LTM,2024-03-24,Tech Mahindra to merge two US-based subsidiaries - The Economic Times,-0.9206321835517883
-LTM,2026-01-16,Indian IT shaking off demand blues as client spends tick up - The Economic Times,-0.3775741457939148
-LTM,2026-01-02,Cognizant faces lawsuits in US over TriZetto Healthcare data breach - The Economic Times,-0.8540272116661072
-LTM,2024-11-18,"Indian IT sector to see subdued growth in Q3, recovery likely in Q4 - The Economic Times",-0.8440088033676147
+LTM,2026-03-16,LTM teams up with IIT Kharagpur for AI upskilling of workforce - ETHRWorld.com,-0.796711802482605
+LTM,2026-03-17,Why LTM’s IIT Kharagpur partnership changes how AI skilling works - Indiatimes,-0.9262023568153381
+LTM,2026-03-18,Inside India’s AI revolution: LTM’s vision for the future - Business Standard,-0.818379282951355
+LTM,2026-03-18,LTM recognized as NVIDIA Partner Network 'Rising Star Consulting Partner of the Year' - Business Standard,0.9120887517929077
+LTM,2026-03-19,How Mastercard's new GenAI model predicts transactions and detect fraud - Indiatimes,-0.9280564188957214
+LTM,2026-03-18,"Technology News | Latest Tech, AI, Startup & Developer Updates - Indiatimes",-0.930410623550415
+LTM,2026-03-16,"artificial intelligence clone: Latest News & Videos, Photos about artificial intelligence clone - The Economic Times",-0.9376771450042725
+LTM,2026-03-18,Rupee Bottoms Out - Business Standard,-0.8566067814826965
+LTM,2026-03-18,Outward Foreign Direct Investment tumbles 36% on year in Feb-26 - Business Standard,-0.9734656810760498
+LTM,2026-03-18,HDFC Bank receives ratings action from India Ratings & Research - Business Standard,-0.9273160099983215
+LTM,2026-03-19,Dharti Proteins reports standalone net loss of Rs 0.34 crore in the December 2025 quarter - Business Standard,-0.9325624108314514
+LTM,2026-03-18,Cabinet approves MSP funding to CCI for for direct support to cotton farmers - Business Standard,0.7197260856628418
+LTM,2026-03-18,Arman Financial Services receives ratings action from Acuite Ratings & Research - Business Standard,-0.914300262928009
+LTM,2026-03-18,Sumeet Industries successfully bids for acquisition of Phase-3: Chips Manufacturing Plant of Nakoda - Business Standard,0.8775570392608643
+LTM,2026-03-18,Simplex Castings receives order worth Rs 13 cr from ThyssenKrupp Group - Business Standard,0.832530677318573
+LTM,2026-03-18,Bondada Engineering spurts on bagging order from BEL - Business Standard,0.7406477332115173
+LTM,2026-03-18,Pearson and TCS forge multi-year integrated partnership for AI-driven learning - Business Standard,0.845652163028717
+LTM,2026-03-18,"Nifty IT snaps six-day losing streak, up 4%; Coforge, Persistent lead gains - Business Standard",0.9221301674842834
+LTM,2026-03-17,"IT stocks: ICICI Sec upgrades Coforge, Mphasis to 'Buy'; check rationale - Business Standard",-0.8752033710479736
+LTM,2026-03-18,Benchmarks trade higher; broader mrkt outperforms - Business Standard,0.947944164276123
+LTM,2026-03-18,TVS Electronics Ltd Surges 4.85% - Business Standard,0.919680655002594
+LTM,2026-03-18,Aurobindo Pharma gets OAI status from US FDA for Eugia Pharma's Bhiwadi Unit - Business Standard,0.7078763246536255
+LTM,2026-03-18,GSP Crop Science subscribed 1.61 times - Business Standard,-0.9265775680541992
+LTM,2026-03-18,"Powering India's AI boom: Vertiv's Sanjay Sainani on data centres, energy demand & infrastructure - Business Standard",-0.8964218497276306
+LTM,2026-03-19,GIFT Nifty suggests negative opening for key indices - Business Standard,-0.9629652500152588
+LTM,2026-03-19,Alldigi Tech appoints Natrajan Laxsmanan as CEO - Business Standard,-0.932045578956604
+LTM,2026-03-19,"Fed pause, inflation risks drag IT stocks; TCS, Wipro, HCL drop up to 3% - Business Standard",-0.9610984921455383
+LTM,2026-03-18,Can ethanol cookstoves be the answer to India's LPG woes? | LPG crisis | West Asia war | US-Iran war - Business Standard,-0.8888795375823975
+LTM,2026-03-18,Valiant Organics Ltd leads gainers in 'B' group - Business Standard,0.9228821992874146
+LTM,2026-03-18,Godrej Properties acquires 20-acre land parcel in East Bengaluru - Business Standard,-0.8597201108932495
+LTM,2026-03-18,"Sensex zooms 807 pts higher; Nifty jumps above 23,750 mark; VIX slumps 4.56% - Business Standard",-0.8816428780555725
+LTM,2026-03-18,India’s ‘desi GPS’ in trouble? Why NavIC Is down to just 3 satellites | What is NavIC? | Isro - Business Standard,-0.5558115243911743
+LTM,2026-03-16,"OMC stocks extend fall; BPCL, HPCL, IOCL down up to 4%; here's why - Business Standard",-0.962024450302124
+LTM,2026-03-18,Watch: Bihar CM Nitish Kumar files Rajya Sabha nomination - Business Standard,-0.9187753200531006
+LTM,2026-03-18,Big relief for India: LPG tanker Nanda Devi arrives at Gujarat coast | West Asia war | US-Iran war - Business Standard,0.6220864653587341
+LTM,2026-03-18,LTM.P - | Stock Price & Latest News - Reuters,-0.9317124485969543
+LTM,2017-05-15,LTM: Latam Airlines Group SA Stock Price Quote - Sant. Comerc - Bloomberg - Bloomberg.com,-0.9510242938995361
+LTM,2022-06-06,About LATAM Airlines Group SA (LTM.SN) - Reuters,-0.9465736150741577
+LTM,2026-03-05,LTM.N - | Stock Price & Latest News - Reuters,-0.9298698306083679
+LTM,2026-02-27,LTM: LTIMindtree Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9466715455055237
+LTM,2026-03-03,LTM - | Stock Price & Latest News - Reuters,-0.9293946027755737
+LTM,2026-03-10,About LATAM Airlines Group SA (LTM.P) - Reuters,-0.9461221098899841
+LTM,2026-03-16,(LTM.N) | Stock Price & Latest News - Reuters,-0.9171956181526184
+LTM,2018-09-12,LTM LIMITED - The Economic Times,-0.9263192415237427
+LTM,2026-03-20,LTM.SN - | Stock Price & Latest News - Reuters,-0.9343783855438232
+LTM,2026-03-02,Check out LTIMindtree Ltd's stock price (LTM-IN) in real time - CNBC,-0.9444677829742432
+LTM,2026-02-12,"LTIMindtree introduces new brand identity and positioning, to be renamed LTM - ET BrandEquity",-0.8397490978240967
+LTM,2026-02-19,"LTIM/SE/STAT/2025-26/100 February 19, 2026 National Stock Exchange of India Limited, Exchange Plaza, Bandra-Kurla Complex, - bsmedia.business-standard.com",-0.9466548562049866
+LTM,2026-02-16,LTM Partners with NFDC and Waves Bazaar to Host AI Cinema Showcase at India AI Impact Summit 2026 - bsmedia.business-standard.com,-0.8084313869476318
+LTM,2026-02-21,"Company Financials, Estimates and Pricing Point-in-Time - professional.bloomberg.com",-0.9408361315727234
+LTM,2026-02-11,"LTIM/SE/STAT/2025-26/98 February 11, 2026 National Stock Exchange of India Limited Exchange Plaza, Bandra-Kurla Complex, Bandr - bsmedia.business-standard.com",-0.9446527361869812
+LTM,2025-11-07,Hexaware Technologies Reports Strong Q3 2025 Financial Results with 3.3% Revenue Growth - ETCFO.com,0.9272127747535706
+LTM,2022-08-12,Infosys CEO sees moderation in attrition over coming quarters - ET CIO,-0.48080044984817505
+LTM,2026-02-11,"LTIM/SE/STAT/2025-26/97 February 11, 2026 National Stock Exchange of India Limited Exchange Plaza, Bandra-Kurla Complex, Bandr - bsmedia.business-standard.com",-0.9446981549263
+LTM,2022-11-29,LTIMindtree Ltd. - The Economic Times,-0.9198735952377319
+LTM,2026-01-13,Tata Consultancy Services| BUY - bsmedia.business-standard.com,-0.9434701204299927
+LTM,2020-04-22,Learning and development News: Latest Learning and development HR News & Update - ETHRWorld.com,-0.9433230757713318
+LTM,2022-11-23,"LTIMindtree Share Price Today, LTIMindtree Stock Price Live NSE/BSE Updates - The Economic Times",-0.9411593675613403
+LTM,2026-02-23,India's LTIMindtree wins $100 million deal with European medtech firm - Reuters,0.7973476052284241
+LTM,2020-10-05,"West Asia turmoil: L&T backs government to back capex, flags need for deficit headroom - The Economic Times",-0.7571401596069336
+LTM,2021-06-02,Stock Research Report for Capri Global Capital Ltd - The Economic Times,-0.928295910358429
+LTM,2024-07-18,LATAM Airlines readies NYSE listing at $8.5 bln potential valuation - Reuters,-0.9470407962799072
+LTM,2026-01-17,Tech Mahindra| ADD - bsmedia.business-standard.com,-0.9450792074203491
+LTM,2026-02-18,"I&B Ministry to host AI-focused panels at AI Summit, 51 startups showcasing innovations in WAVES Creators Co.. - Indiatimes",-0.8582115173339844
+LTM,2026-01-17,Wipro | BUY - bsmedia.business-standard.com,-0.9511555433273315
+LTM,2024-09-17,Op-ed: Here’s why a sale of Bausch + Lomb could lead to a windfall for Bausch Health investors - CNBC,-0.571574330329895
+LTM,2021-07-29,"29""July, 2021 - bsmedia.business-standard.com",-0.9493013620376587
+LTM,2015-02-11,Untitled - bsmedia.business-standard.com,-0.947187066078186
+LTM,2026-02-05,"February 05, 2026 National Stock Exchange of India Limited Exchange Plaza, C-1 Block G Sandra Kurla Complex, Sandra (E) Mumbai - - bsmedia.business-standard.com",-0.9433835744857788
+LTM,2022-01-15,"[Kotak] HCL Technologies, January 15, 2022 - bsmedia.business-standard.com",-0.9499204754829407
+LTM,2025-07-28,Hindustan Aeronautics - bsmedia.business-standard.com,-0.9452593922615051
+LTM,2020-12-18,Asian Energy Services Ltd. - The Economic Times,-0.9234619140625
+LTM,2021-06-30,Check out Meta Platforms's stock price (META) in real time - CNBC,-0.9474533796310425
+LTM,2025-07-17,Tech Mahindra - bsmedia.business-standard.com,-0.9470189809799194
+LTM,2025-10-31,Chevron Beats Estimates as Hess Deal Helps Boost Oil Production - Bloomberg.com,0.6737226247787476
+LTM,2025-07-15,AWL IN EQUITY 15Jul25 RU - bsmedia.business-standard.com,-0.9418427348136902
+LTM,2022-06-24,"artificial intelligence business: Latest News & Videos, Photos about artificial intelligence business - The Economic Times",-0.934010922908783
+LTM,2026-01-21,Reena Abhijit Raje - bsmedia.business-standard.com,-0.9435515403747559
+LTM,2026-03-15,"artificial intelligence costs: Latest News & Videos, Photos about artificial intelligence costs - The Economic Times",-0.9298108816146851
+LTM,2026-01-13,HCL Technologies| ADD - bsmedia.business-standard.com,-0.9503574967384338
+LTM,2023-11-29,Daily Morning Newsletter - ET BFSI,-0.936847984790802
+LTM,2013-07-02,Prove-It Time Ahead for Market as Earnings Loom - CNBC,-0.8959556818008423
+LTM,2026-01-08,Placed holder for cover page image Do not delete - bsmedia.business-standard.com,-0.9403127431869507
+LTM,2015-03-12,ESSEL PROPACK - bsmedia.business-standard.com,-0.9506852626800537
+LTM,2025-05-29,TIAAN CONSUMER LIMITED - bsmedia.business-standard.com,-0.9536094665527344
+LTM,2021-10-10,T I MILLER LIMITED - The Economic Times,-0.9104940295219421
+LTM,2020-06-15,News From PTI - ETHRWorld.com,-0.9414353370666504
+LTM,2025-04-23,HCL Technologies - bsmedia.business-standard.com,-0.9526538848876953
+LTM,2026-02-23,ET Human Capital Awards 2026: Celebrating Excellence in HR - ETHRWorld.com,0.5416474938392639
+LTM,2023-07-17,"TCS aims to hire 40,000 freshers in FY24: Report - ET Telecom",-0.5134121775627136
+LTM,2024-07-11,"Inflation falls 0.1% in June from prior month, helping case for lower rates - CNBC",-0.8644982576370239
+LTM,2026-02-03,AWLTD IN 03Feb26 - bsmedia.business-standard.com,-0.9446539282798767
+LTM,2025-10-15,Leela Palaces Hotels & Resorts posts 11% revenue growth in Q2 FY26; enters Dubai with first international pr.. - ET TravelWorld,0.8534838557243347
+LTM,2021-01-19,Check out Moon's stock price (1723-HK) in real time - CNBC,-0.9461671113967896
+LTM,2014-03-14,SPX Quote - S&P 500 INDEX - Bloomberg.com,-0.9321295022964478
+LTM,2024-10-06,Mining giant Rio Tinto in talks to buy U.S. lithium producer Arcadium - CNBC,-0.8552800416946411
+LTM,2025-10-10,TCS IN 10Oct25 - bsmedia.business-standard.com,-0.9460725784301758
+LTM,2019-06-14,"Government News | Latest news on eGovernance, Digital India, Smart Cities - ETGovernment.com",-0.9389564990997314
+LTM,2025-01-17,Manish Anand - bsmedia.business-standard.com,-0.9474889636039734

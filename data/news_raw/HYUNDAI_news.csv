@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-HYUNDAI,2026-03-13,"Jefferies adds Wipro, Hyundai Motor India, Cipla to latest underperform list. Here’s why - The Economic Times",-0.8025637269020081
-HYUNDAI,2026-03-09,"Stocks to Watch Today: Hyundai Motor, Vishal Mega Mart, Minda Corp, Solex Energy, Hinduja Global... - Moneycontrol.com",-0.9462007284164429
-HYUNDAI,2026-03-09,"2026 Hyundai Verna launched at Rs 10.98 lakh: Check variant-wise prices, images, features and full details - The Economic Times",-0.9470648765563965
-HYUNDAI,2026-03-13,"Auto stocks extend losses, Nifty Auto falls over 3.5%; JPMorgan prefers Maruti, M&M, Hyundai despite... - Moneycontrol.com",-0.8798272013664246
-HYUNDAI,2026-03-08,India win T20 World Cup 2026; claim record ₹27.5 crore prize - The Economic Times,0.6840904951095581
-HYUNDAI,2026-03-09,"2026 Hyundai Verna launched in India, price starts at Rs 10.98 lakh - Moneycontrol.com",-0.9173953533172607
-HYUNDAI,2026-03-13,Uber and Motional launch commercial robotaxi service in Las Vegas - The Economic Times,-0.8726725578308105
-HYUNDAI,2026-03-09,PSTET admit card 2026 released at pstet2025.org: Check how to download Punjab TET hall ticket - The Economic Times,-0.9308241605758667
-HYUNDAI,2026-03-09,"RRB NTPC Admit Card 2026 released at rrb.digialm.com: Check steps to download city intimation slip, CBT ex - The Economic Times",-0.9300280213356018
-HYUNDAI,2026-03-09,What does force majeure mean? Why Bahrain’s Bapco declared it amid rising crude oil prices and can it disr - The Economic Times,-0.7986193895339966
-HYUNDAI,2026-03-08,Charting the global economy: Oil prices top $90 on Iran war - The Economic Times,-0.8816669583320618
-HYUNDAI,2026-03-09,Harvard and AIIMS gastroenterologist Dr Saurabh Sethi ranks top nine egg-free protein-rich breakfasts for - The Economic Times,0.5938827395439148
-HYUNDAI,2026-03-12,Up to Rs 5 lakh off as car dealers slash prices to clear unsold 2024–25 stock - Moneycontrol.com,-0.4998260736465454
-HYUNDAI,2026-03-13,Quote of the day by Aristotle: “Happiness depends upon...” - The Economic Times,-0.9030588269233704
-HYUNDAI,2026-03-13,Quote of the day by Robin Williams: 'No matter what people tell you...' - The Economic Times,-0.9156870245933533
-HYUNDAI,2026-03-13,South Africa’s ‘stupidest decision’ helped India win the T20 World Cup? Michael Vaughan thinks so - The Economic Times,-0.7364466786384583
-HYUNDAI,2026-03-13,'Hospital-insurance nexus; Rs 26K cr claims were rejected in 2024': MP Swati Maliwal claims in RS - The Economic Times,-0.7297035455703735
-HYUNDAI,2026-03-12,Induction stoves fly off shelves in India as gas shortage fears spark panic buying - Reuters,-0.8435500860214233
-HYUNDAI,2026-03-13,"LPG cylinder shortage: Govt urges people to avoid panic buying, says production increased by 30% - The Economic Times",0.9461869597434998
-HYUNDAI,2026-03-10,Sriperumbudur emerges as manufacturing engine behind Tamil Nadu’s growth - The Economic Times,0.5603651404380798
-HYUNDAI,2026-03-13,"Iran war Day 14: Dubai finance hub, Turkey-US base hit; Indian markets crash, energy crisis rises - The Economic Times",-0.8008509874343872
-HYUNDAI,2026-03-13,Global shipping industry caught in storm of war - The Economic Times,-0.5845615863800049
-HYUNDAI,2026-03-09,"Why are US stock market index futures down today and Nasdaq, Dow Jones and S&P 500 in red again? Wall Stre - The Economic Times",-0.7823305130004883
-HYUNDAI,2026-03-13,‘India is our friend’: Iran allows safe passage for Indian ships through Strait of Hormuz - The Economic Times,-0.8184777498245239
-HYUNDAI,2026-03-07,India’s reliance on foreign ships a strategic risk: Sanjeev Sanyal - The Economic Times,-0.8996819257736206
-HYUNDAI,2026-03-13,"West Asia crisis: Around 23,000 Indian sailors in Gulf, 27 vessels near Strait of Hormuz: Ministry - The Economic Times",-0.7671206593513489
-HYUNDAI,2026-03-11,"Indian shares end lower as Mideast war, volatile oil hit sentiment - Reuters",-0.9545575976371765
-HYUNDAI,2026-03-13,Honda shares slide nearly 6% as automaker faces first annual loss - Reuters,-0.9690819382667542
-HYUNDAI,2026-03-09,India stocks drop to almost 1‑year lows as Iran war sends oil soaring - Reuters,-0.929340660572052
-HYUNDAI,2026-03-13,"PM Kisan 22nd instalment released: If your bank account is not credited, know why and what to do, how to c - The Economic Times",-0.9270408153533936
-HYUNDAI,2026-03-12,"India’s Rs 13,000 crore live events market fuelling experiential marketing push: BookMyShow–EY report - The Economic Times",-0.5890566110610962
-HYUNDAI,2026-03-09,"Progcap enables Rs 10,000 cr of credit to women entrepreneurs under collateral-free loan prog - The Economic Times",-0.7397842407226562
-HYUNDAI,2026-03-13,IAEA says it is trying to broker a new nuclear deal between the US and Iran: Reports - The Economic Times,-0.9063095450401306
-HYUNDAI,2026-03-13,Drukair re-introduces Bangkok flights from Paro via Guwahati - The Economic Times,-0.8025950789451599
-HYUNDAI,2026-03-11,Choked shipping routes jolt Indian manufacturers - The Economic Times,-0.7708559632301331
-HYUNDAI,2026-03-13,How a Delhi CA routed Rs 900 crore in a year from online scams through Dubai - The Economic Times,-0.8848622441291809
-HYUNDAI,2026-03-10,"Qualcomm, Wayve partner to accelerate AI-powered self-driving system rollout - The Economic Times",0.6173144578933716
-HYUNDAI,2026-03-10,"Volkswagen says to cut 50,000 jobs as profit slides - The Economic Times",-0.9564729332923889
-HYUNDAI,2026-03-11,"BAN vs PAK Live Streaming: Where to watch the 1st ODI clash in Dhaka from India, playing 11, pitch and wea - The Economic Times",-0.9380195736885071
-HYUNDAI,2026-03-08,Word of the Day: Persiflage - The Economic Times,-0.9128787517547607
-HYUNDAI,2026-03-07,Thought of the Day by Vernon Howard: ‘You have succeeded in life when all you really want is only what…’ - The Economic Times,-0.8460041284561157
-HYUNDAI,2026-03-09,Michael Atherton backs India to claim all ICC white-ball crowns - The Economic Times,-0.7920873165130615
-HYUNDAI,2026-03-08,Quote of the Day by Alphonse de Lamartine: ‘There is a woman at the beginning of all great things.’ - The Economic Times,-0.9077765345573425
-HYUNDAI,2026-03-13,"Iran is not another Venezuela, Trump has found to great cost - The Economic Times",-0.8712618947029114
-HYUNDAI,2026-03-08,"Eid al-Fitr 2026 date: When will the festival fall, and how can employees turn the holiday into a 9-day br - The Economic Times",-0.9167868494987488
-HYUNDAI,2026-03-08,"Thought of the Day by E. M. Forster: ‘We must be willing to let go of the life we have planned, so as to…’ - The Economic Times",-0.8020612001419067
-HYUNDAI,2026-03-08,"Nancy Guthrie case update: Where is Savannah Guthrie’s mother? What investigators found in the backpack, g - The Economic Times",-0.9048447012901306
-HYUNDAI,2026-03-08,India vs New Zealand Records: India breaks multiple in World Cup final innings - The Economic Times,-0.7922847270965576
-HYUNDAI,2026-03-06,"Women's Day quotes 2026: Inspiring and motivational quotes to celebrate female power, courage, leadership, - The Economic Times",-0.8520398139953613
-HYUNDAI,2026-03-07,The Moment of Truth: India and New Zealand’s contrasting cricketing identities collide in the T20 World Cu - The Economic Times,-0.7413634061813354
+HYUNDAI,2026-03-17,"memory prices: Latest News & Videos, Photos about memory prices - The Economic Times",-0.9345718026161194
+HYUNDAI,2016-05-26,Tech News | Today's Latest Technology News - Reuters,-0.9235796332359314
+HYUNDAI,2026-03-16,Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27 - CNBC,0.7145819664001465
+HYUNDAI,2009-07-18,"Bloomberg - Business News, Stock Markets, Finance, Breaking & World News - Bloomberg.com",-0.936978280544281
+HYUNDAI,2026-03-18,"Ambani's Reliance Jio hires 17 banks for IPO, will raise no new funds, sources say - Reuters",-0.9449161291122437
+HYUNDAI,2014-06-19,"Business News, Finance News, India News, Stock Markets BSE/NSE News, SENSEX, NIFTY, Personal Finance News - Business Standard",-0.9441770315170288
+HYUNDAI,2026-03-17,Government may defer CAFE 3.0 norms amid auto industry push - ET Auto,-0.7806063890457153
+HYUNDAI,2026-03-20,"Maruti, Tata Motors, M&M, Bajaj Auto: CLSA decodes strategy for auto stocks - Business Standard",-0.8751552104949951
+HYUNDAI,2026-03-16,NSE may eye ₹6-7 trillion IPO valuation ahead of long-awaited listing - Business Standard,-0.9259662628173828
+HYUNDAI,2026-03-15,"Iran war: Auto earnings at risk as demand sputters, margin worries mount - Business Standard",-0.9386892914772034
+HYUNDAI,2026-03-16,Honda's costly EV gamble raises questions about automaker's future - Business Standard,-0.905439019203186
+HYUNDAI,2026-03-19,"Nirmal Bang picks Maruti, M&M as auto sector corrects; flags gas risks - Business Standard",-0.8536943197250366
+HYUNDAI,2026-03-19,"Skoda Auto India keeps foot on the pedal, targets 10-12% growth - Business Standard",0.8355121612548828
+HYUNDAI,2026-03-17,Indices edge lower in early trade; breadth positive - Business Standard,-0.9297462701797485
+HYUNDAI,2026-03-17,"Nifty below 23,400 level; metal shares shine - Business Standard",0.6555946469306946
+HYUNDAI,2026-03-17,"Renault launches Duster 2026 in India: Check price, features, specs - Business Standard",-0.9074752926826477
+HYUNDAI,2026-03-17,"Sensex settles 568 pts higher; Nifty ends above 23,550; VIX slumps 8.39% - Business Standard",-0.9650057554244995
+HYUNDAI,2026-03-18,NSE sets modest advisory fee of just 0.65% for upcoming $2.5 bn IPO - Business Standard,-0.938680112361908
+HYUNDAI,2024-06-14,"Hyundai to sell up to 17.5% stake in India unit IPO, sources say - Reuters",-0.899211585521698
+HYUNDAI,2024-01-25,"Hyundai Motor projects slower growth in 2024 on weak demand, macro uncertainty - Reuters",-0.9545882940292358
+HYUNDAI,2024-10-24,Hyundai Motor's third quarter profit misses forecast as demand slows; shares slide - CNBC,-0.9636340737342834
+HYUNDAI,2021-05-13,"Hyundai to invest $7.4 bln in U.S. by 2025, with electric cars in focus - Reuters",-0.8389297723770142
+HYUNDAI,2024-04-25,"Hyundai Motor Q1 hurt by weak home sales, doubles down on hybrids, India - Reuters",-0.9679897427558899
+HYUNDAI,2026-02-02,"Hyundai Motor India misses quarterly profit view on rising raw material, labour costs - Reuters",-0.9625334739685059
+HYUNDAI,2025-03-24,South Korea's Hyundai announces $21 billion U.S. investment - CNBC,-0.8739343285560608
+HYUNDAI,2025-10-30,"Hyundai India set to top fiscal year export targets, beats quarterly profit view - Reuters",0.5116234421730042
+HYUNDAI,2024-10-24,Hyundai Motor Q3 profit misses forecast as demand slows; shares slide - Reuters,-0.9659072756767273
+HYUNDAI,2025-07-24,Hyundai Motor warns of bigger hit from US tariffs after Q2 profit fall - Reuters,-0.9410979151725769
+HYUNDAI,2026-01-29,Hyundai Profit Misses Estimates on Persistent Tariff Pressure - Bloomberg.com,-0.8827558159828186
+HYUNDAI,2024-11-12,"Hyundai Motor India's Q2 profit drops 16.5% on weak demand, Red Sea export disruptions - Reuters",-0.9706768989562988
+HYUNDAI,2026-01-07,Hyundai Motor shares rise 15% to hit record high amid Nvidia tie-up speculation - Reuters,0.9186450242996216
+HYUNDAI,2025-04-23,"Hyundai Profit Tops Estimates on Higher N. America, Hybrid Sales - Bloomberg.com",-0.6496449112892151
+HYUNDAI,2025-10-30,Hyundai Motor retains earnings targets after US tariffs hit Q3 profit - Reuters,0.7756507396697998
+HYUNDAI,2025-07-30,Hyundai India shrugs off China's rare-earth ban; quarterly profit tops view - Reuters,-0.5457780361175537
+HYUNDAI,2025-01-28,"Hyundai Motor India reports lower Q3 profit on weak domestic demand, exports - Reuters",-0.9709994792938232
+HYUNDAI,2024-06-14,Hyundai Motor India Ltd - Reuters,-0.9404035210609436
+HYUNDAI,2025-10-15,Hyundai Motor doubles down on India with $5 billion investment - Reuters,-0.8426785469055176
+HYUNDAI,2025-05-16,Hyundai India aims for 7%-8% annual exports growth after quarterly profit beat - Reuters,0.8668582439422607
+HYUNDAI,2024-07-25,"Hyundai Motor posts record Q2 profit on strong US sales, to boost hybrid lineups - Reuters",0.948524534702301
+HYUNDAI,2022-04-25,"Hyundai profit surges, favourable currency rates offset sales decline - Reuters",0.7780954837799072
+HYUNDAI,2025-01-22,Hyundai Motor nears GM tie-up deal; sees revenue growth slowing in 2025 - Reuters,-0.952521562576294
+HYUNDAI,2024-07-25,"Hyundai Motor posts record second-quarter profit on strong U.S. sales, to boost hybrid lineups - CNBC",0.9426704049110413
+HYUNDAI,2025-07-23,"Hyundai Profit Beats Estimates on Robust Hybrid, US Sales - Bloomberg.com",-0.7770394086837769
+HYUNDAI,2026-01-29,"Hyundai Motor Q4 profit skids due to US tariffs, but humanoid robot hope boost shares - Reuters",-0.6381269097328186
+HYUNDAI,2025-03-24,Hyundai Jumps After Trump Hails $21 Billion US Expansion - Bloomberg.com,-0.8743559718132019
+HYUNDAI,2022-09-01,Hyundai Motor Group - Reuters,-0.9399829506874084
+HYUNDAI,2025-11-03,"Ford, Hyundai report large declines in October EV sales after end of federal credits - CNBC",-0.9627218842506409
+HYUNDAI,2024-10-22,Hyundai Motor India drops 7% on debut after country's biggest IPO - Reuters,-0.9686378240585327
+HYUNDAI,2024-08-28,"Hyundai targets 30% rise in sales by 2030, as it doubles hybrid lineups - Reuters",0.853376567363739
+HYUNDAI,2021-06-19,Hyundai Motor Co - Reuters,-0.9400915503501892
+HYUNDAI,2025-03-24,"Hyundai, Trump announce $21 billion US investment, new steel plant - Reuters",-0.7945935130119324
+HYUNDAI,2025-04-22,"Hyundai Steel's $6 billion US investment draws investor ire, tests Seoul's tariff strategy - Reuters",-0.684986412525177
+HYUNDAI,2026-01-05,"Hyundai, Kia target 3.2% vehicle sales growth in 2026 after missing 2025 targets - Reuters",-0.5230520367622375
+HYUNDAI,2025-11-16,Hyundai Motor announces $86 bln investment in South Korea after US trade deal - Reuters,-0.8247307538986206
+HYUNDAI,2026-03-20,"Hyundai Motor India Share Price Today, Hyundai Motor India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9402084946632385
+HYUNDAI,2025-07-25,Hyundai Motor warns of bigger hit from US tariffs after Q2 profit fall - ET Auto,-0.9064995050430298
+HYUNDAI,2026-01-04,Hyundai motor targets 2026 global sales of 4.16 mln vehicles - Reuters,-0.8665264844894409
+HYUNDAI,2024-11-12,Hyundai Motor India net profit declines 15.5% to INR 1375 crore in Q2 FY25 - ET Auto,-0.9743741154670715
+HYUNDAI,2023-08-23,China’s Bustling Car Market Is a Rare Black Mark on Hyundai’s Blockbuster Year - Bloomberg.com,-0.7819874882698059
+HYUNDAI,2025-09-01,"Post-IPO, Hyundai Motor India bets on leadership depth to strengthen teams - ETHRWorld.com",0.8608995676040649
+HYUNDAI,2025-12-02,"Ford, Hyundai US sales down slightly in November as EVs drag - Reuters",-0.9730158448219299
+HYUNDAI,2025-04-24,"Hyundai Motor launches tariff task force, shifts some Mexico output to the US - Reuters",-0.6848167777061462
+HYUNDAI,2018-04-23,"Singer's Elliott Presses Hyundai for Richer Deal, Dividends - Bloomberg.com",-0.9187444448471069
+HYUNDAI,2024-10-09,Hyundai Motor India Ltd. - The Economic Times,-0.9249100685119629
+HYUNDAI,2025-03-25,"Hyundai Steel unveils US factory plan, shares skid - Reuters",-0.9628257751464844
+HYUNDAI,2023-08-22,Beijing Hyundai Motor Company - Reuters,-0.9378071427345276
+HYUNDAI,2018-05-21,"Hyundai Motor Caves in to Elliott, Scraps $8.8 Billion Deal - Bloomberg.com",-0.6198127269744873
+HYUNDAI,2025-07-30,"Hyundai Q1 net profit declines 8% to ₹1,369 crore - ET Auto",-0.9738240242004395
+HYUNDAI,2025-04-23,"Hyundai, Kia poised to report slowing operating profit in Q1 - ET Auto",-0.9714373350143433
+HYUNDAI,2025-08-01,Hyundai Motor Q1 net down 8% amid slow demand - ET BrandEquity,-0.9727973937988281
+HYUNDAI,2025-10-30,"Hyundai Motor India Q2 FY26 profit rises 14% to ₹1,572 crore - ET Auto",0.9453033804893494
+HYUNDAI,2025-09-10,Breakingviews - Hyundai raid sets Trump goals against each other - Reuters,-0.8972082138061523
+HYUNDAI,2025-09-18,Hyundai outlines ambitious U.S. growth plans weeks after ICE immigration raid at battery plant - CNBC,-0.8569324612617493
+HYUNDAI,2025-09-06,"US immigration agents arrest hundreds at Hyundai plant, mostly Koreans - Reuters",-0.932661235332489
+HYUNDAI,2023-11-10,"Hyundai India doubles Dhanteras vehicle deliveries to 10,293 units - ET Auto",0.7243804335594177
+HYUNDAI,2020-08-27,Hyundai’s U.S. SUV Plant Is Running at Max Capacity to Meet Demand - Bloomberg.com,-0.6484239101409912
+HYUNDAI,2023-04-21,Hyundai Motor starts building lunar exploration rover development model with aerospace partners - ET Auto,-0.7943109273910522
+HYUNDAI,2025-12-16,"US closes probe into about 568,000 Hyundai vehicles over seat belt issue - Reuters",-0.565388560295105
+HYUNDAI,2023-10-26,"Hyundai sticks to EV rollout plans, sees solid growth this year - Reuters",0.8720517158508301
+HYUNDAI,2022-10-24,Hyundai's bright profit view clouded by U.S. EV concerns - Reuters,-0.7539669275283813
+HYUNDAI,2019-08-05,Hyundai launches car with a roof-based solar charging system - CNBC,-0.8147695064544678
+HYUNDAI,2014-11-05,"Hyundai, Kia Shares Sink After Record Settlement With U.S. - Bloomberg.com",0.4995712637901306
+HYUNDAI,2022-10-18,Hyundai Motor is considering sale of its Russia plant - ET Auto,-0.9231724739074707
+HYUNDAI,2024-04-25,Hyundai Motor Group Executive Chair Euisun Chung visits India; reviews long-term mobility strategies - ET Auto,-0.8682356476783752
+HYUNDAI,2021-11-14,"Hyundai Motor whistleblower, $24 mln in hand, plans to help others speak up - Reuters",-0.874099850654602
+HYUNDAI,2025-07-29,"Hyundai Steel swings back to profit in Q2 2025, amid strategic shift to premium and low-carbon steel - ET Infra",0.9045783281326294
+HYUNDAI,2025-06-03,"Ford, Hyundai post higher US sales in May on strong SUV, truck demand - Reuters",0.9535315632820129
+HYUNDAI,2021-06-16,Hyundai Heavy Industries Holdings Co Ltd - Reuters,-0.9417302012443542
+HYUNDAI,2025-01-23,Hyundai Motor nears GM tie-up deal; sees revenue growth slowing in 2025 - ET Auto,-0.9597732424736023
+HYUNDAI,2025-09-08,"Trump Made-in-USA Push Undercut by Hyundai Raid, Visa Flaws - Bloomberg.com",-0.8663276433944702
+HYUNDAI,2024-03-27,Hyundai Motor Group to invest 68 trln won over 3 years - Reuters,-0.8409945964813232
+HYUNDAI,2025-01-09,"Hyundai launches $18,000 EV in Japan to penetrate EV-wary market - Reuters",-0.5325484871864319
+HYUNDAI,2025-04-23,Hyundai Motor shifts output of Tucson SUV from Mexico to US in response to tariffs - Reuters,-0.6639301776885986
+HYUNDAI,2024-09-12,GM and Hyundai agree to explore collaboration on vehicles and manufacturing to reduce capital spending - CNBC,0.8042054772377014
+HYUNDAI,2024-11-29,Hyundai Tucson achieves Bharat NCAP 5 star safety rating - ET Auto,0.9129499793052673
+HYUNDAI,2016-02-16,Hyundai i10 downgraded to 1-star in ASEAN NCAP rating - ET Auto,-0.9093344807624817
+HYUNDAI,2024-01-03,"Hyundai Motor, Kia expect auto sales to rise 2% in 2024 - Reuters",0.9423525929450989
+HYUNDAI,2023-07-27,How Hyundai Motor India implemented the role-based organisation structure - ETHRWorld.com,-0.9399433135986328
+HYUNDAI,2023-09-27,"Kia, Hyundai recall millions of vehicles in US - ET Auto",-0.9288683533668518
+HYUNDAI,2021-12-09,Hyundai Whistle-Blower Who Was Fired After Taking On ‘The King’ Wins $24 Million - Bloomberg.com,-0.8538958430290222

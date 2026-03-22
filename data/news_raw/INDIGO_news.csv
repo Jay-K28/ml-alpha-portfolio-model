@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-INDIGO,2026-03-13,IndiGo introduces new fuel charge on tickets to ride out ATF price storm unleashed by Iran war - The Economic Times,-0.7457269430160522
-INDIGO,2026-03-12,IndiGo has lowest pilots-to-aircraft ratio at 7.6: Civil Aviation Minister - The Economic Times,-0.8651283383369446
-INDIGO,2026-03-13,"Iran-Israel War: IndiGo, Air India seek government support during Middle East crisis, sources say - The Economic Times",-0.7814487218856812
-INDIGO,2026-03-06,"Flights cancellation today: IndiGo, Air India, Emirates and other airlines announce gradual flight resumpt - The Economic Times",-0.6436843872070312
-INDIGO,2026-03-11,"CCI dismisses complaint against IndiGo, Air India over alleged market dominance - The Economic Times",-0.9402969479560852
-INDIGO,2026-03-11,"IndiGo stock jumps 3% as brokerages retain ‘buy’ calls after CEO exit; HSBC, Jefferies see stable... - Moneycontrol.com",-0.6618537902832031
-INDIGO,2026-03-11,"Middle East flight status today: IndiGo, Air India, British Airways and other airlines adjust flight sched - The Economic Times",-0.9284143447875977
-INDIGO,2026-03-11,IndiGo CEO Elbers quits 3 months after airline’s worst-ever crisis - The Economic Times,-0.899228036403656
-INDIGO,2026-03-10,IndiGo CEO Elbers' exit puts India's competitive airline industry in focus - The Economic Times,-0.8312528133392334
-INDIGO,2026-03-12,"Oil tops $100 amid Iran-Israel tensions; Asian Paints, IndiGo and other crude-sensitive stocks fall up to - The Economic Times",-0.9636843204498291
-INDIGO,2026-03-10,'Main Hoon Naa': IndiGo Co-Founder Rahul Bhatia tells staff after Pieter Elbers exit - The Economic Times,-0.9281935095787048
-INDIGO,2026-03-12,"Stocks in news: IndiGo, IDFC First Bank, Adani Enterprises, Ashok Leyland, Mahanagar Gas - The Economic Times",-0.9344673752784729
-INDIGO,2026-03-10,IndiGo CEO Elbers steps down months after airline’s worst-ever crisis; Rahul Bhatia to take interim charge - The Economic Times,-0.6678456664085388
-INDIGO,2026-03-11,Pieter Elbers fails the India test - The Economic Times,-0.8915594816207886
-INDIGO,2026-03-10,"Nifty top gainers: IndiGo, Asian Paints among leading stocks as crude price plunge lifts global sentiment - Moneycontrol.com",0.6732463240623474
-INDIGO,2026-03-11,India's IndiGo shares rise after CEO quits; analysts see smooth transition - Reuters,-0.4964941442012787
-INDIGO,2026-03-09,"IndiGo faces airspace curb woes; Manchester flight returns to Delhi, London-Mumbai diverted to Cairo - The Economic Times",-0.7951226830482483
+INDIGO,2026-03-16,"West Asia war: IndiGo to face pressure from fuel price spike, says Moody's - Business Standard",-0.879370391368866
+INDIGO,2026-03-17,"IndiGo flies ahead with nearly half of India’s 11,394 pilot workforce: Govt data - ET Infra",-0.6243131160736084
+INDIGO,2026-03-22,"IndiGo to run select Gulf flights, warns of last-minute schedule changes amid Middle East tensions - ET Infra",-0.9422897100448608
+INDIGO,2026-03-17,"Air India, AI Express to operate 44 West Asia flights - ET Infra",-0.8168842196464539
+INDIGO,2026-03-16,IndiGo ties up with Adani Airport for airline's loyalty programme - Business Standard,0.5996723771095276
+INDIGO,2026-03-19,"IndiGo resumes services to Dubai; Air India, SpiceJet add more flights - ET Infra",0.7924856543540955
+INDIGO,2026-03-21,Govt to lift airfare cap from March 23 imposed after IndiGo disruptions - Business Standard,-0.6501175165176392
+INDIGO,2026-03-20,Indian airlines seek fare cap removal as Iran crisis hits operations - Reuters,-0.7122883200645447
+INDIGO,2026-03-20,"indigo air india spicejet fare issues: Latest News & Videos, Photos about indigo air india spicejet fare issues - The Economic Times",-0.929730236530304
+INDIGO,2026-03-16,Naidu says ₹164 crore paid to passengers hit by IndiGo cancellations - Business Standard,-0.5609676241874695
+INDIGO,2026-03-22,"Air India, IndiGo, SpiceJet oppose govt's 60 pc free seat selection decision - ET TravelWorld",-0.8251008987426758
+INDIGO,2026-03-20,"IndiGo, SpiceJet issue travel advisories as rain, thunderstorms hit Delhi - Business Standard",-0.7205785512924194
+INDIGO,2026-03-17,"uae airspace closed: Latest News & Videos, Photos about uae airspace closed - The Economic Times",-0.9193880558013916
+INDIGO,2026-03-20,"Zetwerk plans to confidentially file for Indian IPO, targets $4 billion valuation, sources say - Reuters",-0.9427482485771179
+INDIGO,2026-03-19,"Air India, AI Express to operate 48 West Asia flights on Thursday - ET Infra",-0.597061276435852
+INDIGO,2026-03-21,India withdraws domestic airfare caps in relief to airlines - Reuters,-0.8998920917510986
+INDIGO,2026-03-21,"Zetwerk IPO: Size, valuation, timeline and other details we know so far - The Economic Times",-0.9510206580162048
+INDIGO,2026-03-19,India's largest asset manager SBI Funds Management files for IPO - Reuters,-0.9402051568031311
+INDIGO,2026-03-18,Airlines cancel more flights as Middle East conflict escalates - ET Infra,-0.9539898037910461
+INDIGO,2026-03-20,Indian airlines seek removal of fare cap as West Asia conflict hits ops - Business Standard,-0.913506031036377
+INDIGO,2026-03-20,"Maruti, Tata Motors, M&M, Bajaj Auto: CLSA decodes strategy for auto stocks - Business Standard",-0.8751552104949951
+INDIGO,2026-03-19,"IMD issues alerts as rain, storms hit large parts of India including Delhi - Business Standard",-0.6554688811302185
+INDIGO,2026-03-20,India's new GDP series highlights: Economy grows by 7.8% in Q3 FY26; full year growth raised to 7.6% - Business Standard,0.9504887461662292
+INDIGO,2026-03-18,"Govt mandates 60% free airline seats, adjacent allocation for same PNR - Business Standard",-0.8231601119041443
+INDIGO,2026-03-20,"OMC stocks rally on softer crude; HPCL, IOC, BPCL shares gain up to 5% - Business Standard",0.93863445520401
+INDIGO,2026-03-19,WGC proposes shared infrastructure to fix fragmented digital gold market - Business Standard,-0.7196518778800964
+INDIGO,2026-03-18,Over 100 stock brokers settle Sebi case on misleading algo returns claims - Business Standard,-0.5181231498718262
+INDIGO,2026-03-16,"JSW Steel unit eyes debut $1 billion short-term debt issue, says report - Business Standard",-0.6654544472694397
+INDIGO,2026-03-16,"Dubai airport closure affects flights from Kochi, Thiruvananthapuram - Business Standard",-0.9157277941703796
+INDIGO,2026-03-19,"Stocks to Watch today: HDFC Bank, Ultratech, Vedanta, Nazara Tech, GR Infra - Business Standard",-0.9358417987823486
+INDIGO,2026-03-18,Power Finance Corporation stock soars 4%; Motilal Oswal sees more upside - Business Standard,0.7845994234085083
+INDIGO,2026-03-18,"M&M share price up 8% in 3 days; analysts upbeat on growth, see 49% upside - Business Standard",0.9446014761924744
+INDIGO,2026-03-16,"ICICI Bank erodes ₹1.2 trn mcap; stock hits 52-week low, down 12% in month - Business Standard",-0.971883237361908
+INDIGO,2026-03-20,"Qatar gas strike impact; Petronet LNG, Gail could dip another 10%: Analysts - Business Standard",-0.5188938975334167
+INDIGO,2026-03-20,Iran hits Qatar’s LNG lifeline: Why Ras Laffan is critical to the world | West Asia war - Business Standard,-0.8727385997772217
+INDIGO,2026-03-20,"Rupee breaches 93/$ for first time, at record low of 93.08 in early trade - Business Standard",-0.9390698075294495
+INDIGO,2026-03-20,Overall tele-density in India increases above 92% mark - Business Standard,0.9549499750137329
+INDIGO,2026-03-20,AI tailwinds not enough: Analysts cautious on Indian IT after Accenture Q2 - Business Standard,-0.9464097619056702
+INDIGO,2026-03-20,"OpenAI to merge ChatGPT, Codex, browsing into one desktop superapp: Report - Business Standard",-0.9015495181083679
+INDIGO,2026-03-20,"IREDA gains after board OKs Rs 40,000-cr borrowing plan for FY27 - Business Standard",0.7532289028167725
+INDIGO,2026-03-20,India to face Ireland in T20Is before high-stakes England tour in June - Business Standard,-0.8942034244537354
+INDIGO,2026-03-18,"Waaree, Premier Energies soar up to 12%, trade at 3-mth high on huge volume - Business Standard",0.9213144779205322
+INDIGO,2026-03-20,"As Kerala heads to polls, fishermen say manifestos will decide their vote - Business Standard",-0.9088740944862366
+INDIGO,2026-03-20,Indices trade in positive terrain; IT shares rally - Business Standard,0.7535622119903564
+INDIGO,2026-03-18,Adani group stocks in focus amid ₹2-trn annual capex plan; long-term buys? - Business Standard,-0.527573823928833
+INDIGO,2026-03-20,IT stocks advance after strong Accenture Q2 - Business Standard,0.9430186152458191
+INDIGO,2026-03-20,VA Tech WABAG gains on winning 'large' wastewater treatment project in Georgia - Business Standard,0.9447110295295715
+INDIGO,2026-03-20,"Canada invites 1,243 for PR for those with Masters and PhD in Ontario - Business Standard",-0.8763115406036377
+INDIGO,2026-03-20,Hormuz effect: Your luxury flat will get pricier as construction costs soar - Business Standard,-0.7621965408325195
+INDIGO,2026-03-16,"Gas shortage: Why Nomura sees 'negligible impact' on HUL, ITC, Dabur? - Business Standard",-0.874146044254303
+INDIGO,2026-03-20,"Women billionaires double in a decade, control $470 bn in global wealth - Business Standard",-0.8667914867401123
+INDIGO,2026-03-20,Indiqube Spaces gains on inking major GCC leasing deal in Pune - Business Standard,0.9478245973587036
+INDIGO,2026-03-20,Ozempic copies set to crash to $14 in India as generic GLP-1 era starts - Business Standard,-0.9585445523262024
+INDIGO,2026-03-20,"Total Urea stocks currently rise to 61.14 LMT, up from 55.22 LMT in March 2025 - Business Standard",0.9526828527450562
+INDIGO,2026-03-20,"Oil War Volatility Hits Stocks, Bonds and Gold - Business Standard",-0.6372302770614624
+INDIGO,2026-03-19,Who led and departed: Tracking key banking exits and leadership trends - Business Standard,-0.9145253300666809
+INDIGO,2026-03-17,"Lack of alternatives, pilferage, pricing gaps strain OMCs' LPG network - Business Standard",-0.9477128982543945
+INDIGO,2026-03-20,Uttarakhand cabinet expansion: Five BJP MLAs sworn in as ministers - Business Standard,-0.9010104537010193
+INDIGO,2026-03-20,"IPL 2026: RR skipper Parag calls Sanju irreplaceable like Rohit, Virat - Business Standard",-0.924293041229248
+INDIGO,2026-03-18,Govt offers additional 10% commercial LPG to states backing PNG transition - Business Standard,0.5775056481361389
+INDIGO,2026-03-20,Indian Rupee falls past 93/$ on crude volatility amid West Asia tensions - Business Standard,-0.9257916212081909
+INDIGO,2026-03-19,"Auto stocks fall up to 5% on oil price rise, Fed pause; brokerages cautious - Business Standard",-0.9443352818489075
+INDIGO,2026-03-19,"Stocks to buy: Aether, Premier Energies among analyst's top bets; check TP - Business Standard",-0.8695966005325317
+INDIGO,2026-03-20,IPL 2026: CSK suffer big injury blow as Aussie pacer Nathan Ellis ruled out - Business Standard,-0.9542651176452637
+INDIGO,2026-03-20,Drugmakers seek price cap as input costs surge amid West Asia conflict - Business Standard,-0.8283284306526184
+INDIGO,2026-03-20,IPL 2026: Boult begins training with Mumbai Indians ahead of new season - Business Standard,-0.9173604249954224
+INDIGO,2026-03-20,Real Madrid sweat on Courtois fitness ahead of Bayern clash in UCL 2026 - Business Standard,-0.6862693428993225
+INDIGO,2026-03-20,"HDFC Bank chief's exit baffles investors, wipes $7 bn off market value - Business Standard",-0.9586100578308105
+INDIGO,2026-03-20,IPL 2026: Riyan Parag backs youngster Vaibhav to play without pressure - Business Standard,-0.5903350710868835
+INDIGO,2026-03-20,"IPL 2026: Pathirana ready to play for KKR, says SLC secretary Dissanayake - Business Standard",0.5280715227127075
+INDIGO,2026-03-20,NATCO Pharma launches Semaglutide Injection (multi dose vials) in India - Business Standard,-0.7932729125022888
+INDIGO,2026-03-20,"IPL 2026: Abhishek should balance flair like Sehwag, says Kumble - Business Standard",0.5595880150794983
+INDIGO,2026-03-20,Himanta Biswa Sarma files nomination from Jalukbari assembly in Assam - Business Standard,-0.8604649305343628
+INDIGO,2026-03-18,"₹7 trn gain: Sensex zooms 900 pts, Nifty tops 23,800; Key factors here - Business Standard",-0.6888284683227539
+INDIGO,2026-03-20,"Perplexity launches Health feature with Apple Health, Fitbit integration - Business Standard",0.512481689453125
+INDIGO,2026-03-20,"IPL 2026: Yuzvendra Chahal quits alcohol, aims to give 150% for PBKS - Business Standard",-0.9109024405479431
+INDIGO,2026-03-20,"Nifty above 23,250; PSU bank shares in demand - Business Standard",0.9014809131622314
+INDIGO,2026-03-20,JSW Cement rises after commissioning Nagaur cement plant - Business Standard,0.9349263310432434
+INDIGO,2026-03-20,"Sensex surges over 1,005 pts; metal shares shine - Business Standard",0.9216964244842529
+INDIGO,2026-03-20,"Bhagwat links global conflicts to selfish interests, calls for unity, peace - Business Standard",-0.8866370320320129
+INDIGO,2026-03-20,Tata Power jumps on reports of Gujarat PPA for Mundra plant - Business Standard,-0.7373785972595215
+INDIGO,2026-03-18,Analyst sees Brent in $95-110 band; Bab-el-Mandeb risk may trigger $130/bbl - Business Standard,-0.47732219099998474
+INDIGO,2026-03-20,Arsenal vs Man City clash holds bigger meaning than just Cup final - Business Standard,-0.8869228959083557
+INDIGO,2026-03-19,India appoints seasoned diplomat Vikram Doraiswami as ambassador to China - Business Standard,0.6394770741462708
+INDIGO,2026-03-20,Fulton promises detailed plan ahead of Men's Hockey World Cup campaign - Business Standard,-0.9131227731704712
+INDIGO,2026-03-22,ATF price rise impact may be visible from April 1: Aviation minister - Business Standard,-0.9406511187553406
+INDIGO,2026-03-20,Natco Pharma gains after launching generic diabetes drug Semaglutide - Business Standard,0.9425289034843445
+INDIGO,2026-03-20,Gujarat clears new Tata Power deal to resume long-term supply from Mundra - Business Standard,0.7931090593338013
+INDIGO,2026-03-20,"Targeting shipping, endangering civilian crews unacceptable: India at IMO - Business Standard",-0.8557003140449524
+INDIGO,2026-03-19,Thailand PM Anutin Charnvirakul to stay in power following Parliament vote - Business Standard,-0.831022322177887
+INDIGO,2026-03-20,"Omar Abdullah alleges 'gerrymandering', backs TMC win in Bengal polls - Business Standard",-0.7790666818618774
+INDIGO,2026-03-20,Here's why strike on Qatar's Ras Laffan could roil gas markets for years - Business Standard,-0.9288865327835083
+INDIGO,2026-03-16,"Indian airlines cancel 4,335 flights amid West Asia conflict: Govt tells RS - Business Standard",-0.9165443778038025
 INDIGO,2026-03-10,"CEO of India's IndiGo airline Pieter Elbers resigns, months after mass flight cancellations - Reuters",-0.8044827580451965
-INDIGO,2026-03-09,"Nifty top losers today: IndiGo, SBI, Tata Motors stocks among biggest drags as oil shock rattles markets - Moneycontrol.com",-0.7449874877929688
-INDIGO,2026-03-13,"Stocks to buy in 2026 for long term: Mrs Bectors Food, Titan among 5 stocks that could give 10-40% return - The Economic Times",-0.7536928057670593
-INDIGO,2026-03-09,IndiGo Delhi-Manchester flight returns due to last minute airspace restriction; airline warns Middle East - The Economic Times,-0.8991926908493042
-INDIGO,2026-03-09,"IndiGo, SpiceJet, Asian Paints slide up to 8% as oil shock above $115 hits crude-sensitive stocks - Moneycontrol.com",-0.8582117557525635
-INDIGO,2026-03-10,IndiGo CEO Pieter Elbers resigns; MD Rahul Bhatia to take interim charge of airline - Moneycontrol.com,-0.5693671703338623
-INDIGO,2026-03-12,"Buy, Sell or Hold: Morgan Stanley maintains underweight on Dixon; Citi cuts target price on IndiGo - The Economic Times",-0.9333934187889099
-INDIGO,2026-03-11,"Despite CEO exit, IndiGo remains operationally strong: Mayur Milak - The Economic Times",-0.6846100091934204
-INDIGO,2026-03-11,"Stocks in news: Nazara Technologies, IndiGo, Hindustan Zinc, NTPC Green, RIL - The Economic Times",-0.9271216988563538
-INDIGO,2026-03-11,IndiGo shares in focus as CEO Pieter Elbers resigns just 3 months after December flight disruptions - The Economic Times,-0.8102690577507019
-INDIGO,2026-03-07,"IndiGo, Air India have more women pilots than global average - The Economic Times",-0.82328200340271
-INDIGO,2026-03-10,"Sensex rises 445 points, Nifty above 24,150 as crude oil prices plunge; IndiGo, Shriram Finance stocks... - Moneycontrol.com",-0.5962231159210205
-INDIGO,2026-03-10,"IndiGo, SpiceJet soar up to 8% as crude falls below $90 on Trump’s war-end signal - The Economic Times",0.8929151892662048
-INDIGO,2026-03-07,"Gulf flight status today: IndiGo, Air India and others operate special flights to bring back stranded pass - The Economic Times",-0.8810317516326904
-INDIGO,2026-03-10,"Stocks in news: IndiGo, RIL, Torrent Power, ideaForge, NTPC Green - The Economic Times",-0.9203749895095825
-INDIGO,2026-03-10,"Pieter Elbers’ sudden exit from IndiGo raises eyebrows; notice period waived, no successor named - Moneycontrol.com",-0.7071803212165833
-INDIGO,2026-03-11,Nazara Tech shares jump 4% as Morgan Stanley acquires stake worth Rs 69 crore via block deal - The Economic Times,0.7669177651405334
-INDIGO,2026-03-09,"Reliance Industries, ONGC shares climb up to 3% as Iran war lifts oil prices by another 30% - The Economic Times",0.9260222911834717
-INDIGO,2026-03-09,"IndiGo shares tumble 8% on crude spike, but Kotak upgrades stock to Buy - The Economic Times",-0.7872756123542786
-INDIGO,2026-03-10,Happiest Minds shares surge up to 19% as firm revises FY27 growth expectation to 12.5% - Moneycontrol.com,0.8753049373626709
-INDIGO,2026-03-11,"Shakti Pumps, NCC & KEC International soar up to 16% as govt clears Rs 8.7 lakh crore Jal Jeevan Mission e - The Economic Times",0.8114694952964783
-INDIGO,2026-03-11,Blue Star shares rise 5% on launch of new range of room air conditioners - Moneycontrol.com,0.8632261157035828
-INDIGO,2026-03-11,Nifty's 18-month slump: How the AI shift and wars are rewriting the bull playbook - The Economic Times,-0.8911018967628479
-INDIGO,2026-03-09,"Asian Paints, Berger & other paint stocks fall up to 5% on oil's 29% spike amid Mideast tensions. More pai - The Economic Times",-0.9644254446029663
-INDIGO,2026-03-09,"SBI shareholders lose Rs 62,350 crore as stock falls nearly 6% in market sell-off - The Economic Times",-0.9681656956672668
-INDIGO,2026-03-11,IT stocks in focus after Oracle’s strong results; Nuvama says valuations now attractive after correction - The Economic Times,0.9431397914886475
-INDIGO,2026-03-13,"Air India, Air India Express to together operate 80 flights to and from West Asia on March 14 - The Economic Times",-0.7652198672294617
-INDIGO,2026-03-13,Akasa Air to set up MRO facility at Noida International Airport - The Economic Times,-0.8874571323394775
-INDIGO,2026-03-11,RIL shares rise 2% as Trump announces $300 billion US refinery project with Ambani backing - The Economic Times,0.7457357048988342
-INDIGO,2026-03-10,"Asian Paints, other paint stocks rally up to 4% as oil prices post sharpest reversal on Donald Trump’s Mid - The Economic Times",0.8276951313018799
-INDIGO,2026-03-10,Iran war deals double blow to Indian airlines already hit by Pakistan airspace ban - The Economic Times,-0.7547415494918823
-INDIGO,2026-03-10,Trade setup for March 11: Top 15 things to know before the opening bell as oil stays below $100 on Iran... - Moneycontrol.com,-0.9093828797340393
-INDIGO,2026-03-09,"FIIs net sell Indian equities worth Rs 6,346 crore, DIIs net buy shares worth Rs 9,014 crore - Moneycontrol.com",-0.9394345879554749
+INDIGO,2026-03-13,"IndiGo, Air India seek government support during Iran crisis, sources say - Reuters",-0.6110705733299255
+INDIGO,2025-05-27,IndiGo’s Gangwal Seeks $1.3 Billion From Upsized Stake Sale - Bloomberg.com,-0.9226124286651611
+INDIGO,2025-01-24,India's IndiGo forecasts higher fourth-quarter demand - Reuters,0.84746915102005
+INDIGO,2023-02-03,India's IndiGo seeks partnerships to expand international network - Reuters,-0.6094761490821838
+INDIGO,2026-02-05,India Antitrust Body Orders Probe Into IndiGo Flight Disruptions - Bloomberg.com,-0.6468667984008789
+INDIGO,2022-06-03,IndiGo Airlines - Reuters,-0.9249908328056335

@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-LICI,2026-03-10,How do I decide which mutual fund schemes to continue with and which ones to exit? - The Economic Times,-0.9400379061698914
-LICI,2021-11-01,LIC SIIP Policy - Growth - Moneycontrol.com,-0.9467838406562805
-LICI,2025-05-27,LIC to announce Q4 results today: Here's what to expect from the state-owned insurer - The Economic Times,-0.9336918592453003
-LICI,2025-08-19,"Stocks in news: Vedanta, LIC, Reliance, GMR Airports, Vodafone Idea - The Economic Times",-0.9335697889328003
-LICI,2025-07-10,Govt to sell minority stake in LIC - The Economic Times,-0.9354605674743652
-LICI,2025-10-26,LIC refutes Washington Post report on $3.9 bn Adani investment - The Economic Times,-0.8177125453948975
-LICI,2024-12-09,"LIC gave 35.9% returns in past year, outperforms market benchmark; is LIC a good buy now? - The Economic Times",0.8892094492912292
-LICI,2025-10-27,"Stocks in news: LIC, Sobha, Ola Electric, Kotak Bank, RIL, Adani Energy Solutions - The Economic Times",-0.9406775832176208
-LICI,2024-08-12,"Game changer? LIC may enter indemnity health insurance by buying stand-alone private insurer, says CEO - The Economic Times",-0.9115132093429565
-LICI,2025-01-13,LIC’s decline dampens life insurance industry growth in December 2024 - The Economic Times,-0.9182797074317932
-LICI,2025-08-01,"Govt appoints merchant bankers, legal firms for managing stake sales in LIC, PSBs, other fin institutions - The Economic Times",-0.9438372254371643
-LICI,2025-06-11,FSIB recommends R Doraiswamy as next MD & CEO of LIC - The Economic Times,-0.9046567678451538
-LICI,2021-12-06,Should I surrender my LIC Jeevan Anand Policy after paying premiums for 11 years? - The Economic Times,-0.898058295249939
-LICI,2022-04-28,"life insurance Forum Discussion on Market View, Business sectors,Stocks, Commodity, Personal Finance & More - Moneycontrol.com",-0.9468382596969604
-LICI,2011-07-27,Sovereign guarantee for all policies issued by LIC will continue - The Economic Times,-0.8001812100410461
-LICI,2025-04-24,"Pahalgam tragedy: LIC announces special window for death claim settlements, how to file a death claim with - The Economic Times",-0.9229496121406555
-LICI,2024-07-08,Sell LIC policy and 'get money in 48 hours with life cover till maturity': Looks attractive? But beware of - The Economic Times,-0.8472545742988586
-LICI,2024-08-05,LIC launches new term insurance and credit life plans - The Economic Times,-0.8553327918052673
-LICI,2026-02-24,"IT fall impact: LIC's investment in IT stocks declines by Rs 42,500 crore in two months - Moneycontrol.com",-0.9699440598487854
-LICI,2021-04-30,LIC Jeevan Arogya: Life Insurance Corporation of India (LIC) was ordered by National Consumer Disputes Re - The Economic Times,-0.8767853379249573
-LICI,2019-08-13,Suicide is covered under life insurance: All you need to know - The Economic Times,-0.9342145919799805
-LICI,2023-03-14,LIC appoints Tablesh Pandey as Managing Director with effect from April 1 - The Economic Times,-0.9282853007316589
-LICI,2025-08-04,"LIC Housing shares in focus as profit grows 5% YoY in Q1, asset quality improves - Moneycontrol.com",0.8801016807556152
-LICI,2025-11-18,"Trade Spotlight: How should you trade LIC, DOMS, Marico, Biocon, Chennai Petroleum Corporation, Canara... - Moneycontrol.com",-0.942192018032074
-LICI,2022-05-03,"LIC IPO rush: Why mutual funds invested Rs 4,000 crore in anchor book? - Moneycontrol.com",-0.9371778964996338
-LICI,2024-01-23,Life Insurance Corporation of India Ltd. - Moneycontrol.com,-0.9497321248054504
-LICI,2025-07-02,LIC’s stake in NSE emerges as fifth most valuable holding for insurance behemoth - Moneycontrol.com,0.7764423489570618
-LICI,2025-03-12,Centre plans staggered LIC stake sale to meet 10% shareholding norm by 2027: Report - Moneycontrol.com,-0.8660862445831299
-LICI,2025-11-04,"LIC lifts stakes in SBI, Coal India, Sun Pharma, HCL; cuts exposure in HDFC Bank, ICICI Bank - Moneycontrol.com",0.4974677860736847
-LICI,2022-02-03,"EXCLUSIVE India LIC's embedded value set at over $66.8 bln, govt official says - Reuters",-0.9113231897354126
-LICI,2022-05-11,Life Insurance Corporation of India Ltd. - Moneycontrol.com,-0.9497321248054504
-LICI,2025-11-07,"LIC shares jump 4% after firm's Q2 results beat estimates: Should you buy, sell or hold? - Moneycontrol.com",-0.8639749884605408
-LICI,2022-05-01,Life Insurance Corporation of India Ltd. - Moneycontrol.com,-0.9497321248054504
-LICI,2025-08-08,"LIC shares jump 4% after Q1 net profit jumps 5%; should you buy, sell or hold? - Moneycontrol.com",-0.9167949557304382
-LICI,2024-09-03,Relief for policyholders: Will 18% GST on term life insurance premium be removed in the GST meeting on Sep - The Economic Times,-0.6111559271812439
-LICI,2022-04-28,Life Insurance Corporation of India Ltd. - Moneycontrol.com,-0.9497321248054504
-LICI,2024-11-13,Life Insurance Corporation of India - Moneycontrol.com,-0.9516867995262146
-LICI,2023-11-28,Life Insurance Corporation of India Ltd. - Moneycontrol.com,-0.9497321248054504
-LICI,2024-12-16,New next-day stock delivery will come at a cost: Know how T+0 settlement will impact mutual fund and stock - The Economic Times,-0.936665952205658
-LICI,2022-02-21,LIC asks policyholders to update bank details for easy claim process: Here’s how to register for NEFT mand - The Economic Times,-0.9388095736503601
-LICI,2025-12-12,"Floodgates open: What 100% FDI means for insurance, you and India - The Economic Times",-0.8889828324317932
-LICI,2025-04-22,"Trade Spotlight: How should you trade LIC, CDSL, SBI, Sun Pharma, Hindalco, Adani Green Energy, and others... - Moneycontrol.com",-0.9384879469871521
-LICI,2024-05-15,LIC gets 3 more years to meet minimum public shareholding norms - Moneycontrol.com,-0.8442727327346802
-LICI,2024-11-13,Life Insurance Corporation of India - Moneycontrol.com,-0.9516867995262146
-LICI,2024-11-15,Life Insurance Corporation of India - Moneycontrol.com,-0.9516867995262146
-LICI,2025-05-28,"LIC shares jump 9% on mixed Q4: Should you buy, sell, or hold? - Moneycontrol.com",-0.9350926876068115
-LICI,2022-08-10,Chart of the Day: LIC holds on to its market share this year - Moneycontrol.com,0.6728414297103882
-LICI,2024-01-22,"Life Insurance Corporation of India Cash Flow, Life Insurance Corporation of India Financial Statement & Accounts - Moneycontrol.com",-0.9399756789207458
-LICI,2024-12-10,LIC shares slip nearly 4% on drop in November premiums - Moneycontrol.com,-0.9691397547721863
-LICI,2019-06-16,LIC Pension Fund Scheme E - Tier I - Moneycontrol.com,-0.9509193301200867
+LICI,2026-03-13,"Supreme Facility Man Yearly results, Financial Summary - The Economic Times",-0.915677011013031
+LICI,2026-03-22,Wealth whisperings: Quiet luxury finds voice among India’s new elite - The Economic Times,-0.8154088258743286
+LICI,2017-03-23,"Canara Bank Share Price Today, Canara Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9371769428253174
+LICI,2017-04-10,"M&M Share Price Today, M&M Stock Price Live NSE/BSE Updates - The Economic Times",-0.9348949790000916
+LICI,2018-03-09,"HAL Share Price Today, HAL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387754201889038
+LICI,2024-03-28,LIC Share Price - Business Standard,-0.9452775120735168
+LICI,2022-05-17,LICI: Life Insurance Corp of India Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9486964344978333
+LICI,2021-02-15,"LIC: LIC News, Life Insurance Corporation of India Latest Updates - The Economic Times",-0.9259388446807861
+LICI,2022-05-19,Check out Life Insurance Corporation Of India's stock price (LICI-IN) in real time - CNBC,-0.9446975588798523
+LICI,2022-04-27,"LIC Share Price Today, LIC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9366926550865173
+LICI,2025-11-06,Life Insurance Corporation| BUY - bsmedia.business-standard.com,-0.950204610824585
+LICI,2025-05-19,LIC portfolio recovers ₹1.8 trillion amid market rebound from April lows - Business Standard,0.9164574146270752
+LICI,2025-03-12,"Govt is planning to sell 2-3% LIC stake in FY26, may seek extension - Business Standard",-0.9413156509399414
+LICI,2017-03-23,"LIC Housing Share Price Today, LIC Housing Stock Price Live NSE/BSE Updates - The Economic Times",-0.9372599720954895
+LICI,2017-03-23,"Coal India Ltd Share Price Today, Coal India Ltd Stock Price Live NSE/BSE Updates - The Economic Times",-0.9378774762153625
+LICI,2022-04-27,Life Insurance Corporation of India - The Economic Times,-0.9267266988754272
+LICI,2017-03-23,"Bharti Airtel Share Price Today, Bharti Airtel Stock Price Live NSE/BSE Updates - The Economic Times",-0.9375849366188049
+LICI,2017-10-14,"SBI Life Share Price Today, SBI Life Stock Price Live NSE/BSE Updates - The Economic Times",-0.939715564250946
+LICI,2021-03-08,"Lic share price - Latest lic share price , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9515331983566284
+LICI,2017-03-24,"Hind Copper Share Price Today, Hind Copper Stock Price Live NSE/BSE Updates - The Economic Times",-0.9312950968742371
+LICI,2019-01-23,"HDFC Life Share Price Today, HDFC Life Stock Price Live NSE/BSE Updates - The Economic Times",-0.9412044286727905
+LICI,2022-04-27,"LIC Target Share Price, LIC Share Price Forecast - The Economic Times",-0.938506543636322
+LICI,2017-03-24,"Varun Beverages Share Price Today, Varun Beverages Stock Price Live NSE/BSE Updates - The Economic Times",-0.9400414824485779
+LICI,2017-03-29,LIC Housing Finance Ltd. - The Economic Times,-0.9265377521514893
+LICI,2025-05-27,"May 27, 2025 To The Manager Listing Department, BSE Limited, Phiroze Jeejeebhoy Tower, Dalal S - bsmedia.business-standard.com",-0.9425263404846191
+LICI,2017-03-23,"ICICI Pru Life Share Price Today, ICICI Pru Life Stock Price Live NSE/BSE Updates - The Economic Times",-0.9424689412117004
+LICI,2022-10-28,India's largest insurer LIC plans changes to revive battered stock - sources - Reuters,-0.8748173713684082
+LICI,2021-11-25,"Star Health Share Price Today, Star Health Stock Price Live NSE/BSE Updates - The Economic Times",-0.9416899681091309
+LICI,2021-08-04,Life Insurance Corporation of India - Reuters,-0.9432415962219238
+LICI,2018-03-12,"Bandhan Bank Share Price Today, Bandhan Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387176632881165
+LICI,2022-02-15,"LIC IPO: LIC IPO dates, issue price, LIC IPO review - The Economic Times",-0.9343938827514648
+LICI,2026-02-06,LIC shares advance 5% after 'very strong results'; Q3 profit rises 17% - Business Standard,0.9432554244995117
+LICI,2025-02-19,"LIC suffers Rs 84,000 crore dent in portfolio amid stock market crash - Business Standard",-0.9697951674461365
+LICI,2017-07-22,"Trans & Rectif Share Price Today, Trans & Rectif Stock Price Live NSE/BSE Updates - The Economic Times",-0.9396512508392334
+LICI,2025-05-28,LIC shares soar 8% in best session since Nov 2023 on Q4 results - Business Standard,0.9291538596153259
+LICI,2017-03-23,"UltraTech Cem. Share Price Today, UltraTech Cem. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9403532147407532
+LICI,2025-08-08,LIC shares rise 5% on posting Q1 results; how brokerages are rating stock? - Business Standard,-0.8515992760658264
+LICI,2024-11-11,"No plan to bring clawback clause, says LIC MD & CEO Siddhartha Mohanty - Business Standard",-0.5992640256881714
+LICI,2025-02-07,India's LIC sees recovery in premiums from fourth quarter - Reuters,0.9503067135810852
+LICI,2025-11-07,LIC's strong H2FY26 growth outlook likely to trigger stock rerating - Business Standard,0.4572562873363495
+LICI,2025-11-06,"LIC Q2 profit surges 32% to ₹10,053 cr, net premium income up 5.5% - Business Standard",0.9511817693710327
+LICI,2017-03-23,"Max Financial Share Price Today, Max Financial Stock Price Live NSE/BSE Updates - The Economic Times",-0.9417448043823242
+LICI,2022-11-21,"LIC to introduce only non-par products, shareholders set to benefit - ET BFSI",-0.8410035371780396
+LICI,2025-05-27,"LIC Q4FY25 results: Net profit up 38% at ₹19,012 crore on lower costs - Business Standard",0.9540355205535889
+LICI,2021-01-14,LIC Housing Finance shares tank over 7% after Q4 results. What should investors do? - The Economic Times,-0.7777969241142273
+LICI,2022-06-15,"HDFC Life Q2 Results: Profit rises 19% YoY to Rs 326 crore, misses estimates - The Economic Times",0.9351717233657837
+LICI,2017-10-15,SBI Life Insurance Company Ltd. - The Economic Times,-0.9276003241539001
+LICI,2024-05-28,LIC eyes double-digit FY25 premia growth and health insurance foray - Business Standard,-0.8520556688308716
+LICI,2024-05-10,"Go Digit General Ins Share Price Today, Go Digit General Ins Stock Price Live NSE/BSE Updates - The Economic Times",-0.9399479627609253
+LICI,2022-06-10,LIFI.NS - Reuters,-0.9495912194252014
+LICI,2020-04-27,"HDFC Life Q4 Results: Cons PAT rises 15% YoY to Rs 475 crore, revenue jumps 16% - The Economic Times",0.9350414872169495
+LICI,2017-03-24,"P&G Share Price Today, P&G Stock Price Live NSE/BSE Updates - The Economic Times",-0.9356797933578491
+LICI,2024-11-06,"Niva Bupa Health Ins Share Price Today, Niva Bupa Health Ins Stock Price Live NSE/BSE Updates - The Economic Times",-0.9415731430053711
+LICI,2024-02-16,LIC launches a non-participating product 'Amritbaal' for children - Business Standard,-0.8249567151069641
+LICI,2026-02-05,"Q3 results today: Airtel, Hero MotoCorp, IOCL, and LIC among 199 firms - Business Standard",-0.6877146363258362
+LICI,2025-05-28,LIC stock breaks above 200-DMA after 8 months; here's what may happen next - Business Standard,-0.9010103344917297
+LICI,2021-03-03,"Easy Trip Planners Share Price Today, Easy Trip Planners Stock Price Live NSE/BSE Updates - The Economic Times",-0.9368317723274231
+LICI,2017-03-24,"Rallis India Share Price Today, Rallis India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9395206570625305
+LICI,2017-03-24,"SBI Share Price Today, SBI Stock Price Live NSE/BSE Updates - The Economic Times",-0.9361106157302856
+LICI,2017-03-24,"Union Bank India Share Price Today, Union Bank India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381354451179504
+LICI,2017-03-24,"Wipro Share Price Today, Wipro Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379528164863586
+LICI,2016-09-18,"HDFC Bank Share Price Today, HDFC Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379709362983704
+LICI,2017-08-05,Check out LIC Housing Finance Ltd's stock price (LICHSGFIN-IN) in real time - CNBC,-0.946367084980011
+LICI,2025-08-07,"LIC Q1 results: Profit up 5% to ₹10,987 cr on strong policy renewals - Business Standard",0.9536437392234802
+LICI,2022-05-17,LIC shares tumble in market debut after record India IPO - Reuters,-0.961150586605072
+LICI,2026-03-20,"IRCTC Share Price Today, IRCTC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9366358518600464
+LICI,2017-03-23,"Infosys Share Price Today, Infosys Stock Price Live NSE/BSE Updates - The Economic Times",-0.9363147020339966
+LICI,2025-05-27,"LIC Q4 results: Net profit jumps 38% to Rs 19,013 cr, income falls 3.71% - Business Standard",-0.9587792754173279
+LICI,2024-02-08,India's LIC posts Q3 profit rise on higher shareholders' fund transfer - Reuters,0.9194280505180359
+LICI,2026-03-20,"Empower India Share Price Today, Empower India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9386373162269592
+LICI,2017-03-23,"Tata Elxsi Share Price Today, Tata Elxsi Stock Price Live NSE/BSE Updates - The Economic Times",-0.9397608637809753
+LICI,2023-08-29,"Basilic Fly Studio Share Price Today, Basilic Fly Studio Stock Price Live NSE/BSE Updates - The Economic Times",-0.9402559399604797
+LICI,2022-03-24,"Veranda Learning Sol Share Price Today, Veranda Learning Sol Stock Price Live NSE/BSE Updates - The Economic Times",-0.94230717420578
+LICI,2017-03-24,"ITC Share Price Today, ITC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9370895028114319
+LICI,2017-03-24,"Vedanta Share Price Today, Vedanta Stock Price Live NSE/BSE Updates - The Economic Times",-0.9377108216285706
+LICI,2017-03-24,"S H Kelkar & Co. Share Price Today, S H Kelkar & Co. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9347057342529297
+LICI,2017-03-24,"PVP Ventures Ltd. Share Price Today, PVP Ventures Ltd. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9368268251419067
+LICI,2021-10-28,"Policy Bazaar Share Price Today, Policy Bazaar Stock Price Live NSE/BSE Updates - The Economic Times",-0.9359241724014282
+LICI,2019-03-27,"RVNL Share Price Today, RVNL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9382209181785583
+LICI,2017-11-06,"HUDCO Share Price Today, HUDCO Stock Price Live NSE/BSE Updates - The Economic Times",-0.9376680254936218
+LICI,2017-07-19,"GAIL Share Price Today, GAIL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9337294697761536
+LICI,2026-03-20,"CDSL Share Price Today, CDSL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9363435506820679
+LICI,2017-03-24,"BLS Int. Services Share Price Today, BLS Int. Services Stock Price Live NSE/BSE Updates - The Economic Times",-0.939293622970581
+LICI,2017-03-24,"Finolex Inds. Share Price Today, Finolex Inds. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9398062229156494
+LICI,2026-03-20,"SBI Card Share Price Today, SBI Card Stock Price Live NSE/BSE Updates - The Economic Times",-0.9374772310256958
+LICI,2026-03-20,"TCS Share Price Today, TCS Stock Price Live NSE/BSE Updates - The Economic Times",-0.9362825155258179
+LICI,2017-03-23,"ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.936768651008606
+LICI,2017-04-06,"Maharashtra Seam. Share Price Today, Maharashtra Seam. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9329889416694641
+LICI,2026-03-20,"YES Bank Share Price Today, YES Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9369140267372131
+LICI,2017-10-17,"IREDA Share Price Today, IREDA Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381232261657715
+LICI,2017-03-24,"Sun TV Share Price Today, Sun TV Stock Price Live NSE/BSE Updates - The Economic Times",-0.940204381942749
+LICI,2017-10-14,"Aditya Birla Cap. Share Price Today, Aditya Birla Cap. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9301982522010803
+LICI,2017-07-19,"Info Edge Share Price Today, Info Edge Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379327893257141
+LICI,2024-06-27,"Ambey Laboratories Share Price Today, Ambey Laboratories Stock Price Live NSE/BSE Updates - The Economic Times",-0.9404516816139221
+LICI,2025-08-07,LIC Q1 net profit rises 5% to nearly ₹11K cr due to tepid premium growth - Business Standard,0.8841105699539185
+LICI,2025-02-07,"LIC's Q3 FY25 results: Net profit rises 17% to Rs 11,056.5 crore - Business Standard",0.950038492679596
+LICI,2026-03-20,"Central Bank Share Price Today, Central Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9339854717254639
+LICI,2017-03-24,"Edelweiss Financial Share Price Today, Edelweiss Financial Stock Price Live NSE/BSE Updates - The Economic Times",-0.9386643767356873
+LICI,2026-03-20,"IDFC First Bank Share Price Today, IDFC First Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9395439028739929
+LICI,2017-03-23,"Laurus Labs Share Price Today, Laurus Labs Stock Price Live NSE/BSE Updates - The Economic Times",-0.9397490620613098

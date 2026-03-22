@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-ICICIBANK,2026-03-11,"Bank Nifty falls over 2%, Axis Bank stock among top Nifty losers; all 14 constituents end in red - Moneycontrol.com",-0.9594630002975464
-ICICIBANK,2026-03-10,"Quant Mid Cap Fund adds ICICI Bank, Paytm and 2 others, exits Escorts Kubota and GMR Airports - The Economic Times",-0.9080355167388916
-ICICIBANK,2024-04-25,"ICICI Bank Share Price Today Live Updates: ICICI Bank Sees 1.08% Price Increase, Reports 0.0% One-Day Ret - The Economic Times",0.910087525844574
-ICICIBANK,2026-03-10,"Bank Nifty rises nearly 1.5% as banking stocks extend rebound; ICICI Bank, HDFC Bank, Federal Bank lead... - Moneycontrol.com",0.8857895731925964
-ICICIBANK,2024-04-25,"ICICI Bank Share Price Today Live Updates: ICICI Bank Stock Sees 1.06% Rise, SMA7 at Rs 1081.68 - The Economic Times",0.8668307662010193
-ICICIBANK,2024-04-02,"ICICI Bank Share Price Today Live Updates: ICICI Bank Stock Sees 1.59% Decline, 1-Day Returns at -1.58% - The Economic Times",-0.965969979763031
-ICICIBANK,2024-04-22,"Moving Averages Updates: ICICI Bank Stock Price Breaks Above 20-Day EMA, Reaches 1080.7 Rs with 1.26% Dail - The Economic Times",0.845801591873169
-ICICIBANK,2023-12-15,ICICI Bank Stocks Live Updates: ICICI Bank Stock Details - The Economic Times,-0.9309216737747192
-ICICIBANK,2024-04-16,ICICI Bank Share Price Live Updates: ICICI Bank Stock Price Drops by 1.24% with 1-Day Returns at -1.08% - The Economic Times,-0.9720069766044617
-ICICIBANK,2024-04-22,"ICICI Bank Share Price Live Updates: ICICI Bank Sees 0.74% Price Increase Today, 5-Year Returns at 172.67 - The Economic Times",0.921791136264801
-ICICIBANK,2024-03-19,"ICICI Bank Share Price Live Updates: ICICI Bank Sees Minor Decline in Price, SMA7 Remains Steady - The Economic Times",-0.9145379066467285
-ICICIBANK,2024-03-14,"ICICI Bank Stocks Live Updates: ICICI Bank Sees 0.72% Increase Today, 3-Month Returns at 5.65% - The Economic Times",0.8926901817321777
-ICICIBANK,2024-04-18,ICICI Bank Share Price Live Updates: ICICI Bank Closes at Rs 1067.05 with Trading Volume Exceeding 11 Mil - The Economic Times,-0.854798436164856
-ICICIBANK,2024-04-05,ICICI Bank Share Price Today Live Updates: ICICI Bank Sees Modest Price Increase Today Amid Weekly Return - The Economic Times,0.8974652886390686
-ICICIBANK,2026-03-11,"Sunil Singhania-backed Abakkus Flexi Cap Fund raises stake in HDFC Bank, RIL and 26 other stocks - The Economic Times",-0.8340563178062439
-ICICIBANK,2024-04-12,ICICI Bank Share Price Live Updates: ICICI Bank Sees Minor Decline with EMA7 Holding Steady at 1097.71 - The Economic Times,-0.9677776098251343
-ICICIBANK,2026-03-11,"Indian shares end lower as Mideast war, volatile oil hit sentiment - Reuters",-0.9545575976371765
-ICICIBANK,2026-03-12,"ICICI Prudential Equity & Debt Fund turns Rs 1,000 SIP to Rs 4 crore in nearly 26 years - The Economic Times",0.683419406414032
-ICICIBANK,2026-03-11,"US stock market Dow Jones, S&P 500, Nasdaq crash: Why Dow, S&P 500 and Nasdaq are down today? Nvidia, Nebi - The Economic Times",-0.8007251620292664
-ICICIBANK,2026-03-12,"US stock market deep in red today: Why Dow Jones, S&P 500 and Nasdaq crash again - Dow drops 600 points an - The Economic Times",-0.7914751172065735
-ICICIBANK,2026-03-12,"JioBlackRock Flexi Cap Fund adds Swiggy, Gujarat Gas; exits Mahanagar Gas and 18 others - The Economic Times",-0.8369818329811096
-ICICIBANK,2026-03-12,"Why US stock market Dow Jones futures crash today: Dow, S&P 500 and Nasdaq futures turn deep red - Oil sur - The Economic Times",-0.8211140036582947
-ICICIBANK,2026-03-13,"Why US stock market surging today: Dow Jones, S&P 500, Nasdaq rise as Russell 2000 leads - PCE inflation d - The Economic Times",-0.790666937828064
-ICICIBANK,2026-03-13,Gold and silver ETFs slip up to 3% as rising crude prices dampen rate cut hopes. Is it time to buy or wait - The Economic Times,-0.9020853638648987
-ICICIBANK,2026-03-11,"Not just LPG cylinder shortage, Induction cooktops also going 'out of stock' on Blinkit, Zepto, and Instam - The Economic Times",-0.9245440363883972
-ICICIBANK,2026-03-12,AlphaGrep receives final nod from SEBI to launch mutual fund - The Economic Times,-0.7465409636497498
-ICICIBANK,2026-03-11,Equity fund flows pick up in Feb even as SIPs get less - The Economic Times,0.9266544580459595
-ICICIBANK,2026-03-13,Why S&P 500 and Nasdaq down today while Dow Jones holds steady: US stock market turns cautious as VIX at 2 - The Economic Times,-0.9307298064231873
-ICICIBANK,2026-03-11,Stryker cyber attack: Has Iran added a new dimension to the US-Iran war? Why Iran-linked hackers targeted - The Economic Times,-0.8494206070899963
-ICICIBANK,2026-03-13,"As Indian stock markets crash amid US-Iran war, Shah Rukh Khan’s message for handling bad times shared by - The Economic Times",-0.6953807473182678
-ICICIBANK,2026-03-11,What is a demat account? A beginner’s guide to stock investing - The Economic Times,-0.9272462725639343
-ICICIBANK,2026-03-13,HDFC Defence Fund exits this large cap stock that went up by 400% in 5 years - The Economic Times,0.8061690330505371
-ICICIBANK,2026-03-11,Nebius Group stock surges 15% — here’s what’s fueling the sudden rally - The Economic Times,-0.8248242735862732
-ICICIBANK,2026-03-12,Indian shares drop for second session on raging Mideast war; power stocks buck trend - Reuters,-0.9597545266151428
-ICICIBANK,2026-03-13,Sebi sets new conditions for intraday borrowing by mutual funds from April 1 - The Economic Times,-0.9174794554710388
-ICICIBANK,2026-03-13,Domestic vs global investors: How silver ETF bets played out differently in 400% rally - The Economic Times,-0.8999247550964355
-ICICIBANK,2024-04-22,ICICI Bank Share Price Live Updates: ICICI Bank Closes at Rs 1067.25 with 1.12% Gain and Trading Volume o - The Economic Times,0.6631024479866028
-ICICIBANK,2026-03-12,"Taking Stock: Nifty, Sensex extend losses for second day as oil surges; rupee falls - Moneycontrol.com",-0.9351736903190613
-ICICIBANK,2026-03-12,"AI is reshaping lending, and why it’s bad news for traditional banks - The Economic Times",-0.8350759744644165
-ICICIBANK,2026-03-12,Getting started in the stock market: Account setup and cost evaluation - The Economic Times,-0.9144331216812134
-ICICIBANK,2026-03-13,"Heineken doubles down on India, eyes 'biggest untapped beer market' - The Economic Times",-0.5713523030281067
-ICICIBANK,2026-03-13,TRAI moots termination charges to tackle spam - The Economic Times,-0.7138910293579102
-ICICIBANK,2026-03-13,"Bloating, cramps, poor digestion? Nutritionist shares simple foods that may help - The Economic Times",-0.8876230716705322
-ICICIBANK,2026-03-13,Auto sector races to record February on double-digit sales growth - The Economic Times,0.8440303206443787
-ICICIBANK,2026-03-13,Adobe CEO Shantanu Narayen to step down after 18 years - The Economic Times,-0.8375062346458435
-ICICIBANK,2026-03-12,Consider bringing back revenue mechanism on UPI for sustenance of sector: Parliamentary committee - The Economic Times,-0.9031164646148682
-ICICIBANK,2026-03-13,NARCL to buy Kurukshetra e-way debt - The Economic Times,-0.8755174875259399
-ICICIBANK,2026-03-13,"West Asia War: India steelmakers brace for higher input costs, risk of cheaper imports - The Economic Times",-0.6783453226089478
-ICICIBANK,2026-03-12,'Ab Shadi Niptengi Salad me?' Akhilesh Yadav shares video of people cooking on a wooden chulha amid LPG ga - The Economic Times,-0.892547070980072
-ICICIBANK,2026-03-12,Investing in foreign stocks? Missing dividend reporting in your ITR could cost you 200% penalty; here’s ho - The Economic Times,-0.6032811999320984
+ICICIBANK,2026-03-20,ICICI Bank receives GST demand worth ₹769 Crore - ET BFSI,0.49740099906921387
+ICICIBANK,2024-02-12,"ICICI Bank Share Price Live Updates: ICICI Bank Trades at Rs 1004.05, Registers -0.66% Change Today and 6 - The Economic Times",-0.7713069319725037
+ICICIBANK,2026-03-20,PSU banks set to gain share in MSME lending as credit cycle stabilises - ET BFSI,0.9210391640663147
+ICICIBANK,2026-03-20,"Zetwerk plans to confidentially file for Indian IPO, targets $4 billion valuation, sources say - Reuters",-0.9427482485771179
+ICICIBANK,2026-03-21,"Zetwerk IPO: Size, valuation, timeline and other details we know so far - The Economic Times",-0.9510206580162048
+ICICIBANK,2026-03-22,Wealth whisperings: Quiet luxury finds voice among India’s new elite - The Economic Times,-0.8154088258743286
+ICICIBANK,2021-10-23,ICICI Bank Shares Jump as Loan Growth Buoys Profit to Record - Bloomberg.com,0.5059120059013367
+ICICIBANK,2022-01-24,India's ICICI Bank shares rise as earnings beat expectations - Reuters,0.7997094988822937
+ICICIBANK,2026-01-17,India's ICICI Bank misses quarterly profit expectations; reappoints CEO - Reuters,-0.9316286444664001
+ICICIBANK,2025-04-21,"India's HDFC Bank, ICICI Bank close higher as quarterly earnings boost investor confidence - Reuters",0.9271154999732971
+ICICIBANK,2025-10-18,ICICI Bank’s Profit Beats Estimates on Strong Loan Growth - Bloomberg.com,0.783014178276062
+ICICIBANK,2025-04-19,India's ICICI Bank beats estimates with 18% quarterly profit growth - Reuters,0.8721049427986145
+ICICIBANK,2025-10-18,India's ICICI Bank beats quarterly profit estimates on lower provisions for bad loans - Reuters,-0.6782385110855103
+ICICIBANK,2017-08-05,Check out ICICI Bank Ltd's stock price (ICICIBANK-IN) in real time - CNBC,-0.9444596767425537
+ICICIBANK,2026-01-18,"Earnings Misses at Reliance, ICICI Bank Set to Embolden India Stock Bears - Bloomberg.com",-0.8188013434410095
+ICICIBANK,2014-03-15,ICICIBC: ICICI Bank Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9472159743309021
+ICICIBANK,2025-07-21,"HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains - Reuters",0.6184461116790771
+ICICIBANK,2025-07-20,"India's HDFC Bank, ICICI Bank rise on upbeat quarterly results - Reuters",0.7364698648452759
+ICICIBANK,2025-01-25,"India's ICICI Bank reports higher quarterly profit, helped by healthy loan growth - Reuters",0.9554107785224915
+ICICIBANK,2024-10-26,"India's ICICI Bank beats Q2 profit view on healthy loan demand, margins shrink - Reuters",0.6367284059524536
+ICICIBANK,2025-07-29,"ICICI Bank, IOB stand out as top bank stock picks after Q1FY26 results - ET BFSI",0.709821343421936
+ICICIBANK,2024-10-29,"ICICI Bank set to sustain strong growth momentum amid expansion, rising digital efficiencies - ET BFSI",0.9501580595970154
+ICICIBANK,2024-04-27,ICICI Bank Quarterly Profit Tops Estimates on Lending Boost - Bloomberg.com,-0.7877776026725769
+ICICIBANK,2025-09-03,ICICI Bank bets on tech and business banking to drive next phase of growth - ET BFSI,0.7630907893180847
+ICICIBANK,2025-01-28,"ICICI Bank poised for growth with strong profitability, stable margins, and resilient asset quality - ET BFSI",0.9031859040260315
+ICICIBANK,2024-03-28,"India's ICICI Securities wins key vote to delist, merge with ICICI Bank amid retail investor opposition - Reuters",-0.5617972016334534
+ICICIBANK,2025-07-19,"HDFC Bank, ICICI Bank face profit pressures in Q1 amid tepid loan growth, margin strain - ET BFSI",-0.9625453948974609
+ICICIBANK,2017-03-23,"ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.936768651008606
+ICICIBANK,2025-04-22,ICICI Bank set to maintain sector-leading returns despite expected margin pressure - ET BFSI,0.935361385345459
+ICICIBANK,2024-01-25,How does ICICI Bank compare with HDFC Bank after the market mayhem? - ET BFSI,-0.7040908932685852
+ICICIBANK,2025-07-19,"ICICI Bank Q1 net profit jumps 15.9 pc to Rs 13,558 cr - ET BFSI",0.9186401963233948
+ICICIBANK,2024-01-21,"ICICI Bank net profit jumps 25.7% to Rs 11,053 crore in Q3 - ET BFSI",0.9359850883483887
+ICICIBANK,2026-01-19,"ICICI Bank takes Rs 1,283 Cr hit on agri loan PSL review by RBI; reappoints CEO Sandeep Bakshi - ET BFSI",0.5497986674308777
+ICICIBANK,2021-06-15,ICICI Bank Ltd - Reuters,-0.9431384205818176
+ICICIBANK,2025-07-22,"ICICI Bank set to outperform on resilient earnings, margin stability, and strong asset quality - ET BFSI",0.9502677321434021
+ICICIBANK,2012-10-26,India's ICICI Bank quarterly profit up 30 percent - CNBC,0.7248594760894775
+ICICIBANK,2025-10-16,India Banks’ Lending Margins to Bottom Out as Rate Cuts Settle In - Bloomberg.com,-0.7326241731643677
+ICICIBANK,2023-10-21,Top private Indian banks report strong Q2 profit rise as loan growth continues - Reuters,0.9312372803688049
+ICICIBANK,2022-06-06,ICBK.NS - Reuters,-0.9371260404586792
+ICICIBANK,2019-05-21,"Icici bank - Latest icici bank , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9478800892829895
+ICICIBANK,2025-08-05,"India's ICICI Bank treasury head to move to securities unit, sources say - Reuters",-0.9408957958221436
+ICICIBANK,2020-07-06,ICICI Bank refutes allegations of termination threats to employees - ET BFSI,-0.6616812944412231
+ICICIBANK,2025-07-19,India's ICICI Bank reports 15.5% profit growth in Q1 helped by higher core lending income - Reuters,0.9549822211265564
+ICICIBANK,2026-01-17,"ICICI Bank Reappoints CEO Bakhshi for Two Years, Profit Misses - Bloomberg.com",-0.8707415461540222
+ICICIBANK,2025-08-19,State development loans face weak demand for seventh straight auction: ICICI Bank - ET BFSI,-0.967955470085144
+ICICIBANK,2022-04-22,About ICICI Bank Ltd (IBN) - Reuters,-0.9359453916549683
+ICICIBANK,2017-03-24,"ICICI Bank Balance Sheets, Financial Statements - The Economic Times",-0.9275223612785339
+ICICIBANK,2023-06-29,ICICI Bank to delist broking arm in $622 million shareswap deal - Reuters,-0.7517077922821045
+ICICIBANK,2024-05-01,ICICI Bank Denies Report CEO Bakhshi Is Seeking to Step Down - Bloomberg.com,-0.6680728793144226
+ICICIBANK,2023-10-21,ICICI Bank Profit Rises More Than Expected on Retail Loan Demand - Bloomberg.com,0.9150035381317139
+ICICIBANK,2021-02-25,Check out ICICI Bank Ltd's stock price (0A7M-GB) in real time - CNBC,-0.9453177452087402
+ICICIBANK,2025-12-25,"BFSI earnings upgrades return after five quarters; SBI, ICICI Bank lead recovery - ET BFSI",0.9426817297935486
+ICICIBANK,2017-03-31,"ICICI Bank Target Share Price, ICICI Bank Share Price Forecast - The Economic Times",-0.9380913376808167
+ICICIBANK,2026-01-16,LIC cuts ICICI Bank stake below 5% after market sale - ET BFSI,-0.848889172077179
+ICICIBANK,2022-04-25,ICICI Bank announces key appointments; Rakesh Jha to be Wholetime Director - ET BFSI,-0.935129702091217
+ICICIBANK,2017-03-24,ICICI Bank Ltd. - The Economic Times,-0.9269043803215027
+ICICIBANK,2024-05-02,"‘Figment of imagination’, says ICICI Bank denying reports of MD & CEO wanting to quit - ET BFSI",-0.5783474445343018
+ICICIBANK,2025-06-30,India's trade deficit may surge to $300 bn in FY26 despite lower oil prices: ICICI Bank Report - ETCFO.com,0.48031795024871826
+ICICIBANK,2024-09-02,India's ICICI Bank says it did not give salary or employee stock options to regulatory chief - Reuters,-0.925010621547699
+ICICIBANK,2023-04-22,ICICI Bank refutes data breach allegation; here's what we know so far - ET CISO,-0.9052955508232117
+ICICIBANK,2017-02-22,"Icici bank - Latest icici bank , Information & Updates - IT Security -ET CISO - ET CISO",-0.9545988440513611
+ICICIBANK,2025-01-14,"3 Indian banks among top 25 global banks by market cap, ICICI standout performer - ET BFSI",0.797563910484314
+ICICIBANK,2015-03-13,IBN: ICICI Bank Ltd Stock Price Quote - New York - Bloomberg - Bloomberg.com,-0.9458229541778564
+ICICIBANK,2023-10-17,"India's ICICI Bank, Kotak Mahindra Bank fined by cenbank - Reuters",-0.9270396828651428
+ICICIBANK,2020-10-29,"Icici bank ltd - Latest icici bank ltd , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9462745189666748
+ICICIBANK,2026-01-20,​ICICI Bank positioned for steady returns as business banking emerges as pivot - ET BFSI,0.9457627534866333
+ICICIBANK,2020-07-08,ICICI Bank to offer 8% salary hike for 80K employees in the light of Covid-19 - ET BFSI,0.9252808094024658
+ICICIBANK,2024-04-27,"ICICI Bank beats Q4 profit estimates on strong loan growth, but margin shrinks - Reuters",-0.8233855366706848
+ICICIBANK,2024-05-03,ICICI Bank rubbishes reports of CEO Sandeep Bakhshi quitting - ETHRWorld.com,-0.7882616519927979
+ICICIBANK,2025-04-19,"ICICI Bank to watch market on deposit rates, 53% loans linked to repo: ED Sandeep Batra - ET BFSI",-0.9206063151359558
+ICICIBANK,2024-08-21,"Indian tribunal dismisses petitions opposing ICICI Securities' delisting, report says - Reuters",-0.7712278962135315
+ICICIBANK,2022-09-18,"Icici Bank Moradabad Delhi Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9426460266113281
+ICICIBANK,2024-01-23,"ICICI Bank hits record high on profit beat, margin comfort - ET BFSI",0.9468649625778198
+ICICIBANK,2022-09-16,"Icici Bank New Delhi Model Town Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9396127462387085
+ICICIBANK,2022-09-16,"Icici Bank R P Pune Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9399443864822388
+ICICIBANK,2025-08-11,ICICI Bank reports lowest attrition rate among private peers in last 3 fiscal years - ETHRWorld.com,-0.8974772095680237
+ICICIBANK,2024-11-12,"India cenbank retains SBI, HDFC Bank, ICICI Bank in too-big-to-fail list - Reuters",-0.8925303220748901
+ICICIBANK,2022-09-19,"Icici Bank Chennai T Nagar Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9406578540802002
+ICICIBANK,2022-09-19,"Icici Bank Chennai Main Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9400255084037781
+ICICIBANK,2022-09-17,"Icici Bank Bangalore N R Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9404608607292175
+ICICIBANK,2022-07-26,"ICICI Bank may surpass HDFC Bank in premium valuations, narrow discount with Kotak Bank - ET BFSI",0.9471999406814575
+ICICIBANK,2022-09-16,"Icici Bank Pune Satara Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9416776895523071
+ICICIBANK,2022-09-17,"Icici Bank New Whitefield Wealth Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9427749514579773
+ICICIBANK,2022-09-17,"Icici Bank Bangalore J P Nagar Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9397090673446655
+ICICIBANK,2022-09-16,"Icici Bank New Delhi Delhi Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.940531313419342
+ICICIBANK,2022-09-17,"Icici Bank Ghodbunder Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9408551454544067
+ICICIBANK,2022-09-17,"Icici Bank Viman Nagar Pune Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9413478970527649
+ICICIBANK,2022-09-17,"Icici Bank Thane Teen Hath Naka Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9411045908927917
+ICICIBANK,2022-09-18,"Icici Bank Ujjain Branches IFSC Code, MICR Code & Phone Number - The Economic Times",-0.942121684551239
+ICICIBANK,2022-09-17,"Icici Bank Pune Senapati Bapat Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9411002397537231
+ICICIBANK,2022-09-19,"Icici Bank Chennai Cenotaph Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9390387535095215
+ICICIBANK,2022-09-16,"Icici Bank New Delhi Mohan Co Op Ind Estate Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9387703537940979
+ICICIBANK,2022-09-16,"Icici Bank Uttamnagar New Delhi Delhi Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9402584433555603
+ICICIBANK,2022-09-17,"Icici Bank Pune Hingwadi Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9386414885520935
+ICICIBANK,2022-09-16,"Icici Bank New Delhi Jasola Vihar Delhi Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9409391283988953
+ICICIBANK,2022-09-17,"Icici Bank Mumbai Hughes Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9390639066696167
+ICICIBANK,2022-09-16,"Icici Bank New Delhi Connaught Place Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9395186901092529
+ICICIBANK,2025-07-18,"RBI may go for another 25 bps rate cut in August, repo rate to come down at 5.25%: ICICI Bank - ET BFSI",-0.923603355884552
+ICICIBANK,2022-09-18,"Icici Bank Hyderabad Khairatabad Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9406207203865051
+ICICIBANK,2022-09-18,"Icici Bank Jamshedpur Bishtupur Jharkhand Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9395407438278198

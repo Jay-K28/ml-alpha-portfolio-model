@@ -1,51 +1,95 @@
 ticker,date,headline,sentiment_score
-GRASIM,2024-03-28,Grasim Industries Share Price Live Updates: Grasim Industries Closes at Rs 2207.35 with 3-Month Return of - The Economic Times,-0.8595647215843201
-GRASIM,2024-05-08,Grasim Industries Stocks Live Updates: Grasim Industries Closes at Rs 2421.0 with Below-Average Trading V - The Economic Times,-0.805482029914856
-GRASIM,2024-04-29,Grasim Industries Share Price Live Updates: Grasim Industries Closes at Rs 2342.45 with 1.06% Decline in - The Economic Times,-0.8641776442527771
-GRASIM,2024-04-10,Grasim Industries Share Price Today Live Updates: Grasim Industries Sees Slight Uptick in Stock Price wit - The Economic Times,0.6731350421905518
-GRASIM,2024-04-22,Grasim Industries Share Price Live Updates: Grasim Industries Closes at Rs 2273.15 with 6-Month Beta of 1 - The Economic Times,-0.8609784841537476
-GRASIM,2024-05-09,Grasim Industries Share Price Today Live Updates: Grasim Industries Sees Minor Decline in Price with Elev - The Economic Times,-0.9346634149551392
-GRASIM,2024-01-01,Grasim Industries Stocks Live Updates: Grasim Industries Closes at Rs 2134.8 with 5.89% 1-Month Return - The Economic Times,-0.6244367361068726
-GRASIM,2024-02-27,"Grasim Industries Share Price Live Updates: Grasim Industries Trades at Rs 2199.95, Registers 0.6% Increa - The Economic Times",-0.7485741972923279
-GRASIM,2024-04-26,"Grasim Industries Share Price Today Live Updates: Grasim Industries Sees Marginal Decline in Current Trading, Reports Impressive 6-Month Returns of 26.4% - The Economic Times",-0.7121979594230652
-GRASIM,2024-04-25,"Grasim Industries Stocks Live Updates: Grasim Industries Sees 1.12% Price Surge, SMA7 at Rs 2299.20 - The Economic Times",0.7167332768440247
-GRASIM,2026-03-13,"PNGS Reva Diamond Balance Sheets, Financial Statements - The Economic Times",-0.9242880344390869
-GRASIM,2026-03-12,"Yash Highvoltage Balance Sheets, Financial Statements - The Economic Times",-0.9290252327919006
-GRASIM,2024-03-28,"Moving Averages Updates: Grasim Industries Surpasses 20-Day SMA, Current Price at Rs 2211.80 - The Economic Times",0.5679418444633484
-GRASIM,2024-04-25,Grasim Industries Stocks Live Updates: Grasim Industries Closes at Rs 2337.75 with 5.02% Weekly Return - The Economic Times,-0.8632807731628418
-GRASIM,2024-04-26,"Grasim Industries Share Price Today Live Updates: Grasim Industries Sees 1.1% Dip in Current Price, EMA5 - The Economic Times",-0.9561856389045715
-GRASIM,2024-04-26,Grasim Industries Share Price Today Live Updates: Grasim Industries Closes at Rs 2367.45 with Strong Trad - The Economic Times,0.900540828704834
-GRASIM,2024-04-29,"Grasim Industries Share Price Live Updates: Grasim Industries Sees Price Dip of 1.0% Today, 1-Month Retur - The Economic Times",-0.7873642444610596
-GRASIM,2024-04-09,"Grasim Industries Share Price Today Live Updates: Grasim Industries Sees 1.07% Price Increase, Trading Vo - The Economic Times",0.9057029485702515
-GRASIM,2024-01-03,"Grasim Industries Share Price Live Updates: Grasim Industries Closes at Rs 2101.45, Registers 1.22% Decli - The Economic Times",-0.8748739361763
-GRASIM,2024-02-23,"Price Updates: Grasim Industries Hits New 52-Week High, Registers 1.49% Gain - The Economic Times",0.8764341473579407
-GRASIM,2024-04-22,"Grasim Industries Share Price Live Updates: Grasim Industries Sees Slight Uptick in Price, Registers 0.11 - The Economic Times",0.928409218788147
-GRASIM,2024-02-20,Grasim Industries Share Price Today Live Updates: Grasim Industries Stock Details - The Economic Times,-0.9384064078330994
-GRASIM,2024-04-22,"Grasim Industries Share Price Live Updates: Grasim Industries Sees Modest Price Increase of 0.39% Today, - The Economic Times",0.9400086402893066
-GRASIM,2024-04-04,Grasim Industries Share Price Live Updates: Grasim Industries Closes at Rs 2305.45 with 3-Month Return of - The Economic Times,-0.869690477848053
-GRASIM,2024-04-26,"Grasim Industries Share Price Today Live Updates: Grasim Industries Sees 0.79% Decline, One-Day Return at - The Economic Times",-0.9571052193641663
-GRASIM,2023-12-05,"Grasim Industries Stocks Updates: Grasim Industries Sees 1.12% Increase in Value Today, 1-Week Returns at - The Economic Times",0.938240110874176
-GRASIM,2026-03-13,"F&O Quote - Live FNO BSE/NSE Quote, Nifty Quotes, Indian Stock Market BSE/NSE Price Increase, Chart, Open Interest Analysis & more by Moneycontrol.com - Moneycontrol.com",-0.9385393857955933
-GRASIM,2026-03-13,"F&O Quote - Live FNO BSE/NSE Quote, Nifty Quotes, Indian Stock Market BSE/NSE Price Increase, Chart, Open Interest Analysis & more by Moneycontrol.com - Moneycontrol.com",-0.9385393857955933
+GRASIM,2026-03-20,"Share Market Today | Latest Stock Market News, Sensex Today and Nifty Live Updates - Business Standard",-0.9348509311676025
+GRASIM,2023-11-21,"Grasim Industries Share Price Today Live Updates: Grasim Industries Sees Slight Increase in Price, Tradin - The Economic Times",0.9413633942604065
+GRASIM,2023-12-20,"Grasim Industries Share Price Live Updates: Grasim Industries Sees Slight Dip in Price, SMA3 at Rs 2113.7 - The Economic Times",-0.9618726968765259
+GRASIM,2025-02-10,ADITYA BIRLA INA GRASIM - bsmedia.business-standard.com,-0.950618326663971
+GRASIM,2014-03-15,GRASIM: Grasim Industries Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9469127058982849
+GRASIM,2024-08-26,Grasim Industries Limited - bsmedia.business-standard.com,-0.9509098529815674
+GRASIM,2024-08-09,India's Grasim posts loss in Q1 as paint business drags margins - Reuters,-0.9678608775138855
+GRASIM,2022-06-06,About Grasim Industries Ltd (GRAS.NS) - Reuters,-0.9464975595474243
 GRASIM,2025-11-06,India's Grasim falls most in over 3 years as paints chief exit stokes growth worries - Reuters,-0.9151415824890137
-GRASIM,2018-01-06,"grasim Forum Discussion on Market View, Business sectors,Stocks, Commodity, Personal Finance & More - Moneycontrol.com",-0.945868194103241
-GRASIM,2026-03-02,GRASIM.LU - | Stock Price & Latest News - Reuters,-0.9218444228172302
-GRASIM,2024-02-16,Grasim Industries Share Price Live Updates: Grasim Industries Reports Strong 5-Year Returns of 198.55% wi - The Economic Times,0.917992889881134
-GRASIM,2025-08-26,Grasim's market capitalisation near Rs 2 lakh crore: Kumar Mangalam Birla - The Economic Times,-0.9081506729125977
-GRASIM,2010-01-07,"Grasim shareholders, creditors approve demerger proposal - The Economic Times",-0.9289860129356384
-GRASIM,2022-06-16,Grasim appoints Pavan Jain as new Chief Financial Officer - The Economic Times,-0.9166659116744995
-GRASIM,2025-11-05,Grasim’s consolidated profit up 76%; paints business CEO resigns - The Economic Times,-0.7204399704933167
-GRASIM,2009-10-02,Grasim to sell cement biz to UltraTech - The Economic Times,-0.9250138998031616
-GRASIM,2025-06-10,4 reasons why Morgan Stanley made Grasim its top pick for 2025 - The Economic Times,-0.8934724926948547
+GRASIM,2020-01-16,Untitled - bsmedia.business-standard.com,-0.947187066078186
+GRASIM,2017-03-29,Grasim Industries Ltd. - The Economic Times,-0.9199296236038208
+GRASIM,2025-02-10,Ref No. GIL/CFD/SEC/25/322/SE 10th February 2025 BSE Limited Scrip Code - bsmedia.business-standard.com,-0.9487068057060242
+GRASIM,2023-11-13,India's Aditya Birla Group-owned Grasim posts drop in Q2 profit on weak prices - Reuters,-0.9708454012870789
+GRASIM,2017-08-06,Check out Grasim Industries Ltd's stock price (GRASIM-IN) in real time - CNBC,-0.9448553323745728
+GRASIM,2017-03-29,The Economic Times - The Economic Times,-0.9159992933273315
+GRASIM,2024-02-22,"India's Grasim launches paints business, targets 100 bln rupees in gross revenue in 3 yrs - Reuters",0.6124584078788757
+GRASIM,2026-02-10,Ref No. GIL/CFD/SEC/26/166/SE 10th February 2026 BSE Limited Scrip Code: 500300 National Stock Exchange of India Limited Symbol - bsmedia.business-standard.com,-0.9442335963249207
+GRASIM,2025-07-21,Pavan Kumar Jain - bsmedia.business-standard.com,-0.9431588649749756
+GRASIM,2026-02-11,"Grasim Industries' profit up 28.7% to ₹2,233 crore in Q3 FY26 - ET Realty",0.9530760049819946
+GRASIM,2018-01-22,"vilayat plant: Latest News & Videos, Photos about vilayat plant - The Economic Times",-0.9346526265144348
+GRASIM,2017-11-10,"chlor alkali: Latest News & Videos, Photos about chlor alkali - The Economic Times",-0.9321470856666565
+GRASIM,2026-01-15,India's Grasim names Sachin Sahay as new Birla Opus CEO - Reuters,-0.9402027130126953
+GRASIM,2025-11-21,NEELABJA CHAKRAB ARTY - bsmedia.business-standard.com,-0.9476004242897034
 GRASIM,2016-08-11,Aditya Birla to spin off financial services in group restructuring - Reuters,-0.7649591565132141
-GRASIM,2003-06-18,"Birlas clinch L&T cement in Rs 2,200-cr deal - The Economic Times",-0.9054350852966309
-GRASIM,2026-01-16,Grasim names Sachin Sahay as new Birla Opus CEO - The Economic Times,-0.9320898056030273
-GRASIM,2019-03-23,HC gives relief to Grasim industries of Aditya Birla in the dividend tax case - The Economic Times,0.6223887801170349
-GRASIM,2024-12-17,ET Awards for Corporate Excellence: Grasim Industries wins Economic Times Conscious Corporate Award - The Economic Times,0.8595675826072693
-GRASIM,2025-07-02,CCI directs probe into Asian Paints for abuse of dominance - The Economic Times,-0.7793369293212891
-GRASIM,2009-10-04,Grasim spins off cement biz into 100% subsidiary - The Economic Times,-0.9100608825683594
-GRASIM,2017-03-26,Aditya Birla Group mixes services into its portfolio - The Economic Times,-0.8796900510787964
-GRASIM,2024-02-22,Grasim Industries Stocks Live Updates: Grasim Industries Closes Marginally Higher at Rs 2194.0 with Tradi - The Economic Times,0.9145634174346924
-GRASIM,2016-01-04,Aditya Birla Chemicals merged with Grasim Industries - The Economic Times,-0.9384933114051819
-GRASIM,2012-07-06,"Aditya Birla Group companies, Grasim Industries and Thai Rayon Public buys canadian pulp maker - The Economic Times",-0.9034806489944458
-GRASIM,2024-12-12,"Grasim Industries shares in focus as board approves raising up to Rs 2,000 crore via NCDs - The Economic Times",0.5010561943054199
+GRASIM,2025-08-11,"Indian shares gain ahead of US-Russia talks; SBI, Tata Motors rise post earnings - Reuters",0.906703531742096
+GRASIM,2024-11-19,Ref No. GIL/CFD/SEC/25/259/SE 19th November 2024 BSE Limited Scrip Code: 500300 / 890190 National Stock Exchange of India Limite - bsmedia.business-standard.com,-0.9433686137199402
+GRASIM,2023-02-08,Grasim inducts promoter Kumar Mangalam Birla's next-generation members into its board - ET BrandEquity,-0.885384202003479
+GRASIM,2025-07-01,India Antitrust Body to Probe Asian Paints After Grasim Protests - Bloomberg.com,-0.6787794232368469
+GRASIM,2025-11-05,India's Grasim posts higher profit on chemicals strength; paint unit CEO resigns - Reuters,-0.8933800458908081
+GRASIM,2026-03-15,(GRASIM.LU) | Stock Price & Latest News - Reuters,-0.9046246409416199
+GRASIM,2025-11-05,"Grasim Q2 profit soars 76% to ₹553 crore on strong building materials, chemicals growth - ET Manufacturing",0.9509445428848267
+GRASIM,2019-10-14,"Grasim Industries appoints Srishti Sawhney as president and global brand head, Pulp & Fibre - ET BrandEquity",-0.9259004592895508
+GRASIM,2009-05-20,India's Grasim sees cement volumes rising on infra - Reuters,0.9445632100105286
+GRASIM,2024-02-22,"Aditya Birla Group's Grasim enters paints market with Birla Opus; eyes Rs 10,000 cr gross revenue in 3 years - ET Retail",0.5648587942123413
+GRASIM,2013-08-02,India Update - bsmedia.business-standard.com,-0.947965145111084
+GRASIM,2017-04-02,"caustic soda: Latest News & Videos, Photos about caustic soda - The Economic Times",-0.9363892078399658
+GRASIM,2017-03-23,"Pidilite Ind Share Price Today, Pidilite Ind Stock Price Live NSE/BSE Updates - The Economic Times",-0.9415810704231262
+GRASIM,2017-06-30,"Aditya Birla Nuvo, Grasim Industries hit record highs - Business Standard",0.8846395611763
+GRASIM,2023-11-14,"Grasim Industries Q2 profit rises 34% to Rs 2,024 crore - ET Retail",0.9445022344589233
+GRASIM,2026-01-16,Grasim names Sachin Sahay as new Birla Opus CEO - ET Retail,-0.9428118467330933
+GRASIM,2026-03-20,About Grasim Industries Ltd (GRSXY.PK) - Reuters,-0.9466542601585388
+GRASIM,2025-05-22,Tycoon Birla’s Firm Gets Cheapest Rupee Bond Deal in Five Years - Bloomberg.com,0.686809778213501
+GRASIM,2022-05-25,"Grasim Industries doubles capex to Rs 10,000 crore to set up paints business - ET Retail",0.6164425015449524
+GRASIM,2025-11-26,NEELABJA CHAKRABA RTY - bsmedia.business-standard.com,-0.9489889740943909
+GRASIM,2018-08-09,Idea MD Himanshu Kapania to be first vice chairman of Grasim - ET Telecom,-0.9475337266921997
+GRASIM,2016-11-29,Satyaki Ghosh to join Aditya Birla Group as the CEO of Grasim's domestic textiles division - ET BrandEquity,-0.9302098155021667
+GRASIM,2025-07-05,"Reviewing CCI order, will take appropriate legal recourse: Asian Paints - ETCFO.com",-0.9485539793968201
+GRASIM,2025-06-10,Sailesh Kumar Daga - bsmedia.business-standard.com,-0.9459391236305237
+GRASIM,2024-08-20,Ref No. GIL/CFD/SEC/25/175/SE 20th August 2024 BSE Limited Scrip Code - bsmedia.business-standard.com,-0.9485650062561035
+GRASIM,2022-10-07,Aditya Birla Capital Ltd - Reuters,-0.9426998496055603
+GRASIM,2025-05-12,Exclusive: Birla's big paints bet rattles Asian Paints' India reign - Reuters,-0.7127918601036072
+GRASIM,2025-10-13,SC refuses to entertain plea by Asian Paints against CCI probe - ETLegalWorld.com,-0.5062971711158752
+GRASIM,2024-11-08,Dulux Paints maker Akzo Nobel India's Q2 profit rises on automotive sector demand - ET BrandEquity,0.9205592274665833
+GRASIM,2025-10-14,SC refuses to entertain plea by Asian Paints against CCI probe - ET BrandEquity,-0.8790804743766785
+GRASIM,2017-12-14,"Akar Auto Ind. Share Price Today, Akar Auto Ind. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9397979378700256
+GRASIM,2025-09-11,"CUPID LIMITE,D - bsmedia.business-standard.com",-0.9506438970565796
+GRASIM,2025-07-02,CCI orders probe into market abuse charges against Asian Paints - ET Retail,-0.791763961315155
+GRASIM,2017-01-04,KUMAR MANGALAM BIRLA - ET Retail,-0.9321481585502625
+GRASIM,2024-01-08,BIRLA OPUS - ET Retail,-0.9440751671791077
+GRASIM,2025-07-29,Asian Paints meets profit view as India retail demand cushions discounts hit - ET Retail,0.9130162596702576
+GRASIM,2026-03-16,"Prem Somani Financial Share Price Today, Prem Somani Financial Stock Price Live NSE/BSE Updates - The Economic Times",-0.9397119879722595
+GRASIM,2025-06-16,Ref: GIL/CFD/SEC/26/045/SE 16th June 2025 BSE Limited Scrip Code: 500300 Sub: Repayment of Commercial Paper – ISIN: INE047 - bsmedia.business-standard.com,-0.9339619278907776
+GRASIM,2025-07-01,India orders antitrust probe of Asian Paints after billionaire rival Birla's complaint - Reuters,-0.8273417949676514
+GRASIM,2025-05-09,Asian Paints' profit falls 45% in Q4 FY25 - ET BrandEquity,-0.973225474357605
+GRASIM,2025-08-18,Birla Opus Paints’ new ad introduces assurance with a new promise - ET BrandEquity,-0.7233826518058777
+GRASIM,2025-09-11,"Indian court dismisses Asian Paints' plea against antitrust inquiry, sources say - Reuters",-0.659285843372345
+GRASIM,2026-03-20,"Morganite Crucible Share Price Today, Morganite Crucible Stock Price Live NSE/BSE Updates - The Economic Times",-0.9419122338294983
+GRASIM,2021-07-11,Asian Paints Ltd - Reuters,-0.9360249638557434
+GRASIM,2022-07-23,ADTB.NS - Reuters,-0.9443684816360474
+GRASIM,2023-12-11,"Page 2 - Aditya birla - Latest aditya birla , Information & Updates - CFO - ETCFO.com",-0.9500458240509033
+GRASIM,2025-05-22,Indian Banks' Loan Growth at the Slowest Pace Since 2022 - Bloomberg.com,-0.5980560779571533
+GRASIM,2025-08-23,"Essex Marine Nine Monthly Results, Nine Monthly Earnings for Essex Marine - The Economic Times",-0.9179015755653381
+GRASIM,2021-09-24,Aditya Birla Sun Life AMC Ltd. - The Economic Times,-0.9270830154418945
+GRASIM,2025-06-01,Belrise Industries Ltd. - The Economic Times,-0.9220111966133118
+GRASIM,2025-07-24,"Takyon Networks Ltd. Yearly results, Financial Summary - The Economic Times",-0.8987500667572021
+GRASIM,2025-11-05,"India's Britannia names CEO, reports higher second-quarter profit - Reuters",0.9111865162849426
+GRASIM,2023-02-06,General Insurance Corporation of India Share Price - The Economic Times,-0.9193518161773682
+GRASIM,2026-03-16,Nurture Well Industries Ltd. - The Economic Times,-0.9011855125427246
+GRASIM,2017-03-29,Birla Corporation Ltd. - The Economic Times,-0.923032283782959
+GRASIM,2026-03-20,"OrientalAromatics Share Price Today, OrientalAromatics Stock Price Live NSE/BSE Updates - The Economic Times",-0.9411944150924683
+GRASIM,2025-11-10,"Press Release 1. Mr. Varun Berry, Vice-Chairman, Managing Director & Chief Executive Officer of the Company submitted his re - bsmedia.business-standard.com",-0.9371195435523987
+GRASIM,2017-03-25,Sanghi Industries Ltd. - The Economic Times,-0.9174062013626099
+GRASIM,2025-06-04,"Aditya Birla to Buy Cargill Chemicals Plant in Dalton, Georgia - Bloomberg.com",-0.9387279152870178
+GRASIM,2023-06-08,HMA Agro Industries Ltd. - The Economic Times,-0.9177430272102356
+GRASIM,2017-03-01,Bloomberg Billionaires Index - Kumar Birla - Bloomberg.com,-0.942721962928772
+GRASIM,2017-08-19,JK Lakshmi Cement Ltd. - The Economic Times,-0.9196612238883972
+GRASIM,2017-11-03,"sanjay dangi: Latest News & Videos, Photos about sanjay dangi - The Economic Times",-0.930791974067688
+GRASIM,2026-01-08,Birla Opus Prime redefines excellence with ‘Perfection Always’ - ET BrandEquity,-0.7404448390007019
+GRASIM,2025-09-21,Solarworld Energy Solutions Ltd. - The Economic Times,-0.9276608824729919
+GRASIM,2017-03-27,Burnpur Cement Ltd. - The Economic Times,-0.9249562621116638
+GRASIM,2025-11-19,Excelsoft Technologies Ltd. - The Economic Times,-0.927111029624939
+GRASIM,2017-03-28,Sharda Motor Industries Ltd. - The Economic Times,-0.9201748371124268
+GRASIM,2026-03-11,Shrydus Industries Ltd. - The Economic Times,-0.9217801094055176
+GRASIM,2018-10-23,Announcement - The Economic Times,-0.9166386723518372

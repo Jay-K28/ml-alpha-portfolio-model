@@ -1,51 +1,101 @@
 ticker,date,headline,sentiment_score
-CHOLAFIN,2026-03-12,"Divine Hira Jeweller Cash Flow, Financial Statements - The Economic Times",-0.9258894324302673
-CHOLAFIN,2026-03-12,"Half Yearly Results, Half yearly Earnings for Dev Accelerator - The Economic Times",-0.9129054546356201
-CHOLAFIN,2025-12-05,"News - Announcement, Latest News on - The Economic Times",-0.9361032247543335
-CHOLAFIN,2026-03-13,"NEO Infracon Cash Flow, Financial Statements - The Economic Times",-0.9159358739852905
-CHOLAFIN,2025-05-12,"Chola Fin Hold Consolidated March 2025 Net Sales at Rs 8,913.37 crore, up 25.83% Y-o-Y - Moneycontrol.com",0.9499011039733887
-CHOLAFIN,2025-08-26,"Quarterly Results, Cholamandalam Financial Holdings Financial Statement & Accounts - Moneycontrol.com",-0.9390507340431213
-CHOLAFIN,2025-09-16,"F&O Quote - Live FNO BSE/NSE Quote, Nifty Quotes, Indian Stock Market BSE/NSE Price Increase, Chart, Open Interest Analysis & more by Moneycontrol.com - Moneycontrol.com",-0.9385393857955933
-CHOLAFIN,2025-09-22,"chola fin hold Forum Discussion on Market View, Business sectors,Stocks, Commodity, Personal Finance & More - Moneycontrol.com",-0.9451248645782471
-CHOLAFIN,2024-12-14,Cholamandalam Investment and Finance Company - Moneycontrol.com,-0.9522597789764404
-CHOLAFIN,2025-08-26,"Quarterly Results, Cholamandalam Investment and Finance Company Financial Statement & Accounts - Moneycontrol.com",-0.9398760199546814
-CHOLAFIN,2024-11-20,Cholamandalam Investment and Finance Company - Moneycontrol.com,-0.9522597789764404
-CHOLAFIN,2024-11-28,Cholamandalam Investment and Finance Company - Moneycontrol.com,-0.9522597789764404
-CHOLAFIN,2011-08-06,Cholamandalam Investment and Finance Company Ltd. - Moneycontrol.com,-0.9502135515213013
-CHOLAFIN,2025-11-14,"Chola Fin Hold Consolidated September 2025 Net Sales at Rs 9,461.41 crore, up 16.95% Y-o-Y - Moneycontrol.com",0.9496763348579407
-CHOLAFIN,2026-02-20,"Chola Fin Hold Consolidated December 2025 Net Sales at Rs 9,948.79 crore, up 17.2% Y-o-Y - Moneycontrol.com",0.9509261250495911
-CHOLAFIN,2026-02-10,"Chola Fin Hold Standalone December 2025 Net Sales at Rs 3.69 crore, up 24.66% Y-o-Y - Moneycontrol.com",0.9461501836776733
-CHOLAFIN,2018-07-30,Cholamandalam Investment and Finance Company Ltd. - Moneycontrol.com,-0.9502135515213013
-CHOLAFIN,2022-08-03,Cholamandalam Investment and Finance Company Ltd. - Moneycontrol.com,-0.9502135515213013
-CHOLAFIN,2019-04-19,Cholamandalam Financial Holdings Ltd. - Moneycontrol.com,-0.9501132965087891
-CHOLAFIN,2025-12-24,"Cholamandalam Investment and Finance shares in focus after company rejects governance allegations, brokera - The Economic Times",-0.48660901188850403
-CHOLAFIN,2024-12-02,ETMarkets Smart Talk: Top 10 stocks across 6 sectors that are looking attractive post recent fall: Gaurav - The Economic Times,0.6108454465866089
-CHOLAFIN,2018-05-07,Cholamandalam Investment and Finance Company Ltd. - Moneycontrol.com,-0.9502135515213013
-CHOLAFIN,2024-06-11,BSE Top Gainers - BSE SMALLCAP - The Economic Times,-0.8905999064445496
-CHOLAFIN,2025-12-23,Cholamandalam Investment shares rise 8% as firm terms Cobrapost report as 'malicious and baseless' - Moneycontrol.com,-0.765288233757019
-CHOLAFIN,2018-05-07,Cholamandalam Investment and Finance Company Ltd. - Moneycontrol.com,-0.9502135515213013
-CHOLAFIN,2019-04-08,Cholamandalam Financial Holdings Ltd. - Moneycontrol.com,-0.9501132965087891
-CHOLAFIN,2011-08-06,Cholamandalam Investment and Finance Company Ltd. - Moneycontrol.com,-0.9502135515213013
-CHOLAFIN,2026-02-28,"Shyam Dhani Industri Cash Flow, Financial Statements - The Economic Times",-0.9276137948036194
-CHOLAFIN,2024-06-12,"Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on - The Economic Times",-0.9394532442092896
-CHOLAFIN,2019-04-23,Cholamandalam Financial Holdings Ltd. - Moneycontrol.com,-0.9501132965087891
-CHOLAFIN,2025-07-02,HDB Financial Services shares: Are unlisted shares the new road to high gains? - The Economic Times,-0.7025261521339417
-CHOLAFIN,2024-07-29,"Ceigall India Share Price Today, Ceigall India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9392676949501038
-CHOLAFIN,2025-10-13,"Sundaram Finance Share Price Today, Sundaram Finance Stock Price Live NSE/BSE Updates - The Economic Times",-0.9401924014091492
-CHOLAFIN,2025-10-21,Indian stock benchmarks inch higher to one-year highs in special Diwali session - Reuters,0.9031543731689453
-CHOLAFIN,2018-10-13,"Pasupati Acrylon Balance Sheets, Financial Statements - The Economic Times",-0.9372047781944275
-CHOLAFIN,2025-02-03,Buy Cholamandalam Investment and Finance Company; target of Rs 1475: Motilal Oswal - Moneycontrol.com,-0.9407747387886047
-CHOLAFIN,2026-02-28,"E to E Transport Cash Flow, Financial Statements - The Economic Times",-0.9327297806739807
-CHOLAFIN,2026-03-06,"Yaap Digital Ltd. Yearly results, Financial Summary - The Economic Times",-0.9138857126235962
-CHOLAFIN,2026-03-06,Yaap Digital Ltd. Profit and Loss Reports - The Economic Times,-0.8206096887588501
-CHOLAFIN,2026-03-03,DCBA.NS - | Stock Price & Latest News - Reuters,-0.9321852922439575
-CHOLAFIN,2026-02-26,"Methodhub Software Balance Sheets, Financial Statements - The Economic Times",-0.9358696937561035
-CHOLAFIN,2018-01-13,Stock Quotes|Company Stock Price quotes|NSE/ BSE Listed Company Stocks|Indian Stock Market - Moneycontrol.com,-0.9217756390571594
-CHOLAFIN,2025-03-20,Indian shares jump as Fed's rate cut outlook bolsters sentiment - Reuters,0.5998339056968689
-CHOLAFIN,2025-09-13,"Phoenix Lamps [Merged] Cash Flow, Financial Statements - The Economic Times",-0.9202814102172852
-CHOLAFIN,2025-02-06,How long can homegrown investors hold up India’s equity market? - Reuters,-0.9226229786872864
-CHOLAFIN,2025-01-24,India's Religare says US businessman makes competing offer for stake - Reuters,-0.8493753671646118
-CHOLAFIN,2021-07-20,Zomato Ltd - Reuters,-0.9363437294960022
-CHOLAFIN,2024-11-04,Indian shares post worst session in over a month ahead of US election - Reuters,-0.9402206540107727
-CHOLAFIN,2024-07-25,Premier Energies Ltd - Reuters,-0.944858729839325
-CHOLAFIN,2024-01-19,Ola Electric Mobility Ltd - Reuters,-0.9438528418540955
+CHOLAFIN,2026-03-13,"Supreme Facility Man Yearly results, Financial Summary - The Economic Times",-0.915677011013031
+CHOLAFIN,2026-03-18,Finished Products - The Economic Times,-0.9285897612571716
+CHOLAFIN,2017-08-06,Check out Cholamandalam Investment and Finance Company Ltd's stock price (CHOLAFIN-IN) in real time - CNBC,-0.9429031014442444
+CHOLAFIN,2019-04-10,"Chola Fin Holdings Share Price Today, Chola Fin Holdings Stock Price Live NSE/BSE Updates - The Economic Times",-0.9416236877441406
+CHOLAFIN,2017-03-24,"Chola Inv Finance Share Price Today, Chola Inv Finance Stock Price Live NSE/BSE Updates - The Economic Times",-0.938724160194397
+CHOLAFIN,2026-03-20,Cholamandalam Investment & Finance Company Ltd. - The Economic Times,-0.9296392202377319
+CHOLAFIN,2026-03-18,Fall From Intraday High - Stocks / Shares Fallen From Intraday High - The Economic Times,-0.9128309488296509
+CHOLAFIN,2017-10-25,"New India Assurance Share Price Today, New India Assurance Stock Price Live NSE/BSE Updates - The Economic Times",-0.940951943397522
+CHOLAFIN,2024-05-10,"Go Digit General Ins Share Price Today, Go Digit General Ins Stock Price Live NSE/BSE Updates - The Economic Times",-0.9399479627609253
+CHOLAFIN,2025-11-01,"Indiabulls Intgrtd Share Price Today, Indiabulls Intgrtd Stock Price Live NSE/BSE Updates - The Economic Times",-0.932080090045929
+CHOLAFIN,2017-10-14,"ICICI Lombard Share Price Today, ICICI Lombard Stock Price Live NSE/BSE Updates - The Economic Times",-0.9400517344474792
+CHOLAFIN,2017-03-24,"Williamson Fin Share Price Today, Williamson Fin Stock Price Live NSE/BSE Updates - The Economic Times",-0.9406327605247498
+CHOLAFIN,2026-03-16,"Gabion Technologies Yearly results, Financial Summary - The Economic Times",-0.9234181046485901
+CHOLAFIN,2017-03-30,"Half Yearly Results, Half yearly Earnings for Starlit Power Sys. - The Economic Times",-0.9131508469581604
+CHOLAFIN,2026-03-13,"Half Yearly Results, Half yearly Earnings for Western Overseas Stu - The Economic Times",-0.9035051465034485
+CHOLAFIN,2017-03-24,"Adani Power Cash Flow, Financial Statements - The Economic Times",-0.9320177435874939
+CHOLAFIN,2026-03-13,"Half Yearly Results, Half yearly Earnings for Capillary Technologi - The Economic Times",-0.9201676249504089
+CHOLAFIN,2026-03-13,Usha Financial Serv Nine Monthly results - The Economic Times,-0.9086675643920898
+CHOLAFIN,2017-11-03,"Half Yearly Results, Half yearly Earnings for Pulz Electronics - The Economic Times",-0.9145323038101196
+CHOLAFIN,2009-09-15,"SI Group - India Ltd. Share Price Today, SI Group - India Ltd. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9399608373641968
+CHOLAFIN,2026-03-06,Bai-Kakaji Polymers Nine Monthly results - The Economic Times,-0.8960254192352295
+CHOLAFIN,2020-09-18,"Half Yearly Results, Half yearly Earnings for Neelkanth Rock - The Economic Times",-0.9158338904380798
+CHOLAFIN,2025-07-10,"Binani Ind Yearly results, Financial Summary - The Economic Times",-0.915115237236023
+CHOLAFIN,2017-04-21,"Half Yearly Results, Half yearly Earnings for Shree Steel Wire - The Economic Times",-0.9192872047424316
+CHOLAFIN,2022-06-10,About Cholamandalam Financial Holdings Ltd (CHOL.NS) - Reuters,-0.9468836784362793
+CHOLAFIN,2026-03-17,"Half Yearly Results, Half yearly Earnings for Simandhar Impex - The Economic Times",-0.9255306124687195
+CHOLAFIN,2026-03-13,Divine Hira Jeweller Nine Monthly results - The Economic Times,-0.8946540951728821
+CHOLAFIN,2017-03-29,"Simplex Infra Yearly Results, Financial summary, Simplex Infra Yearly Earnings - The Economic Times",-0.9353595972061157
+CHOLAFIN,2023-10-13,"On Door Concepts Nine Monthly Results, Nine Monthly Earnings for On Door Concepts - The Economic Times",-0.9222072958946228
+CHOLAFIN,2021-08-05,Aptus Value Housing Finance India Ltd. - The Economic Times,-0.9207240343093872
+CHOLAFIN,2026-03-17,"Half Yearly Results, Half yearly Earnings for Gurunanak Agricultur - The Economic Times",-0.9195542335510254
+CHOLAFIN,2017-03-24,"SKF India Nine Monthly Results, Nine Monthly Earnings for SKF India - The Economic Times",-0.9197719693183899
+CHOLAFIN,2019-05-28,"Half Yearly Results, Half yearly Earnings for Waaree Technologies - The Economic Times",-0.9179971814155579
+CHOLAFIN,2026-03-13,"Half Yearly Results, Half yearly Earnings for HP Telecom India - The Economic Times",-0.9178959727287292
+CHOLAFIN,2025-12-09,Methodhub Software Ltd. - The Economic Times,-0.9248054623603821
+CHOLAFIN,2026-03-13,"HP Telecom India Nine Monthly Results, Nine Monthly Earnings for HP Telecom India - The Economic Times",-0.9177725315093994
+CHOLAFIN,2026-03-12,"Half Yearly Results, Half yearly Earnings for Active Infrastructur - The Economic Times",-0.8975790739059448
+CHOLAFIN,2017-03-29,"Tata Power Cash Flow, Financial Statements - The Economic Times",-0.9240463972091675
+CHOLAFIN,2026-03-16,"Thinking Hats Enter Nine Monthly Results, Nine Monthly Earnings for Thinking Hats Enter - The Economic Times",-0.9313048124313354
+CHOLAFIN,2017-03-24,"Half Yearly Results, Half yearly Earnings for Ceat - The Economic Times",-0.9225341081619263
+CHOLAFIN,2017-04-20,"Half Yearly Results, Half yearly Earnings for Cinevista Ltd - The Economic Times",-0.9218119978904724
+CHOLAFIN,2026-01-19,"Sequent Scientific Yearly results, Financial Summary - The Economic Times",-0.9246764183044434
+CHOLAFIN,2017-04-22,"Half Yearly Results, Half yearly Earnings for Sarda Proteins - The Economic Times",-0.9190605878829956
+CHOLAFIN,2022-12-18,"Elin Electronics Cash Flow, Financial Statements - The Economic Times",-0.9253056049346924
+CHOLAFIN,2026-03-17,"Identical Brains Stu Nine Monthly Results, Nine Monthly Earnings for Identical Brains Stu - The Economic Times",-0.912426769733429
+CHOLAFIN,2024-11-19,"Enviro Infra Enginee Cash Flow, Financial Statements - The Economic Times",-0.928139865398407
+CHOLAFIN,2017-03-23,"Sharda Cropchem Cash Flow, Financial Statements - The Economic Times",-0.9268432259559631
+CHOLAFIN,2026-03-17,"Simandhar Impex Nine Monthly Results, Nine Monthly Earnings for Simandhar Impex - The Economic Times",-0.9261033535003662
+CHOLAFIN,2012-04-19,"Hanil Era Textiles Ltd. Share Price Today, Hanil Era Textiles Ltd. Stock Price Live NSE/BSE Updates - The Economic Times",-0.941761314868927
+CHOLAFIN,2026-03-17,"Capillary Technologi Nine Monthly Results, Nine Monthly Earnings for Capillary Technologi - The Economic Times",-0.9223172068595886
+CHOLAFIN,2026-03-13,"Half Yearly Results, Half yearly Earnings for Divine Hira Jeweller - The Economic Times",-0.9092952609062195
+CHOLAFIN,2025-07-29,"Oswal Pumps Cash Flow, Financial Statements - The Economic Times",-0.9234943389892578
+CHOLAFIN,2026-03-17,Dar Credit & Capital Nine Monthly results - The Economic Times,-0.9115957617759705
+CHOLAFIN,2017-03-27,"Bharat Rasayan Cash Flow, Financial Statements - The Economic Times",-0.9234517216682434
+CHOLAFIN,2021-10-29,"Sigachi Industries Cash Flow, Financial Statements - The Economic Times",-0.9285380840301514
+CHOLAFIN,2026-03-17,"Half Yearly Results, Half yearly Earnings for Lakshya Powertech - The Economic Times",-0.9127265810966492
+CHOLAFIN,2026-03-17,"Half Yearly Results, Half yearly Earnings for TechEra Engineering - The Economic Times",-0.9071691632270813
+CHOLAFIN,2017-03-31,"Mihika Industries Nine Monthly Results, Nine Monthly Earnings for Mihika Industries - The Economic Times",-0.9094410538673401
+CHOLAFIN,2022-11-06,"Kaynes Technology Cash Flow, Financial Statements - The Economic Times",-0.9309975504875183
+CHOLAFIN,2017-09-02,"Jindal Drilling Cash Flow, Financial Statements - The Economic Times",-0.9232555031776428
+CHOLAFIN,2023-12-16,"Credo Brands Marketing Yearly results, Financial Summary - The Economic Times",-0.9246920347213745
+CHOLAFIN,2026-03-13,"TechEra Engineering Yearly results, Financial Summary - The Economic Times",-0.9151635766029358
+CHOLAFIN,2026-03-13,"Half Yearly Results, Half yearly Earnings for Chandan Healthcare L - The Economic Times",-0.9160899519920349
+CHOLAFIN,2017-08-08,"Phyto Chem Yearly Results, Financial summary, Phyto Chem Yearly Earnings - The Economic Times",-0.9306463599205017
+CHOLAFIN,2026-03-02,"Half Yearly Results, Half yearly Earnings for Deccan Bearings - The Economic Times",-0.9132818579673767
+CHOLAFIN,2017-10-15,"SBI Life Cash Flow, Financial Statements - The Economic Times",-0.9298242926597595
+CHOLAFIN,2026-03-20,MphasiS Ltd. - The Economic Times,-0.9238889813423157
+CHOLAFIN,2017-03-29,"PTC India Cash Flow, Financial Statements - The Economic Times",-0.9260308742523193
+CHOLAFIN,2017-04-13,"Max Financial Cash Flow, Financial Statements - The Economic Times",-0.9269773364067078
+CHOLAFIN,2017-05-31,"Raja Bahadur Nine Monthly Results, Nine Monthly Earnings for Raja Bahadur - The Economic Times",-0.923679530620575
+CHOLAFIN,2017-03-27,"Jindal Worldwide Nine Monthly Results, Nine Monthly Earnings for Jindal Worldwide - The Economic Times",-0.9203245043754578
+CHOLAFIN,2017-03-29,"Zensar Tech Cash Flow, Financial Statements - The Economic Times",-0.9283409118652344
+CHOLAFIN,2026-03-17,"Virtual Galaxy Info Cash Flow, Financial Statements - The Economic Times",-0.9354749917984009
+CHOLAFIN,2017-04-23,"Half Yearly Results, Half yearly Earnings for Shilchar Tech - The Economic Times",-0.9027162194252014
+CHOLAFIN,2017-04-05,"Virat Ind Nine Monthly Results, Nine Monthly Earnings for Virat Ind - The Economic Times",-0.9168321490287781
+CHOLAFIN,2017-04-12,"Half Yearly Results, Half yearly Earnings for IZMO - The Economic Times",-0.9070402979850769
+CHOLAFIN,2026-03-17,"Half Yearly Results, Half yearly Earnings for Emmvee Photovoltaic - The Economic Times",-0.9202860593795776
+CHOLAFIN,2018-01-18,Genesis IBRC India Nine Monthly results - The Economic Times,-0.9069450497627258
+CHOLAFIN,2026-03-18,"Half Yearly Results, Half yearly Earnings for Aegis Vopak Terminal - The Economic Times",-0.9229416251182556
+CHOLAFIN,2022-08-08,Olatech Solutions Ltd. - The Economic Times,-0.9227180480957031
+CHOLAFIN,2017-03-23,"IndusInd Bank Cash Flow, Financial Statements - The Economic Times",-0.9271566867828369
+CHOLAFIN,2017-04-22,"Waterbase Ltd Cash Flow, Financial Statements - The Economic Times",-0.9273505210876465
+CHOLAFIN,2026-03-16,"Half Yearly Results, Half yearly Earnings for Indo Farm Equipment - The Economic Times",-0.9155609011650085
+CHOLAFIN,2019-08-20,Financial Services Sector Listing - The Economic Times,-0.9088428020477295
+CHOLAFIN,2025-06-27,Crizac Ltd. - The Economic Times,-0.9262012243270874
+CHOLAFIN,2025-05-21,"Carraro India L Cash Flow, Financial Statements - The Economic Times",-0.9264160990715027
+CHOLAFIN,2023-12-09,Suraj Estate Developers Ltd. - The Economic Times,-0.9235597252845764
+CHOLAFIN,2021-12-16,"CMS Info Systems Cash Flow, Financial Statements - The Economic Times",-0.9242610335350037
+CHOLAFIN,2026-03-17,"Half Yearly Results, Half yearly Earnings for Bharat Coking Coal - The Economic Times",-0.9182291030883789
+CHOLAFIN,2017-08-18,"Half Yearly Results, Half yearly Earnings for RattanIndia Power - The Economic Times",-0.9206029772758484
+CHOLAFIN,2026-03-17,"Euro Pratik Sales Nine Monthly Results, Nine Monthly Earnings for Euro Pratik Sales - The Economic Times",-0.9210387468338013
+CHOLAFIN,2017-04-03,Announcement - The Economic Times,-0.9166386723518372
+CHOLAFIN,2017-03-27,Gayatri Sugars Ltd. - The Economic Times,-0.9192408919334412
+CHOLAFIN,2021-12-14,"Supriya Lifescience Cash Flow, Financial Statements - The Economic Times",-0.9273953437805176
+CHOLAFIN,2025-08-22,"Bhadora Industries Yearly results, Financial Summary - The Economic Times",-0.9124964475631714
+CHOLAFIN,2017-03-29,HCKK Ventures Ltd. - The Economic Times,-0.9251776337623596
+CHOLAFIN,2018-11-14,"Pradhin Ltd. Cash Flow, Financial Statements - The Economic Times",-0.9247896671295166
+CHOLAFIN,2017-03-29,Prakash Industries Ltd. - The Economic Times,-0.9164426326751709
+CHOLAFIN,2026-03-16,"Dev Accelerator Yearly Results, Financial summary, Dev Accelerator Yearly Earnings - The Economic Times",-0.9315597414970398
+CHOLAFIN,2024-12-31,Quadrant Future Tek Ltd. - The Economic Times,-0.9270789623260498
