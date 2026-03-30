@@ -1,99 +1,101 @@
 ticker,date,headline,sentiment_score
-M&M,2026-03-20,"Maruti, Tata Motors, M&M, Bajaj Auto: CLSA decodes strategy for auto stocks - Business Standard",-0.8751552104949951
-M&M,2026-03-18,"M&M share price up 8% in 3 days; analysts upbeat on growth, see 49% upside - Business Standard",0.9446014761924744
-M&M,2026-03-19,"Nirmal Bang picks Maruti, M&M as auto sector corrects; flags gas risks - Business Standard",-0.8536943197250366
-M&M,2026-03-17,"EV policy boost: Nomura sees gains for Tata Motors, M&M, Ather, Sona BLW - Business Standard",0.951129138469696
-M&M,2026-03-20,"The multiple is the most important thing for investing, says HundredX's Pace - CNBC",-0.8775033354759216
-M&M,2026-03-17,Mistral AI CEO on its partnership with Nvidia to accelerate open frontier models - CNBC,-0.8182128071784973
-M&M,2026-03-19,"Auto stocks fall up to 5% on oil price rise, Fed pause; brokerages cautious - Business Standard",-0.9443352818489075
-M&M,2024-02-09,"Moving Averages Updates: M&M Drops Below 20-Day EMA, Current Price at Rs 1652.95 - The Economic Times",-0.9251315593719482
-M&M,2026-03-19,Geojit upgrades V-Guard to 'Buy' with 18% upside on strong seasonal demand - Business Standard,0.9562869071960449
-M&M,2026-03-18,Power Finance Corporation stock soars 4%; Motilal Oswal sees more upside - Business Standard,0.7845994234085083
-M&M,2015-06-03,Futures - Bloomberg.com,-0.9385830760002136
-M&M,2026-03-19,"BPCL, HPCL, IOC: OMC shares tank up to 6% after crude oil rises over 3% - Business Standard",0.9468230605125427
-M&M,2026-03-19,"Bajaj Finance falls 5%, m-cap sinks ₹1trn since West Asia war; time to buy? - Business Standard",-0.8953894376754761
-M&M,2026-03-16,"Oil relief sparks a stock rally, but Cramer says Nvidia’s AI boom is the real story - CNBC",-0.8611763119697571
-M&M,2026-03-18,Mankind Pharma shares gain 3% on acquiring Rivotril brand rights from Roche - Business Standard,0.9410794377326965
-M&M,2026-03-19,Cement demand strong; correction offers buying opportunity: Motilal Oswal - Business Standard,-0.5462899208068848
-M&M,2026-03-19,"Valuation 'attractive' for FPIs to invest in India, says Sebi WTM Varshney - Business Standard",0.8485783934593201
-M&M,2026-03-18,Resolution plan: Why Jaiprakash Power is soaring while JAL shares slip? - Business Standard,-0.60166335105896
-M&M,2026-03-19,"Asian shares skid as oil prices top $111 a barrel, Wall Street slumps - Business Standard",-0.9650194048881531
-M&M,2026-03-20,AI tailwinds not enough: Analysts cautious on Indian IT after Accenture Q2 - Business Standard,-0.9464097619056702
-M&M,2026-03-19,"GR Infra shares gain 5% on ₹2,440 crore project win; outperforms market - Business Standard",0.9445666670799255
-M&M,2026-03-18,"Nifty Capital Market index jumps 2%; Angel One, MOFSL, KFin zoom up to 9% - Business Standard",0.9458033442497253
-M&M,2026-03-19,What should investors do with HDFC Bank stock as Atanu Chakraborty resigns? - Business Standard,-0.8133478760719299
-M&M,2026-03-16,"Nomura cuts Dec 2026 Nifty target by 15%; mid, smallcaps at risk - Business Standard",-0.8150209188461304
-M&M,2026-03-20,"Lexus India eyes faster growth in FY26 amid rising demand, new launches - Business Standard",0.8633009195327759
-M&M,2026-03-19,"ICICI Bank, ICICI Pru Life slip up to 4% as Prudential explores JV exit - Business Standard",-0.9707786440849304
-M&M,2026-03-19,HDFC Bank share price crash: These mutual funds may see the biggest hit - Business Standard,-0.8139081597328186
+M&M,2026-03-25,"D-St investors gain Rs 10 lakh cr as Sensex soars 1,700 pts; Nifty tops 23,450. 3 key factors behind today's.. - BFSI News",0.567886471748352
+M&M,2026-03-25,"Legal AI startup Harvey valued at $11 billion in funding round, as VCs spread bets beyond model companies - CNBC",-0.8061156272888184
+M&M,2026-03-25,Crude oil is not going back to $65 per barrel if war ends: One Point BFG Wealth's Peter Boockvar - CNBC,-0.8979014158248901
+M&M,2026-03-28,Jim Cramer talks the biggest lessons he's learned from the charitable trust - CNBC,-0.9129716157913208
+M&M,2026-03-26,Oil surge lifts energy stocks as war drives fuel cost pressures - CNBC,-0.6695422530174255
+M&M,2026-03-25,"LA jury orders Meta, Google to pay $6 million in social media addiction trial - CNBC",-0.6029597520828247
+M&M,2026-03-25,'Fast Money' traders talk the 'most important chart in the market' - CNBC,-0.9130767583847046
+M&M,2026-03-24,Cos. using AI to empower workers will do better than those firing their way into 'phony beat and raise quarters': Jim Cramer - CNBC,-0.7934480905532837
+M&M,2026-03-24,Barclays' Venu Krishna on the firm’s S&P 500 price target raise - CNBC,-0.9128984212875366
+M&M,2026-03-23,Melius' Ben Reitzes on cutting its Microsoft price target - CNBC,-0.5856720805168152
+M&M,2026-03-26,"Rights issues surge, QIPs shrink in FY26 amid sharp market turbulence - Business Standard",-0.9714353084564209
 M&M,2026-03-22,JSW MG Motor bets on non-metros to accelerate sales of EV Windsor - Business Standard,0.9485291838645935
-M&M,2026-03-17,Oberoi Realty shares rise 3% as it inks MHADA project pact for Versova land - Business Standard,0.9209945201873779
-M&M,2026-03-17,Urban Company shares drop 5% after large equity traded in two block deals - Business Standard,-0.9689224362373352
-M&M,2026-03-17,Campus Activewear poised for steady growth; Motilal Oswal reiterates 'Buy' - Business Standard,0.8777562975883484
-M&M,2026-03-20,India's gas utilities eye market share gains amid LPG shortage crisis - Business Standard,0.9131181240081787
-M&M,2026-03-20,"Crude oil futures slide 2% to ₹8,808 per barrel amid Iran supply hopes - Business Standard",-0.9595019817352295
-M&M,2026-03-20,Here's why strike on Qatar's Ras Laffan could roil gas markets for years - Business Standard,-0.9288865327835083
-M&M,2026-03-18,EVs avoided the use of 2.3 million barrels of oil per day in 2025 - Business Standard,-0.8599583506584167
+M&M,2017-03-23,"Bajaj Finance Share Price Today, Bajaj Finance Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387547373771667
 M&M,2025-07-30,MM IN 30Jul25 - bsmedia.business-standard.com,-0.9445530772209167
-M&M,2024-04-23,"India's M&M Financial discovers fraud at one branch, delays Q4 results to May 30 - Reuters",-0.9543057680130005
-M&M,2010-07-29,Mahindra and Mahindra - bsmedia.business-standard.com,-0.9484227895736694
-M&M,2017-08-06,Check out Mahindra and Mahindra Ltd's stock price (M&M-IN) in real time - CNBC,-0.9461702108383179
-M&M,2025-07-19,Mahindra & Mahindra - bsmedia.business-standard.com,-0.9480774402618408
-M&M,2026-03-20,Mahindra & Mahindra Ltd. - The Economic Times,-0.9208560585975647
+M&M,2024-04-23,"India's M&M Financial discovers fraud at one branch, delays Q4 results to May 30 - reuters.com",-0.85704505443573
+M&M,2017-07-30,"M&M Financial Cash Flow, Financial Statements - The Economic Times",-0.9241731762886047
+M&M,2026-03-25,Mahindra & Mahindra Ltd. - The Economic Times,-0.9208560585975647
+M&M,2017-03-24,"M&M Financial Share Price Today, M&M Financial Stock Price Live NSE/BSE Updates - The Economic Times",-0.9372087717056274
 M&M,2021-01-08,"M&M Q1 Results: Profit surges 67% YoY to Rs 1,430 crore but misses estimates - The Economic Times",0.5552651286125183
+M&M,2017-04-10,"M&M Share Price Today, M&M Stock Price Live NSE/BSE Updates - The Economic Times",-0.9348949790000916
 M&M,2017-07-30,Mahindra & Mahindra Financial Services Ltd. - The Economic Times,-0.9252333641052246
-M&M,2025-05-05,"M&M's Q4 net profit jumps 22% to ₹2,437 crore - ET Auto",0.9416456818580627
-M&M,2024-06-27,M&M Finance CFO Vivek Karve resigns - ETCFO.com,-0.9429261088371277
+M&M,2017-08-06,Check out Mahindra and Mahindra Ltd's stock price (M&M-IN) in real time - CNBC,-0.9461702108383179
 M&M,2025-02-18,"M&M at its peak – Should you buy, sell, or hold? - ET Auto",-0.9387004971504211
-M&M,2019-12-23,"M&M announces succession plan, appoints & elevates CFO to CEO - ETCFO.com",-0.941591739654541
+M&M,2025-05-05,"M&M's Q4 net profit jumps 22% to ₹2,437 crore - ET Auto",0.9416456818580627
+M&M,2024-06-27,M&M Finance CFO Vivek Karve resigns - ET CFO,-0.9377844929695129
+M&M,2025-11-21,MM IN 21Nov25 - bsmedia.business-standard.com,-0.9465482831001282
 M&M,2025-11-20,MM IN Equity 20Nov25 CU - bsmedia.business-standard.com,-0.9447919130325317
-M&M,2025-05-15,Mahle India receives recognition from M&M for thermal management system - ET Auto,0.9217485785484314
+M&M,2019-12-23,"M&M announces succession plan, appoints & elevates CFO to CEO - ET CFO",-0.9329439997673035
 M&M,2025-02-07,"Mahindra & Mahindra reports strong Q3 FY25 results, consolidated PAT rises 20% - ET Infra",0.9453203082084656
-M&M,2025-07-07,M&M Jun25 BSE.xlsx - bsmedia.business-standard.com,-0.9497236609458923
-M&M,2025-01-29,M&M Finance appoints Pradeep Kumar Agrawal as CFO - ETCFO.com,-0.9327237606048584
-M&M,2014-03-15,MM: Mahindra & Mahindra Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9463432431221008
-M&M,2025-06-30,India poised to emerge as global manufacturing powerhouse: M&M Group CEO-MD Anish Shah - ETCFO.com,0.5570487976074219
 M&M,2025-02-07,"Mahindra & Mahindra reports 20% rise in Q3 profit, driven by auto and farm segments - ET Auto",0.9537383913993835
-M&M,2025-12-03,mahindra - bsmedia.business-standard.com,-0.9465206265449524
-M&M,2025-02-01,"Mahindra sales up 16% at 85,432 units in January - ET Auto",0.9527859091758728
-M&M,2025-07-30,"M&M Q1 net profit surges 24% to ₹4,083 cr on strong auto, tractor sales - ET Auto",0.9477318525314331
+M&M,2025-05-15,Mahle India receives recognition from M&M for thermal management system - ET Auto,0.9217485785484314
+M&M,2014-03-15,MM: Mahindra & Mahindra Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9463432431221008
+M&M,2025-07-07,M&M Jun25 BSE.xlsx - bsmedia.business-standard.com,-0.9497236609458923
+M&M,2025-01-29,M&M Finance appoints Pradeep Kumar Agrawal as CFO - ET CFO,-0.9383645057678223
 M&M,2025-10-20,SML Mahindra Ltd. - The Economic Times,-0.915207028388977
-M&M,2021-08-06,M&M reports Q1 FY22 profit at INR 424 cr - ET Auto,-0.6988385319709778
-M&M,2019-12-01,"M&M domestic sales slip 7% at 38,614 units in November - ET Auto",-0.9752976298332214
-M&M,2021-08-18,Bosch joins hands with M&M to develop connected vehicle platform for XUV 700 - ET Auto,0.7022879719734192
-M&M,2018-09-11,"St. Helen's Court, Pedder Road, Mumbai 400 026. - bsmedia.business-standard.com",-0.9438572525978088
+M&M,2025-06-30,India poised to emerge as global manufacturing powerhouse: M&M Group CEO-MD Anish Shah - ET CFO,-0.5711404085159302
+M&M,2025-12-03,mahindra - bsmedia.business-standard.com,-0.9465206265449524
 M&M,2025-11-03,M&M Q2 Preview: Double-digit revenue growth up to 25% YoY seen on healthy volumes; weak ASP may hit profits - ET Auto,0.6536506414413452
+M&M,2021-08-06,M&M reports Q1 FY22 profit at INR 424 cr - ET Auto,-0.6988385319709778
+M&M,2019-06-27,"Mahindra finance - Latest mahindra finance , Information & Updates - BFSI -ET BFSI - BFSI News",-0.9470546841621399
+M&M,2021-08-18,Bosch joins hands with M&M to develop connected vehicle platform for XUV 700 - ET Auto,0.7022879719734192
 M&M,2025-02-07,NARAYAN SHANKAR - bsmedia.business-standard.com,-0.944776713848114
 M&M,2025-10-09,"M&M denies reports of business restructuring; says no plan to demerge auto, tractor units - ET Auto",-0.8744126558303833
-M&M,2024-07-31,"India's Mahindra & Mahindra posts bigger adjusted profit on strong car, tractor sales - Reuters",0.9420376420021057
 M&M,2022-03-04,"M&M partners with CSC Grameen eStore to deepen connect with over 700,000 villages in India - ET Auto",0.8487007021903992
 M&M,2021-05-18,M&M joins The Valuable 500 initiative to tackle disability inclusion in business - ETHRWorld.com,-0.7496610879898071
 M&M,2021-08-23,M&M ties up with SBI for small CV financing - ET Auto,0.527344286441803
-M&M,2017-03-23,"Coal India Ltd Share Price Today, Coal India Ltd Stock Price Live NSE/BSE Updates - The Economic Times",-0.9378774762153625
-M&M,2015-03-09,M&M registers the Luna brand - ET Auto,-0.9493022561073303
-M&M,2019-06-03,Headwinds in tractor business may limit gains for M&M - ET Auto,-0.9276377558708191
-M&M,2022-05-19,M&M set to tap VW's MEB EV platform for its new 'Born Electric' journey - ET Auto,-0.6399272084236145
 M&M,2020-03-22,M&M suspends operations at three locations in Maharashtra - ET Auto,-0.9574540257453918
+M&M,2015-03-09,M&M registers the Luna brand - ET Auto,-0.9493022561073303
+M&M,2011-09-02,"Markets close higher; RIL, M&M, Rel Cap gain - The Economic Times",0.9095264673233032
 M&M,2025-07-01,India poised to emerge as global manufacturing powerhouse: M&M Group CEO-MD - ET BrandEquity,0.8310978412628174
 M&M,2025-04-07,"Tata Motors surpasses Hyundai, M&M to claim second spot in March 2025 - ET Auto",0.9017534255981445
-M&M,2021-02-05,"As Manoj Bhat becomes Group CFO of M&M, Tech Mahindra brings back its former CFO, Milind Kulkarni - ETCFO.com",-0.9325751066207886
+M&M,2019-06-03,Headwinds in tractor business may limit gains for M&M - ET Auto,-0.9276377558708191
+M&M,2022-05-19,M&M set to tap VW's MEB EV platform for its new 'Born Electric' journey - ET Auto,-0.6399272084236145
 M&M,2025-05-13,M&M prefers caution as its mantra while ramping up EV output - ET Auto,-0.8251810073852539
-M&M,2017-04-23,"M M Rubber Share Price Today, M M Rubber Stock Price Live NSE/BSE Updates - The Economic Times",-0.9385193586349487
+M&M,2024-03-28,Mahindra & Mahindra Share Price - Business Standard,-0.9437517523765564
 M&M,2025-02-25,"With BE 6 and XEV 9E, M&M is seeing new dynamics in customer response - ET Auto",0.8707846403121948
+M&M,2017-03-23,"Tech Mahindra Share Price Today, Tech Mahindra Stock Price Live NSE/BSE Updates - The Economic Times",-0.9400528073310852
+M&M,2025-02-01,"Mahindra sales up 16% at 85,432 units in January - ET Auto",0.9527859091758728
+M&M,2017-04-23,"M M Rubber Share Price Today, M M Rubber Stock Price Live NSE/BSE Updates - The Economic Times",-0.9385193586349487
+M&M,2023-04-17,"M&M recasts top management roles of auto business, readies for electric play - ET CFO",-0.9152008295059204
 M&M,2021-07-13,M&M launches Bolero Neo at a starting price of INR 8.48 lakh - ET Auto,-0.9049644470214844
+M&M,2025-06-01,"M&M sales rise 17% to 84,110 units in May, SUV sales up 21% - ET Auto",0.953930139541626
+M&M,2021-10-22,M&M initiates inquiry on compliance of ethical standards; rejigs AD-CDMM operating structure - ET Auto,-0.8881322741508484
 M&M,2018-03-31,"Tata Motors, M&M to faceoff again, this time for electric LCVs - ET Auto",-0.6032570004463196
 M&M,2023-05-18,Indrajeet Sengupta joins M&M Automotive as Chief People Officer - ETHRWorld.com,-0.9377806186676025
 M&M,2024-11-13,"With LCVs back on track, M&M has cause for cheer - ET Auto",0.8391099572181702
-M&M,2023-04-17,"M&M recasts top management roles of auto business, readies for electric play - ETCFO.com",-0.9394513368606567
 M&M,2024-11-08,What is behind M&M’s bullish growth prospects for FY25? - ET Auto,-0.8918256759643555
 M&M,2021-04-08,New M&M XUV 700 to be revealed in Q2 FY22 - ET Auto,-0.8689921498298645
-M&M,2025-02-08,"Tractor segment to grow over 15% in Q4; CVs remain weak, says M&M - ET Auto",-0.8806581497192383
 M&M,2017-12-18,Bharatendu Kapoor ends 33-year-long stint with M&M; joins TAFE - ET Auto,-0.8990658521652222
+M&M,2021-02-05,"As Manoj Bhat becomes Group CFO of M&M, Tech Mahindra brings back its former CFO, Milind Kulkarni - ET CFO",-0.9228502511978149
 M&M,2017-03-24,"M M Forgings Share Price Today, M M Forgings Stock Price Live NSE/BSE Updates - The Economic Times",-0.9366709589958191
-M&M,2025-06-01,"M&M sales rise 17% to 84,110 units in May, SUV sales up 21% - ET Auto",0.953930139541626
-M&M,2021-10-22,M&M initiates inquiry on compliance of ethical standards; rejigs AD-CDMM operating structure - ET Auto,-0.8881322741508484
+M&M,2024-05-17,M&M not to ignore ICEs for EVs; will look at hybrid tech closely - ET Auto,-0.8567425608634949
+M&M,2024-03-28,Mahindra & Mahindra Ltd News - Business Standard,-0.9392082691192627
+M&M,2022-11-02,"M&M reports 60 pc rise in domestic passenger vehicle sales at 32,298 units in Oct - ET Auto",0.9438753128051758
+M&M,2026-01-29,"M&M, Maruti Suzuki fall another 4%; what's making the Street nervous? - Business Standard",-0.954557478427887
+M&M,2026-02-12,"Demand stays strong, margin trajectory key for Mahindra & Mahindra - Business Standard",0.6045604348182678
+M&M,2024-06-21,M&M advances digital transformation with Dassault Systemes 3DEXPERIENCE Platform on the Cloud - ET Auto,-0.7559979557991028
+M&M,2025-07-30,"M&M Q1 PAT rises 24% to ₹4,083 crore on strong auto volume growth - Business Standard",0.9505007266998291
+M&M,2026-02-11,"M&M gains after Q3 PAT jumps 33% YoY to Rs 3,931 cr - Business Standard",0.926849901676178
 M&M,2020-10-12,M&M launches BS-VI variant of 3-wheeler brand Alfa - ET Auto,-0.8259643316268921
 M&M,2023-03-22,IFC to invest INR 600 crore in M&M’s new last mile mobility company underway - ET Auto,-0.814472496509552
-M&M,2024-03-08,How CIO Rucha Nanavati is helping M&M leverage AI for growth and innovation - ET CIO,-0.8301180601119995
-M&M,2022-11-02,"M&M reports 60 pc rise in domestic passenger vehicle sales at 32,298 units in Oct - ET Auto",0.9438753128051758
+M&M,2020-10-30,M&M search for potential investors in e-mobility business may end soon! - ET Auto,-0.9376258850097656
+M&M,2024-03-08,How CIO Rucha Nanavati is helping M&M leverage AI for growth and innovation - Indiatimes,-0.8699450492858887
+M&M,2025-12-01,"M&M, Ashok Leyland: Auto index hits new high as OEMs report Dec 2025 sales - Business Standard",0.9223494529724121
+M&M,2025-11-06,"M&M up 3% in subdued market, nears record high; what's driving auto stock? - Business Standard",0.7780303955078125
+M&M,2025-05-05,"SUV, tractor fire up M&M earnings, Q4 PAT up 20% at Rs 3,295 crore - Business Standard",0.9511067867279053
+M&M,2026-02-03,"Stocks to buy today: Shrikant Chouhan recommends M&M, Delhivery as top bets - Business Standard",-0.8792349100112915
+M&M,2025-11-01,M&M records 26% growth in overall auto sales to over 120K units in October - Business Standard,0.9520710110664368
+M&M,2026-03-12,"Why M&M, Maruti Suzuki, TVS Motor & other auto stocks falling today? - Business Standard",-0.7996633648872375
+M&M,2026-02-11,"Mahindra Q3 result: PAT up 47% at ₹4,675 cr on highest quarterly revenue - Business Standard",0.9510643482208252
+M&M,2025-06-06,"Snacks like M&M’s, Skittles, and Doritos ‘Not recommended for human consumption’ in US? - ET BrandEquity",-0.9352927803993225
 M&M,2021-07-07,M&M expands farm equipment business in Turkey - ET Auto,0.8433001041412354
+M&M,2021-07-08,M&M launches new Supro Profit Truck range; price starts at INR 5.40 lakh - ET Auto,-0.7120591402053833
+M&M,2025-11-05,"New launches, premiumisation to drive M&M's continued outperformance - Business Standard",0.9202456474304199
+M&M,2025-07-23,"M&M shares hit new high, soar 40% from April low; more upside ahead? - Business Standard",0.8848845362663269
+M&M,2026-03-18,"M&M share price up 8% in 3 days; analysts upbeat on growth, see 49% upside - Business Standard",0.9446014761924744
+M&M,2013-07-10,M&M to suspend production for a few days in July - reuters.com,-0.8126772046089172
+M&M,2026-01-29,"Stocks to Watch today: L&T, SBI Life, ACC, Cochin Shipyard, RVNL, M&M Fin - Business Standard",-0.9448763132095337
+M&M,2025-05-05,"M&M Q4 result: Net profit rises 21% to ₹2,437 crore, dividend declared - Business Standard",0.9478235244750977
+M&M,2026-02-12,Brokerages remain cautiously optimistic on M&M post Q3; stock down 2% - Business Standard,-0.9672166109085083

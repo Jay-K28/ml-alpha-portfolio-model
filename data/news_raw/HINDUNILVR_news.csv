@@ -1,53 +1,52 @@
 ticker,date,headline,sentiment_score
-HINDUNILVR,2026-03-20,"Zetwerk plans to confidentially file for Indian IPO, targets $4 billion valuation, sources say - Reuters",-0.9427482485771179
-HINDUNILVR,2026-03-16,"Index heavyweights, autos help Nifty, Sensex snap three-session losing run - Reuters",-0.550927996635437
+HINDUNILVR,2026-03-24,"Rs 8 lakh crore gains! Sensex jumps 1,400 points, Nifty closes above 22,900; 4 factors behind today's D-Stre.. - ET CFO",0.7894287705421448
 HINDUNILVR,2017-07-31,Check out Hindustan Unilever Ltd's stock price (HINDUNILVR-IN) in real time - CNBC,-0.9459956884384155
-HINDUNILVR,2017-03-24,"HUL Share Price Today, HUL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9371036291122437
-HINDUNILVR,2017-03-29,Hindustan Unilever Ltd. - The Economic Times,-0.9213678240776062
 HINDUNILVR,2020-03-31,"HUL Q4 Results: PAT rises 4% YoY to Rs 2,493 crore, revenue up 2% - The Economic Times",0.949714183807373
-HINDUNILVR,2020-10-05,"HUL Q1 Results: Profit jumps 11% YoY to Rs 2,289 crore, beats estimates; revenue rises 19.5% - The Economic Times",0.9416624903678894
+HINDUNILVR,2017-03-29,Hindustan Unilever Ltd. - The Economic Times,-0.9213678240776062
 HINDUNILVR,2021-12-25,"HUL Q3 Results: Cons PAT drops 30% YoY to Rs 2,118 crore; revenue rises 6% - The Economic Times",-0.7755347490310669
-HINDUNILVR,2024-10-23,"Hindustan Unilever falls after profit miss, analysts flag more demand woes - Reuters",-0.9513291120529175
-HINDUNILVR,2025-11-04,Indian shares drop as broader profit booking dampens earnings optimism - Reuters,-0.9474688768386841
-HINDUNILVR,2014-03-15,HUVR: Hindustan Unilever Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9474416971206665
-HINDUNILVR,2025-11-17,Financials lead Indian stocks higher on earnings optimism; mid-caps hit record high - Reuters,0.9400767087936401
-HINDUNILVR,2025-12-11,"Jefferies says Indian shares set for better 2026 on earnings, domestic flows - Reuters",-0.8484621047973633
-HINDUNILVR,2025-10-31,Indian benchmark shares log best month since March on strong earnings outlook - Reuters,0.9133738279342651
-HINDUNILVR,2026-01-23,"India's Nifty 50 logs steepest weekly drop in four months on tepid earnings, foreign outflows - Reuters",-0.9641455411911011
-HINDUNILVR,2025-07-21,"HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains - Reuters",0.6184461116790771
-HINDUNILVR,2026-01-16,India equity benchmarks end week flat as earnings counter global jitters - Reuters,-0.9282996654510498
-HINDUNILVR,2026-01-29,Indian shares rise for third session; gains capped by record-low rupee - Reuters,0.4932432770729065
-HINDUNILVR,2025-07-16,India's benchmarks settle flat as gains in state-owned lenders offset metals losses - Reuters,-0.7566284537315369
-HINDUNILVR,2026-01-21,Indian shares extend losses after Tuesday's selloff; rupee slumps to record low - Reuters,-0.9604122042655945
-HINDUNILVR,2025-07-11,India's equity benchmarks log weekly losses as IT stocks drag - Reuters,-0.9593430757522583
-HINDUNILVR,2025-07-23,Indian benchmarks shares track global rally on US-Japan trade deal boost - Reuters,-0.6221115589141846
-HINDUNILVR,2025-07-14,India's equity benchmarks inch lower as IT stocks offset gains in other sectors - Reuters,-0.9493104219436646
-HINDUNILVR,2026-01-28,"Indian shares rise on EU deal; defence, infrastructure stocks gain ahead of budget - Reuters",0.8880199790000916
-HINDUNILVR,2025-12-08,Indian shares post worst day in over two months; IndiGo sheds 8% - Reuters,-0.9624630212783813
-HINDUNILVR,2026-01-12,Indian shares snap losing streak as US envoy's remarks soothe tariff woes - Reuters,-0.6238376498222351
-HINDUNILVR,2025-07-09,"Indian equity benchmarks edge lower as Reliance, metals losses outpace consumer gains - Reuters",-0.9601874947547913
-HINDUNILVR,2025-07-17,IT stocks drag India's benchmarks lower - Reuters,-0.8404670357704163
-HINDUNILVR,2026-03-13,"India's equity benchmarks confirm correction on Iran war, crude prices; technicals weaken - Reuters",-0.9115363359451294
-HINDUNILVR,2025-05-21,"Indian equity benchmarks snap 3-day losing streak on financial, pharma boost - Reuters",-0.8216331005096436
-HINDUNILVR,2025-04-17,Financials haul Indian stocks to best week in over 4 years - Reuters,0.5898468494415283
-HINDUNILVR,2025-09-23,Indian benchmarks muted as US visa worries offset consumption optimism - Reuters,-0.5682089924812317
-HINDUNILVR,2025-11-07,"HSBC sees Indian stocks as hedge against global AI rally; finds value in FX, bonds - Reuters",-0.8168769478797913
-HINDUNILVR,2026-03-12,Indian shares drop for second session on raging Mideast war; power stocks buck trend - Reuters,-0.9597545266151428
-HINDUNILVR,2025-05-08,Indian shares fall as tensions with Pakistan escalate - Reuters,-0.9428401589393616
-HINDUNILVR,2025-09-29,"India's equity benchmarks slip for 7th day, led by private banks - Reuters",-0.9600578546524048
-HINDUNILVR,2025-09-25,Indian benchmarks post longest losing run in six months as IT sell-off continues - Reuters,-0.8983173966407776
-HINDUNILVR,2025-06-30,India's equity benchmarks ease as financials retreat from record highs - Reuters,-0.8459077477455139
-HINDUNILVR,2025-07-07,India's stock benchmarks muted on tariff jitters; Trump says India deal close - Reuters,-0.558691143989563
-HINDUNILVR,2025-11-11,India File: Mumbai stocks stand out as hedge against AI - Reuters,0.511854350566864
-HINDUNILVR,2025-05-07,India's equity benchmarks end little changed after India strikes Pakistan - Reuters,-0.8025396466255188
-HINDUNILVR,2025-07-01,India's equity benchmarks muted as Reliance Industries offsets broader losses - Reuters,0.6065375208854675
-HINDUNILVR,2025-05-06,"Indian exchanges BSE, NSE curb overseas access to their websites, sources say - Reuters",-0.7352689504623413
-HINDUNILVR,2025-06-05,"Reliance, rate-sensitive sectors lead Indian shares higher, RBI decision in focus - Reuters",-0.5368145704269409
-HINDUNILVR,2025-09-26,"Indian benchmarks hit three-week low as US curbs drag IT, pharma - Reuters",-0.9137700200080872
-HINDUNILVR,2025-05-23,"Indian equity benchmarks top Asian gainers, erase weekly losses - Reuters",-0.7702968120574951
-HINDUNILVR,2025-05-19,Indian benchmark indexes drop as US downgrade hits IT stocks; broader market up on rate cut hopes - Reuters,-0.9255451560020447
+HINDUNILVR,2017-03-24,"HUL Share Price Today, HUL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9371036291122437
+HINDUNILVR,2020-10-05,"HUL Q1 Results: Profit jumps 11% YoY to Rs 2,289 crore, beats estimates; revenue rises 19.5% - The Economic Times",0.9416624903678894
+HINDUNILVR,2026-02-11,Unilever India Net Income Beats Estimate on One-Off Gain - Bloomberg.com,-0.877146303653717
+HINDUNILVR,2025-11-04,Indian shares drop as broader profit booking dampens earnings optimism - reuters.com,-0.9290905594825745
+HINDUNILVR,2025-11-17,Financials lead Indian stocks higher on earnings optimism; mid-caps hit record high - reuters.com,0.8188196420669556
+HINDUNILVR,2025-12-11,"Jefferies says Indian shares set for better 2026 on earnings, domestic flows - reuters.com",-0.9002917408943176
+HINDUNILVR,2025-10-31,Indian benchmark shares log best month since March on strong earnings outlook - reuters.com,0.8787307739257812
+HINDUNILVR,2025-07-21,"HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains - reuters.com",-0.750521183013916
+HINDUNILVR,2026-01-16,India equity benchmarks end week flat as earnings counter global jitters - reuters.com,-0.8989230394363403
+HINDUNILVR,2026-01-29,Indian shares rise for third session; gains capped by record-low rupee - reuters.com,-0.6984280943870544
+HINDUNILVR,2025-07-10,India's benchmarks slip on IT drag ahead of TCS earnings - reuters.com,-0.8640807867050171
+HINDUNILVR,2026-01-23,"India's Nifty 50 logs steepest weekly drop in four months on tepid earnings, foreign outflows - reuters.com",-0.9583792090415955
+HINDUNILVR,2025-07-16,India's benchmarks settle flat as gains in state-owned lenders offset metals losses - reuters.com,-0.6916860938072205
+HINDUNILVR,2025-07-11,India's equity benchmarks log weekly losses as IT stocks drag - reuters.com,-0.9421466588973999
+HINDUNILVR,2025-07-14,India's equity benchmarks inch lower as IT stocks offset gains in other sectors - reuters.com,-0.9372214674949646
+HINDUNILVR,2026-01-28,"Indian shares rise on EU deal; defence, infrastructure stocks gain ahead of budget - reuters.com",0.5849474668502808
+HINDUNILVR,2025-04-17,Financials haul Indian stocks to best week in over 4 years - reuters.com,-0.6798062324523926
+HINDUNILVR,2025-12-08,Indian shares post worst day in over two months; IndiGo sheds 8% - reuters.com,-0.9283145666122437
+HINDUNILVR,2025-07-17,IT stocks drag India's benchmarks lower - reuters.com,-0.8268453478813171
+HINDUNILVR,2026-03-13,"India's equity benchmarks confirm correction on Iran war, crude prices; technicals weaken - reuters.com",-0.8235604763031006
+HINDUNILVR,2025-05-21,"Indian equity benchmarks snap 3-day losing streak on financial, pharma boost - reuters.com",-0.7484515905380249
+HINDUNILVR,2026-03-23,"Indian shares fall, rupee drops to record low as Iran war rattles markets - reuters.com",-0.874537467956543
+HINDUNILVR,2026-01-21,Indian shares extend losses after Tuesday's selloff; rupee slumps to record low - reuters.com,-0.9393235445022583
+HINDUNILVR,2025-11-07,"HSBC sees Indian stocks as hedge against global AI rally; finds value in FX, bonds - reuters.com",-0.895067572593689
+HINDUNILVR,2025-11-11,India File: Mumbai stocks stand out as hedge against AI - reuters.com,-0.8582162261009216
+HINDUNILVR,2026-01-12,Indian shares snap losing streak as US envoy's remarks soothe tariff woes - reuters.com,-0.49563509225845337
+HINDUNILVR,2025-07-09,"Indian equity benchmarks edge lower as Reliance, metals losses outpace consumer gains - reuters.com",-0.9536417126655579
+HINDUNILVR,2026-03-16,"Index heavyweights, autos help Nifty, Sensex snap three-session losing run - reuters.com",-0.6537736058235168
+HINDUNILVR,2025-05-08,Indian shares fall as tensions with Pakistan escalate - reuters.com,-0.9068790078163147
+HINDUNILVR,2025-05-09,Border conflict worry erases $83 billion from Indian equities in two days - reuters.com,-0.77999347448349
+HINDUNILVR,2025-09-23,Indian benchmarks muted as US visa worries offset consumption optimism - reuters.com,-0.6072059869766235
+HINDUNILVR,2025-06-30,India's equity benchmarks ease as financials retreat from record highs - reuters.com,-0.8799648284912109
+HINDUNILVR,2025-05-07,India's equity benchmarks end little changed after India strikes Pakistan - reuters.com,-0.8559688925743103
+HINDUNILVR,2025-05-06,"Indian exchanges BSE, NSE curb overseas access to their websites, sources say - reuters.com",-0.6383820176124573
+HINDUNILVR,2026-03-20,"Zetwerk plans to confidentially file for Indian IPO, targets $4 billion valuation, sources say - reuters.com",-0.9449085593223572
+HINDUNILVR,2026-03-12,Indian shares drop for second session on raging Mideast war; power stocks buck trend - reuters.com,-0.9509392380714417
+HINDUNILVR,2025-05-19,Indian benchmark indexes drop as US downgrade hits IT stocks; broader market up on rate cut hopes - reuters.com,-0.8828281164169312
 HINDUNILVR,2026-02-05,"Indian shares fall after three-day rally; metals, rate-sensitives drag - ET BFSI",-0.961560845375061
-HINDUNILVR,2025-06-24,India File: Risks lurk behind rush of share sales - Reuters,-0.5929588079452515
-HINDUNILVR,2025-05-09,Border conflict worry erases $83 billion from Indian equities in two days - Reuters,-0.9394767880439758
-HINDUNILVR,2025-06-23,Indian equity benchmarks track Asian peers lower on Mideast tensions - Reuters,-0.944347083568573
-HINDUNILVR,2025-07-04,"Indian benchmarks log weekly losses on caution over trade deal, Jane Street ban - Reuters",-0.9456404447555542
+HINDUNILVR,2025-06-24,India File: Risks lurk behind rush of share sales - reuters.com,-0.7679010033607483
+HINDUNILVR,2025-09-29,"India's equity benchmarks slip for 7th day, led by private banks - reuters.com",-0.9580123424530029
+HINDUNILVR,2025-09-25,Indian benchmarks post longest losing run in six months as IT sell-off continues - reuters.com,-0.8923581838607788
+HINDUNILVR,2025-07-07,India's stock benchmarks muted on tariff jitters; Trump says India deal close - reuters.com,-0.6305767297744751
+HINDUNILVR,2025-06-23,Indian equity benchmarks track Asian peers lower on Mideast tensions - reuters.com,-0.9213705658912659
+HINDUNILVR,2025-07-04,"Indian benchmarks log weekly losses on caution over trade deal, Jane Street ban - reuters.com",-0.9309428930282593
+HINDUNILVR,2025-09-26,"Indian benchmarks hit three-week low as US curbs drag IT, pharma - reuters.com",-0.9045438170433044
+HINDUNILVR,2025-05-23,"Indian equity benchmarks top Asian gainers, erase weekly losses - reuters.com",-0.7893542647361755

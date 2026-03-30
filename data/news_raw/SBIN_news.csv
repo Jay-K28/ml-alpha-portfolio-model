@@ -1,99 +1,100 @@
 ticker,date,headline,sentiment_score
-SBIN,2026-03-17,"Lenskart Solutions Yearly results, Financial Summary - The Economic Times",-0.9148732423782349
-SBIN,2026-03-20,The Iran war is sending shockwaves through the world's busiest IPO market - CNBC,-0.8354923725128174
-SBIN,2017-03-24,"Tata Power Share Price Today, Tata Power Stock Price Live NSE/BSE Updates - The Economic Times",-0.9378738403320312
-SBIN,2026-03-20,"Maruti, Tata Motors, M&M, Bajaj Auto: CLSA decodes strategy for auto stocks - Business Standard",-0.8751552104949951
+SBIN,2026-03-24,"Valplast Technologie Yearly results, Financial Summary - The Economic Times",-0.9236494898796082
+SBIN,2026-03-27,NEW X CEO IS BACK Price (XFLOKI INR) Today - The Economic Times,-0.9066475033760071
+SBIN,2026-03-28,Dalal Street Week Ahead: Avoid aggressive long positions; focus on capital preservation - The Economic Times,-0.715239942073822
+SBIN,2026-03-28,Here’s how countries are cracking down on kids’ social media use - The Economic Times,-0.7521539926528931
+SBIN,2026-03-28,Cyber threats moving from data theft to physical life risks: Deloitte cyber lead - The Economic Times,-0.9264838695526123
+SBIN,2026-03-28,Physical Intelligence in talks to raise $1 billion at $11 billion valuation - The Economic Times,-0.8554139137268066
+SBIN,2026-03-28,"Rentomojo files draft prospectus with Sebi for Rs 1,100-1,200 crore IPO - The Economic Times",-0.9431822299957275
+SBIN,2026-03-28,Demand and risks for global data centre insurance growing: Swiss Re - The Economic Times,-0.8623917698860168
+SBIN,2026-03-26,"Rights issues surge, QIPs shrink in FY26 amid sharp market turbulence - Business Standard",-0.9714353084564209
+SBIN,2017-03-23,"Bajaj Finance Share Price Today, Bajaj Finance Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387547373771667
+SBIN,2018-03-09,"HAL Share Price Today, HAL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387754201889038
 SBIN,2017-07-28,Check out State Bank of India's stock price (SBIN-IN) in real time - CNBC,-0.9423370361328125
 SBIN,2017-03-24,"SBI Share Price Today, SBI Stock Price Live NSE/BSE Updates - The Economic Times",-0.9361106157302856
-SBIN,2021-12-13,"SBI Q3 Results: Profit jumps 24% YoY to Rs 21,028 crore, NII rises 9% - The Economic Times",0.9219042062759399
 SBIN,2021-12-21,"SBI Q2 Results: PSU lender posts highest-ever quarterly profit of Rs 13,265 crore - The Economic Times",0.8176034092903137
-SBIN,2026-03-20,"SBI Card Share Price Today, SBI Card Stock Price Live NSE/BSE Updates - The Economic Times",-0.9374772310256958
-SBIN,2017-03-24,"IDBI Bank Share Price Today, IDBI Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9383941888809204
-SBIN,2017-10-14,"SBI Life Share Price Today, SBI Life Stock Price Live NSE/BSE Updates - The Economic Times",-0.939715564250946
+SBIN,2021-12-13,"SBI Q3 Results: Profit jumps 24% YoY to Rs 21,028 crore, NII rises 9% - The Economic Times",0.9219042062759399
 SBIN,2017-03-31,State Bank of India - The Economic Times,-0.9167757630348206
-SBIN,2020-10-05,"SBI Q1 Results: PAT rises marginally YoY to Rs 17,035 crore, beats estimates - The Economic Times",0.9341222047805786
-SBIN,2026-02-09,"India's SBI closes at record high on profit beat, upbeat loan growth outlook - Reuters",0.9237273335456848
 SBIN,2020-04-01,"SBI Q4 Results: Net profit zooms 83% YoY to Rs 16,695 crore, beats estimates - The Economic Times",0.9256817698478699
+SBIN,2020-10-06,"SBI Q4 earnings - SBI Q4 earnings News, SBI Q4 result updates | ETMarkets - The Economic Times",-0.9223630428314209
+SBIN,2017-10-14,"SBI Life Share Price Today, SBI Life Stock Price Live NSE/BSE Updates - The Economic Times",-0.939715564250946
+SBIN,2025-08-08,SBIN IN Equity 08Aug25 RU - bsmedia.business-standard.com,-0.9480410218238831
+SBIN,2020-05-05,"SBI Card Share Price Today, SBI Card Stock Price Live NSE/BSE Updates - The Economic Times",-0.9374772310256958
 SBIN,2014-03-15,SBIN: State Bank of India Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9470100998878479
-SBIN,2022-06-14,About State Bank of India (SBI.NS) - Reuters,-0.9381504058837891
-SBIN,2025-08-11,"Indian shares gain ahead of US-Russia talks; SBI, Tata Motors rise post earnings - Reuters",0.906703531742096
-SBIN,2020-10-06,SBI earnings: Analysts focus on bad loans as slippages rise - The Economic Times,-0.9055684804916382
 SBIN,2017-03-30,"SBI Target Share Price, SBI Share Price Forecast - The Economic Times",-0.9379588961601257
+SBIN,2022-06-14,About State Bank of India (SBI.NS) - reuters.com,-0.9376091361045837
+SBIN,2026-02-09,"India's SBI closes at record high on profit beat, upbeat loan growth outlook - reuters.com",0.8498151898384094
+SBIN,2025-08-11,"Indian shares gain ahead of US-Russia talks; SBI, Tata Motors rise post earnings - reuters.com",-0.4832773208618164
+SBIN,2026-03-25,SBI Life Insurance Company Ltd. - The Economic Times,-0.9276003241539001
 SBIN,2020-05-05,SBI Cards and Payment Services Ltd. - The Economic Times,-0.931293249130249
-SBIN,2017-10-15,SBI Life Insurance Company Ltd. - The Economic Times,-0.9276003241539001
 SBIN,2026-02-11,SBI Overtakes TCS in Market Value for the First Time in 15 Years - Bloomberg.com,-0.6724264621734619
-SBIN,2018-03-12,"Bandhan Bank Share Price Today, Bandhan Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387176632881165
-SBIN,2016-10-29,SBIN/F: State Bank of India Stock Price Quote - - Bloomberg - Bloomberg.com,-0.9438657760620117
-SBIN,2026-02-09,"Indian shares rise on US trade optimism, strong earnings from top lender SBI - Reuters",0.9381745457649231
-SBIN,2017-09-01,"SBI IFSC Code: Find State Bank of India IFSC code, MICR code, all Branch details and Address - The Economic Times",-0.9473345875740051
-SBIN,2026-02-09,IPO-Bound NSE Says Traders Seeking Reprieve on India Securities Transaction Tax Hike - Bloomberg.com,-0.6851693987846375
+SBIN,2025-01-16,"State Bank of India's growth prospects under new chairman remain strong, says report - BFSI News",0.8982906341552734
+SBIN,2026-02-09,"Indian shares rise on US trade optimism, strong earnings from top lender SBI - reuters.com",0.9295663237571716
+SBIN,2026-02-09,Higher Credit Growth Flags Year of Big Policy Action for Indian Banks - Bloomberg.com,0.573672890663147
 SBIN,2018-09-14,SBI PAYMENT SERVICES PRIVATE LIMITED - The Economic Times,-0.9330481886863708
-SBIN,2017-03-24,"Union Bank India Share Price Today, Union Bank India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381354451179504
-SBIN,2016-09-18,"HDFC Bank Share Price Today, HDFC Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379709362983704
+SBIN,2017-09-01,"SBI IFSC Code: Find State Bank of India IFSC code, MICR code, all Branch details and Address - The Economic Times",-0.9473345875740051
+SBIN,2026-01-22,"SBI rallies 3%, stock hits all-time high; what's driving PSB giant? - Business Standard",-0.6339559555053711
+SBIN,2024-03-28,"SBI Share Price Today: State Bank of India Stock Price Live NSE/BSE, SBI Latest News, and Financial Results - Business Standard",-0.9413357377052307
+SBIN,2026-02-09,"SBI shares hit record high after Q3; brokerages raise target up to ₹1,300 - Business Standard",0.9079504013061523
+SBIN,2025-11-04,"SBI stock hits new high, trades firm in weak market post Q2 results - Business Standard",-0.571366548538208
+SBIN,2026-02-11,"SBI pips TCS, takes 4th spot in market-cap ranking; stock up 10% in 3 days - Business Standard",0.9475468993186951
+SBIN,2026-01-12,"Optimum credit-deposit ratio for banks is 76-80%, says SBI report - Business Standard",-0.8953728675842285
+SBIN,2024-11-11,SBI share price muted today after Q2; brokerages maintain target price - Business Standard,-0.4435405433177948
+SBIN,2021-10-08,SBI FOUNDATION - The Economic Times,-0.9150366187095642
 SBIN,2017-03-24,"South Indian Bnk Share Price Today, South Indian Bnk Stock Price Live NSE/BSE Updates - The Economic Times",-0.9373339414596558
 SBIN,2020-12-07,"SBI to boost retail loan book, sees earnings improving - Business Standard",0.955008327960968
-SBIN,2017-03-24,"Federal Bank Share Price Today, Federal Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9357379078865051
-SBIN,2021-10-08,SBI FOUNDATION - The Economic Times,-0.9150366187095642
-SBIN,2018-09-14,SBI INFRA MANAGEMENT SOLUTIONS PRIVATE LIMITED - The Economic Times,-0.9200341105461121
-SBIN,2017-10-15,The Economic Times - The Economic Times,-0.9159992933273315
+SBIN,2017-03-31,Central Bank of India - The Economic Times,-0.9171810746192932
+SBIN,2026-02-09,IPO-Bound NSE Says Traders Seeking Reprieve on India Securities Transaction Tax Hike - Bloomberg.com,-0.6851693987846375
+SBIN,2025-05-04,Will ensure RoA over 1% in FY26 despite margin pressure: SBI Chairman - Business Standard,-0.8051542043685913
+SBIN,2016-09-18,"HDFC Bank Share Price Today, HDFC Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379709362983704
+SBIN,2017-03-24,"MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9399826526641846
+SBIN,2025-07-17,SBI stock hits highest level in CY-2025 on QIP plan; more upside ahead? - Business Standard,0.8383129835128784
+SBIN,2025-04-25,SBI Cards or SBI Life: Which stock should you buy post Q4 results? - Business Standard,-0.9466610550880432
+SBIN,2026-01-02,"Earnings revival to boost Indian equities in CY26; SBI, Infy top MOFSL bets - Business Standard",0.9347437024116516
+SBIN,2021-06-18,State Bank of India - reuters.com,-0.9406933188438416
 SBIN,2017-03-24,"UCO Bank Share Price Today, UCO Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9363100528717041
-SBIN,2017-03-31,UCO Bank - The Economic Times,-0.9194758534431458
-SBIN,2021-06-18,State Bank of India - Reuters,-0.9396854043006897
-SBIN,2017-03-24,"Bank of Maharashtra Share Price Today, Bank of Maharashtra Stock Price Live NSE/BSE Updates - The Economic Times",-0.9353113174438477
-SBIN,2026-01-12,"Optimum credit-deposit ratio for banks is 76-80%, says SBI report - Business Standard",-0.8953728675842285
-SBIN,2025-07-29,"SBI Cards has limited levers to drive earnings, faces growth stagnation - ET BFSI",-0.5116438865661621
+SBIN,2018-03-12,"Bandhan Bank Share Price Today, Bandhan Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387176632881165
 SBIN,2017-03-24,"Dhanlaxmi Bank Share Price Today, Dhanlaxmi Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9384142756462097
-SBIN,2017-03-23,"Axis Bank Share Price Today, Axis Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381366968154907
+SBIN,2025-10-27,"Cut in earnings expectations, valuations to cap upside in SBI Card - Business Standard",-0.5822627544403076
+SBIN,2017-03-24,"Bank of Maharashtra Share Price Today, Bank of Maharashtra Stock Price Live NSE/BSE Updates - The Economic Times",-0.9353113174438477
 SBIN,2022-08-29,"Tamilnad Mercantile Share Price Today, Tamilnad Mercantile Stock Price Live NSE/BSE Updates - The Economic Times",-0.9394567012786865
+SBIN,2026-03-25,The Economic Times - The Economic Times,-0.9159992933273315
+SBIN,2025-06-25,"IDBI Bank Share Price Today, IDBI Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9383941888809204
+SBIN,2026-03-24,UCO Bank - The Economic Times,-0.9194758534431458
+SBIN,2017-03-23,"Axis Bank Share Price Today, Axis Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381366968154907
+SBIN,2025-02-25,SBI stares at earnings slowdown for two years as RoE and RoA set to drop - BFSI News,-0.9558162689208984
+SBIN,2017-03-24,"Bank of India Share Price Today, Bank of India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9354119896888733
 SBIN,2017-03-23,"ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.936768651008606
-SBIN,2017-10-15,SBI Mutual Fund - The Economic Times,-0.9254019856452942
 SBIN,2017-03-29,Federal Bank Ltd. - The Economic Times,-0.919239342212677
 SBIN,2017-03-31,"PNB Share Price Today, PNB Stock Price Live NSE/BSE Updates - The Economic Times",-0.936848521232605
-SBIN,2017-03-31,Central Bank of India - The Economic Times,-0.9171810746192932
 SBIN,2017-03-23,"IndusInd Bank Share Price Today, IndusInd Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9383577704429626
-SBIN,2019-11-27,"Ujjivan SFB Share Price Today, Ujjivan SFB Stock Price Live NSE/BSE Updates - The Economic Times",-0.9385151267051697
-SBIN,2017-10-15,"SBI Life Cash Flow, Financial Statements - The Economic Times",-0.9298242926597595
+SBIN,2026-03-28,"Bitcoin holds near $66K, range-bound for 50 days, signalling accumulation over distribution - The Economic Times",0.5314470529556274
+SBIN,2025-04-25,SBI Cards tanks over 6% after Q4 results: Here's what brokerages say - Business Standard,-0.8437553644180298
 SBIN,2025-01-29,SBI Cards and Payment Services - bsmedia.business-standard.com,-0.9515691995620728
-SBIN,2026-03-20,Union Bank of India - The Economic Times,-0.91241455078125
-SBIN,2026-03-20,Ujjivan Small Finance Bank Ltd. - The Economic Times,-0.9173650741577148
-SBIN,2026-03-20,"Nuvama Wealth Mgmt Share Price Today, Nuvama Wealth Mgmt Stock Price Live NSE/BSE Updates - The Economic Times",-0.9424256682395935
-SBIN,2022-12-19,"Shriram Finance Share Price Today, Shriram Finance Stock Price Live NSE/BSE Updates - The Economic Times",-0.940354585647583
-SBIN,2017-03-31,"Bata India Yearly Results, Financial summary, Bata India Yearly Earnings - The Economic Times",-0.9274420738220215
-SBIN,2017-03-31,"NHPC Yearly Results, Financial summary, NHPC Yearly Earnings - The Economic Times",-0.930685818195343
-SBIN,2023-08-21,"Jio Financial Services Share Price Today, Jio Financial Services Stock Price Live NSE/BSE Updates - The Economic Times",-0.93930983543396
-SBIN,2020-04-09,"HDFC Bank Q4 Results - HDFC Bank Q4 earnings News, HDFC Bank Q4 result updates | ET Markets - The Economic Times",-0.928534984588623
-SBIN,2025-09-02,"Vikram Solar Yearly Results, Financial summary, Vikram Solar Yearly Earnings - The Economic Times",-0.9303573369979858
-SBIN,2017-10-24,Market Calendar for Important Market Dates - The Economic Times,-0.9383290410041809
-SBIN,2017-03-23,"Manappuram Finance Share Price Today, Manappuram Finance Stock Price Live NSE/BSE Updates - The Economic Times",-0.9398986101150513
-SBIN,2026-03-20,"CDSL Share Price Today, CDSL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9363435506820679
-SBIN,2017-03-23,"Infosys Share Price Today, Infosys Stock Price Live NSE/BSE Updates - The Economic Times",-0.9363147020339966
-SBIN,2021-12-09,"Data Patterns (India) Share Price Today, Data Patterns (India) Stock Price Live NSE/BSE Updates - The Economic Times",-0.9295271635055542
-SBIN,2026-03-20,"Engineers India Share Price Today, Engineers India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9359627962112427
-SBIN,2026-03-20,"Shreyas Intermediates Share Price Today, Shreyas Intermediates Stock Price Live NSE/BSE Updates - The Economic Times",-0.9390674829483032
-SBIN,2017-03-24,"Power Grid Share Price Today, Power Grid Stock Price Live NSE/BSE Updates - The Economic Times",-0.9385402798652649
-SBIN,2026-03-20,"PayTM Share Price Today, PayTM Stock Price Live NSE/BSE Updates - The Economic Times",-0.9393342733383179
-SBIN,2017-03-24,"HDIL Share Price Today, HDIL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9368820786476135
+SBIN,2019-11-27,Ujjivan Small Finance Bank Ltd. - The Economic Times,-0.9173650741577148
+SBIN,2025-05-01,"SBI Q4 results 2025: Check date, earnings expectations, fundraising update - Business Standard",-0.9265759587287903
+SBIN,2026-01-28,"SBI Card Q3FY26 results: Profit jumps 45% to ₹557 crore, revenue up 11% - Business Standard",0.9521889090538025
+SBIN,2020-03-31,Indian Bank Q4 Results: Net profit fall 42.4% on deferred tax adjustment - The Economic Times,-0.9699088931083679
 SBIN,2020-05-13,"Kotak Mahindra Bank Q4 results: PAT drops 14% YoY, NII up 4% - The Economic Times",-0.9205774068832397
-SBIN,2026-03-20,"NBCC Share Price Today, NBCC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9386751055717468
-SBIN,2017-04-23,"I P Rings Share Price Today, I P Rings Stock Price Live NSE/BSE Updates - The Economic Times",-0.9385125041007996
-SBIN,2017-03-24,"Wipro Share Price Today, Wipro Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379528164863586
-SBIN,2017-03-24,"Firstsource Share Price Today, Firstsource Stock Price Live NSE/BSE Updates - The Economic Times",-0.9408887028694153
-SBIN,2017-03-24,"BEL Share Price Today, BEL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9399408102035522
-SBIN,2017-11-02,"State Bank Of India Mumbai Branches IFSC Code, MICR Code & Phone Number - The Economic Times",-0.9440537095069885
-SBIN,2023-08-21,Jio Financial Services Ltd. - The Economic Times,-0.9285960793495178
-SBIN,2017-03-24,"MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9399826526641846
-SBIN,2017-03-23,"Bajaj Finance Share Price Today, Bajaj Finance Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387547373771667
-SBIN,2017-07-19,"SAIL Share Price Today, SAIL Stock Price Live NSE/BSE Updates - The Economic Times",-0.94205641746521
-SBIN,2017-03-28,Power Finance Corporation Ltd. - The Economic Times,-0.9273746013641357
-SBIN,2026-01-16,"Park Medi World Yearly results, Financial Summary - The Economic Times",-0.9191035032272339
+SBIN,2017-08-05,"Syschem (India) Yearly results, Financial Summary - The Economic Times",-0.908643364906311
+SBIN,2020-03-31,"Tata Steel Q4 Results: Profit falls 82% YoY to Rs 1,705 crore; revenue drops 9% - The Economic Times",-0.9720342755317688
+SBIN,2023-09-22,"Nuvama Wealth Mgmt Share Price Today, Nuvama Wealth Mgmt Stock Price Live NSE/BSE Updates - The Economic Times",-0.9424256682395935
+SBIN,2020-04-07,Q4 results: Q4 results latest news | ETMarkets - The Economic Times,-0.9298623204231262
+SBIN,2020-10-07,"IDBI Bank Q4 Results: PAT soars 44% YoY to 1,628 crore; NII rises 12% - The Economic Times",0.9329755306243896
+SBIN,2022-12-19,"Shriram Finance Share Price Today, Shriram Finance Stock Price Live NSE/BSE Updates - The Economic Times",-0.940354585647583
+SBIN,2025-11-03,SBI Q2 results today: Analysts expect a flattish quarter from PSU bank - Business Standard,-0.9416579008102417
+SBIN,2023-08-21,"Jio Financial Services Share Price Today, Jio Financial Services Stock Price Live NSE/BSE Updates - The Economic Times",-0.93930983543396
+SBIN,2021-12-09,"Data Patterns (India) Share Price Today, Data Patterns (India) Stock Price Live NSE/BSE Updates - The Economic Times",-0.9295271635055542
+SBIN,2020-10-05,"Canara Bank Q3 Results: Profit rises 26% YoY to Rs 5,155 crore; NII up 1% - The Economic Times",0.9458940029144287
+SBIN,2017-04-01,"BGR Energy Yearly results, Financial Summary - The Economic Times",-0.9124906659126282
+SBIN,2017-03-24,"HDIL Share Price Today, HDIL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9368820786476135
+SBIN,2017-10-24,Market Calendar for Important Market Dates - The Economic Times,-0.9383290410041809
+SBIN,2017-04-17,"TVS Electronics Yearly Results, Financial summary, TVS Electronics Yearly Earnings - The Economic Times",-0.9281373023986816
+SBIN,2025-06-13,"Infosys Share Price Today, Infosys Stock Price Live NSE/BSE Updates - The Economic Times",-0.9363147020339966
+SBIN,2017-03-24,"Power Grid Share Price Today, Power Grid Stock Price Live NSE/BSE Updates - The Economic Times",-0.9385402798652649
 SBIN,2024-12-30,"JCT Ltd Share Price Today, JCT Ltd Stock Price Live NSE/BSE Updates - The Economic Times",-0.9351756572723389
-SBIN,2026-03-20,"Shanti Educational Share Price Today, Shanti Educational Stock Price Live NSE/BSE Updates - The Economic Times",-0.9389470219612122
-SBIN,2023-12-16,"Azad Engineering Share Price Today, Azad Engineering Stock Price Live NSE/BSE Updates - The Economic Times",-0.9396845102310181
-SBIN,2017-07-25,"Shakti Pumps Share Price Today, Shakti Pumps Stock Price Live NSE/BSE Updates - The Economic Times",-0.9281412959098816
-SBIN,2026-03-20,"Medi-Caps Ltd Share Price Today, Medi-Caps Ltd Stock Price Live NSE/BSE Updates - The Economic Times",-0.9382665753364563
+SBIN,2026-03-27,"CDSL Share Price Today, CDSL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9363435506820679
 SBIN,2017-08-01,Ion Exchange (India) Ltd. - The Economic Times,-0.9254436492919922
-SBIN,2020-03-12,"Elitecon International Share Price Today, Elitecon International Stock Price Live NSE/BSE Updates - The Economic Times",-0.9394495487213135
-SBIN,2019-03-27,"RVNL Share Price Today, RVNL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9382209181785583
-SBIN,2017-04-04,"Orient Green Pwr Share Price Today, Orient Green Pwr Stock Price Live NSE/BSE Updates - The Economic Times",-0.9402357935905457
-SBIN,2021-01-16,Check out SBI Cards and Payment Services Ltd's stock price (SBICARD-IN) in real time - CNBC,-0.9458349347114563
+SBIN,2017-04-01,Tinna Rubber and Infrastructure Ltd. - The Economic Times,-0.9204565286636353
+SBIN,2017-03-24,"Firstsource Share Price Today, Firstsource Stock Price Live NSE/BSE Updates - The Economic Times",-0.9408887028694153
 SBIN,2017-04-12,"Tera Software Share Price Today, Tera Software Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381030201911926
