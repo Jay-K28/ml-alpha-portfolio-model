@@ -1,70 +1,75 @@
 ticker,date,headline,sentiment_score
-BOSCHLTD,2021-07-20,Bosch Ltd - reuters.com,-0.9463763236999512
+BOSCHLTD,2021-07-20,Bosch Ltd - Reuters,-0.9466928243637085
 BOSCHLTD,2017-08-06,Check out Bosch Ltd's stock price (BOSCHLTD-IN) in real time - CNBC,-0.9457159042358398
 BOSCHLTD,2017-04-09,"Bosch Share Price Today, Bosch Stock Price Live NSE/BSE Updates - The Economic Times",-0.9369993805885315
-BOSCHLTD,2022-06-06,BOSH.NS - reuters.com,-0.9422992467880249
-BOSCHLTD,2026-03-25,Announcement - The Economic Times,-0.9166386723518372
-BOSCHLTD,2026-02-06,Bosch's India unit posts higher quarterly profit on tax cut boost - reuters.com,0.9080429673194885
-BOSCHLTD,2026-03-17,The Economic Times - The Economic Times,-0.9159992933273315
+BOSCHLTD,2017-04-09,Announcement - The Economic Times,-0.9166386723518372
+BOSCHLTD,2022-06-06,BOSH.NS - Reuters,-0.9408749938011169
+BOSCHLTD,2026-02-06,Bosch's India unit posts higher quarterly profit on tax cut boost - Reuters,0.906679630279541
 BOSCHLTD,2015-04-06,BSWQY: Bosch Ltd Stock Price Quote - - Bloomberg - Bloomberg.com,-0.9439861178398132
+BOSCHLTD,2017-04-04,The Economic Times - The Economic Times,-0.9159992933273315
 BOSCHLTD,2017-04-04,"Bosch Target Share Price, Bosch Share Price Forecast - The Economic Times",-0.9365206360816956
-BOSCHLTD,2023-08-01,Bosch Ltd to increase manufacturing in India - reuters.com,0.7470634579658508
-BOSCHLTD,2019-02-28,Bosch Ltd - Bloomberg.com,-0.9489262700080872
-BOSCHLTD,2025-08-04,Bosch's India unit posts higher quarterly profit on strong auto parts sales - reuters.com,0.9445815682411194
-BOSCHLTD,2025-11-11,"Bosch India's quarterly profit rises on demand for auto parts, consumer electronics - reuters.com",0.5341338515281677
+BOSCHLTD,2023-08-01,Bosch Ltd to increase manufacturing in India - Reuters,0.7727565169334412
 BOSCHLTD,2025-11-12,Bosch net profit rises 3.4% to ₹554 cr in Q2 FY26; revenue grows 9% - ET Auto,0.9533930420875549
-BOSCHLTD,2023-02-14,"Bosch's India unit reports Q3 profit jump, warns of ""challenging 2023"" - reuters.com",-0.5807874202728271
-BOSCHLTD,2026-03-26,(BOSH.BO) | Stock Price & Latest News - reuters.com,-0.9131449460983276
+BOSCHLTD,2019-02-28,Bosch Ltd - Bloomberg.com,-0.9489262700080872
+BOSCHLTD,2025-11-11,"Bosch India's quarterly profit rises on demand for auto parts, consumer electronics - Reuters",0.8589276671409607
+BOSCHLTD,2025-08-04,Bosch's India unit posts higher quarterly profit on strong auto parts sales - Reuters,0.9489826560020447
 BOSCHLTD,2017-01-04,"Bosch limited - Latest bosch limited , Information & Updates - Auto - ET Auto",-0.9518260955810547
+BOSCHLTD,2023-02-14,"Bosch's India unit reports Q3 profit jump, warns of ""challenging 2023"" - Reuters",-0.39352983236312866
+BOSCHLTD,2026-03-26,(BOSH.BO) | Stock Price & Latest News - Reuters,-0.9061596393585205
 BOSCHLTD,2020-11-06,Bosch reports consolidated net loss of Rs 64.57 cr for Sep quarter - ET Auto,-0.9401148557662964
-BOSCHLTD,2025-01-28,"Bosch's Indian unit posts Q3 profit rise, boosted by auto part sales - reuters.com",0.945650041103363
-BOSCHLTD,2026-03-21,BOSH.NS - | Stock Price & Latest News - reuters.com,-0.9278954267501831
-BOSCHLTD,2024-08-06,India's Bosch posts smallest rise in profit in five quarters - reuters.com,0.7222849726676941
-BOSCHLTD,2025-11-13,India’s Samvardhana Motherson quarterly profit beats views as revenue rises across units - reuters.com,-0.5061034560203552
-BOSCHLTD,2026-03-02,BOSH.BO - | Stock Price & Latest News - reuters.com,-0.9264877438545227
-BOSCHLTD,2026-02-10,India's Samvardhana Motherson posts quarterly profit rise on strong auto demand - reuters.com,0.9189847111701965
-BOSCHLTD,2025-08-13,India's Samvardhana Motherson posts lower quarterly profit on weak global car demand - reuters.com,-0.9681914448738098
-BOSCHLTD,2025-08-05,India's Exide Industries beats first-quarter profit estimates on better demand - reuters.com,0.815317690372467
-BOSCHLTD,2025-04-30,"India's Exide Industries misses quarterly profit view on higher costs, tepid demand - reuters.com",-0.9602279663085938
-BOSCHLTD,2025-11-05,Motherson Sumi Wiring India's quarterly profit climbs on festive demand - reuters.com,0.6397972106933594
+BOSCHLTD,2025-01-28,"Bosch's Indian unit posts Q3 profit rise, boosted by auto part sales - Reuters",0.956058919429779
+BOSCHLTD,2022-05-19,Bosch Q4 net profit down 27% at INR 350.5 crore - ET Auto,-0.9748860597610474
+BOSCHLTD,2026-03-28,BOSH.NS - | Stock Price & Latest News - Reuters,-0.924312174320221
+BOSCHLTD,2024-08-06,India's Bosch posts smallest rise in profit in five quarters - Reuters,0.8138557076454163
+BOSCHLTD,2025-11-13,India’s Samvardhana Motherson quarterly profit beats views as revenue rises across units - Reuters,0.4432406723499298
+BOSCHLTD,2025-08-05,India's Exide Industries beats first-quarter profit estimates on better demand - Reuters,0.9185912013053894
 BOSCHLTD,2021-05-20,Bosch India plans Capex up to INR 200 cr for FY22; 6-fold rise in Q4 net profit - ET Auto,0.9489946961402893
-BOSCHLTD,2024-08-13,Indian auto parts maker Samvardhana Motherson beats quarterly profit estimates - reuters.com,-0.8588705062866211
+BOSCHLTD,2025-04-30,"India's Exide Industries misses quarterly profit view on higher costs, tepid demand - Reuters",-0.9681527614593506
+BOSCHLTD,2025-11-05,Motherson Sumi Wiring India's quarterly profit climbs on festive demand - Reuters,0.6799015402793884
 BOSCHLTD,2020-08-21,Covid-19 pulls down Bosch India’s BS-VI order book by $800 million - ET Auto,-0.893848180770874
-BOSCHLTD,2009-03-04,Bosch Oct-Dec net at 942.2 million rupees - reuters.com,-0.9011641144752502
-BOSCHLTD,2021-08-24,Bosch says the semiconductor supply chains in the car industry no longer work - CNBC,-0.7124868035316467
-BOSCHLTD,2008-12-05,India's Bosch says to cut output on poor demand - reuters.com,-0.946525514125824
-BOSCHLTD,2011-03-31,MindTree board appoints new chairman after Soota's exit - reuters.com,-0.8900933265686035
-BOSCHLTD,2025-05-08,"Bosch says US tariffs' impact is unpredictable, sees flat 2025 organic sales - reuters.com",-0.7202126383781433
-BOSCHLTD,2025-07-28,India's Motherson Sumi Wiring reports Q1 profit below estimates on higher expansion costs - reuters.com,-0.9528508186340332
+BOSCHLTD,2009-03-04,Bosch Oct-Dec net at 942.2 million rupees - Reuters,-0.8823371529579163
+BOSCHLTD,2024-08-13,Indian auto parts maker Samvardhana Motherson beats quarterly profit estimates - Reuters,-0.7161981463432312
+BOSCHLTD,2021-08-04,"Bosch reports net profit of INR 260 crore for Q1, reappoints Soumitra Bhattacharya as MD - ET Auto",-0.8792812824249268
+BOSCHLTD,2024-06-20,UNO Minda Ltd - Reuters,-0.9405750632286072
+BOSCHLTD,2011-03-31,MindTree board appoints new chairman after Soota's exit - Reuters,-0.9022136926651001
+BOSCHLTD,2025-07-28,India's Motherson Sumi Wiring reports Q1 profit below estimates on higher expansion costs - Reuters,-0.960049033164978
+BOSCHLTD,2026-01-30,Motherson Sumi Wiring India's quarterly profit climbs on steady auto demand - Reuters,0.8314204812049866
+BOSCHLTD,2025-05-08,"Bosch says US tariffs' impact is unpredictable, sees flat 2025 organic sales - Reuters",-0.8403798937797546
 BOSCHLTD,2025-08-05,"Bosch Q1 net profit more than doubles to ₹1,115 crore - ET Auto",0.926509439945221
-BOSCHLTD,2025-02-06,Motherson Sumi Wiring India posts lower Q3 profit as expansion weighs - reuters.com,-0.9607226252555847
-BOSCHLTD,2026-01-30,Motherson Sumi Wiring India's quarterly profit climbs on steady auto demand - reuters.com,0.8287120461463928
-BOSCHLTD,2024-07-30,India's Exide Industries misses Q1 profit view on higher commodity costs - reuters.com,-0.937345564365387
-BOSCHLTD,2024-05-15,"India's weight in key MSCI equity index hits another high, to boost inflows - reuters.com",0.8646015524864197
-BOSCHLTD,2024-11-12,Indian auto parts maker Samvardhana Motherson misses Q2 profit estimates as car sales slow - reuters.com,-0.9364327788352966
-BOSCHLTD,2025-01-16,"Car plants in Europe, North America face closures in 2025, Gartner says in report - reuters.com",-0.9520463347434998
-BOSCHLTD,2022-06-06,SONB.NS - reuters.com,-0.9433234930038452
-BOSCHLTD,2026-03-23,"Chinese commerce minister meets Volkswagen, Bosch heads - reuters.com",-0.939586877822876
-BOSCHLTD,2023-02-27,Aleef Jahan C S - reuters.com,-0.9355584383010864
-BOSCHLTD,2023-02-19,SAMD.NS - reuters.com,-0.9472769498825073
-BOSCHLTD,2022-11-07,Bosch agrees to pay $25 mln to settle California diesel emissions probe - reuters.com,-0.83648282289505
-BOSCHLTD,2023-02-07,Samvardhana Motherson International Ltd - reuters.com,-0.9479413628578186
-BOSCHLTD,2024-08-05,Motherson Sumi Wiring India posts rise in Q1 profit on strong demand from automakers - reuters.com,0.9338304996490479
-BOSCHLTD,2024-12-13,US reaches preliminary deal with Bosch for $225 million in chip grants - reuters.com,-0.7691518664360046
-BOSCHLTD,2022-11-18,Mercedes Benz to pay $5.5 million to settle Arizona diesel ad case - reuters.com,-0.9010714888572693
-BOSCHLTD,2025-02-11,"India's Karnataka state draws investment proposals worth $115 billion, spokesperson says - reuters.com",-0.8993562459945679
-BOSCHLTD,2022-11-13,Germany's Scholz visits Vietnam as manufacturers eye shift from China - reuters.com,-0.887374997138977
+BOSCHLTD,2026-02-10,India's Samvardhana Motherson posts quarterly profit rise on strong auto demand - Reuters,0.9352257251739502
+BOSCHLTD,2024-05-15,"India's weight in key MSCI equity index hits another high, to boost inflows - Reuters",0.9148983955383301
+BOSCHLTD,2024-11-12,Indian auto parts maker Samvardhana Motherson misses Q2 profit estimates as car sales slow - Reuters,-0.9511988162994385
+BOSCHLTD,2025-01-16,"Car plants in Europe, North America face closures in 2025, Gartner says in report - Reuters",-0.958914577960968
 BOSCHLTD,2022-07-12,Bosch to invest over Rs 200 cr in next 5 years in India: Soumitra Bhattacharya - ET Auto,-0.8570235371589661
-BOSCHLTD,2024-06-20,UNO Minda Ltd - reuters.com,-0.9432422518730164
-BOSCHLTD,2015-03-21,TELX: Tata Elxsi Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9479649066925049
-BOSCHLTD,2022-03-20,Two-Minute Battery Changes Propel India’s Shift to E-Scooters - Bloomberg.com,-0.8418429493904114
-BOSCHLTD,2023-08-16,"Auto parts maker Shinhwa plans USD 114M expansion at Alabama facility, creating jobs - ET Auto",0.9445046782493591
-BOSCHLTD,2015-04-05,First Sentier Investors Global Umbrella Fund plc - FSSA Indian Subcontinent Fund - Bloomberg.com,-0.9450016617774963
+BOSCHLTD,2023-02-27,Aleef Jahan C S - Reuters,-0.9194037914276123
+BOSCHLTD,2023-02-19,SAMD.NS - Reuters,-0.9480015635490417
+BOSCHLTD,2008-12-05,India's Bosch says to cut output on poor demand - Reuters,-0.9465217590332031
+BOSCHLTD,2022-11-07,Bosch agrees to pay $25 mln to settle California diesel emissions probe - Reuters,-0.7005460262298584
+BOSCHLTD,2025-08-13,India's Samvardhana Motherson posts lower quarterly profit on weak global car demand - Reuters,-0.9686721563339233
+BOSCHLTD,2023-02-07,Samvardhana Motherson International Ltd - Reuters,-0.9433750510215759
+BOSCHLTD,2022-06-06,(SONB.NS) | Stock Price & Latest News - Reuters,-0.9069463610649109
+BOSCHLTD,2024-07-15,UNOI.NS - Reuters,-0.9434300065040588
+BOSCHLTD,2024-08-05,Motherson Sumi Wiring India posts rise in Q1 profit on strong demand from automakers - Reuters,0.9412161707878113
+BOSCHLTD,2024-12-13,US reaches preliminary deal with Bosch for $225 million in chip grants - Reuters,0.6939847469329834
+BOSCHLTD,2008-12-11,India's Bosch declares lockout at Jaipur plant - Reuters,-0.7163509130477905
 BOSCHLTD,2023-08-08,TSMC board to vote Tuesday to build German factory - ET Auto,-0.7061069011688232
+BOSCHLTD,2023-11-04,"China vice president Han meets Bosch chairman Hartung, Xinhua reports - Reuters",-0.9378501176834106
+BOSCHLTD,2026-03-23,"Chinese commerce minister meets Volkswagen, Bosch heads - Reuters",-0.9265338778495789
+BOSCHLTD,2023-08-16,"Auto parts maker Shinhwa plans USD 114M expansion at Alabama facility, creating jobs - ET Auto",0.9445046782493591
+BOSCHLTD,2022-11-18,Mercedes Benz to pay $5.5 million to settle Arizona diesel ad case - Reuters,-0.754217803478241
+BOSCHLTD,2015-03-21,TELX: Tata Elxsi Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9479649066925049
+BOSCHLTD,2024-09-23,Auto Ancillaries Sector Stocks & Shares - Auto Ancillaries Stocks Listings in India - The Economic Times,-0.9316385984420776
+BOSCHLTD,2022-11-13,Germany's Scholz visits Vietnam as manufacturers eye shift from China - Reuters,-0.8636141419410706
+BOSCHLTD,2025-05-20,"Bosch plans multibillion-euro bond this month to fund investments, M&A - Reuters",-0.8628872036933899
+BOSCHLTD,2025-02-11,"India's Karnataka state draws investment proposals worth $115 billion, spokesperson says - Reuters",-0.8969908952713013
 BOSCHLTD,2018-03-27,News & Stories by Brinda Sarkar - ET Telecom,-0.936848521232605
+BOSCHLTD,2021-05-13,Bosch suspends production at Nashik plant till May 23 - ETHRWorld.com,-0.8187123537063599
+BOSCHLTD,2022-02-04,"Bosch pushes for localisation of advanced auto tech, to invest over Rs 1,000 crore - ET BrandEquity",-0.5243808627128601
 BOSCHLTD,2021-12-28,What pushed CXOs to the edge in Covid world; Over 100 senior-level rejigs since April 2020 - ET Auto,0.4967537522315979
 BOSCHLTD,2017-01-04,"Robert bosch gmbh - Latest robert bosch gmbh , Information & Updates - Auto - ET Auto",-0.9449793100357056
-BOSCHLTD,2022-02-04,"Bosch pushes for localisation of advanced auto tech, to invest over Rs 1,000 crore - ET BrandEquity",-0.5243808627128601
+BOSCHLTD,2023-05-14,InCore Semiconductors raises USD 3 mn - ET Auto,0.9341050386428833
+BOSCHLTD,2021-11-19,"Bosch workers protest against factory closures, job cuts - ET Auto",-0.9426990151405334
+BOSCHLTD,2023-03-22,Bosch appoints Guruprasad Mudlapur as India President - ET Auto,-0.9400004148483276
 BOSCHLTD,2017-05-08,WATConsult expands its Bangalore operations - ET BrandEquity,0.8279817700386047
-BOSCHLTD,2015-10-13,Making a difference: Mahindra & Mahindra most socially responsible company in India - ET BrandEquity,0.6070818901062012
 BOSCHLTD,2022-01-10,ETAuto EV Conclave 2022 - ET Auto,-0.9074316024780273
+BOSCHLTD,2015-10-13,Making a difference: Mahindra & Mahindra most socially responsible company in India - ET BrandEquity,0.6070818901062012

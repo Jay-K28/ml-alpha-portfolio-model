@@ -1,96 +1,99 @@
 ticker,date,headline,sentiment_score
-INFY,2026-03-27,NEW X CEO IS BACK Price (XFLOKI INR) Today - The Economic Times,-0.9066475033760071
-INFY,2026-03-27,"Infosys gains from M&A, valuations offer comfort amid AI-driven shift - Business Standard",0.9411715269088745
-INFY,2026-03-28,Dalal Street Week Ahead: Avoid aggressive long positions; focus on capital preservation - The Economic Times,-0.715239942073822
-INFY,2026-03-28,Cyber threats moving from data theft to physical life risks: Deloitte cyber lead - The Economic Times,-0.9264838695526123
-INFY,2026-03-28,Physical Intelligence in talks to raise $1 billion at $11 billion valuation - The Economic Times,-0.8554139137268066
-INFY,2026-03-28,"Rentomojo files draft prospectus with Sebi for Rs 1,100-1,200 crore IPO - The Economic Times",-0.9431822299957275
-INFY,2026-03-28,Demand and risks for global data centre insurance growing: Swiss Re - The Economic Times,-0.8623917698860168
-INFY,2026-03-28,"Saudi pipeline pumping 7 million bpd of oil, bypassing Hormuz, Bloomberg News reports - The Economic Times",-0.8689867258071899
-INFY,2026-03-27,Foreign investors rethink India bet: BNP Paribas flags 4 risks for markets - Business Standard,-0.8625406622886658
-INFY,2026-03-27,IndiGo shares slip 2% in trade; Motilal Oswal cuts target price on stock - Business Standard,-0.9524353742599487
-INFY,2026-03-27,"HEG, Graphite India gain upto 14% in weak market; what's driving GE stocks? - Business Standard",-0.6317521333694458
-INFY,2026-03-27,"Acme Solar gains 7% in trade; Centrum initiates with 'Buy', sees 16% upside - Business Standard",0.9290580153465271
-INFY,2026-03-27,"₹1.5 trn hit to exchequer as govt cuts petrol, diesel excise: Deven Choksey - Business Standard",-0.7923145890235901
-INFY,2026-03-27,"Markets slide as war fears persist, oil tops $100, indices extend losses - Business Standard",-0.9429751634597778
-INFY,2026-03-27,"Infosys Ltd soars 0.01%, up for fifth straight session - Business Standard",0.926512598991394
-INFY,2026-03-27,LIC Housing Finance Ltd rises for third straight session - Business Standard,0.8580330610275269
-INFY,2026-03-27,India VIX rises 9% amid West Asia jitters; up 90% since February 27 - Business Standard,0.9469934105873108
-INFY,2026-03-27,"Wipro Ltd spurts 1.4%, rises for third straight session - Business Standard",0.9335902333259583
+INFY,2026-04-02,Amir Chand Jagdish Nine Monthly results - The Economic Times,-0.893444836139679
+INFY,2026-04-03,Informal sector steps up coal stocking over price concerns - The Economic Times,-0.4943094849586487
+INFY,2026-04-04,"ETtech Deals Digest: Startups raise $187 million this week, down 28% on-year - The Economic Times",-0.9733304977416992
+INFY,2026-04-04,RBI revises rules for Floating Rate Savings Bonds 2020: Key changes investors should know - The Economic Times,-0.9300522208213806
+INFY,2026-04-04,Who are Delve founders Karun Kaushik and Selin Kocalar? - The Economic Times,-0.9348270893096924
+INFY,2026-04-04,ITR changes from April 2026: 5 key updates for Tax Year 2026–27 explained - The Economic Times,-0.9162776470184326
+INFY,2026-04-04,"oil price march 24: Latest News & Videos, Photos about oil price march 24 - The Economic Times",-0.9361136555671692
+INFY,2026-04-04,"India’s crude oil supply fully secured, no payment hurdle for Iranian imports: Petroleum Ministry - The Economic Times",-0.900404155254364
+INFY,2026-04-04,Kotak Multi Asset Active FoF Regular-IDCW - The Economic Times,-0.9110361933708191
 INFY,2017-07-28,Check out Infosys Ltd's stock price (INFY-IN) in real time - CNBC,-0.9446249008178711
+INFY,2014-03-15,INFY: Infosys Ltd Stock Price Quote - New York - Bloomberg - bloomberg.com,-0.9455694556236267
+INFY,2021-12-20,Infosys results: Analysts' take on Infosys Q4 earnings results - The Economic Times,-0.9066738486289978
 INFY,2025-06-13,"Infosys Share Price Today, Infosys Stock Price Live NSE/BSE Updates - The Economic Times",-0.9363147020339966
-INFY,2014-03-15,INFY: Infosys Ltd Stock Price Quote - New York - Bloomberg - Bloomberg.com,-0.9455694556236267
-INFY,2017-04-11,Infosys Ltd. - The Economic Times,-0.9256874918937683
-INFY,2021-12-20,Infosys to announce Q2 earnings on October 13 - The Economic Times,-0.9258837103843689
-INFY,2025-01-16,India's Infosys shares fall on worries about quality of earnings - reuters.com,-0.9543918371200562
-INFY,2022-06-06,(INFY.NS) | Stock Price & Latest News - reuters.com,-0.919226348400116
-INFY,2017-04-11,"Infosys Yearly results, Financial Summary - The Economic Times",-0.9126987457275391
+INFY,2026-03-30,Infosys Ltd. - The Economic Times,-0.9256874918937683
+INFY,2025-01-16,India's Infosys shares fall on worries about quality of earnings - Reuters,-0.960516095161438
 INFY,2020-04-01,"Infosys Q4 Results: Cons PAT falls 12% YoY to Rs 7,033 crore, revenue rises 8% - The Economic Times",-0.6043446660041809
-INFY,2025-10-15,"Infosys, Wipro Earnings Test Strained Investor Sentiment For IT Sector - Bloomberg.com",-0.8798153400421143
-INFY,2026-02-17,"India's Infosys ties up with Anthropic, days after IT selloff - reuters.com",-0.919335663318634
+INFY,2022-06-06,(INFY.NS) | Stock Price & Latest News - Reuters,-0.9113296270370483
 INFY,2020-10-05,"Infosys Q1 Results: PAT jumps 7% YoY to Rs 6,368 crore, revenue rises 4% - The Economic Times",0.942260205745697
-INFY,2021-12-20,"Infosys Q3 Results: PAT slips 2% YoY to Rs 6,654 crore; co raises FY26 revenue guidance - The Economic Times",-0.9028993844985962
-INFY,2026-01-14,"Infosys raises revenue view, sparks hopes of Indian IT turnaround - reuters.com",0.7522646188735962
+INFY,2025-10-15,"Infosys, Wipro Earnings Test Strained Investor Sentiment For IT Sector - bloomberg.com",-0.8798153400421143
+INFY,2021-12-20,"Infosys Q3 Results FY25: Profit rises 11% YoY to Rs 6,806 cr, revenue up 8% - The Economic Times",0.9496417045593262
+INFY,2020-04-20,"infosys q4 results expectations: Latest News & Videos, Photos about infosys q4 results expectations - The Economic Times",-0.9357272982597351
+INFY,2026-01-14,"Infosys raises revenue view, sparks hopes of Indian IT turnaround - Reuters",0.8411130309104919
 INFY,2025-06-10,"Southern Infosys Share Price Today, Southern Infosys Stock Price Live NSE/BSE Updates - The Economic Times",-0.9391615390777588
-INFY,2022-06-08,(INFY.BO) | Stock Price & Latest News - reuters.com,-0.9146539568901062
-INFY,2026-03-25,"Shyama Infosys Share Price Today, Shyama Infosys Stock Price Live NSE/BSE Updates - The Economic Times",-0.9389164447784424
-INFY,2025-10-16,"Infosys, Wipro Strong Earnings Growth Cheers Despite India's Shaky Economy - Bloomberg.com",0.888581395149231
+INFY,2022-06-08,(INFY.BO) | Stock Price & Latest News - Reuters,-0.9045725464820862
+INFY,2026-02-17,"India's Infosys ties up with Anthropic, days after IT selloff - Reuters",-0.8932434320449829
+INFY,2024-10-04,"Shyama Infosys Share Price Today, Shyama Infosys Stock Price Live NSE/BSE Updates - The Economic Times",-0.9389164447784424
+INFY,2025-09-11,Infosys approves share buyback worth $2 billion - Reuters,-0.8421270847320557
+INFY,2025-10-16,"Infosys, Wipro Strong Earnings Growth Cheers Despite India's Shaky Economy - bloomberg.com",0.888581395149231
 INFY,2025-10-16,Infosys - bsmedia.business-standard.com,-0.950036883354187
-INFY,2025-09-11,Infosys approves share buyback worth $2 billion - reuters.com,-0.9205175042152405
-INFY,2026-02-17,India's equity benchmarks edge up; Infosys-Anthropic deal counters Reliance loss - reuters.com,0.8459293842315674
-INFY,2026-03-13,INFY.NS - | Stock Price & Latest News - reuters.com,-0.9303935766220093
-INFY,2026-03-22,INFY.K - | Stock Price & Latest News - reuters.com,-0.9314793944358826
-INFY,2026-03-23,(INFY.K) | Stock Price & Latest News - reuters.com,-0.913811445236206
-INFY,2025-10-17,"Pain Persists for India IT Stocks on Weak Outlook, Spending Cuts - Bloomberg.com",-0.9251319169998169
-INFY,2026-01-15,India's Infosys rises after strong 2026 view; lifts IT index - reuters.com,0.8291791677474976
-INFY,2025-01-16,Infosys Raises Sales Forecast on Rising IT Services Demand - Bloomberg.com,0.6084371209144592
-INFY,2025-07-23,"Infosys Narrows Sales Outlook, Warns of Cautious IT Spending - Bloomberg.com",-0.5901309847831726
-INFY,2021-06-21,Infosys Ltd - reuters.com,-0.9296448826789856
-INFY,2012-07-12,India's TCS gains on earnings; Infosys extends falls - reuters.com,-0.5502346754074097
-INFY,2026-03-27,INFY.BO - | Stock Price & Latest News - reuters.com,-0.9304701685905457
-INFY,2026-03-13,INFY.N:NYS - reuters.com,-0.9452199935913086
+INFY,2026-02-17,India's equity benchmarks edge up; Infosys-Anthropic deal counters Reliance loss - Reuters,0.7428597211837769
+INFY,2026-03-22,INFY.K - | Stock Price & Latest News - Reuters,-0.9270888566970825
+INFY,2026-03-29,INFY.Z - | Stock Price & Latest News - Reuters,-0.9237959980964661
+INFY,2025-01-16,Infosys Raises Sales Forecast on Rising IT Services Demand - bloomberg.com,0.6084371209144592
+INFY,2026-03-28,INFY.N - Reuters,-0.9360507726669312
 INFY,2020-01-07,"infosys brokerage recommendations: Latest News & Videos, Photos about infosys brokerage recommendations - The Economic Times",-0.9350758790969849
-INFY,2026-03-28,INFY.A - | Stock Price & Latest News - reuters.com,-0.9312855005264282
-INFY,2026-03-22,INFY.P - | Stock Price & Latest News - reuters.com,-0.929604709148407
-INFY,2024-03-28,Infosys Share Price - Business Standard,-0.9414420127868652
-INFY,2020-04-20,Infosys Q4 results expectations - The Economic Times - Indiatimes - The Economic Times,-0.9232408404350281
-INFY,2023-06-07,Bearishness on Indian Tech Bellwether Infosys Reaches Post-Brexit High - Bloomberg.com,-0.5338298678398132
-INFY,2026-03-28,INFY.Z - | Stock Price & Latest News - reuters.com,-0.9282014966011047
-INFY,2015-04-07,"TCS, Wipro, TechM, Infy are key to Apple's supply chain - Indiatimes",-0.8407883644104004
-INFY,2026-03-26,(INFY.P) | Stock Price & Latest News - reuters.com,-0.9142201542854309
+INFY,2026-01-15,India's Infosys rises after strong 2026 view; lifts IT index - Reuters,0.9276655912399292
+INFY,2025-07-23,"Infosys Narrows Sales Outlook, Warns of Cautious IT Spending - bloomberg.com",-0.5901309847831726
+INFY,2026-03-28,INFY.A - Reuters,-0.9446906447410583
+INFY,2026-01-16,India equity benchmarks end week flat as earnings counter global jitters - Reuters,-0.9282996654510498
+INFY,2026-03-27,INFY.BO - | Stock Price & Latest News - Reuters,-0.9276785254478455
+INFY,2026-03-03,INFY.NS - | Stock Price & Latest News - Reuters,-0.9255722165107727
+INFY,2021-06-21,Infosys Ltd - Reuters,-0.9377942681312561
+INFY,2026-03-29,INFY.P - | Stock Price & Latest News - Reuters,-0.9261845350265503
 INFY,2017-04-11,"Infosys Target Share Price, Infosys Share Price Forecast - The Economic Times",-0.9376002550125122
-INFY,2026-01-14,Infosys Lifts Sales Outlook as Tech Spending Shows Life - Bloomberg.com,0.4528825283050537
-INFY,2026-01-08,"TCS, Infosys, Wipro to Offer Clues on 2026 Demand as Street Estimates Look Up - Bloomberg.com",-0.9249811768531799
+INFY,2023-06-07,Bearishness on Indian Tech Bellwether Infosys Reaches Post-Brexit High - bloomberg.com,-0.5338298678398132
+INFY,2026-01-14,Infosys Lifts Sales Outlook as Tech Spending Shows Life - bloomberg.com,0.4528825283050537
+INFY,2024-03-28,Infosys Share Price - Business Standard,-0.9414420127868652
+INFY,2015-04-07,"TCS, Wipro, TechM, Infy are key to Apple's supply chain - ET CIO",-0.838560163974762
+INFY,2026-01-08,"TCS, Infosys to Offer Clues on 2026 Demand as Street Estimates Look Up - bloomberg.com",-0.924750804901123
+INFY,2026-03-28,INFY.N - | Stock Price & Latest News - Reuters,-0.9256116151809692
+INFY,2025-04-21,"Infosys gains 3% after Q4 results; Check earnings, outlook, analysts' call - Business Standard",-0.6436607837677002
+INFY,2025-10-17,Infosys falls 2% even after Q2 beat; stock falls for 5th day; time to sell? - Business Standard,-0.8166249394416809
 INFY,2026-01-15,Infosys stock to open higher on Friday? ADR jumps 10%; FY26 guidance raised - Business Standard,0.9376609921455383
-INFY,2022-04-17,Infosys shares fall 9% as profit miss stokes growth normalisation fears - reuters.com,-0.9327874779701233
-INFY,2024-04-11,Indian IT Firms’ Headwinds Linger as Analysts Start Signaling Brighter Outlook - Bloomberg.com,-0.7873906493186951
-INFY,2025-10-08,"TCS, Infy, HCL Tech gain 2%; IT index up 5% in 1 week ahead of Q2 results - Business Standard",0.9484427571296692
+INFY,2026-01-20,"TO ALL STOCK EXCHANGES BSE LIMITED NATIONAL STOCK EXCHANGE OF INDIA LIMITED NEW YORK STOCK EXCHANGE January 20, 2026 Dear Sir/ - bsmedia.business-standard.com",-0.9405456185340881
 INFY,2025-07-24,"Should you buy, sell or hold Infy stock post Q1 results? Chart check here - Business Standard",-0.9434053897857666
+INFY,2025-10-08,"TCS, Infy, HCL Tech gain 2%; IT index up 5% in 1 week ahead of Q2 results - Business Standard",0.9484427571296692
+INFY,2025-10-14,Infosys Q2 preview: Revenue to rise on deal wins; BFSI vertical resilient - Business Standard,0.9508517384529114
+INFY,2025-07-21,Infosys Q1 preview: Profit to dip QoQ even as revenue rises; view estimates - Business Standard,-0.8123627305030823
+INFY,2025-04-15,Infosys Q4 Preview: Profit likely to dip 1.5% as margins set to contract - Business Standard,-0.9685971140861511
+INFY,2025-07-24,Nifty IT index slides 1.5%: Why did IT stocks fall today? - Business Standard,-0.9194300770759583
+INFY,2025-10-07,TCS vs Infosys vs HCL Tech: Here's the best IT stock for your portfolio - Business Standard,-0.879550576210022
+INFY,2022-04-17,Infosys shares fall 9% as profit miss stokes growth normalisation fears - Reuters,-0.9562707543373108
+INFY,2025-12-19,"Nifty IT rises 1% as Infosys, TCS lead post Accenture's upbeat Q1 earnings - Business Standard",0.9405590295791626
+INFY,2025-04-21,"TCS, Infosys, Wipro: Should you buy IT stocks post Q4FY25 results? - Business Standard",-0.9132710099220276
+INFY,2025-10-16,"Infosys Q2 results: Profit up 13% at ₹7,364 cr; ₹23/share dividend declared - Business Standard",0.9501329660415649
+INFY,2026-01-13,Infosys Q3 preview: Revenue may rise 2% QoQ; Project Maximus to aid margins - Business Standard,0.9531447887420654
+INFY,2025-09-11,Infosys buyback history: Stock gained up to 22% in 6 months post approval - Business Standard,0.9515596032142639
+INFY,2025-01-03,"TCS, Infy, HCL Tech: How to trade IT stocks ahead of Q3 results? Key levels - Business Standard",-0.9426755905151367
+INFY,2026-03-20,The Economic Times - The Economic Times,-0.9159992933273315
+INFY,2025-10-16,"Infosys Q2 results: Net profit jumps 13.2% to ₹7,364 cr, revenue up 8.6% - Business Standard",0.9532834887504578
 INFY,2026-01-16,"Infosys up 5% as strong deal wins, guidance hike keep analysts optimistic - Business Standard",0.9361944794654846
-INFY,2017-04-11,The Economic Times - The Economic Times,-0.9159992933273315
-INFY,2019-03-02,Infosys Ltd - Bloomberg.com,-0.9396263360977173
-INFY,2019-02-16,INFOSYS BPM LIMITED - The Economic Times,-0.926534116268158
-INFY,2026-02-03,New AI Tool Turns the Heat on Top Indian IT Firms - Bloomberg.com,-0.8995745182037354
+INFY,2025-10-17,"Infosys Q2 result analysis: Charts hint at 7% downside; support at ₹1,425 - Business Standard",-0.8648640513420105
+INFY,2019-03-02,Infosys Ltd - bloomberg.com,-0.9396263360977173
+INFY,2025-01-16,"Q3 results today: Reliance, Infosys, LTIMindtree to post earnings on Jan 16 - Business Standard",0.7816817164421082
 INFY,2024-10-18,Infosys share price slips 4.5% despite raising FY25 guidance; here's why - Business Standard,-0.9315859079360962
-INFY,2018-07-02,DNB Bank Selects Infosys for Application Transformation Programme - bsmedia.business-standard.com,-0.8922099471092224
-INFY,2024-12-06,Infosys Ltd - bsmedia.business-standard.com,-0.9504382610321045
 INFY,2025-11-25,"IT stocks set for AI-led revival; Infy, HCL among Motilal Oswal's top bets - Business Standard",0.6485471129417419
-INFY,2026-01-16,"Infosys, TCS, HCL Tech, 2 others: How to trade IT stocks post Q3 results? - Business Standard",-0.9286488890647888
+INFY,2018-07-02,DNB Bank Selects Infosys for Application Transformation Programme - bsmedia.business-standard.com,-0.8922099471092224
+INFY,2019-02-16,INFOSYS BPM LIMITED - The Economic Times,-0.926534116268158
+INFY,2025-10-16,"Q2 results today: Infosys, Wipro, Nestle, Punjab & Sind Bank on Oct 16 - Business Standard",-0.937673807144165
+INFY,2025-01-17,"'Buy' Infosys to best play IT sector revival, say analysts post strong Q3 - Business Standard",0.9221447706222534
 INFY,2025-02-24,Layoffs impact: Infy stock sinks below 200-DMA after 8 months; what next? - Business Standard,-0.9146332144737244
-INFY,2025-10-14,India's Infosys wins $1.6 billion deal from UK's National Health Service - reuters.com,0.5966150164604187
-INFY,2024-06-03,Infosys CEO's compensation rose 17% to $7.9 mln in FY 2024 - reuters.com,0.6109372973442078
+INFY,2024-06-03,Infosys CEO's compensation rose 17% to $7.9 mln in FY 2024 - Reuters,0.9476137757301331
+INFY,2026-02-03,New AI Tool Turns the Heat on Top Indian IT Firms - bloomberg.com,-0.8995745182037354
+INFY,2018-09-14,SOLITAIRE INFOSYS PRIVATE LIMITED - The Economic Times,-0.9345846772193909
+INFY,2026-04-04,Bandhan Bank reports higher collection efficiency - The Economic Times,0.8808469176292419
+INFY,2025-07-24,Analysts stay bullish on Infosys after steady Q1 show; Should you buy in? - Business Standard,0.5680515170097351
+INFY,2025-10-14,India's Infosys wins $1.6 billion deal from UK's National Health Service - Reuters,0.49060994386672974
+INFY,2026-01-16,"Infosys, TCS, HCL Tech, 2 others: How to trade IT stocks post Q3 results? - Business Standard",-0.9286488890647888
+INFY,2025-04-17,"Q4 results today: Infosys, HDFC Life among 12 to post results on Apr 17 - Business Standard",-0.928091824054718
+INFY,2026-01-14,"Infosys Q3 net profit down 2.2% at ₹6,654 crore on new Labour Codes - Business Standard",-0.9745338559150696
 INFY,2025-07-23,"Q1 results today: Infosys, Dr. Reddys Lab, Bajaj Housing among 60 companies - Business Standard",-0.7755825519561768
-INFY,2026-03-28,"Bitcoin holds near $66K, range-bound for 50 days, signalling accumulation over distribution - The Economic Times",0.5314470529556274
+INFY,2024-12-06,Infosys Ltd - bsmedia.business-standard.com,-0.9504382610321045
+INFY,2025-01-16,"Stocks to Watch Today, Jan 16: RIL, Axis Bk, Infy, Ceat, HDFC Life, Swiggy - Business Standard",-0.9294186234474182
+INFY,2025-08-04,India’s IT earnings slump: What’s next for investors as Q1 disappoints? | TCS | Infosys - Business Standard,-0.5074285268783569
+INFY,2025-01-17,"Nifty IT index slips 3%; Infosys, LTIMindtree slip up to 6% post Q3 results - Business Standard",-0.9734570980072021
+INFY,2025-09-09,"Infosys buyback history, stock reaction today, implications for investors - Business Standard",-0.9290201663970947
 INFY,2025-04-17,"Infosys Q4 net profit drops 12% to ₹7,033 crore; revenue rises 7.9% - Business Standard",-0.9684574604034424
 INFY,2026-02-12,"Tech Mahindra, Infy among top analyst picks as IT stocks continue to slide - Business Standard",-0.9020727276802063
-INFY,2026-02-23,"Infosys, TCS: Jefferies downgrades Indian IT stocks, cuts earnings estimate - Business Standard",-0.9590654373168945
-INFY,2025-10-07,TCS vs Infosys vs HCL Tech: Here's the best IT stock for your portfolio - Business Standard,-0.879550576210022
-INFY,2023-03-29,Infosys to hire defence veterans - ETHRWorld.com,-0.9237699508666992
-INFY,2025-08-13,India's Infosys to buy 75% stake in Telstra unit for $153 million - reuters.com,-0.9279261231422424
-INFY,2026-01-14,"Q3 result: Infosys, HDFC AMC, ICICI Prudential AMC among 25 firms on Jan 14 - Business Standard",-0.8355535864830017
-INFY,2025-04-17,Infosys| BUY - bsmedia.business-standard.com,-0.9470599293708801
-INFY,2013-10-11,Infosys profit lags on visa charge; revenue outlook improves - CNBC,-0.8071280717849731
-INFY,2018-09-14,INFYLABELS SOLUTIONS PRIVATE LIMITED - The Economic Times,-0.9230236411094666
-INFY,2026-03-27,"TAC Infosec Ltd. Share Price Today, TAC Infosec Ltd. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9287020564079285
-INFY,2026-01-12,"TCS, HCL Tech Results Bring Setback for India Stock Bulls - Bloomberg.com",-0.691428542137146
-INFY,2021-01-11,"Coforge, Persistent Systems among 10 stocks that have fallen most in 2026. Do you own any? - The Economic Times",-0.8525118231773376
