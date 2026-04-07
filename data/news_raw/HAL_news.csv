@@ -1,98 +1,97 @@
 ticker,date,headline,sentiment_score
 HAL,2026-04-01,"hal q2 results: Latest News & Videos, Photos about hal q2 results - The Economic Times",-0.9346923828125
-HAL,2026-03-31,"HAL logs 4% rise in FY26 revenue at ₹32,250 crore - ET Manufacturing",0.9455839395523071
 HAL,2026-02-04,HAL shares slide nearly 6% on AMCA programme setback - ET Infra,-0.9703474640846252
-HAL,2026-04-02,HAL imposes penalties on GE for F404 delays - The Economic Times,-0.8782681822776794
-HAL,2026-04-02,"hal penalties on ge: Latest News & Videos, Photos about hal penalties on ge - The Economic Times",-0.9152016043663025
-HAL,2026-04-04,"itc hotels ltd q2 results: Latest News & Videos, Photos about itc hotels ltd q2 results - The Economic Times",-0.9364808797836304
-HAL,2026-04-03,"mp board result 2026 class 5: Latest News & Videos, Photos about mp board result 2026 class 5 - The Economic Times",-0.9412900805473328
-HAL,2026-04-04,"ETtech Deals Digest: Startups raise $187 million this week, down 28% on-year - The Economic Times",-0.9733304977416992
-HAL,2026-04-04,Kotak Multi Asset Active FoF Regular-IDCW - The Economic Times,-0.9110361933708191
-HAL,2026-04-04,RBI revises rules for Floating Rate Savings Bonds 2020: Key changes investors should know - The Economic Times,-0.9300522208213806
-HAL,2026-04-03,Elon Musk’s SpaceX IPO targets $1.75 trillion valuation. Biggest in history? - The Economic Times,-0.9055551886558533
-HAL,2026-04-04,Who are Delve founders Karun Kaushik and Selin Kocalar? - The Economic Times,-0.9348270893096924
-HAL,2026-04-04,LIVE KERALA LOTTERY RESULT BHAGYATHARA BT 46 - The Economic Times,-0.9168386459350586
-HAL,2026-04-04,Artemis II mission: NASA shares first images of Earth by astronauts aboard - The Economic Times Video | ET Tv - The Economic Times,-0.910578727722168
-HAL,2026-04-04,DHURANDHAR 2 OPENING WEEKEND COLLECTION - The Economic Times,-0.9169645309448242
-HAL,2026-04-04,ITR changes from April 2026: 5 key updates for Tax Year 2026–27 explained - The Economic Times,-0.9162776470184326
-HAL,2026-04-04,"oil price march 24: Latest News & Videos, Photos about oil price march 24 - The Economic Times",-0.9361136555671692
-HAL,2026-04-04,"24k gold prices: Latest News & Videos, Photos about 24k gold prices - The Economic Times",-0.9361081123352051
-HAL,2026-04-04,'LDF will be out of power': PM Modi says corruption is a key obstacle to Kerala's growth - The Economic Times,-0.6702951192855835
-HAL,2026-04-03,"australian open 2026: Latest News & Videos, Photos about australian open 2026 - The Economic Times",-0.9352359175682068
-HAL,2026-04-04,"indian premier league 2026: Latest News & Videos, Photos about indian premier league 2026 - The Economic Times",-0.9362003803253174
-HAL,2026-04-04,"operation cyber hawk 3 0: Latest News & Videos, Photos about operation cyber hawk 3 0 - The Economic Times",-0.9341831803321838
-HAL,2026-04-04,"winter olympics 2026 opening ceremony: Latest News & Videos, Photos about winter olympics 2026 opening ceremony - The Economic Times",-0.9342475533485413
-HAL,2026-04-04,"oscars 2026 kpop demon hunters: Latest News & Videos, Photos about oscars 2026 kpop demon hunters - The Economic Times",-0.9352432489395142
-HAL,2026-04-04,"powerball march 23 drawing: Latest News & Videos, Photos about powerball march 23 drawing - The Economic Times",-0.9296663403511047
-HAL,2026-04-04,"aquarius love horoscope april 2026: Latest News & Videos, Photos about aquarius love horoscope april 2026 - The Economic Times",-0.9349830150604248
-HAL,2026-04-04,EASY HOMEMADE CHOCOLATES FOR CHOCOLATE DAY 2026 - The Economic Times,-0.9211908578872681
-HAL,2026-04-04,"rcb tickets 2026: Latest News & Videos, Photos about rcb tickets 2026 - The Economic Times",-0.9385147094726562
-HAL,2026-04-04,"budget 2026 middle class impact: Latest News & Videos, Photos about budget 2026 middle class impact - The Economic Times",-0.920911431312561
-HAL,2026-04-04,"astrology february 2026: Latest News & Videos, Photos about astrology february 2026 - The Economic Times",-0.937063992023468
-HAL,2026-04-03,"US-Israel-Iran War | Newly built Tehran-Karaj bridge hit by air strikes, suffers major damage - The Economic Times",-0.9295399188995361
-HAL,2026-04-03,"'You just lied under oath!': Dems, Bondi get into epic clash over Epstein Files at explosive hearing - The Economic Times",-0.7670228481292725
-HAL,2026-04-04,"India’s crude oil supply fully secured, no payment hurdle for Iranian imports: Petroleum Ministry - The Economic Times",-0.900404155254364
-HAL,2026-04-04,'Iran’s nuke threat imminent?’: Democrats GRILL Tulsi Gabbard over Trump’s war - The Economic Times,-0.7101824879646301
-HAL,2026-04-04,"iran war 2026: Latest News & Videos, Photos about iran war 2026 - The Economic Times",-0.9338733553886414
-HAL,2026-04-01,"Defence index surges 7%; Shipbuilding stocks GRSE, Mazagon zoom up to 19% - Business Standard",0.9413332939147949
-HAL,2026-04-02,"Global Stocks Surge, Oil Eases on Iran War De-escalation Hopes - Business Standard",0.6937263011932373
-HAL,2026-03-31,"Defence stocks see strong triggers amid rising capex, fewer concerns - Business Standard",0.8822122812271118
-HAL,2026-04-03,"Navy ensures safety of Indian commercial ships, oil tankers: Rajnath Singh - Business Standard",-0.9147358536720276
-HAL,2026-04-03,SC asks Centre if disabled military cadets can get 'ex-servicemen' status - Business Standard,-0.898415207862854
-HAL,2026-04-03,"India inducts nuclear-powered submarine INS Aridhaman, boosts deterrence - Business Standard",0.8397882580757141
-HAL,2017-03-24,"Suzlon Energy Share Price Today, Suzlon Energy Stock Price Live NSE/BSE Updates - The Economic Times",-0.9410127997398376
+HAL,2025-10-28,India signs pact with sanctioned Russian firm to build civil aircraft - cfo.economictimes.indiatimes.com,0.6150733828544617
+HAL,2026-04-03,HAL penalises GE Aerospace as engine delays stall Tejas Mk-1A deliveries - business-standard.com,-0.918219804763794
+HAL,2026-04-06,HAL's Independent Director SD Premkumar resigns to contest Tamil Nadu polls - ET Manufacturing,-0.7713037133216858
+HAL,2026-04-06,Swiggy among 4 stocks that closed crossing above VWAP - The Economic Times,-0.7832708358764648
+HAL,2026-04-06,"Persistent Systems - Mahindra, Billionbrains Garage among 6 stocks flashing bullish signals - The Economic Times",-0.8505887985229492
+HAL,2026-04-07,7 egg breakfasts for energetic workdays - The Economic Times,-0.8953174352645874
+HAL,2026-04-07,Meta to release open source versions of its upcoming AI models - The Economic Times,-0.8942826986312866
+HAL,2026-04-06,Coal offtake under watch as industry builds stocks - The Economic Times,-0.9021755456924438
+HAL,2026-04-06,"vishal mega mart ltd q2 results: Latest News & Videos, Photos about vishal mega mart ltd q2 results - The Economic Times",-0.9355398416519165
+HAL,2026-04-06,"kseab karnataka gov in: Latest News & Videos, Photos about kseab karnataka gov in - The Economic Times",-0.9365240335464478
+HAL,2026-04-06,"puc result 2026: Latest News & Videos, Photos about puc result 2026 - The Economic Times",-0.936823308467865
+HAL,2026-04-07,KSEAB KARNATAKA GOV IN AND KARRESULTS NIC IN - The Economic Times,-0.9283360838890076
+HAL,2026-04-06,PM Modi says ‘women’s reservation won’t hit state representation’ as Congress questions timing - The Economic Times,-0.7651443481445312
+HAL,2026-04-06,"maharashtra rte merit list 2026: Latest News & Videos, Photos about maharashtra rte merit list 2026 - The Economic Times",-0.9367055892944336
+HAL,2026-04-06,"maharashtra rte lottery result 226: Latest News & Videos, Photos about maharashtra rte lottery result 226 - The Economic Times",-0.9390283823013306
+HAL,2026-04-06,"Inside ViewSonic India’s Strategy: AI Classrooms, B2B Focus & FY26 Outlook | TechPulse - The Economic Times",-0.9000699520111084
+HAL,2026-04-06,‘How did over $9B slip away so easily?’: GOP lawmakers demand answers on Minnesota Somali fraud - The Economic Times,-0.8426657915115356
+HAL,2026-04-06,"scorpio love horoscope april 2026: Latest News & Videos, Photos about scorpio love horoscope april 2026 - The Economic Times",-0.9303535223007202
+HAL,2026-04-06,West Asia crisis: Two Indian LPG vessels safely transit Strait of Hormuz - The Economic Times Video | ET Tv - The Economic Times,-0.9172311425209045
+HAL,2026-04-06,‘Mad dog has bitten them’: Assam CM’s wife Riniki Bhuyan Sharma files FIR against Pawan Khera - The Economic Times,-0.6664263010025024
+HAL,2026-04-06,'WILL GO TO JAIL': Trump goes NUCLEAR on 'leaker' who nearly doomed US Pilot rescue mission in Iran - The Economic Times,-0.494174599647522
+HAL,2026-04-05,'Iran wants to stop this war immediately...': Khamenei’s representative amid ongoing US-Israel-Iran conflict - The Economic Times,-0.8454645276069641
+HAL,2018-03-09,"HAL Share Price Today, HAL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387754201889038
+HAL,2018-06-14,"Adani Green Share Price Today, Adani Green Stock Price Live NSE/BSE Updates - The Economic Times",-0.9406358003616333
 HAL,2021-01-15,Check out 's stock price (HAL-IN) in real time - CNBC,-0.9444448351860046
 HAL,2025-05-14,India's HAL posts quarterly profit drop on aircraft supply delays - Reuters,-0.9642853140830994
-HAL,2026-04-02,"HAL Share Price Today, HAL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387754201889038
 HAL,2025-07-28,Hindustan Aeronautics - bsmedia.business-standard.com,-0.9452593922615051
 HAL,2025-02-12,India's HAL posts quarterly profit jump on strong fighter jet demand - Reuters,0.9024243354797363
-HAL,2018-03-09,"HAL Balance Sheets, Financial Statements - The Economic Times",-0.9280168414115906
+HAL,2021-06-02,Stock Research Report for Hindustan Aeronautics Ltd - The Economic Times,-0.9229061007499695
 HAL,2025-11-12,HAL net profit rises 10.5% in Q2 FY26 on higher revenue - ET Infra,0.9561619758605957
 HAL,2024-11-14,India's HAL Q2 profit jumps on defence aircraft demand - Reuters,-0.43705326318740845
-HAL,2021-06-02,Stock Research Report for Hindustan Aeronautics Ltd - The Economic Times,-0.9229061007499695
 HAL,2018-03-09,Hindustan Aeronautics Ltd. - The Economic Times,-0.9201610088348389
+HAL,2018-03-09,"HAL Balance Sheets, Financial Statements - The Economic Times",-0.9280168414115906
 HAL,2014-04-22,HAL: Halliburton Co Stock Price Quote - New York - Bloomberg - bloomberg.com,-0.9464607238769531
 HAL,2025-11-12,India's Hindustan Aeronautics posts 11% rise in quarterly profit; key margin contracts - Reuters,0.82804936170578
 HAL,2026-02-12,India's Hindustan Aeronautics posts 30% jump in quarterly profit as order execution improves - Reuters,0.9210676550865173
 HAL,2026-02-12,"HAL Q3FY26 net profit rises 29.6% to ₹1,866.66 crore - ET Infra",0.9369968771934509
-HAL,2019-09-07,"hindustan aeronautics ltd q2 results: Latest News & Videos, Photos about hindustan aeronautics ltd q2 results - The Economic Times",-0.9362685680389404
 HAL,2014-03-19,HNAL: Hindustan Aeronautics Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9480485916137695
 HAL,2022-06-06,(HAL.N) | Stock Price & Latest News - Reuters,-0.9136426448822021
 HAL,2025-07-21,62ND ANNUAL REPORT 2024-25 - bsmedia.business-standard.com,-0.9442712068557739
-HAL,2025-11-24,Hindustan Aeronautics: HAL Tejas Mishap – Context and Perspective - bsmedia.business-standard.com,-0.9119917750358582
 HAL,2023-08-11,HAL failed to anticipate EASA requirements: CAG - ET Infra,-0.5390122532844543
-HAL,2024-05-16,India's HAL posts Q4 profit climb on defence aircraft demand - Reuters,0.8630926609039307
-HAL,2022-04-22,(HAL) | Stock Price & Latest News - Reuters,-0.9142628908157349
-HAL,2025-04-22,Halliburton Drops After Reporting Lowest Sales Since 2022 - bloomberg.com,-0.9551080465316772
+HAL,2025-11-24,Hindustan Aeronautics: HAL Tejas Mishap – Context and Perspective - bsmedia.business-standard.com,-0.9119917750358582
 HAL,2017-11-20,"hindustan aeronautics limited: Latest News & Videos, Photos about hindustan aeronautics limited - The Economic Times",-0.9356244802474976
-HAL,2026-02-04,HAL shares slide nearly 6% on AMCA programme setback - ET Manufacturing,-0.9696881175041199
 HAL,2022-10-25,Halliburton (NYSE:HAL) Earnings Double Amid Surging Global Crude Demand - bloomberg.com,0.7629262208938599
-HAL,2024-05-16,HAL reports 52% increase in profit for Q4 - ET Manufacturing,0.9528960585594177
 HAL,2021-06-25,About HAL Trust (HLAN.AS) - Reuters,-0.9442940950393677
+HAL,2024-05-16,India's HAL posts Q4 profit climb on defence aircraft demand - Reuters,0.8630926609039307
+HAL,2022-06-06,HIAE.NS - Reuters,-0.9441646337509155
 HAL,2023-03-22,Indian govt proposes to sell up to 3.5% stake in defence firm HAL - Reuters,-0.904629647731781
-HAL,2026-01-21,"Halliburton beats estimates on quarterly profit, says could move quickly in Venezuela - Reuters",0.7298999428749084
 HAL,2018-09-14,HAL OFFSHORE LIMITED - The Economic Times,-0.9152045249938965
+HAL,2026-01-21,"Halliburton beats estimates on quarterly profit, says could move quickly in Venezuela - Reuters",0.7298999428749084
 HAL,2022-08-05,Hindustan Aeronautics Ltd - Reuters,-0.9428917169570923
-HAL,2025-02-15,"HAL and IIIT Dharwad sign MoU for collaborative research, skill development - ET Manufacturing",0.7332560420036316
 HAL,2026-04-04,HAL.P - | Stock Price & Latest News - Reuters,-0.9291583895683289
+HAL,2026-03-06,DCX Systems rises after bagging Rs 68-cr order from HAL - business-standard.com,0.9362186193466187
+HAL,2025-03-18,HAL loses Rs 55 lakh in cyber fraud after scammers alter email address - business-standard.com,-0.9209712743759155
 HAL,2025-06-20,Warplane maker HAL wins bid to make India's small satellite launch rockets - Reuters,-0.5584261417388916
-HAL,2025-03-18,HAL loses Rs 55 lakh in cyber fraud after scammers alter email address - Business Standard,-0.9527900815010071
-HAL,2024-04-23,Halliburton Sees Best Profit in 12 Years Amid Smaller Shale - bloomberg.com,0.8569139242172241
-HAL,2025-11-23,India's Tejas jet-maker HAL calls Dubai crash an isolated occurrence - Reuters,-0.6980026364326477
+HAL,2024-05-16,HAL reports 52% increase in profit for Q4 - ET Manufacturing,0.9528960585594177
 HAL,2025-06-19,French company Safran ties up with HAL to produce LEAP engines' forged parts - ET Manufacturing,0.6956050992012024
-HAL,2025-07-22,Halliburton forecasts steep full-year revenue decline on softer demand - Reuters,-0.9699132442474365
+HAL,2025-11-23,India's Tejas jet-maker HAL calls Dubai crash an isolated occurrence - Reuters,-0.6980026364326477
 HAL,2026-01-30,Indo-Russian Aviation: HAL expands civil footprint with Yakovlev partnership - ET Infra,0.9040124416351318
 HAL,2017-03-24,"BEL Share Price Today, BEL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9399408102035522
-HAL,2025-09-29,Government mulls HAL restructuring for efficiency and faster deliveries - ET Manufacturing,-0.6406548619270325
+HAL,2024-04-23,Halliburton Sees Best Profit in 12 Years Amid Smaller Shale - bloomberg.com,0.8569139242172241
+HAL,2017-03-24,"Suzlon Energy Share Price Today, Suzlon Energy Stock Price Live NSE/BSE Updates - The Economic Times",-0.9410127997398376
+HAL,2025-02-15,"HAL and IIIT Dharwad sign MoU for collaborative research, skill development - ET Manufacturing",0.7332560420036316
 HAL,2017-08-18,Haldyn Glass Ltd. - The Economic Times,-0.9218480587005615
-HAL,2018-03-09,The Economic Times - The Economic Times,-0.9159992933273315
-HAL,2022-06-06,HIAE.NS - Reuters,-0.9441646337509155
-HAL,2025-02-16,"HAL and IIIT Dharwad sign MoU for collaborative research, skill development in AI, Robotics - ETGovernment.com",0.6233749389648438
-HAL,2025-02-10,HAL renames Hindustan Jet Trainer HJT-36 as 'Yashas' after modifications - Business Standard,-0.8734017610549927
+HAL,2025-09-01,"SMS Lifesciences Ind Share Price Today, SMS Lifesciences Ind Stock Price Live NSE/BSE Updates - The Economic Times",-0.9435568451881409
+HAL,2023-08-11,Hindustan Aeronautics first-quarter profit rises 31% on higher revenue - Reuters,0.9065102934837341
+HAL,2025-09-29,Government mulls HAL restructuring for efficiency and faster deliveries - ET Manufacturing,-0.6406548619270325
 HAL,2023-07-08,HAL gets contract to supply two Dornier aircraft to Indian Coast Guard - ET Infra,0.9270744323730469
 HAL,2026-03-29,HAL.A - | Stock Price & Latest News - Reuters,-0.9319013953208923
 HAL,2023-02-10,"Defence tech: HAL order book swells to Rs 84k cr, looks to ramp up helicopter production to 90/year - ETGovernment.com",0.9052450656890869
-HAL,2026-03-29,(HAL.Z) | Stock Price & Latest News - Reuters,-0.9146885871887207
+HAL,2025-07-22,Halliburton forecasts steep full-year revenue decline on softer demand - Reuters,-0.9699132442474365
+HAL,2020-08-11,Halliburton (HAL) Seeking Serious Buyers Only in Real-Estate Auction - bloomberg.com,-0.9487301111221313
 HAL,2020-09-25,"Mazagon Dock Ship Share Price Today, Mazagon Dock Ship Stock Price Live NSE/BSE Updates - The Economic Times",-0.9391072988510132
 HAL,2022-04-07,HAL ties up with Israel Aerospace Ind to convert civil aircraft to multi-mission tanker transport plane - ET Infra,0.8340173363685608
+HAL,2025-02-10,HAL renames Hindustan Jet Trainer HJT-36 as 'Yashas' after modifications - business-standard.com,-0.8982420563697815
+HAL,2025-10-28,India signs pact with sanctioned Russian firm to build civil aircraft - Reuters,0.8042899966239929
+HAL,2023-10-04,Defence tech: HAL delivers first LCA Tejas aircraft to Indian Air Force - ETGovernment.com,-0.5351521968841553
+HAL,2021-12-07,Top defence PSU HAL and Maharatna BEL among top 100 global arms-producing cos in 2020 - ETGovernment.com,-0.6744982004165649
 HAL,2025-02-12,Indian warplane maker promises faster delivery after air chief's rebuke - Reuters,0.7295230627059937
+HAL,2026-01-29,"HAL secures ₹1,800-crore order from Pawan Hans for 10 Dhruv NG helicopters - ET Infra",0.9166023135185242
+HAL,2026-04-02,HAL.AX - Reuters,-0.9450886845588684
+HAL,2024-02-12,"HAL to approach military, civil certification of helicopters simultaneously: CMD Ananthakrishnan - ET Infra",-0.6656813621520996
+HAL,2023-02-14,"India's HAL in talks on Tejas fighter jet exports, faces Malaysia setback - Reuters",-0.4936947226524353
+HAL,2016-07-03,HAL inaugurates 6.3 mw wind energy plant near Bengaluru - ET EnergyWorld,-0.8711276054382324
+HAL,2023-08-25,"Exclusive: L&T, HAL vetted to bid on India rocket privatisation, source says - Reuters",-0.8075875639915466
+HAL,2025-10-28,"HAL, Russia's UAC sign MoU for production of civil aircraft SJ-100 in India - business-standard.com",-0.8339584469795227
+HAL,2026-04-07,"Delhi, Noida and Gurugram weather today (April 7): Delhi-NCR wakes up to rainfall, IMD issues yellow alert for two days. Check full forecast - The Economic Times",-0.7984139323234558
+HAL,2025-03-29,MoD inks contracts worth ₹62700 crore with HAL for supply of 156 LCH Prachand to armed forces - ETGovernment.com,0.8328741192817688
+HAL,2023-08-25,IAF to procure 100 LCA Mark 1A fighter jets from HAL - ETGovernment.com,0.7747489213943481
+HAL,2026-03-03,"MoD signs ₹5,083 crore deals for HAL helicopters, Shtil missiles - ET Manufacturing",0.8837376832962036
+HAL,2025-06-20,Isro transfers SSLV tech to defence major HAL in a ₹511 crore deal - business-standard.com,-0.8266540765762329
+HAL,2018-10-10,HAR-HAL PLASTIC ENGINEERING PRIVATE LIMITED - The Economic Times,-0.9293607473373413
+HAL,2026-03-26,ACS Technologies lands ₹1.56 crore HAL deal for rack-integrated data centres - ET Infra,0.8134377002716064
+HAL,2026-01-05,"Stocks making the biggest moves midday: Coinbase, Arista Networks, Chevron, Halliburton & more - CNBC",-0.9104326367378235

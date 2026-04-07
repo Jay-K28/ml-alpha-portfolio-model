@@ -1,37 +1,36 @@
 ticker,date,headline,sentiment_score
-BPCL,2026-04-03,"BPCL duped of ₹129 crore, 1093 accused nationwide; FIR against 7 in Indore - Business Standard",-0.7600133419036865
-BPCL,2026-04-03,BPCL marketing director Subhankar Sen gets additional charge as HR Director - ET BrandEquity,-0.8658743500709534
-BPCL,2026-04-03,Case against 7 from Indore for 'cheating' BPCL by not returning wrongful recharge - ET EnergyWorld,-0.9116306900978088
-BPCL,2026-04-02,"ATF, LPG price hikes to pressure OMC margins; IOCL, BPCL hit: Nomura - Business Standard",-0.4871348440647125
-BPCL,2026-04-01,Telangana Minister seeks urgent additional LPG supplies from Centre for autorickshaws - ET Auto,0.8835567831993103
-BPCL,2026-03-30,India's petrochemical industry and the realities of a fragile supply chain - ET EnergyWorld,-0.6365001201629639
+BPCL,2026-04-03,"BPCL duped of ₹129 crore, 1093 accused nationwide; FIR against 7 in Indore - business-standard.com",-0.6207761168479919
+BPCL,2026-04-02,"ATF, LPG price hikes to pressure OMC margins; IOCL, BPCL hit: Nomura - business-standard.com",-0.740792453289032
+BPCL,2026-04-05,Domestic OMCs to pay discounted rates to refiners amid fuel price freeze - business-standard.com,-0.9237368106842041
+BPCL,2026-04-06,India’s Refiners Delay Maintenance to Stabilize Fuel Supplies - bloomberg.com,-0.4990026652812958
 BPCL,2026-04-04,"Govt to call off Shipping Corp, CONCOR privatisation after Cabinet clears three big ticket projects - ET Infra",-0.662394106388092
-BPCL,2026-04-02,India looks to turn LPG import crisis into push for piped gas - Reuters,-0.8202590346336365
-BPCL,2026-04-02,Clock Ticks for a Dozen Indian IPOs as Approvals Near Expiry - Bloomberg.com,-0.9313429594039917
-BPCL,2026-04-01,Tanker Carrying Iran Crude Signals India After 7-Year Import Gap - Bloomberg.com,-0.6066478490829468
-BPCL,2026-03-30,Indian LPG ships gain as Iran allows safe transit through Strait of Hormuz to friendly nations fleet - ET Infra,0.9396154880523682
-BPCL,2026-04-02,"bharat gas cylinders: Latest News & Videos, Photos about bharat gas cylinders - The Economic Times",-0.937088131904602
-BPCL,2026-03-31,India's first Iranian oil cargo since 2019 headed to Gujarat coast - ET EnergyWorld,-0.7668875455856323
+BPCL,2026-04-01,Telangana Minister seeks urgent additional LPG supplies from Centre for autorickshaws - ET Auto,0.8835567831993103
+BPCL,2026-04-06,"Indian refiners postpone maintenance shutdowns to meet local fuel demand, govt says - Reuters",-0.7098501920700073
+BPCL,2026-04-02,Clock Ticks for a Dozen Indian IPOs as Approvals Near Expiry - bloomberg.com,-0.9313429594039917
 BPCL,2026-04-01,Tanker carrying Iran crude signals India after 7-year import gap - ET EnergyWorld,0.6490081548690796
-BPCL,2014-06-19,"Business News, Finance News, India News, Stock Markets BSE/NSE News, SENSEX, NIFTY, Personal Finance News - Business Standard",-0.9441770315170288
-BPCL,2026-03-30,"Steel, auto, chemicals to gain from more LPG flow - ET Auto",0.9051336646080017
-BPCL,2026-04-03,"Crude sustaining above $100 will push inflation beyond 6%, says HSBC - Business Standard",-0.7724155187606812
-BPCL,2026-03-30,"Amid Iran war, 6,000 PNG users surrender LPG connections following govt directive - ET EnergyWorld",-0.4527384638786316
-BPCL,2026-04-03,"Vice President, PM recall Jesus Christ's sacrifice on Good Friday - Business Standard",-0.9202949404716492
-BPCL,2026-04-03,"Adani meets CM Yogi in Lucknow, backs UP's $1 trillion economy roadmap - Business Standard",-0.7889745831489563
-BPCL,2026-04-02,"Steel, aluminium stocks slide amid reports of Trump's 25% tariff plan - Business Standard",-0.9607300758361816
-BPCL,2026-04-02,Latent View stock jumps 9% after $3 million deal with US-based Healtheon AI - Business Standard,0.8809757828712463
-BPCL,2026-04-03,"UP to recruit over 81,000 police personnel in 2026-27: CM Adityanath - Business Standard",-0.6903740167617798
-BPCL,2026-04-03,North Western Railway to run special trains until July 15 amid summer rush - Business Standard,-0.9102036356925964
-BPCL,2026-04-02,"LIC, HDFC Life, Bajaj Finserv, ICICI Prudential Life hit 52-week lows - Business Standard",-0.9488916397094727
-BPCL,2026-04-04,Fire at ONGC Mumbai High platform injures 10; operations restored - Business Standard,-0.8950620293617249
-BPCL,2026-04-02,"Centre uses LPG import crunch to speed up piped gas adoption, cut imports - Business Standard",-0.5888566374778748
-BPCL,2026-03-31,Bio-isobutanol can be India's answer to energy insecurity: Dilip Patil - Business Standard,-0.8333166837692261
-BPCL,2026-04-03,"'Silenced, not defeated': Raghav Chadha slams AAP after RS post removal - Business Standard",-0.7264625430107117
-BPCL,2026-04-01,India's diesel exports to SE Asia hit 7-year high in March due to Iran war - Business Standard,0.8690800070762634
-BPCL,2026-04-02,Govt asks refineries to reroute LPG feedstock to affected industries - Business Standard,-0.8833156228065491
-BPCL,2026-04-02,"No windfall tax on diesel, ATF exports from Reliance SEZ refinery - Business Standard",-0.9192420840263367
-BPCL,2026-03-29,"Govt ramps up measures to ensure fuel, LPG supplies amid Hormuz disruption - Business Standard",0.9045277833938599
+BPCL,2026-03-31,India's first Iranian oil cargo since 2019 headed to Gujarat coast - ET EnergyWorld,-0.7668875455856323
+BPCL,2026-04-03,"Crude sustaining above $100 will push inflation beyond 6%, says HSBC - business-standard.com",-0.7779837846755981
+BPCL,2026-04-02,India looks to turn LPG import crisis into push for piped gas - Reuters,-0.8202590346336365
+BPCL,2026-04-03,"Vice President, PM recall Jesus Christ's sacrifice on Good Friday - business-standard.com",-0.9397010803222656
+BPCL,2026-04-03,"Adani meets CM Yogi in Lucknow, backs UP's $1 trillion economy roadmap - business-standard.com",-0.8330297470092773
+BPCL,2026-04-02,"Steel, aluminium stocks slide amid reports of Trump's 25% tariff plan - business-standard.com",-0.9501570463180542
+BPCL,2026-04-02,Latent View stock jumps 9% after $3 million deal with US-based Healtheon AI - business-standard.com,0.7272319793701172
+BPCL,2026-04-02,"M&M, TVS Motor: BSE Auto slips 3% as brokerages flag demand, margin risks - business-standard.com",-0.964975118637085
+BPCL,2026-04-03,"UP to recruit over 81,000 police personnel in 2026-27: CM Adityanath - business-standard.com",-0.846034824848175
+BPCL,2026-04-07,Fino Payments Bank gains after customer base rises to Rs 1.75 crore in Q4 FY26 - business-standard.com,0.9381052851676941
+BPCL,2026-04-03,North Western Railway to run special trains until July 15 amid summer rush - business-standard.com,-0.9339516758918762
+BPCL,2026-04-02,"LIC, HDFC Life, Bajaj Finserv, ICICI Prudential Life hit 52-week lows - business-standard.com",-0.8310983180999756
+BPCL,2026-04-04,Fire at ONGC Mumbai High platform injures 10; operations restored - business-standard.com,-0.7351205348968506
+BPCL,2026-04-02,"Cash market turnover dipped, F&O growth remained sluggish in FY26 - business-standard.com",-0.9319553971290588
+BPCL,2026-04-02,"Centre uses LPG import crunch to speed up piped gas adoption, cut imports - business-standard.com",-0.7932499051094055
+BPCL,2026-04-03,"'Silenced, not defeated': Raghav Chadha slams AAP after RS post removal - business-standard.com",-0.836328387260437
+BPCL,2026-04-02,"No windfall tax on diesel, ATF exports from Reliance SEZ refinery - business-standard.com",-0.9381956458091736
+BPCL,2026-04-01,India's diesel exports to SE Asia hit 7-year high in March due to Iran war - business-standard.com,0.7814415693283081
+BPCL,2026-04-06,"West Asia crisis: Maha ACS says no shortage of fuel, LPG supply stable - business-standard.com",-0.8026220202445984
+BPCL,2026-04-01,Tanker Carrying Iran Crude Signals India After 7-Year Import Gap - bloomberg.com,-0.6066478490829468
+BPCL,2026-04-06,West Asia conflict: Only 2 Indian-flagged LPG vessels in Strait of Hormuz - business-standard.com,-0.9279505610466003
+BPCL,2026-03-31,Whoop Raises $575 Million at a $10 Billion Valuation on Its Way to an IPO - bloomberg.com,-0.8461905121803284
+BPCL,2016-01-23,India - bloomberg.com,-0.9396921396255493
 BPCL,2025-01-22,"Indian refiner BPCL's Q3 profit misses estimates on lower margins, LPG losses - Reuters",-0.9538698196411133
 BPCL,2025-08-13,"India's BPCL beats quarterly profit view on lower costs, improved demand - Reuters",0.9486795663833618
 BPCL,2025-04-29,India's BPCL posts smaller-than-expected fall in quarterly profit - Reuters,-0.9742661714553833
@@ -42,60 +41,61 @@ BPCL,2022-06-09,BPCL.NS - Reuters,-0.9460073113441467
 BPCL,2017-04-07,"BPCL Share Price Today, BPCL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9386037588119507
 BPCL,2020-10-05,"BPCL Q1 Results: Standalone PAT tumbles 71% YoY to Rs 3,015 crore; revenue growth flat - The Economic Times",-0.9713342785835266
 BPCL,2017-08-06,Check out Bharat Petroleum Corporation Ltd's stock price (BPCL-IN) in real time - CNBC,-0.945376992225647
-BPCL,2014-03-15,BPCL: Bharat Petroleum Corp Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.9458426237106323
+BPCL,2014-03-15,BPCL: Bharat Petroleum Corp Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9458426237106323
 BPCL,2026-01-23,"BPCL Q3FY26 profit jumps 88.9% to ₹7,188 crore - ET EnergyWorld",0.9046106934547424
 BPCL,2025-08-13,"BPCL Q1 net profit jumps 141% to ₹6,839 crore; operating margin improves to 6.32% - ET EnergyWorld",0.947062075138092
-BPCL,2024-10-25,Indian refiner Bharat Petroleum's Q2 profit slumps on lower marketing margins - Reuters,-0.9724699258804321
 BPCL,2025-04-29,"BPCL net profit falls 24% on LPG losses, lower refinery margins - ET EnergyWorld",-0.9717240333557129
 BPCL,2026-02-18,"IOC, BPCL, HPCL double combined profit to ₹23,743 Crore in Dec quater - ET EnergyWorld",0.9365812540054321
 BPCL,2024-10-25,"BPCL reports ₹5,412 crore net profit in H1 FY25 as market sales rise 2.45% - ET EnergyWorld",0.9239686727523804
+BPCL,2024-10-25,Indian refiner Bharat Petroleum's Q2 profit slumps on lower marketing margins - Reuters,-0.9724699258804321
+BPCL,2025-10-27,"India's BPCL to issue spot crude tender as replacement for Russian oil, source says - Reuters",-0.8185938000679016
 BPCL,2024-12-10,Bharat Petroleum Corp Ltd. - bsmedia.business-standard.com,-0.9501500725746155
 BPCL,2026-01-30,"India’s BPCL looks overseas for renewable energy acquisitions, investments - Reuters",-0.8574277758598328
 BPCL,2025-05-04,Bharat Petroleum - bsmedia.business-standard.com,-0.9505367875099182
 BPCL,2025-01-22,"Indian refiner BPCL's Q3 profit misses estimates on lower margins, LPG losses - ET EnergyWorld",-0.9506412744522095
+BPCL,2020-01-30,Indian Oil Q3 results to be announced today - ET EnergyWorld,-0.9425999522209167
 BPCL,2024-07-20,"BPCL Q1 net profit slumps 73 pc to Rs 2,842 crore - ET EnergyWorld",-0.9743580222129822
-BPCL,2025-10-09,BPCL secures land for $11 billion refinery project in southern India - Reuters,0.6133110523223877
-BPCL,2023-06-22,Exclusive: India's BPCL in talks with Rosneft to buy oil priced on Dubai benchmark - Reuters,0.7111183404922485
-BPCL,2025-10-28,"India's BPCL to issue spot crude tender as replacement for Russian oil, source says - Reuters",-0.8185938000679016
-BPCL,2020-02-19,BPCL management hopes NRL disinvestment happens concurrently - ET EnergyWorld,-0.920470654964447
 BPCL,2026-03-24,BPCL names Manoj Heda to lead Singapore trading arm: Report - ET EnergyWorld,-0.9298027753829956
+BPCL,2025-10-09,BPCL secures land for $11 billion refinery project in southern India - Reuters,0.6133110523223877
+BPCL,2020-02-19,BPCL management hopes NRL disinvestment happens concurrently - ET EnergyWorld,-0.920470654964447
+BPCL,2023-06-22,Exclusive: India's BPCL in talks with Rosneft to buy oil priced on Dubai benchmark - Reuters,0.7111183404922485
 BPCL,2021-01-11,"BPCL Q4 Results: Profit falls 82% YoY to Rs 2,131 cr; revenue rises 25% - The Economic Times",-0.7442648410797119
 BPCL,2026-04-02,Bharat Petroleum Corporation Ltd. - The Economic Times,-0.9254133105278015
 BPCL,2022-02-27,Check out Bharat Petroleum Corporation Ltd's stock price (BPCL) in real time - CNBC,-0.9431959986686707
 BPCL,2025-08-24,"BPCL outperforms rival PSUs in Q1, records industry-best per-pump sales - ET EnergyWorld",0.9433951377868652
 BPCL,2026-01-14,BPCL arm makes oil discovery in Abu Dhabi onshore block - ET EnergyWorld,-0.8975307941436768
-BPCL,2024-07-19,"India's BPCL posts fall in Q1 profit on lower marketing margins, higher costs - Reuters",-0.9735210537910461
 BPCL,2025-10-28,"BPCL, Oil India to build $11 billion refinery, petchem complex in southern state - Reuters",-0.7652154564857483
-BPCL,2024-09-11,Abu Dhabi gives onshore block production license to India's IOC-BPCL JV - Reuters,0.6706916689872742
 BPCL,2025-12-05,"India's IOC, BPCL buy Jan-load sanctions-compliant Russian oil, sources say - Reuters",0.5452654361724854
 BPCL,2025-04-22,Insights into Bharat Petroleum's HR strategy to restore employee morale and slash attrition post-privatisati.. - ETHRWorld.com,-0.5206716656684875
-BPCL,2025-11-02,"India's BPCL buys Upper Zakum crude for December to replace Russian oil, sources say - Reuters",-0.5063024163246155
-BPCL,2025-08-14,"India BPCL buys 10 million barrels of US oil via five-month tender, sources say - Reuters",-0.6400884985923767
-BPCL,2021-05-27,Bharat Petroleum Corporation Limited - bsmedia.business-standard.com,-0.9505809545516968
-BPCL,2024-06-18,"BPCL to invest Rs 1,400 cr to set up sustainable aviation fuel facilities - Business Standard",-0.6429385542869568
-BPCL,2025-01-23,BPCL sees March Russian oil intake down 20% as it awaits traders' offers - Business Standard,-0.9722656607627869
+BPCL,2024-06-18,"BPCL to invest Rs 1,400 cr to set up sustainable aviation fuel facilities - business-standard.com",-0.7011842727661133
+BPCL,2024-07-19,"India's BPCL posts fall in Q1 profit on lower marketing margins, higher costs - Reuters",-0.9735210537910461
 BPCL,2024-02-14,BPCL to set up first-ever green hydrogen plant in an Indian airport - Reuters,-0.6049233078956604
+BPCL,2021-05-27,Bharat Petroleum Corporation Limited - bsmedia.business-standard.com,-0.9505809545516968
+BPCL,2025-01-23,BPCL sees March Russian oil intake down 20% as it awaits traders' offers - business-standard.com,-0.9704210758209229
 BPCL,2021-10-27,Ongoing digital transformation at Bharat Petroleum in collaboration with Deloitte India delivering impact - ET CIO,-0.6403210759162903
+BPCL,2025-11-02,"India's BPCL buys Upper Zakum crude for December to replace Russian oil, sources say - Reuters",-0.5063024163246155
 BPCL,2020-11-20,Vedanta’s BPCL acquisition cost under the lens - ET EnergyWorld,-0.9015825390815735
 BPCL,2025-10-28,"Big-ticket energy push: BPCL signs MoUs with Indian Oil, Numaligarh Refinery, and Fertilisers & Chemicals Tr.. - ET EnergyWorld",0.7466846704483032
+BPCL,2024-09-11,Abu Dhabi gives onshore block production license to India's IOC-BPCL JV - Reuters,0.6706916689872742
+BPCL,2017-03-24,"HPCL Share Price Today, HPCL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9394964575767517
+BPCL,2025-08-14,"India BPCL buys 10 million barrels of US oil via five-month tender, sources say - Reuters",-0.6400884985923767
 BPCL,2020-12-08,"Post-stake sale, BPCL's LPG business to be in new SBU; new owner to take call after 3 yrs - ET EnergyWorld",-0.9186490774154663
-BPCL,2020-09-09,Fitch says BPCL privatisation is 'event risk' due to little info - ET EnergyWorld,-0.5103482604026794
+BPCL,2019-07-25,IOC/BPCL-GAIL M&A deal on govt’s agenda this fiscal - ET EnergyWorld,-0.806805431842804
 BPCL,2020-11-19,"Adequate interest for BPCL disinvestment, no need to alter sale process: Govt - ET EnergyWorld",-0.9397057890892029
 BPCL,2018-01-25,BPCL’s Kochi refinery becomes the largest public sector refining unit in India - ET EnergyWorld,0.8381526470184326
-BPCL,2025-02-13,India's BPCL signs LPG supply deal with Norway's Equinor - Reuters,0.8295333385467529
-BPCL,2024-08-16,BPCL sets up first-of-its-kind biofuel blend bunker at Mumbai port - Business Standard,-0.7179912328720093
 BPCL,2020-10-30,"BPCL Q2 profit jumps 58 per cent on refining margins, inventory gains - ET EnergyWorld",0.912481963634491
 BPCL,2017-02-22,Government's plan to create an integrated oil company may see ONGC taking over HPCL or BPCL - ET EnergyWorld,-0.9091617465019226
 BPCL,2026-04-02,Hindustan Petroleum Corporation Ltd. - The Economic Times,-0.9262942671775818
 BPCL,2022-01-25,"Maharatna oil PSU Bharat Petroleum to invest Rs 10,000 cr in setting up new city gas distribution networks - ETGovernment.com",-0.5849642157554626
 BPCL,2025-03-07,"India's BPCL plans to buy US oil via 4-mth tender, source says - Reuters",-0.7539549469947815
-BPCL,2026-03-20,"HPCL, BPCL, IOCL shares rebound up to 6%. Here are two reasons behind renewed buying - ET CFO",-0.6126890182495117
-BPCL,2025-10-09,"Andhra govt allots 6,000 acres to BPCL for ₹1 lakh cr-refinery, to give back 75% capex as sops - ET EnergyWorld",-0.6395523548126221
-BPCL,2026-03-24,"BPCL appoints Manoj Heda to lead Singapore trade unit, sources say - Reuters",-0.9356708526611328
+BPCL,2020-09-09,Fitch says BPCL privatisation is 'event risk' due to little info - ET EnergyWorld,-0.5103482604026794
 BPCL,2026-03-24,BPCL–Sembcorp JV wins India's lowest green hydrogen supply contract - Reuters,0.6791298389434814
+BPCL,2025-01-22,India's Bharat Petroleum to invest $121 mln to develop Indonesian oil and gas block - Reuters,-0.8161303400993347
+BPCL,2026-03-20,"HPCL, BPCL, IOCL shares rebound up to 6%. Here are two reasons behind renewed buying - cfo.economictimes.indiatimes.com",-0.8405734896659851
+BPCL,2025-10-09,"Andhra govt allots 6,000 acres to BPCL for ₹1 lakh cr-refinery, to give back 75% capex as sops - ET EnergyWorld",-0.6395523548126221
 BPCL,2022-08-07,"Bharat Petroleum reports Rs 6,291 crore net loss in first quarter - ET EnergyWorld",-0.9358499646186829
 BPCL,2019-10-21,The long and winding road to BPCL privatisation - ET EnergyWorld,-0.8886077404022217
 BPCL,2025-07-11,India's BPCL plans to shut Bina refinery unit for 15-day maintenance in August - Reuters,-0.8366186618804932
-BPCL,2023-08-28,"Indian refiner BPCL to spend $18.16 bln in oil, green energy over 5 years - Reuters",-0.6311033368110657
-BPCL,2026-03-20,About Bharat Petroleum Corporation Ltd (BPCL.BO) - Reuters,-0.9452794194221497
+BPCL,2024-07-20,Indian refiner BPCL sees further cuts in oil OSPs as fuel margins drop - Reuters,-0.9409294128417969
 BPCL,2026-01-23,India says state-run BPCL to sign $780 million oil deal with Brazil's Petrobras - Reuters,0.8122602701187134
+BPCL,2022-08-10,"Price freeze on petrol, diesel, LPG to hit profitability of IOC, BPCL, HPCL: Report - ET EnergyWorld",-0.7046345472335815

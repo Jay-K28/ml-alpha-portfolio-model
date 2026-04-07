@@ -1,4 +1,5 @@
 ticker,date,headline,sentiment_score
+HDFCAMC,2026-04-06,"asset overvaluation: Latest News & Videos, Photos about asset overvaluation - The Economic Times",-0.9343488216400146
 HDFCAMC,2025-10-15,HDFCAMC IN 15Oct25 - bsmedia.business-standard.com,-0.9459603428840637
 HDFCAMC,2025-01-14,HDFCAMC IN EQUITY 14Jan25 RU - bsmedia.business-standard.com,-0.9472128748893738
 HDFCAMC,2020-10-06,HDFC AMC Q4 Results: PAT rises 8.7% to Rs 343.55 cr - The Economic Times,0.9262798428535461
@@ -6,96 +7,95 @@ HDFCAMC,2021-12-20,HDFC AMC Q3 Results: Standalone profit jumps 20% YoY to Rs 77
 HDFCAMC,2021-01-08,"HDFC AMC Q1 Results: PAT jumps 26% YoY to Rs 604 crore, revenue surges 35% - The Economic Times",0.9387610554695129
 HDFCAMC,2018-07-18,"HDFC AMC Share Price Today, HDFC AMC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9410324692726135
 HDFCAMC,2025-06-03,"Ref/No/HDFCAMC/SE/2025-26/18 Date- June 3, 2025 National Stock Exchange of India Limited Exchange Plaza, Plot C/1, Block G, - bsmedia.business-standard.com",-0.949356198310852
-HDFCAMC,2025-10-15,HDFC AMC profit rises 24 pc to Rs 718.43 cr in Sep qtr - BFSI News,0.879382312297821
-HDFCAMC,2025-10-16,HDFC AMC profit rises 24 pc to Rs 718.43 cr in Sep qtr - ET CFO,0.9301308989524841
+HDFCAMC,2025-10-15,HDFC AMC profit rises 24 pc to Rs 718.43 cr in Sep qtr - ET BFSI,0.93394935131073
+HDFCAMC,2025-10-16,HDFC AMC profit rises 24 pc to Rs 718.43 cr in Sep qtr - cfo.economictimes.indiatimes.com,0.7897414565086365
 HDFCAMC,2018-07-18,HDFC Asset Management Company Ltd. - The Economic Times,-0.9318380951881409
-HDFCAMC,2026-01-05,"HDFC AMC enters private credit market; launches Rs 2,500-crore fund - BFSI News",-0.885897696018219
+HDFCAMC,2026-01-05,"HDFC AMC enters private credit market; launches Rs 2,500-crore fund - ET BFSI",-0.7860316634178162
+HDFCAMC,2026-04-01,Only Buyers: Stocks with Upper Circuit Today - The Economic Times,-0.8646712303161621
 HDFCAMC,2025-06-03,"The 26th Annual General Meeting (“AGM”) of the Company will be held on Wednesday, June 25, 2025 at Pursuant to Regulation 34 - bsmedia.business-standard.com",-0.9547379016876221
-HDFCAMC,2018-05-31,"Asset Management : Latest News Headlines, Videos and Photo Galleries on Asset Management - Business Standard",-0.9437138438224792
+HDFCAMC,2018-05-31,"Asset Management : Latest News Headlines, Videos and Photo Galleries on Asset Management - business-standard.com",-0.93382728099823
 HDFCAMC,2020-09-24,"UTI AMC Share Price Today, UTI AMC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9388010501861572
 HDFCAMC,2019-10-22,shareholders.relations@hdfcfund.com - bsmedia.business-standard.com,-0.9487813711166382
-HDFCAMC,2021-09-24,"ABSL AMC Share Price Today, ABSL AMC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387302398681641
 HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Faridabad - The Economic Times,-0.9396675825119019
-HDFCAMC,2020-10-05,"HDFC Life Q1 Results Preview: APE to rise 22% YoY to Rs 2,910 crore, VNB growth seen at 17% - The Economic Times",0.9486759305000305
-HDFCAMC,2025-10-29,"Sebi's cost-cap plan threatens to erode mutual fund, broker earnings - Business Standard",-0.9649263024330139
+HDFCAMC,2021-09-24,"ABSL AMC Share Price Today, ABSL AMC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387302398681641
+HDFCAMC,2025-10-29,"Sebi's cost-cap plan threatens to erode mutual fund, broker earnings - business-standard.com",-0.9531082510948181
 HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Mumbai - The Economic Times,-0.9400854110717773
 HDFCAMC,2026-04-01,UTI Asset Management Company Ltd. - The Economic Times,-0.9292163252830505
-HDFCAMC,2026-01-05,"HDFC AMC forays into private credit market with ₹2,500 crore fund - Business Standard",-0.6706845164299011
-HDFCAMC,2025-08-12,"Nuvama upbeat on AMCs, RTAs; backs HDFC AMC, Nippon Life, KFin; here's why - Business Standard",-0.9125010967254639
-HDFCAMC,2026-01-16,Analysts continue to back HDFC AMC after strong Q3; expect steady growth - Business Standard,0.9507241249084473
-HDFCAMC,2026-01-16,"Strong Q3 performance, growth prospects to drive gains for HDFC AMC - Business Standard",0.9531180262565613
-HDFCAMC,2025-10-13,HDFC AMC bonus talk lift AMC shares in Monday's trade; analysts top bets - Business Standard,0.8482917547225952
-HDFCAMC,2026-01-16,"HDFC AMC, ICICI AMC, Nippon Life India rally up to 6%; here's why - Business Standard",0.7945868372917175
-HDFCAMC,2025-04-21,HDFC AMC rallies after Q4 PAT jumps 18% YoY to Rs 639 cr; declares final dividend of Rs 90/sh - Business Standard,0.9391268491744995
-HDFCAMC,2021-09-24,Aditya Birla Sun Life AMC Share Price - The Economic Times,-0.9304463267326355
-HDFCAMC,2025-10-11,HDFC AMC board to mull bonus share issue on October 15 - Business Standard,-0.9160982370376587
-HDFCAMC,2025-07-18,"HDFC AMC hits record high; time to buy, book profits or stay invested? - Business Standard",0.5704325437545776
+HDFCAMC,2026-01-05,"HDFC AMC forays into private credit market with ₹2,500 crore fund - business-standard.com",-0.8371235728263855
+HDFCAMC,2025-08-12,"Nuvama upbeat on AMCs, RTAs; backs HDFC AMC, Nippon Life, KFin; here's why - business-standard.com",-0.9277108311653137
+HDFCAMC,2026-01-16,Analysts continue to back HDFC AMC after strong Q3; expect steady growth - business-standard.com,0.8963841795921326
+HDFCAMC,2026-01-16,"Strong Q3 performance, growth prospects to drive gains for HDFC AMC - business-standard.com",0.8538755178451538
+HDFCAMC,2025-10-13,HDFC AMC bonus talk lift AMC shares in Monday's trade; analysts top bets - business-standard.com,-0.7920140624046326
+HDFCAMC,2026-01-16,"HDFC AMC, ICICI AMC, Nippon Life India rally up to 6%; here's why - business-standard.com",0.8431442975997925
+HDFCAMC,2025-04-21,HDFC AMC rallies after Q4 PAT jumps 18% YoY to Rs 639 cr; declares final dividend of Rs 90/sh - business-standard.com,0.9018169045448303
+HDFCAMC,2025-10-11,HDFC AMC board to mull bonus share issue on October 15 - business-standard.com,-0.9280341267585754
+HDFCAMC,2025-07-18,"HDFC AMC hits record high; time to buy, book profits or stay invested? - business-standard.com",-0.8309733867645264
 HDFCAMC,2020-04-27,"HDFC Life Q4 Results: Cons PAT rises 15% YoY to Rs 475 crore, revenue jumps 16% - The Economic Times",0.9350414872169495
-HDFCAMC,2025-10-15,HDFC AMC gains after Q2 PAT jumps 24% YoY to Rs 718 cr - Business Standard,0.9456287026405334
-HDFCAMC,2025-10-29,"Nuvama, HDFC AMC tank upto 9% today; why are capital market stocks falling? - Business Standard",-0.6960326433181763
-HDFCAMC,2025-07-17,HDFC AMC profit up by 24% in Q1FY26; Tiwari appointed PGIM India AMC CEO - Business Standard,0.9513838291168213
-HDFCAMC,2025-07-15,"HDFC AMC up 3%, Nippon hits new high; time to buy, hold or sell AMC shares? - Business Standard",0.6354751586914062
-HDFCAMC,2025-04-17,"HDFC AMC Q4 results: Profit rises 18% to ₹638 cr, total income up 20.5% - Business Standard",0.9522783756256104
-HDFCAMC,2025-01-14,"HDFC AMC Q3 results: Profit jumps 31%, revenue surges 39% to Rs 934 cr - Business Standard",0.9439799785614014
-HDFCAMC,2025-01-15,"Q3 results Jan 15: HDFC Life, L&T Tech, PSB among 24 to post earnings today - Business Standard",0.9218363761901855
-HDFCAMC,2026-01-14,HDFC AMC Q3 results: Net profit rises 20% to ₹641 crore on higher AUM - Business Standard,0.9494373798370361
-HDFCAMC,2026-01-14,"HDFC AMC Q3FY26 results: Net profit jumps 20% to ₹769 cr, revenue up 15% - Business Standard",0.9536917805671692
-HDFCAMC,2025-07-17,HDFC AMC rallies after Q1 PAT jumps 24% YoY to Rs 748 cr - Business Standard,0.9413822293281555
-HDFCAMC,2025-10-16,"Motilal Oswal, Nuvama raise target on HDFC AMC post Q2; all details here - Business Standard",-0.9073739051818848
-HDFCAMC,2025-01-14,"Q3FY25 results Jan 14: HDFC AMC, Network18 among 11 to post earnings today - Business Standard",0.7614496946334839
-HDFCAMC,2025-01-15,"Stocks to Watch, Jan 15: HDFC AMC, Premier Energies, Glenmark Life, IRFC - Business Standard",-0.9172587990760803
-HDFCAMC,2026-01-14,"Q3 result: Infosys, HDFC AMC, ICICI Prudential AMC among 25 firms on Jan 14 - Business Standard",-0.8355535864830017
+HDFCAMC,2025-07-10,"HDFC AMC, UTI AMC: Uptick in SIP flows turn analysts bullish on AMC stocks - business-standard.com",-0.6106378436088562
+HDFCAMC,2025-10-15,HDFC AMC gains after Q2 PAT jumps 24% YoY to Rs 718 cr - business-standard.com,0.9030718207359314
+HDFCAMC,2025-10-29,"Nuvama, HDFC AMC tank upto 9% today; why are capital market stocks falling? - business-standard.com",-0.7842093110084534
+HDFCAMC,2025-07-17,HDFC AMC profit up by 24% in Q1FY26; Tiwari appointed PGIM India AMC CEO - business-standard.com,0.9325639009475708
+HDFCAMC,2025-07-15,"HDFC AMC up 3%, Nippon hits new high; time to buy, hold or sell AMC shares? - business-standard.com",-0.8145560622215271
+HDFCAMC,2025-04-17,"HDFC AMC Q4 results: Profit rises 18% to ₹638 cr, total income up 20.5% - business-standard.com",0.9466835260391235
+HDFCAMC,2025-01-14,"HDFC AMC Q3 results: Profit jumps 31%, revenue surges 39% to Rs 934 cr - business-standard.com",0.9028714895248413
+HDFCAMC,2025-01-15,"Q3 results Jan 15: HDFC Life, L&T Tech, PSB among 24 to post earnings today - business-standard.com",0.6203299760818481
+HDFCAMC,2026-01-14,HDFC AMC Q3 results: Net profit rises 20% to ₹641 crore on higher AUM - business-standard.com,0.9453219175338745
+HDFCAMC,2025-01-15,Asset Management Company shares rally up to 7% on HDFC AMC's strong Q3 nos - business-standard.com,0.9449126124382019
+HDFCAMC,2026-01-14,"HDFC AMC Q3FY26 results: Net profit jumps 20% to ₹769 cr, revenue up 15% - business-standard.com",0.9502890110015869
+HDFCAMC,2025-07-17,HDFC AMC rallies after Q1 PAT jumps 24% YoY to Rs 748 cr - business-standard.com,0.8727837204933167
+HDFCAMC,2025-10-16,"Motilal Oswal, Nuvama raise target on HDFC AMC post Q2; all details here - business-standard.com",-0.9021447896957397
+HDFCAMC,2026-01-14,"Q3 result: Infosys, HDFC AMC, ICICI Prudential AMC among 25 firms on Jan 14 - business-standard.com",-0.9342528581619263
 HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Jaipur - The Economic Times,-0.9349617958068848
-HDFCAMC,2026-01-14,HDFC AMC climbs after Q3 PAT rises 20% YoY to Rs 770 cr - Business Standard,0.9481238126754761
-HDFCAMC,2025-09-16,Big AMCs like HDFC and ICICI hold the edge-and what investors can take away - Business Standard,-0.9115932583808899
-HDFCAMC,2025-10-18,Canara Robeco Asset Management Company Ltd. - The Economic Times,-0.929010272026062
-HDFCAMC,2026-02-26,"HDFC AMC, Tata Capital, Tata Motors to join Nifty Next 50 in latest rejig - Business Standard",-0.8511015772819519
-HDFCAMC,2025-01-15,"HDFC Life Q3 results: PAT up 14% at Rs 415 cr, income down at Rs 16,914 cr - Business Standard",-0.956233024597168
-HDFCAMC,2020-06-05,HDFC Mutual Fund Branch Address List - Bangalore - The Economic Times,-0.9357613325119019
-HDFCAMC,2025-06-24,HDFC AMC launches innovation fund with thematic bet but higher risk - Business Standard,-0.495121031999588
-HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Patna - The Economic Times,-0.9371095299720764
-HDFCAMC,2020-06-05,HDFC Mutual Fund Branch Address List - Ghaziabad - The Economic Times,-0.9386488199234009
-HDFCAMC,2025-07-17,"Q1 results today: Axis Bank, Wipro, Jio Fin, Ceat among 37 firms on July 17 - Business Standard",-0.8994089365005493
-HDFCAMC,2022-09-19,HDB Financial Services Ltd. - The Economic Times,-0.9258256554603577
-HDFCAMC,2020-07-12,HDFC Mutual Fund Branch Address List - New Delhi - The Economic Times,-0.9411322474479675
-HDFCAMC,2017-04-10,"Shriram Asset Share Price Today, Shriram Asset Stock Price Live NSE/BSE Updates - The Economic Times",-0.9399277567863464
-HDFCAMC,2025-09-11,AMC stocks outperform with up to 53% rally in 6 months; more steam left? - Business Standard,0.7799046039581299
-HDFCAMC,2025-04-17,"Q4 results today: Infosys, HDFC Life among 12 to post results on Apr 17 - Business Standard",-0.928091824054718
-HDFCAMC,2025-11-21,Top fund manager Roshi Jain quits HDFC AMC after four-year stint - Business Standard,-0.7194608449935913
-HDFCAMC,2020-06-05,HDFC Mutual Fund Branch Address List - Thane (West) - The Economic Times,-0.9345670938491821
-HDFCAMC,2023-08-17,"HDFC's life insurance, mutual fund arms to start operations from Gift City - Business Standard",-0.9073944687843323
-HDFCAMC,2017-05-21,HDFC Mutual Fund - The Economic Times,-0.9279000759124756
-HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Surat - The Economic Times,-0.9404076337814331
-HDFCAMC,2026-01-14,"ICICI Prudential AMC Q3FY26 results: Profit jumps 45%, dividend declared - Business Standard",0.9402075409889221
-HDFCAMC,2025-01-17,"HDFC Bank, Hindustan Unilever squeeze amidst middle class struggles - Business Standard",-0.7335990071296692
+HDFCAMC,2025-12-18,"AMCs rally as Sebi softens expense cuts; HDFC AMC, Nippon Life jump over 5% - business-standard.com",0.8783001899719238
+HDFCAMC,2026-01-14,HDFC AMC climbs after Q3 PAT rises 20% YoY to Rs 770 cr - business-standard.com,0.9297295212745667
+HDFCAMC,2025-09-16,Big AMCs like HDFC and ICICI hold the edge-and what investors can take away - business-standard.com,-0.9325142502784729
+HDFCAMC,2025-01-15,"HDFC Life Q3 results: PAT up 14% at Rs 415 cr, income down at Rs 16,914 cr - business-standard.com",-0.9660124778747559
 HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Chennai - The Economic Times,-0.9355090856552124
-HDFCAMC,2024-10-09,Nomura sees robust growth ahead for domestic asset management cos - Business Standard,0.9478179812431335
-HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Lucknow - The Economic Times,-0.9359139800071716
+HDFCAMC,2020-06-05,HDFC Mutual Fund Branch Address List - Bangalore - The Economic Times,-0.9357613325119019
+HDFCAMC,2020-07-12,HDFC Mutual Fund Branch Address List - New Delhi - The Economic Times,-0.9411322474479675
+HDFCAMC,2025-06-24,HDFC AMC launches innovation fund with thematic bet but higher risk - business-standard.com,-0.8400952219963074
+HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Patna - The Economic Times,-0.9371095299720764
+HDFCAMC,2022-09-19,HDB Financial Services Ltd. - The Economic Times,-0.9258256554603577
+HDFCAMC,2025-07-17,"Q1 results today: Axis Bank, Wipro, Jio Fin, Ceat among 37 firms on July 17 - business-standard.com",-0.9381991028785706
+HDFCAMC,2026-04-02,"Shriram Asset Share Price Today, Shriram Asset Stock Price Live NSE/BSE Updates - The Economic Times",-0.9399277567863464
+HDFCAMC,2025-09-11,AMC stocks outperform with up to 53% rally in 6 months; more steam left? - business-standard.com,0.413496732711792
+HDFCAMC,2023-08-17,"HDFC's life insurance, mutual fund arms to start operations from Gift City - business-standard.com",-0.9508525729179382
+HDFCAMC,2025-04-17,"Q4 results today: Infosys, HDFC Life among 12 to post results on Apr 17 - business-standard.com",-0.9449698328971863
+HDFCAMC,2025-11-21,Top fund manager Roshi Jain quits HDFC AMC after four-year stint - business-standard.com,-0.5071612000465393
+HDFCAMC,2020-06-05,HDFC Mutual Fund Branch Address List - Thane (West) - The Economic Times,-0.9345670938491821
+HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Pune - The Economic Times,-0.9364505410194397
+HDFCAMC,2017-05-21,HDFC Mutual Fund - The Economic Times,-0.9279000759124756
+HDFCAMC,2026-01-14,"ICICI Prudential AMC Q3FY26 results: Profit jumps 45%, dividend declared - business-standard.com",0.8530980944633484
+HDFCAMC,2026-04-02,Aditya Birla Sun Life AMC Ltd. - The Economic Times,-0.9270830154418945
+HDFCAMC,2020-06-05,HDFC Mutual Fund Branch Address List - Ghaziabad - The Economic Times,-0.9386488199234009
+HDFCAMC,2024-10-09,Nomura sees robust growth ahead for domestic asset management cos - business-standard.com,0.8876245021820068
 HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Rajkot - The Economic Times,-0.9383169412612915
 HDFCAMC,2022-05-26,"Amrit Corp. Share Price Today, Amrit Corp. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387632608413696
+HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Lucknow - The Economic Times,-0.9359139800071716
 HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Nashik - The Economic Times,-0.94157874584198
-HDFCAMC,2025-10-16,HDFC Life Q2 in line; Analysts see margin pressure but maintain 'Buy' calls - Business Standard,0.7202107310295105
-HDFCAMC,2025-01-20,"HDFC Bank Q3 Preview: Analysts estimate weak profit growth; NIM, NPA eyed - Business Standard",-0.9683641195297241
-HDFCAMC,2025-08-03,Nippon India mutual fund opens Leh branch to boost border inclusion - Business Standard,0.7831509709358215
-HDFCAMC,2026-04-02,"HDFC Bank Share Price Today, HDFC Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379709362983704
+HDFCAMC,2024-09-26,"HDFC Asset Management Company Ltd IPO 2018 Price, Date, Review and Key Insights - business-standard.com",-0.9453677535057068
+HDFCAMC,2025-10-16,HDFC Life Q2 in line; Analysts see margin pressure but maintain 'Buy' calls - business-standard.com,-0.43753454089164734
+HDFCAMC,2025-01-20,"HDFC Bank Q3 Preview: Analysts estimate weak profit growth; NIM, NPA eyed - business-standard.com",-0.9589514136314392
+HDFCAMC,2020-04-09,"HDFC Bank Q4 business update: Lender reports 15% YoY growth in deposits, advances jump 12% - The Economic Times",0.8996866345405579
+HDFCAMC,2016-09-18,"HDFC Bank Share Price Today, HDFC Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379709362983704
 HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Ludhiana - The Economic Times,-0.9398691058158875
-HDFCAMC,2025-09-10,"HDFC Bank, Airtel, HUL: Motilal Oswal picks 10 stocks with up to 24% upside - Business Standard",0.7720816135406494
-HDFCAMC,2020-04-09,"HDFC Bank Q4 Results - HDFC Bank Q4 earnings News, HDFC Bank Q4 result updates | ET Markets - The Economic Times",-0.928534984588623
-HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Pune - The Economic Times,-0.9364505410194397
-HDFCAMC,2026-01-08,"Equity market to fare better in 2026, expect 10-12% return: ABSL AMC - Business Standard",0.798825740814209
-HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Raipur - The Economic Times,-0.9390092492103577
-HDFCAMC,2022-12-30,"Ikab Securities Share Price Today, Ikab Securities Stock Price Live NSE/BSE Updates - The Economic Times",-0.9378800392150879
+HDFCAMC,2025-09-10,"HDFC Bank, Airtel, HUL: Motilal Oswal picks 10 stocks with up to 24% upside - business-standard.com",-0.733500599861145
+HDFCAMC,2025-07-21,"Nippon Life India Asset Management Ltd Quarterly Results, 02 Apr 2026 - NSE 829.90, BSE 830.20 - business-standard.com",-0.946214497089386
+HDFCAMC,2026-01-08,"Equity market to fare better in 2026, expect 10-12% return: ABSL AMC - business-standard.com",-0.7570051550865173
+HDFCAMC,2026-04-02,"Ikab Securities Share Price Today, Ikab Securities Stock Price Live NSE/BSE Updates - The Economic Times",-0.9378800392150879
 HDFCAMC,2026-04-02,"Kshitij Polyline Share Price Today, Kshitij Polyline Stock Price Live NSE/BSE Updates - The Economic Times",-0.9426577091217041
 HDFCAMC,2023-05-02,HDFC Mutual Fund Branch Address List - Salem(Tamil nadu) - The Economic Times,-0.9395554065704346
-HDFCAMC,2020-06-05,HDFC Mutual Fund Branch Address List - Kanpur - The Economic Times,-0.9409530758857727
-HDFCAMC,2021-10-01,"Bajaj housing finance - Latest bajaj housing finance , Information & Updates - BFSI -ET BFSI - BFSI News",-0.9482218027114868
+HDFCAMC,2020-06-04,HDFC Mutual Fund Branch Address List - Raipur - The Economic Times,-0.9390092492103577
+HDFCAMC,2025-08-03,Nippon India mutual fund opens Leh branch to boost border inclusion - business-standard.com,-0.6076123714447021
+HDFCAMC,2021-10-01,"Bajaj housing finance - Latest bajaj housing finance , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.942758321762085
 HDFCAMC,2022-11-17,"JTL Infra Share Price Today, JTL Infra Stock Price Live NSE/BSE Updates - The Economic Times",-0.9397844672203064
-HDFCAMC,2026-01-14,"HDFC Asset Management Company grants 58,700 stock options - Business Standard",-0.9290235638618469
-HDFCAMC,2026-01-16,"Stock Alert: Infosys, HDB Financial Services, Waaree Renewable, Jio Financial Services, HDFC Life Insurance - Business Standard",-0.9531577825546265
-HDFCAMC,2025-10-16,"Stock Alert: Axis Bank, HDFC Life, HDB Financial, Kewal Kiran Clothing - Business Standard",-0.9501205682754517
-HDFCAMC,2026-01-13,Infosys Q3 preview: Revenue may rise 2% QoQ; Project Maximus to aid margins - Business Standard,0.9531447887420654
-HDFCAMC,2021-08-23,Waaree Renewable Technologies Ltd. - The Economic Times,-0.92738938331604
-HDFCAMC,2017-08-19,Just Dial Ltd. - The Economic Times,-0.9305503368377686
-HDFCAMC,2025-04-17,HDFC Life Insurance Q4 results: Net profit rises 16% to ₹477 crore - Business Standard,0.9496263861656189
+HDFCAMC,2026-01-16,"Stock Alert: Infosys, HDB Financial Services, Waaree Renewable, Jio Financial Services, HDFC Life Insurance - business-standard.com",-0.953040599822998
+HDFCAMC,2026-01-13,Infosys Q3 preview: Revenue may rise 2% QoQ; Project Maximus to aid margins - business-standard.com,0.9461669325828552
+HDFCAMC,2025-10-16,"Stock Alert: Axis Bank, HDFC Life, HDB Financial, Kewal Kiran Clothing - business-standard.com",-0.9522520303726196
+HDFCAMC,2020-06-05,HDFC Mutual Fund Branch Address List - Ranchi - The Economic Times,-0.9377191066741943
+HDFCAMC,2026-04-02,Waaree Renewable Technologies Ltd. - The Economic Times,-0.92738938331604
+HDFCAMC,2026-04-02,Just Dial Ltd. - The Economic Times,-0.9305503368377686
+HDFCAMC,2025-04-17,HDFC Life Insurance Q4 results: Net profit rises 16% to ₹477 crore - business-standard.com,0.9415364861488342
 HDFCAMC,2017-03-24,Tata Elxsi Ltd. - The Economic Times,-0.9246089458465576
 HDFCAMC,2021-12-20,Infosys to announce Q2 earnings on October 13 - The Economic Times,-0.9258837103843689
+HDFCAMC,2025-12-19,ICICI Prudential AMC gets 'Long' rating from Equirus; 34% upside potential - business-standard.com,0.8155267238616943

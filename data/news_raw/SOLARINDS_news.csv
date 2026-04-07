@@ -1,66 +1,68 @@
 ticker,date,headline,sentiment_score
-SOLARINDS,2026-03-31,Axios Software Tool Used by Millions Compromised in Hack - Bloomberg.com,-0.9309418201446533
-SOLARINDS,2026-04-02,"Solar Ind. Share Price Today, Solar Ind. Stock Price Live NSE/BSE Updates - The Economic Times",-0.9418292045593262
+SOLARINDS,2026-03-31,Axios Software Tool Used by Millions Compromised in Hack - bloomberg.com,-0.9309418201446533
+SOLARINDS,2017-03-24,"Solar Ind. Share Price Today, Solar Ind. Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9447462558746338
 SOLARINDS,2017-08-06,Check out Solar Industries India Ltd's stock price (SOLARINDS-IN) in real time - CNBC,-0.946972668170929
-SOLARINDS,2017-03-29,Solar Industries India Ltd. - The Economic Times,-0.9215660095214844
+SOLARINDS,2017-03-29,Solar Industries India Ltd. - economictimes.indiatimes.com,-0.9413354396820068
 SOLARINDS,2020-12-16,SolarWinds hack has shaved 23% from software company's stock this week - CNBC,-0.5023217797279358
-SOLARINDS,2021-04-13,SolarWinds says dealing with hack fallout cost at least $18 million - Reuters,-0.905606746673584
 SOLARINDS,2020-12-17,Microsoft was swept up in SolarWinds hack - CNBC,-0.7931590676307678
+SOLARINDS,2021-04-13,SolarWinds says dealing with hack fallout cost at least $18 million - Reuters,-0.905606746673584
 SOLARINDS,2023-10-31,"SEC sues SolarWinds over massive cyberattack, alleging fraud and weak controls - CNBC",-0.8372513651847839
-SOLARINDS,2021-10-11,SOLARWINDS INDIA PRIVATE LIMITED - The Economic Times,-0.9184048771858215
-SOLARINDS,2021-02-14,SolarWinds hack was 'largest and most sophisticated attack' ever: Microsoft president - Reuters,-0.9084969758987427
+SOLARINDS,2021-10-11,SOLARWINDS INDIA PRIVATE LIMITED - economictimes.indiatimes.com,-0.9426895976066589
+SOLARINDS,2025-02-07,Turn/River Capital to take SolarWinds private in $4.4 billion deal - Reuters,-0.9334603548049927
 SOLARINDS,2021-04-15,White House blames Russian spy agency SVR for SolarWinds hack: statement - Reuters,-0.5848129391670227
+SOLARINDS,2021-02-14,SolarWinds hack was 'largest and most sophisticated attack' ever: Microsoft president - Reuters,-0.9084969758987427
 SOLARINDS,2025-07-02,"US SEC, SolarWinds reach preliminary deal to end breach lawsuit - Reuters",-0.6780452132225037
 SOLARINDS,2025-11-20,"US SEC dismisses case against SolarWinds, top security officer - Reuters",-0.5338620543479919
-SOLARINDS,2025-02-07,Turn/River Capital to take SolarWinds private in $4.4 billion deal - Reuters,-0.9334603548049927
-SOLARINDS,2018-09-14,SOLARSON INDUSTRIES LIMITED - The Economic Times,-0.9274642467498779
-SOLARINDS,2021-09-10,Exclusive: Wide-ranging SolarWinds probe sparks fear in Corporate America - Reuters,-0.9014273285865784
+SOLARINDS,2018-09-14,SOLARSON INDUSTRIES LIMITED - economictimes.indiatimes.com,-0.9443477392196655
 SOLARINDS,2024-07-18,SolarWinds beats most of US SEC lawsuit over Russia-linked cyberattack - Reuters,-0.6232677698135376
+SOLARINDS,2021-09-10,Exclusive: Wide-ranging SolarWinds probe sparks fear in Corporate America - Reuters,-0.9014273285865784
 SOLARINDS,2015-10-21,SolarWinds to be taken private in $4.5 billion deal - CNBC,-0.9355133771896362
 SOLARINDS,2021-01-05,U.S. feds say Russians likely behind SolarWinds hack that breached government networks - CNBC,-0.5667698383331299
 SOLARINDS,2023-12-13,US officials say Russian targeting JetBrains servers for potential SolarWinds-style operations - Reuters,-0.9099536538124084
+SOLARINDS,2021-05-07,SolarWinds Believes Russian Group Took Data During Cyber-Attack - bloomberg.com,-0.8484792709350586
 SOLARINDS,2021-06-21,SolarWinds Corp - Reuters,-0.9431449174880981
 SOLARINDS,2021-01-26,How the massive SolarWinds hack went down - CNBC,-0.8481264114379883
-SOLARINDS,2023-11-01,"The SolarWinds Hack Could Have Been Prevented, SEC Lawsuit Finds - Bloomberg.com",-0.8783581256866455
+SOLARINDS,2023-11-01,"The SolarWinds Hack Could Have Been Prevented, SEC Lawsuit Finds - bloomberg.com",-0.8783581256866455
 SOLARINDS,2023-11-21,SolarWinds and the SEC lawsuit - Reuters,-0.8453145027160645
-SOLARINDS,2020-12-15,FireEye Discovered SolarWinds Breach While Probing Own Hack - Bloomberg.com,-0.7549401521682739
-SOLARINDS,2025-01-31,Once-Secret Treasury Memos Detail Agency Response to SolarWinds Hack - Bloomberg.com,-0.90256667137146
-SOLARINDS,2021-01-08,"SolarWinds Taps Chris Krebs, Alex Stamos to Help Investigate Russia Hack - Bloomberg.com",-0.9341158866882324
-SOLARINDS,2025-02-07,Turn/River Agrees to Buy SolarWinds Years After Cyber-Attack - Bloomberg.com,-0.8858445882797241
-SOLARINDS,2020-12-18,Suspected Russian hack is much worse than first feared: Here's what you need to know - CNBC,-0.5105132460594177
+SOLARINDS,2021-10-08,"Hackers of SolarWinds stole data on U.S. sanctions policy, intelligence probes - Reuters",-0.5121817588806152
+SOLARINDS,2025-01-31,Once-Secret Treasury Memos Detail Agency Response to SolarWinds Hack - bloomberg.com,-0.90256667137146
+SOLARINDS,2021-01-08,"SolarWinds Taps Chris Krebs, Alex Stamos to Help Investigate Russia Hack - bloomberg.com",-0.9341158866882324
+SOLARINDS,2023-10-27,"Silver Lake, Thoma Bravo-Backed SolarWinds Is Weighing Potential Sale - bloomberg.com",-0.9406723976135254
+SOLARINDS,2025-02-07,Turn/River Agrees to Buy SolarWinds Years After Cyber-Attack - bloomberg.com,-0.8858445882797241
 SOLARINDS,2022-11-03,U.S. SEC considering action against SolarWinds over cyber disclosures - Reuters,-0.5237042903900146
-SOLARINDS,2025-11-20,SEC to Drop Controversial SolarWinds Cyberattack Lawsuit - Bloomberg.com,-0.6164647340774536
-SOLARINDS,2023-05-15,SUNBURST cyberattack: SolarWinds CEO discusses key learnings in Exclusive Interview - ET CIO,-0.9280474781990051
-SOLARINDS,2020-12-20,America Isn’t Finished Paying for Trump’s Incompetence - Bloomberg.com,-0.6565695405006409
-SOLARINDS,2022-06-22,"Mangalam Worldwide Share Price Today, Mangalam Worldwide Stock Price Live NSE/BSE Updates - The Economic Times",-0.9389740228652954
-SOLARINDS,2021-01-05,Critical Infrastructure Left in the Dark About SolarWinds Hack - Bloomberg.com,-0.8163456320762634
-SOLARINDS,2023-07-10,SolarWinds forum selection clause kills shareholders’ derivative suit - Reuters,-0.6296589970588684
-SOLARINDS,2025-08-08,Latest US Court System Hack Is a Throwback to 2020 SolarWinds - Bloomberg.com,-0.8987592458724976
-SOLARINDS,2020-12-18,Cisco Latest Victim of Russian Cyber-Attack Using SolarWinds - Bloomberg.com,-0.8094341158866882
-SOLARINDS,2015-10-21,"Silver Lake, Thoma Bravo to take SolarWinds private in $4.5 billion deal - Reuters",-0.9143742322921753
-SOLARINDS,2020-12-24,Relentless Hacking Is Turning All of Us Into Data Nihilists - Bloomberg.com,-0.7565582990646362
-SOLARINDS,2021-10-25,"Solarwinds hackers are targeting the global IT supply chain, Microsoft says - CNBC",-0.8384222984313965
-SOLARINDS,2014-03-24,SOIL: Solar Industries India Ltd Stock Price Quote - Natl India - Bloomberg - Bloomberg.com,-0.945941686630249
-SOLARINDS,2024-10-25,SEC Penalties Over Hack Disclosure is Latest SolarWinds Fallout - Bloomberg.com,-0.5587788820266724
+SOLARINDS,2020-12-18,Suspected Russian hack is much worse than first feared: Here's what you need to know - CNBC,-0.5105132460594177
 SOLARINDS,2025-10-20,Cyber defenders sound the alarm as F5 hack exposes broad risks - Reuters,-0.7041340470314026
+SOLARINDS,2025-11-20,SEC to Drop Controversial SolarWinds Cyberattack Lawsuit - bloomberg.com,-0.6164647340774536
+SOLARINDS,2023-05-15,SUNBURST cyberattack: SolarWinds CEO discusses key learnings in Exclusive Interview - ET CIO,-0.9280474781990051
+SOLARINDS,2020-12-20,America Isn’t Finished Paying for Trump’s Incompetence - bloomberg.com,-0.6565695405006409
+SOLARINDS,2022-06-22,"Mangalam Worldwide Share Price Today, Mangalam Worldwide Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9409262537956238
+SOLARINDS,2021-01-05,Critical Infrastructure Left in the Dark About SolarWinds Hack - bloomberg.com,-0.8163456320762634
+SOLARINDS,2023-07-10,SolarWinds forum selection clause kills shareholders’ derivative suit - Reuters,-0.6296589970588684
+SOLARINDS,2025-08-08,Latest US Court System Hack Is a Throwback to 2020 SolarWinds - bloomberg.com,-0.8987592458724976
+SOLARINDS,2020-12-18,"SolarWinds hackers broke into U.S. cable firm and Arizona county, web records show - Reuters",-0.7256262302398682
+SOLARINDS,2020-12-18,Cisco Latest Victim of Russian Cyber-Attack Using SolarWinds - bloomberg.com,-0.8094341158866882
+SOLARINDS,2020-12-24,Relentless Hacking Is Turning All of Us Into Data Nihilists - bloomberg.com,-0.7565582990646362
+SOLARINDS,2014-03-24,SOIL: Solar Industries India Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.945941686630249
 SOLARINDS,2021-05-28,"Russian hackers launch major cyberattack through U.S. aid agency’s email system, Microsoft says - CNBC",-0.6967560052871704
-SOLARINDS,2023-10-31,Bad Passwords Are Securities Fraud - Bloomberg.com,-0.812009334564209
+SOLARINDS,2023-10-31,Bad Passwords Are Securities Fraud - bloomberg.com,-0.812009334564209
+SOLARINDS,2024-10-25,SEC Penalties Over Hack Disclosure is Latest SolarWinds Fallout - bloomberg.com,-0.5587788820266724
 SOLARINDS,2022-06-23,About Solar Industries India Ltd (SLIN.BO) - Reuters,-0.9441725611686707
 SOLARINDS,2021-01-08,"Stocks making the biggest moves in the premarket: Tesla, Micron Technology, Sarepta Therapeutics & more - CNBC",-0.9120824933052063
-SOLARINDS,2021-06-21,SEC Investigating Companies’ Handling of SolarWinds Attack - Bloomberg.com,-0.8555259108543396
-SOLARINDS,2020-12-14,U.S. Agencies Exposed in Attack by Suspected Russian Hackers - Bloomberg.com,-0.7891215085983276
-SOLARINDS,2012-10-25,SolarWinds up 5.9 percent in premarket trading - Reuters,0.782563328742981
-SOLARINDS,2020-12-15,Hackers Used Obscure Texas IT Vendor to Attack U.S. Agencies - Bloomberg.com,-0.8896210789680481
+SOLARINDS,2020-12-14,U.S. Agencies Exposed in Attack by Suspected Russian Hackers - bloomberg.com,-0.7891215085983276
+SOLARINDS,2021-06-21,SEC Investigating Companies’ Handling of SolarWinds Attack - bloomberg.com,-0.8555259108543396
+SOLARINDS,2015-10-21,"Silver Lake, Thoma Bravo to take SolarWinds private in $4.5 billion deal - Reuters",-0.9143742322921753
+SOLARINDS,2020-12-15,Hackers Used Obscure Texas IT Vendor to Attack U.S. Agencies - bloomberg.com,-0.8896210789680481
 SOLARINDS,2021-05-12,Biden signs executive order to strengthen U.S. cybersecurity defenses after Colonial Pipeline hack - CNBC,-0.6959735155105591
 SOLARINDS,2021-02-03,Exclusive: Suspected Chinese hackers used SolarWinds bug to spy on U.S. payroll agency – sources - Reuters,-0.8384513854980469
 SOLARINDS,2021-01-26,Microsoft reports 17% revenue growth as cloud business accelerates - CNBC,0.8579946756362915
+SOLARINDS,2012-10-25,SolarWinds up 5.9 percent in premarket trading - Reuters,0.782563328742981
 SOLARINDS,2020-12-24,'Shark Tank' host Robert Herjavec on the SolarWinds cyber hack - CNBC,-0.9323306679725647
 SOLARINDS,2020-12-17,"Russian hack against the U.S. government ‘will take years to overcome,’ former national intelligence official says - CNBC",-0.8491079807281494
-SOLARINDS,2023-05-26,You’re the CEO and Your Company Got Hacked—What Now? - Bloomberg.com,-0.7358905076980591
+SOLARINDS,2023-05-26,You’re the CEO and Your Company Got Hacked—What Now? - bloomberg.com,-0.7358905076980591
 SOLARINDS,2022-10-19,U.S. says seven board directors resigned under antitrust pressure - Reuters,-0.929325520992279
-SOLARINDS,2025-11-25,Take the Crypto Out of the Indexes - Bloomberg.com,-0.9285897612571716
+SOLARINDS,2025-11-25,Take the Crypto Out of the Indexes - bloomberg.com,-0.9285897612571716
 SOLARINDS,2024-12-09,Wave of cyber-related SEC enforcement activity may signal increased scrutiny - Reuters,-0.7145968675613403
-SOLARINDS,2024-05-02,Apple’s Earnings (AAPL) Come With a Low Bar and Big Buyback Hopes - Bloomberg.com,-0.8245210647583008
+SOLARINDS,2024-05-02,Apple’s Earnings (AAPL) Come With a Low Bar and Big Buyback Hopes - bloomberg.com,-0.8245210647583008
 SOLARINDS,2021-06-03,Cybersecurity company SentinelOne files to go public with 108% revenue growth year-over-year - CNBC,-0.5299074053764343
 SOLARINDS,2021-05-11,"Colonial Pipeline cyber attack and the high stakes for Biden, business world relationship - CNBC",-0.9160050749778748
 SOLARINDS,2020-12-19,"Trump contradicts Pompeo, plays down alleged Russian role in cyberattack - CNBC",-0.5542869567871094
@@ -74,28 +76,26 @@ SOLARINDS,2021-08-24,"Amazon, Apple and Microsoft CEOs reportedly to attend Whit
 SOLARINDS,2021-08-25,"Biden to host tech, finance and energy CEOs for security summit at White House following wave of cyberattacks - CNBC",-0.8784686923027039
 SOLARINDS,2015-07-17,"CORRECTED-BUZZ-U.S. STOCKS ON THE MOVE-Google, Ooma, Honeywell, Solera, Best Buy - Reuters",-0.9109089374542236
 SOLARINDS,2020-12-15,Russian hacks weigh on private equity's software investments - Reuters,-0.6147023439407349
-SOLARINDS,2021-04-15,Stocks Close at Record Highs; Bond Yields Tumble: Markets Wrap - Bloomberg.com,-0.4964851438999176
+SOLARINDS,2021-04-15,Stocks Close at Record Highs; Bond Yields Tumble: Markets Wrap - bloomberg.com,-0.4964851438999176
+SOLARINDS,2021-07-26,Thoma Bravo to take software firm Medallia private for $6.4 bln - Reuters,-0.9302226305007935
 SOLARINDS,2021-10-25,Ex-NSA hacker says a supply chain cyberattack is one of the things that keeps him up at night - CNBC,-0.6068305969238281
 SOLARINDS,2021-08-05,"Amazon, Google and other tech companies join government effort to fight ransomware - CNBC",-0.85670006275177
 SOLARINDS,2021-03-09,"Microsoft's big email hack: What happened, who did it, and why it matters - CNBC",-0.7775228023529053
 SOLARINDS,2021-07-01,Jack Stubbs - Reuters,-0.9141013026237488
 SOLARINDS,2021-07-09,"Thoma Bravo to take Stamps.com private for $6 bln, shares jump - Reuters",-0.8346527218818665
-SOLARINDS,2025-06-30,A Trio of US Treasury Hacks Exposes a Pattern Making Banks Nervous - Bloomberg.com,-0.8107035160064697
-SOLARINDS,2022-10-19,Justice Department Uses 1914 Law to Keep Directors From Serving on Competing Boards - Bloomberg.com,-0.9064887762069702
+SOLARINDS,2025-06-30,A Trio of US Treasury Hacks Exposes a Pattern Making Banks Nervous - bloomberg.com,-0.8107035160064697
+SOLARINDS,2022-10-19,Justice Department Uses 1914 Law to Keep Directors From Serving on Competing Boards - bloomberg.com,-0.9064887762069702
 SOLARINDS,2017-01-03,"It professionals - Latest it professionals , Information & Updates - CIO - ET CIO",-0.9498953223228455
-SOLARINDS,2026-04-01,Iranian Regime’s Grip on Local Internet Unshaken by Bombs - Bloomberg.com,-0.8814575672149658
+SOLARINDS,2020-12-18,"Google Blames Gmail, YouTube Outage on Error in User ID System - bloomberg.com",-0.8956566452980042
+SOLARINDS,2026-04-01,Iranian Regime’s Grip on Local Internet Unshaken by Bombs - bloomberg.com,-0.8814575672149658
 SOLARINDS,2024-01-24,HPE hacked by same Russian intelligence group that hit Microsoft - CNBC,-0.7614536881446838
-SOLARINDS,2021-07-26,Thoma Bravo to take software firm Medallia private for $6.4 bln - Reuters,-0.9302226305007935
 SOLARINDS,2021-03-16,"Russia and Iran tried to interfere with 2020 election, U.S. intelligence agencies say - CNBC",-0.500566840171814
 SOLARINDS,2023-06-21,Google accuses Microsoft of unfair practices in Azure cloud unit - CNBC,-0.7453551292419434
-SOLARINDS,2021-10-26,Suspected Russian Hackers Use Home Networks to Evade Detection - Bloomberg.com,-0.8196685910224915
-SOLARINDS,2025-07-23,Nuclear Weapons Agency Breached in Microsoft SharePoint Hack - Bloomberg.com,-0.7516682744026184
-SOLARINDS,2023-07-27,"Microsoft ‘Bears Responsibility’ For China-Tied Hacks, Senator Says - Bloomberg.com",-0.7117315530776978
+SOLARINDS,2025-07-23,Nuclear Weapons Agency Breached in Microsoft SharePoint Hack - bloomberg.com,-0.7516682744026184
+SOLARINDS,2023-07-27,"Microsoft ‘Bears Responsibility’ For China-Tied Hacks, Senator Says - bloomberg.com",-0.7117315530776978
 SOLARINDS,2021-06-17,Microsoft updates Office apps for a world in which more people work from home - CNBC,-0.8689272403717041
 SOLARINDS,2021-07-09,Thoma Bravo to take Stamps.com private for $6 billion - CNBC,-0.9332497715950012
 SOLARINDS,2024-04-18,Cisco debuts new AI-focused security system after $28 billion deal to buy Splunk - CNBC,0.6512081623077393
+SOLARINDS,2021-06-22,Articles archive of 2021-06-22 - Reuters,-0.9289426803588867
 SOLARINDS,2021-05-13,Colonial Pipeline paid $5 million ransom to hackers - CNBC,-0.8581953644752502
 SOLARINDS,2022-05-21,America's small businesses aren't ready for a cyberattack - CNBC,-0.8262160420417786
-SOLARINDS,2021-05-27,Cybereason CEO told the world about DarkSide's hacking techniques from a bomb shelter in Israel - CNBC,-0.9164495468139648
-SOLARINDS,2024-07-30,Fake Job Interviews Are Securities Fraud - Bloomberg.com,-0.7227721810340881
-SOLARINDS,2025-04-14,Statements about cybersecurity: A duty of accuracy or a license for puffery? - Reuters,-0.9152680039405823

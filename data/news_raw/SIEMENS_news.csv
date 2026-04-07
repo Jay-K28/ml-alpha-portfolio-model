@@ -1,17 +1,16 @@
 ticker,date,headline,sentiment_score
-SIEMENS,2026-04-03,Informal sector steps up coal stocking over price concerns - The Economic Times,-0.4943094849586487
-SIEMENS,2026-04-04,"Plastic, glass crunch from West Asia conflict pricks packaged goods companies - The Economic Times",-0.849394679069519
-SIEMENS,2026-04-04,Who are Delve founders Karun Kaushik and Selin Kocalar? - The Economic Times,-0.9348270893096924
-SIEMENS,2026-04-04,"ETtech Deals Digest: Startups raise $187 million this week, down 28% on-year - The Economic Times",-0.9733304977416992
-SIEMENS,2026-04-04,RBI revises rules for Floating Rate Savings Bonds 2020: Key changes investors should know - The Economic Times,-0.9300522208213806
-SIEMENS,2026-04-04,ITR changes from April 2026: 5 key updates for Tax Year 2026–27 explained - The Economic Times,-0.9162776470184326
-SIEMENS,2026-04-04,"India’s crude oil supply fully secured, no payment hurdle for Iranian imports: Petroleum Ministry - The Economic Times",-0.900404155254364
-SIEMENS,2026-04-04,Kotak Multi Asset Active FoF Regular-IDCW - The Economic Times,-0.9110361933708191
-SIEMENS,2014-03-20,SIE: Siemens AG Stock Price Quote - Xetra - Bloomberg - Bloomberg.com,-0.9499931931495667
-SIEMENS,2025-11-10,Germany's Siemens to set out plan for $41 billion Healthineers stake - Reuters,-0.908791184425354
-SIEMENS,2025-11-05,Siemens Healthineers preparing for potential Siemens's share sale -CFO - Reuters,-0.9402674436569214
+SIEMENS,2026-04-03,"adani power capacity 18 15 gw india: Latest News & Videos, Photos about adani power capacity 18 15 gw india - economictimes.indiatimes.com",-0.9457263946533203
+SIEMENS,2026-04-02,"bharat mobility expo 2025: Latest News & Videos, Photos about bharat mobility expo 2025 - economictimes.indiatimes.com",-0.9417417645454407
+SIEMENS,2026-04-06,Swiggy among 4 stocks that closed crossing above VWAP - economictimes.indiatimes.com,-0.8635498881340027
+SIEMENS,2026-04-06,"Persistent Systems - Mahindra, Billionbrains Garage among 6 stocks flashing bullish signals - economictimes.indiatimes.com",-0.9139025211334229
+SIEMENS,2026-04-07,Meta to release open source versions of its upcoming AI models - economictimes.indiatimes.com,-0.9380402565002441
+SIEMENS,2026-04-06,"India services growth slows to 14-month low in March amid rising costs, weak demand - economictimes.indiatimes.com",-0.9560031294822693
+SIEMENS,2026-04-06,Coal offtake under watch as industry builds stocks - economictimes.indiatimes.com,-0.9265612959861755
+SIEMENS,2026-04-07,7 egg breakfasts for energetic workdays - economictimes.indiatimes.com,-0.9272714853286743
+SIEMENS,2014-03-20,SIE: Siemens AG Stock Price Quote - Xetra - Bloomberg - bloomberg.com,-0.9499931931495667
+SIEMENS,2025-11-12,Siemens to reduce $39 billion Healthineers stake with spin-off to shareholders - Reuters,-0.7739712595939636
 SIEMENS,2026-02-11,"Siemens Energy profit soars on AI-driven power demand, shares hit record - Reuters",0.907219409942627
-SIEMENS,2022-05-11,Siemens Energy shares hit record low as wind turbine problems mount - Reuters,-0.9487348198890686
+SIEMENS,2022-05-10,Siemens Energy shares hit record low as wind turbine problems mount - Reuters,-0.9487348198890686
 SIEMENS,2024-05-08,Siemens Energy shakes up troubled wind unit after strong results - Reuters,-0.4834754168987274
 SIEMENS,2024-08-08,Siemens profit beats market view on software but outlook remains guarded - Reuters,-0.5930246114730835
 SIEMENS,2023-01-20,Siemens Energy cuts profit outlook on wind turbine woes - Reuters,-0.7784054279327393
@@ -22,7 +21,7 @@ SIEMENS,2025-01-27,Siemens Energy reports preliminary quarterly revenue of about
 SIEMENS,2023-06-23,Siemens Energy's shares tumble as wind turbine troubles deepen - Reuters,-0.9579336643218994
 SIEMENS,2025-11-20,Siemens Energy to hand investors $11.5 billion as power market booms - Reuters,-0.8165958523750305
 SIEMENS,2026-02-12,"Siemens boosts 2026 profit outlook on AI-driven data centre demand, shares jump - Reuters",0.9029430150985718
-SIEMENS,2025-05-15,Siemens’ Revenue Rises on Rebound in Factory Automation in China - Bloomberg.com,0.8828006386756897
+SIEMENS,2025-05-15,Siemens’ Revenue Rises on Rebound in Factory Automation in China - bloomberg.com,0.8828006386756897
 SIEMENS,2025-11-13,Siemens shares fall on earnings concerns despite sales outlook hike - Reuters,-0.957086980342865
 SIEMENS,2023-10-26,Siemens Energy shares slide 39% after company seeks state guarantees - Reuters,-0.9596827626228333
 SIEMENS,2023-08-07,Siemens Energy CEO on $2.4 billion wind turbine hit: We were 'going too fast' with new products - CNBC,-0.7428456544876099
@@ -36,23 +35,24 @@ SIEMENS,2025-11-05,"Siemens Healthineers Q4 sales miss, earnings outlook disappo
 SIEMENS,2026-02-03,"Siemens Energy CEO: wind spin-off idea valid, but turnaround comes first - Reuters",-0.9047825336456299
 SIEMENS,2021-06-15,Siemens Healthineers AG - Reuters,-0.9379764795303345
 SIEMENS,2021-06-29,Siemens Energy AG - Reuters,-0.9441359043121338
-SIEMENS,2025-11-14,"Siemens Energy Boosts Outlook on Turbine, Data Center Demand - Bloomberg.com",-0.6678480505943298
+SIEMENS,2025-11-14,"Siemens Energy Boosts Outlook on Turbine, Data Center Demand - bloomberg.com",-0.6678480505943298
 SIEMENS,2020-05-26,Siemens to give shareholders 55% of Energy business spin-off - Reuters,-0.933596134185791
-SIEMENS,2022-06-06,About Siemens Healthineers AG (SHLG.DE) - Reuters,-0.9424853920936584
-SIEMENS,2025-11-13,Siemens to Transfer 30% Stake in MRI Maker to Its Shareholders - Bloomberg.com,-0.9362742304801941
-SIEMENS,2016-11-10,Siemens Plans to Spin Off Health Unit as CEO Sharpens Focus - Bloomberg.com,-0.8780465126037598
-SIEMENS,2026-04-02,"Siemens Share Price Today, Siemens Stock Price Live NSE/BSE Updates - The Economic Times",-0.9404165744781494
-SIEMENS,2025-11-12,Siemens to reduce $39 billion Healthineers stake with spin-off to shareholders - Reuters,-0.7739712595939636
-SIEMENS,2025-06-18,"Siemens Energy India Share Price Today, Siemens Energy India Stock Price Live NSE/BSE Updates - The Economic Times",-0.942582905292511
-SIEMENS,2024-08-08,Siemens to Hit Low End of Forecasts on Slow Automation Sales - Bloomberg.com,-0.9291324019432068
+SIEMENS,2022-06-06,SHLG.DE - Reuters,-0.9314646124839783
+SIEMENS,2025-11-13,Siemens to Transfer 30% Stake in MRI Maker to Its Shareholders - bloomberg.com,-0.9362742304801941
+SIEMENS,2016-11-10,Siemens Plans to Spin Off Health Unit as CEO Sharpens Focus - bloomberg.com,-0.8780465126037598
+SIEMENS,2017-03-25,"Siemens Share Price Today, Siemens Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9413478970527649
+SIEMENS,2025-06-18,"Siemens Energy India Share Price Today, Siemens Energy India Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9435729384422302
 SIEMENS,2024-11-06,"Siemens Healthineers meets annual revenue and profit view, shares jump 8% - Reuters",0.8705124855041504
-SIEMENS,2025-06-18,Siemens Energy India Ltd. - The Economic Times,-0.9222368001937866
+SIEMENS,2025-06-18,Siemens Energy India Ltd. - economictimes.indiatimes.com,-0.9424158930778503
 SIEMENS,2022-02-03,Offshore wind powerhouse Siemens Gamesa sees its value nearly halve in a year - CNBC,0.874221920967102
+SIEMENS,2026-02-12,Siemens Boosts Outlook on Data Center and Software Demand - bloomberg.com,0.7484986186027527
 SIEMENS,2025-07-07,Siemens Energy India March quarter net profit grows 36% to ₹246 crore - ET EnergyWorld,0.9481792449951172
 SIEMENS,2025-07-30,Siemens Healthineers expects up to $580 million tariff impact in 2026 - Reuters,0.6676462292671204
 SIEMENS,2025-11-13,"Siemens Energy to pay first dividend in four years, raises mid-term outlook - Reuters",0.8514196872711182
 SIEMENS,2026-02-11,Siemens Energy CEO: More demand than we can fulfil in 'hot' U.S. electricity market - CNBC,-0.7798081636428833
-SIEMENS,2022-08-01,"EXCLUSIVE Siemens Gamesa weighs around 2,500 job cuts - sources - Reuters",-0.4885094463825226
+SIEMENS,2019-11-07,Siemens posts profit beat but strikes gloomy tone - CNBC,-0.7257364392280579
+SIEMENS,2024-09-04,Siemens Energy resumes sales of its troubled 4.X onshore wind turbine - Reuters,-0.608736515045166
+SIEMENS,2025-06-20,"Siemens Energy India Cash Flow, Financial Statements - economictimes.indiatimes.com",-0.9320483803749084
 SIEMENS,2026-02-12,"Siemens Energy profit soars on AI-driven power demand, shares hit record - ET EnergyWorld",0.9047971963882446
 SIEMENS,2024-05-15,"Siemens to sell drive division to KPS for $3 billion, sources - Reuters",-0.9436573386192322
 SIEMENS,2024-08-07,Siemens Energy raises cash flow outlook as turnaround gains momentum - Reuters,0.8291342258453369
@@ -62,40 +62,40 @@ SIEMENS,2022-04-20,Energy giants Siemens Gamesa and SSE agree $628 million deal 
 SIEMENS,2026-02-13,Siemens Energy India posts ₹313 crore profit for December quarter - ET EnergyWorld,0.4742109775543213
 SIEMENS,2026-01-21,"Siemens Energy CEO to attend Trump meeting with business leaders, chairman says - Reuters",-0.90567547082901
 SIEMENS,2025-11-14,"AI bubble or not, we need more power - Siemens Energy CEO - CNBC",-0.9033063054084778
-SIEMENS,2021-08-04,'Extremely annoying': Siemens Energy ups pressure on wind division - Reuters,-0.9479151964187622
 SIEMENS,2024-07-01,"Siemens Energy plans 10,000 new hires for electricity grid unit - Reuters",-0.8442087769508362
-SIEMENS,2024-11-13,Siemens Energy Boosts Midterm Targets on Infrastructure Boom - Bloomberg.com,0.6175405383110046
-SIEMENS,2023-05-09,Siemens Gamesa CFO to leave group - memo - Reuters,-0.5776504874229431
-SIEMENS,2024-09-04,Siemens Energy resumes sales of its troubled 4.X onshore wind turbine - Reuters,-0.608736515045166
-SIEMENS,2017-03-29,Siemens Ltd. - The Economic Times,-0.9242512583732605
-SIEMENS,2020-02-05,"Siemens energy - Latest siemens energy , Information & Updates - Energy - ET EnergyWorld",-0.9483539462089539
-SIEMENS,2017-10-15,"Siemens gamesa - Latest siemens gamesa , Information & Updates - Energy - ET EnergyWorld",-0.947677493095398
-SIEMENS,2025-07-31,Siemens further reduces stake in Siemens Healthineers - Reuters,-0.8725265264511108
-SIEMENS,2026-02-11,Siemens Energy Books Record Gas Turbine Orders on Power Boom - Bloomberg.com,-0.8761881589889526
-SIEMENS,2020-09-22,-Siemens sees market value of energy spin-off above $20 bln - source - Reuters,-0.8126795887947083
-SIEMENS,2025-06-23,Stock Research Report for Siemens Energy India Ltd - The Economic Times,-0.9288367629051208
-SIEMENS,2023-05-11,Siemens India arm's profit jumps 39% on strong order book - Reuters,0.9386941194534302
-SIEMENS,2020-12-01,Siemens CEO Kaeser's 2020 compensation drops a third to 9.3 million euros - Reuters,-0.9617919325828552
-SIEMENS,2022-02-09,Siemens Energy warns no quick fix for Siemens Gamesa wind turbines - Reuters,-0.907501757144928
-SIEMENS,2021-02-02,The Top Three Challenges Facing Incoming Siemens CEO Roland Busch - Bloomberg.com,-0.9287772178649902
 SIEMENS,2026-02-12,European markets close mixed as investors digest big batch of earnings - CNBC,-0.5876676440238953
-SIEMENS,2023-05-23,Siemens Gamesa executive says wind turbine makers need cash support - Reuters,-0.8157245516777039
-SIEMENS,2023-06-23,Siemens Energy shares plunge more than 37% as wind turbine worries deepen - CNBC,-0.9539757370948792
-SIEMENS,2025-02-06,Siemens Healthineers shares rise on Q1 revenue beat despite China order delays - Reuters,0.9218276739120483
-SIEMENS,2024-12-14,Siemens appoints Harish Shekhar as CFO of energy biz - ETHRWorld.com,-0.9433159828186035
-SIEMENS,2023-06-28,Siemens Gamesa Renewable Energy SA (Delisted) - Reuters,-0.918332040309906
-SIEMENS,2023-08-07,Siemens Energy Reviews Wind Business on Seeing €4.5 Billion Loss - Bloomberg.com,-0.6659308671951294
+SIEMENS,2024-11-13,Siemens Energy Boosts Midterm Targets on Infrastructure Boom - bloomberg.com,0.6175405383110046
+SIEMENS,2023-05-09,Siemens Gamesa CFO to leave group - memo - Reuters,-0.5776504874229431
+SIEMENS,2026-03-30,Siemens Ltd. - economictimes.indiatimes.com,-0.9423086643218994
 SIEMENS,2024-05-24,"Exclusive: Siemens likely to transfer Siemens Energy stake to pension fund, CFO says - Reuters",-0.9252849817276001
-SIEMENS,2025-11-17,Siemens Healthineers Flags Potential Sale of Diagnostics Unit - Bloomberg.com,-0.935854971408844
-SIEMENS,2018-08-01,Siemens lifts profit goals under new Vision 2020+ strategy - Reuters,0.8372794389724731
+SIEMENS,2020-09-22,-Siemens sees market value of energy spin-off above $20 bln - source - Reuters,-0.8126795887947083
+SIEMENS,2025-06-23,Stock Research Report for Siemens Energy India Ltd - economictimes.indiatimes.com,-0.9362865686416626
+SIEMENS,2023-05-11,Siemens India arm's profit jumps 39% on strong order book - Reuters,0.9386941194534302
+SIEMENS,2021-02-02,The Top Three Challenges Facing Incoming Siemens CEO Roland Busch - bloomberg.com,-0.9287772178649902
+SIEMENS,2023-06-23,Siemens Energy shares plunge more than 37% as wind turbine worries deepen - CNBC,-0.9539757370948792
+SIEMENS,2022-08-01,"EXCLUSIVE Siemens Gamesa weighs around 2,500 job cuts - sources - Reuters",-0.4885094463825226
+SIEMENS,2024-12-14,Siemens appoints Harish Shekhar as CFO of energy biz - ETHRWorld.com,-0.9433159828186035
+SIEMENS,2023-08-07,What are the issues with Siemens Gamesa's wind turbines? - Reuters,-0.7415263056755066
+SIEMENS,2023-06-28,Siemens Gamesa Renewable Energy SA (Delisted) - Reuters,-0.918332040309906
+SIEMENS,2023-08-07,Siemens Energy Reviews Wind Business on Seeing €4.5 Billion Loss - bloomberg.com,-0.6659308671951294
+SIEMENS,2025-07-31,Siemens further reduces stake in Siemens Healthineers - Reuters,-0.8725265264511108
+SIEMENS,2026-02-11,Siemens Energy Books Record Gas Turbine Orders on Power Boom - bloomberg.com,-0.8761881589889526
+SIEMENS,2025-02-06,Siemens Healthineers shares rise on Q1 revenue beat despite China order delays - Reuters,0.9218276739120483
+SIEMENS,2020-12-01,Siemens CEO Kaeser's 2020 compensation drops a third to 9.3 million euros - Reuters,-0.9617919325828552
+SIEMENS,2025-11-17,Siemens Healthineers Flags Potential Sale of Diagnostics Unit - bloomberg.com,-0.935854971408844
 SIEMENS,2025-05-15,Siemens CEO: U.S. tariffs will have little impact on top and bottom lines - CNBC,-0.9206411838531494
-SIEMENS,2023-02-15,India's Siemens posts Q1 profit surge as infrastructure spending rebounds (Feb. 14) - Reuters,-0.6185892820358276
-SIEMENS,2022-11-09,Siemens Healthineers aims for $300 mln in savings - Reuters,-0.6055112481117249
 SIEMENS,2025-11-24,Technology for Sustainability: How Siemens AG Builds Brand Value and Growth - ET BrandEquity,-0.8775845766067505
-SIEMENS,2023-05-12,Siemens India arm's profit jumps 39% on strong order book - ET Infra,0.9487709999084473
+SIEMENS,2025-12-30,Siemens AG’s Eva Riesenhuber on Scaling Industrial AI for Sustainability - Reuters Professional,-0.8869317770004272
 SIEMENS,2024-08-07,"Siemens Financial Services, Inc. - Reuters",-0.9348140358924866
 SIEMENS,2024-02-07,"Siemens Energy swings to profit on order surge, sale of Indian stake - CNBC",0.8475972414016724
-SIEMENS,2023-08-03,"Siemens Gamesa turbine woes to cost less than 2 billion euros, source says - Reuters",-0.8508321642875671
-SIEMENS,2024-10-31,"Siemens could reduce stakes in Healthineers, other companies to fund Altair deal - Reuters",-0.9254859089851379
 SIEMENS,2024-05-16,"Siemens shares slide over 5.5% on profit drop, slowing automation division - CNBC",-0.961990237236023
-SIEMENS,2024-01-31,Siemens Healthineers Q1 sales beat expectations on strong Varian unit - Reuters,0.9484044313430786
+SIEMENS,2024-10-18,"Siemens Energy’s (ENR GR) Stock Rally Hits 200%, Outshining Even Nvidia - bloomberg.com",0.933756947517395
+SIEMENS,2022-08-02,"Siemens Gamesa weighs around 2,500 job cuts: sources - ET EnergyWorld",-0.7947538495063782
+SIEMENS,2023-11-14,Siemens Energy $16 bln guarantee deal to be presented on Wednesday: sources - ET EnergyWorld,-0.9161767959594727
+SIEMENS,2025-11-17,"Siemens Healthineers could divest diagnostics arm by 2030, says CEO - Reuters",-0.9133616089820862
+SIEMENS,2021-05-04,Siemens Energy cuts sales outlook on heels of Siemens Gamesa - Reuters,-0.9581114649772644
+SIEMENS,2025-02-06,Siemens Healthineers reports Q1 revenue above consensus despite China order delays - ET HealthWorld,0.906606912612915
+SIEMENS,2023-11-15,Siemens Energy Sees Long Way to Profit After Government Deal - bloomberg.com,-0.7252734303474426
+SIEMENS,2017-10-15,"Siemens - Latest siemens , Information & Updates - Energy - ET EnergyWorld",-0.9493563771247864
+SIEMENS,2025-11-14,Siemens Energy CEO sees limited synergies in struggling wind turbine unit - Reuters,-0.5107969045639038
+SIEMENS,2022-11-09,Siemens Healthineers aims for $300 mln in savings - Reuters,-0.6055112481117249

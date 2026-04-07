@@ -1,12 +1,14 @@
 ticker,date,headline,sentiment_score
-ETERNAL,2026-04-03,"Eternal, SBI, Bharti Airtel, 6 other stocks can rally up to 57%. How many do you have? - The Economic Times",-0.49772343039512634
-ETERNAL,2026-03-30,The Economic Times - The Economic Times,-0.9159992933273315
-ETERNAL,2026-04-01,"maruti q3 results fy26: Latest News & Videos, Photos about maruti q3 results fy26 - The Economic Times",-0.9347836375236511
-ETERNAL,2026-03-29,"discounts on e cars: Latest News & Videos, Photos about discounts on e cars - The Economic Times",-0.9296401739120483
-ETERNAL,2026-03-30,"War singes ecommerce, quick commerce supply chains as input costs rise - ET BrandEquity",-0.793738603591919
-ETERNAL,2026-04-02,Bosch share price up 12% in 2 days; here's why the stock has gained ground - Business Standard,0.8986794948577881
-ETERNAL,2026-04-01,Blinkit rolls out quick commerce service inside Mumbai airport T2 - Business Standard,-0.9198171496391296
-ETERNAL,2026-04-02,Bharti Airtel becomes second-largest telco globally with 650 mn users - Business Standard,0.7614913582801819
+ETERNAL,2026-04-05,"eternal ltd q2 results: Latest News & Videos, Photos about eternal ltd q2 results - The Economic Times",-0.9359179139137268
+ETERNAL,2026-04-05,"eternal ltd q1 results: Latest News & Videos, Photos about eternal ltd q1 results - The Economic Times",-0.9367406368255615
+ETERNAL,2026-04-04,"eternal ltd q4 results: Latest News & Videos, Photos about eternal ltd q4 results - The Economic Times",-0.9360129833221436
+ETERNAL,2026-04-05,​9 Largecap stocks with massive upside potential of up to 65%! Do you own any?​ - The Economic Times,-0.9052096605300903
+ETERNAL,2026-04-07,Markets set on favourable FY27 base; Iran war ceasefire key trigger: MOFSL - business-standard.com,-0.8726372718811035
+ETERNAL,2026-04-02,Bosch share price up 12% in 2 days; here's why the stock has gained ground - business-standard.com,0.800378143787384
+ETERNAL,2026-04-02,Karnataka Bank shares fall 6% on Q4 business update; advances grow 7% YoY - business-standard.com,-0.9669963121414185
+ETERNAL,2026-04-06,"Intense quick commerce competition ahead? UBS cuts Eternal, Swiggy’s target prices but sees attractive valuations - The Economic Times",-0.609621524810791
+ETERNAL,2026-04-01,Blinkit rolls out quick commerce service inside Mumbai airport T2 - business-standard.com,-0.9382809400558472
+ETERNAL,2026-04-02,Bharti Airtel becomes second-largest telco globally with 650 mn users - business-standard.com,-0.6176031827926636
 ETERNAL,2025-07-21,Eternal Shares Touch Record High After Revenue More Than Doubles - bloomberg.com,-0.6737170219421387
 ETERNAL,2026-01-21,India's Eternal falls as Blinkit profitability comes under spotlight - Reuters,-0.9525555372238159
 ETERNAL,2026-01-22,Zomato’s Parent Eternal Shares Surge After Quick-Commerce Boosts Earnings - bloomberg.com,0.8387361764907837
@@ -17,84 +19,82 @@ ETERNAL,2025-07-22,ETERNAL IN 22Jul25 - bsmedia.business-standard.com,-0.9463018
 ETERNAL,2025-04-08,ETERNAL: Eternal Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9480246901512146
 ETERNAL,2025-12-16,Eternal| BUY - bsmedia.business-standard.com,-0.9521547555923462
 ETERNAL,2025-04-04,Eternal Ltd - Reuters,-0.9381757974624634
+ETERNAL,2025-04-05,"Eternal Share Price Today, Eternal Stock Price Live NSE/BSE Updates - The Economic Times",-0.9400293827056885
 ETERNAL,2025-09-11,ETERNAL IN Equity 11Sep25 - bsmedia.business-standard.com,-0.9469980597496033
-ETERNAL,2025-10-16,Eternal posts Rs 65 crore consolidated net profit in Q2; Blinkit drives revenue growth - ET Hospitality,0.8963806629180908
-ETERNAL,2025-07-22,ETERNAL IN EQUITY 22Jul25 RU - bsmedia.business-standard.com,-0.9425863027572632
-ETERNAL,2025-10-15,"India's Swiggy, Eternal to see margins improve in second quarter, analysts say - Reuters",0.9551753997802734
 ETERNAL,2025-05-01,Zomato-parent Eternal's quick commerce expansion saps fourth-quarter profit - Reuters,-0.969873309135437
+ETERNAL,2025-04-18,Stock Research Report for Eternal Ltd - The Economic Times,-0.9153884649276733
+ETERNAL,2025-10-16,Eternal posts Rs 65 crore consolidated net profit in Q2; Blinkit drives revenue growth - ET Hospitality,0.8963806629180908
+ETERNAL,2025-04-17,"Eternal Cash Flow, Financial Statements - The Economic Times",-0.9232911467552185
+ETERNAL,2025-10-15,"India's Swiggy, Eternal to see margins improve in second quarter, analysts say - Reuters",0.9551753997802734
 ETERNAL,2025-05-02,Zomato’s Parent Eternal’s Q4 PAT Dips 78% to Rs 39 crore - ET BrandEquity,-0.9648433923721313
 ETERNAL,2025-07-21,Blinkit parent Eternal jumps 15% on quick-commerce strength - Reuters,0.9056041836738586
-ETERNAL,2025-07-21,India's Eternal revenue gets a quick-commerce boost - Reuters,0.6108245253562927
-ETERNAL,2026-02-19,ETEA.NS - Reuters,-0.9431354403495789
-ETERNAL,2025-10-13,SANDHY A SETHIA - bsmedia.business-standard.com,-0.9481882452964783
 ETERNAL,2025-07-21,Eternal Q1 FY26 net profit drops sharply to Rs 25 crore; revenue jumps 70% YoY - ET Retail,-0.9743818044662476
+ETERNAL,2025-07-21,India's Eternal revenue gets a quick-commerce boost - Reuters,0.6108245253562927
 ETERNAL,2025-10-16,Eternal posts Rs 65 cr consolidated net profit in Q2 - ET Retail,-0.8907318711280823
-ETERNAL,2024-10-30,Swiggy Ltd. - The Economic Times,-0.9181187748908997
-ETERNAL,2017-01-04,"Zomato - Latest zomato , Information & Updates - Retail - ET Retail",-0.9502559900283813
-ETERNAL,2021-10-08,ETERNAL BUILDING ASSETS PRIVATE LIMITED - The Economic Times,-0.9273872375488281
+ETERNAL,2025-10-13,SANDHY A SETHIA - bsmedia.business-standard.com,-0.9481882452964783
+ETERNAL,2025-02-06,"Indian food delivery platform Zomato to rebrand as 'Eternal', unveils new logo - Reuters",0.54900723695755
 ETERNAL,2017-01-05,DEEPINDER GOYAL - ET Retail,-0.9299593567848206
-ETERNAL,2025-07-21,"""Quick commerce is our largest B2C business today"": Eternal CFO as Blinkit surpasses food delivery in Q1 - ET Retail",0.867939829826355
 ETERNAL,2025-11-27,Blinkit gets ₹600 crore cash boost from parent Eternal - The Economic Times B2B,0.9470379948616028
-ETERNAL,2025-02-06,"Zomato board approves name change to Eternal Ltd, unveils new logo - Business Standard",-0.833666980266571
+ETERNAL,2017-01-04,"Zomato - Latest zomato , Information & Updates - Retail - ET Retail",-0.9502559900283813
+ETERNAL,2025-07-21,"""Quick commerce is our largest B2C business today"": Eternal CFO as Blinkit surpasses food delivery in Q1 - ET Retail",0.867939829826355
+ETERNAL,2025-02-06,"Zomato board approves name change to Eternal Ltd, unveils new logo - business-standard.com",-0.8855174779891968
+ETERNAL,2021-10-08,Eternal Building Assets Private Limited - The Economic Times,-0.9273872375488281
 ETERNAL,2021-03-17,ZOMATO NEWS - ET Retail,-0.9404690861701965
+ETERNAL,2024-10-30,Swiggy Ltd. - The Economic Times,-0.9181187748908997
+ETERNAL,2025-10-16,Eternal consolidated net profit declines 63.07% in the September 2025 quarter - business-standard.com,-0.9669678807258606
+ETERNAL,2025-05-04,Global Investors Drive Record Turnover for Gift Nifty Derivatives in India - bloomberg.com,-0.49468687176704407
 ETERNAL,2025-01-15,"Bhaskar Das: Professor of practice, eternal student - ET BrandEquity",-0.9257132411003113
 ETERNAL,2025-04-27,Zomato denies reports about food delivery CEO Rakesh Ranjan's resignation - ETHRWorld.com,-0.5312199592590332
-ETERNAL,2025-08-19,SANDHYA SETHIA - bsmedia.business-standard.com,-0.9499158263206482
-ETERNAL,2026-02-20,A Gorgeous Video Game That’s Also Very Jewish - bloomberg.com,-0.8804870843887329
+ETERNAL,2023-08-12,"Bondada Engineering Share Price Today, Bondada Engineering Stock Price Live NSE/BSE Updates - The Economic Times",-0.9417802691459656
 ETERNAL,2025-07-21,China’s $167 Billion Dam Project Fuels Optimism in Metal Stocks in India - bloomberg.com,0.7759435772895813
-ETERNAL,2026-01-21,"Q3 results today: Dr Reddy's Lab, Eternal, Hindustan Petroleum on Jan 21 - Business Standard",-0.9412423968315125
-ETERNAL,2025-10-16,Eternal consolidated net profit declines 63.07% in the September 2025 quarter - Business Standard,-0.9745059013366699
-ETERNAL,2026-01-21,Board of Eternal approves change in CEO - Business Standard,-0.9098151922225952
-ETERNAL,2025-10-16,"Eternal's net profit slumps 63% to ₹65 crore, revenue surges 183% - Business Standard",-0.972010612487793
-ETERNAL,2025-10-16,Eternal to set up subsidiary Eternal Foundation to focus on charity - Business Standard,-0.9007794857025146
-ETERNAL,2025-09-19,"Strong growth, improving profitability bode well for Eternal's stock - Business Standard",0.9527862071990967
-ETERNAL,2026-03-17,Eternal well placed to 'emerge stronger'; JM Fin sees 80% stock upside - Business Standard,0.9471263289451599
-ETERNAL,2026-01-22,Competitive challenges likely to keep Eternal stock under pressure - Business Standard,-0.7447188496589661
-ETERNAL,2025-11-04,"Eternal vs Swiggy: Deja Vu in QC battle, but this time could be different - Business Standard",-0.9022733569145203
-ETERNAL,2025-12-16,Eternal slips 5% on huge volumes; sharpest intra-day fall in 7 months - Business Standard,-0.9707368612289429
-ETERNAL,2026-01-21,Eternal Q3 FY26 profit jumps 73% as quick commerce fuels revenue surge - Business Standard,0.9344457387924194
-ETERNAL,2025-06-05,"Food delivery shares in focus; Eternal, Swiggy rally up to 11% in 2 days - Business Standard",0.9442311525344849
-ETERNAL,2025-11-04,"Bernstein initiates coverage on Swiggy, Eternal with 'Outperform'; check TP - Business Standard",-0.6525854468345642
-ETERNAL,2026-03-13,Eternal tanks 25% in 1 month; food delivery stock price nears 52-week low - Business Standard,0.6138635277748108
-ETERNAL,2026-01-27,"Eternal stock extends fall, down 12% in 3 days; trades at 7-month low - Business Standard",-0.9734599590301514
-ETERNAL,2025-07-22,Nirmal Bang initiates 'Buy' on Swiggy and Eternal; sees up to 26% upside - Business Standard,0.8858084678649902
-ETERNAL,2025-05-02,"Stocks to Watch, May 02: Eternal, Adani Ports, NCC, JSW Infra, auto stocks - Business Standard",-0.910670816898346
-ETERNAL,2026-01-22,Eternal jumps 6% in early trade but pares gains later; analysts weigh in - Business Standard,0.734715461730957
-ETERNAL,2026-01-22,"Stock Alert: Eternal, Bajaj Consumer, Dr Reddys Lab, KEI Industries, PNB Housing - Business Standard",-0.944389820098877
-ETERNAL,2026-01-21,Deepinder Goyal steps down as Eternal CEO; read full text of letter here - Business Standard,-0.8466162085533142
-ETERNAL,2025-10-17,"Competition, store expansion likely to weigh on Eternal's margins - Business Standard",-0.589755117893219
-ETERNAL,2025-05-01,Eternal shuts instant food-delivery service Quick; delists 19K restaurants - Business Standard,-0.693901002407074
-ETERNAL,2025-05-26,Eternal slumps ahead of FPI selloff after lowering investment limit - Business Standard,-0.9013580083847046
+ETERNAL,2026-02-20,A Gorgeous Video Game That’s Also Very Jewish - bloomberg.com,-0.8804870843887329
 ETERNAL,2020-03-18,Zomato News: Zomato latest news and recent zomato updates - The Economic Times,-0.9329121708869934
-ETERNAL,2025-05-01,"Zomato's parent Eternal Q4 net profit falls 78% to ₹39 cr, revenue up 64% - Business Standard",0.6024818420410156
-ETERNAL,2025-09-08,Why is Nomura bullish on Eternal? 3 key factors for ₹370 stock target - Business Standard,-0.9210879802703857
-ETERNAL,2025-07-21,Eternal Q1FY26 results: Profit takes 90% hit on quick commerce push - Business Standard,0.9108463525772095
-ETERNAL,2026-01-22,What to do with Eternal stock as Deepinder Goyal resigns? Tech view here - Business Standard,-0.8729874491691589
-ETERNAL,2025-11-28,"Buy Eternal, hold Swiggy: Elara Capital weighs India internet sector - Business Standard",-0.9275715947151184
-ETERNAL,2025-12-17,JM Financial retains 'Buy' on Eternal as Blinkit growth moderates in Q3FY26 - Business Standard,0.6448107361793518
-ETERNAL,2025-04-09,Eternal Share Price - Business Standard,-0.9495252966880798
-ETERNAL,2026-02-10,"Stocks to Watch today: Aurobindo Pharma, BSE, Eternal, Pfizer, Trident - Business Standard",-0.9421653747558594
-ETERNAL,2026-01-22,Eternal gains after Q3 PAT jumps 73% YoY to Rs 102-cr; CEO Deepinder Goyal resigns - Business Standard,-0.7769551873207092
-ETERNAL,2026-01-13,"Eternal share price rises 4%, nears 1-month high on hope of foreign inflows - Business Standard",0.928665041923523
-ETERNAL,2026-01-20,Kotak Sec's stock picks: Vedanta on metal upcycle; Eternal on Blinkit scale - Business Standard,-0.905350923538208
-ETERNAL,2025-10-24,Eternal's Deepinder Goyal bets $25 mn on venture to extend human lifespan - Business Standard,-0.7594231367111206
-ETERNAL,2025-08-14,"Eternal hits record, market cap regains ₹3-trn mark; soars 21% in 4 weeks - Business Standard",0.897473931312561
-ETERNAL,2025-09-29,"Eternal shares rise 2% after HSBC raises target, keeps Swiggy at 'Hold' - Business Standard",-0.7057809233665466
-ETERNAL,2025-05-02,Eternal shares bounce 9% from day's low post Q4 show; is the worst over? - Business Standard,-0.8397941589355469
-ETERNAL,2025-04-30,"Eternal Ltd Quarterly Results, 01 Apr 2026 - NSE 236.70, BSE 236.35 - Business Standard",-0.9458910226821899
-ETERNAL,2025-06-03,Eternal up 2% on heavy volumes; Morgan Stanley maintains overweight rating - Business Standard,0.9228478074073792
-ETERNAL,2025-07-21,"Zomato parent firm Eternal incorporates food services arm, Blinkit Foods - Business Standard",-0.923149824142456
-ETERNAL,2026-01-22,Eternal Q3 PAT jumps 73% YoY to Rs 102-cr; CEO Deepinder Goyal resigns - Business Standard,-0.7982796430587769
-ETERNAL,2025-10-16,"Eternal Q2 results: PAT at ₹65 cr, revenue more than doubles to ₹13,590 cr - Business Standard",0.9216976165771484
-ETERNAL,2025-10-17,Eternal cracks 9% post Q2 results; will stock hit ₹300-mark or jump back? - Business Standard,0.5567901134490967
-ETERNAL,2025-07-21,Zomato's parent company introduces 'rotational leadership' CEO model - Business Standard,-0.866629958152771
-ETERNAL,2025-07-12,Eternal Bright Marks 10 Years With A Fresh Identity And The Same Trusted Formulas - Business Standard,-0.7583767175674438
-ETERNAL,2026-01-21,"Stocks to watch, Jan 21: Dr Reddys, Eternal, Persistent Sys, United Spirits - Business Standard",-0.894371509552002
-ETERNAL,2025-11-24,"Explained: How will implementation of the CoSS impact Swiggy, Eternal? - Business Standard",-0.941618800163269
-ETERNAL,2026-02-17,"Eternal partners with OpenAI to boost AI across Zomato, Blinkit, District - Business Standard",0.9035770893096924
-ETERNAL,2026-04-02,India Glycols Ltd. - The Economic Times,-0.9199194312095642
-ETERNAL,2025-12-26,"Eternal, Swiggy share prices fall as gig workers' protest roils sentiment - Business Standard",-0.9627350568771362
-ETERNAL,2025-09-18,"Eternal's market cap surges to ₹3.26 trn; ranks ahead of HAL, Titan - Business Standard",0.90264892578125
-ETERNAL,2026-01-08,"Eternal gets two GST demand orders worth ₹27.56 crore, plans to appeal - Business Standard",0.6311711668968201
-ETERNAL,2025-08-06,"Antfin exits Eternal with ₹5,370 crore stake sale at ₹285 floor price - Business Standard",-0.912462592124939
-ETERNAL,2025-04-24,Zomato food delivery CEO Ranjan still part of leadership team: Eternal - Business Standard,-0.9051626920700073
+ETERNAL,2026-03-17,Eternal well placed to 'emerge stronger'; JM Fin sees 80% stock upside - business-standard.com,0.8317204117774963
+ETERNAL,2026-03-13,Eternal tanks 25% in 1 month; food delivery stock price nears 52-week low - business-standard.com,-0.5117576122283936
+ETERNAL,2025-11-11,"Eternal below 100-DMA, Swiggy at 200-DMA; how to trade these 2 stocks? - business-standard.com",-0.9458823800086975
+ETERNAL,2025-12-30,Eternal shares down 25% from record high; what's making the Street nervous? - business-standard.com,-0.9571273922920227
+ETERNAL,2025-10-16,Eternal to set up subsidiary Eternal Foundation to focus on charity - business-standard.com,-0.928054928779602
+ETERNAL,2025-04-09,Eternal Share Price - business-standard.com,-0.9401196837425232
+ETERNAL,2025-05-01,"Zomato's parent Eternal Q4 net profit falls 78% to ₹39 cr, revenue up 64% - business-standard.com",0.5651680827140808
+ETERNAL,2025-09-08,Why is Nomura bullish on Eternal? 3 key factors for ₹370 stock target - business-standard.com,-0.9248136281967163
+ETERNAL,2025-07-21,Eternal Q1FY26 results: Profit takes 90% hit on quick commerce push - business-standard.com,-0.7053175568580627
+ETERNAL,2026-02-10,"Delivery platform stocks: Eternal, Swiggy surge up to 6% on huge volumes - business-standard.com",0.8923795819282532
+ETERNAL,2025-11-04,"Bernstein initiates coverage on Swiggy, Eternal with 'Outperform'; check TP - business-standard.com",-0.7288187146186829
+ETERNAL,2026-01-22,What to do with Eternal stock as Deepinder Goyal resigns? Tech view here - business-standard.com,-0.8517807126045227
+ETERNAL,2025-05-26,"Eternal shares slide 4% on $840 mn outflow fears as FTSE, MSCI cut weight - business-standard.com",-0.9326685070991516
+ETERNAL,2026-01-20,Kotak Sec's stock picks: Vedanta on metal upcycle; Eternal on Blinkit scale - business-standard.com,-0.9393402338027954
+ETERNAL,2025-10-24,Eternal's Deepinder Goyal bets $25 mn on venture to extend human lifespan - business-standard.com,-0.8591422438621521
+ETERNAL,2025-09-29,"Eternal shares rise 2% after HSBC raises target, keeps Swiggy at 'Hold' - business-standard.com",-0.9085376262664795
+ETERNAL,2025-02-06,"Zomato board approves name change to Eternal Ltd, stock ticker to change - business-standard.com",-0.9425086379051208
+ETERNAL,2025-10-16,"Eternal's net profit slumps 63% to ₹65 crore, revenue surges 183% - business-standard.com",-0.9636653065681458
+ETERNAL,2025-05-01,"Zomato's parent Eternal Q4 net profit tanks 77% to ₹39 cr, revenue up 63% - business-standard.com",0.9429468512535095
+ETERNAL,2025-10-17,What should investors do with Eternal (Zomato) after Q2? Brokerages decode - business-standard.com,-0.9505085945129395
+ETERNAL,2025-12-16,Eternal slips 5% on huge volumes; sharpest intra-day fall in 7 months - business-standard.com,-0.9683616161346436
+ETERNAL,2026-01-22,Competitive challenges likely to keep Eternal stock under pressure - business-standard.com,-0.6925252079963684
+ETERNAL,2025-11-04,"Eternal vs Swiggy: Deja Vu in QC battle, but this time could be different - business-standard.com",-0.9185025095939636
+ETERNAL,2025-11-28,"Buy Eternal, hold Swiggy: Elara Capital weighs India internet sector - business-standard.com",-0.9484209418296814
+ETERNAL,2025-05-02,Eternal shares bounce 9% from day's low post Q4 show; is the worst over? - business-standard.com,-0.789325475692749
+ETERNAL,2025-07-22,Nirmal Bang initiates 'Buy' on Swiggy and Eternal; sees up to 26% upside - business-standard.com,0.6408990025520325
+ETERNAL,2026-01-22,Eternal jumps 6% in early trade but pares gains later; analysts weigh in - business-standard.com,-0.7002070546150208
+ETERNAL,2025-04-30,"Eternal Ltd Quarterly Results, 02 Apr 2026 - NSE 231.72, BSE 231.65 - business-standard.com",-0.946422815322876
+ETERNAL,2026-01-21,Eternal Q3 FY26 profit jumps 73% as quick commerce fuels revenue surge - business-standard.com,0.7467531561851501
+ETERNAL,2026-01-21,"Q3 results today: Dr Reddy's Lab, Eternal, Hindustan Petroleum on Jan 21 - business-standard.com",-0.9427849054336548
+ETERNAL,2026-02-10,"Stocks to Watch today: Aurobindo Pharma, BSE, Eternal, Pfizer, Trident - business-standard.com",-0.945396900177002
+ETERNAL,2025-06-03,Eternal up 2% on heavy volumes; Morgan Stanley maintains overweight rating - business-standard.com,0.9137585759162903
+ETERNAL,2025-10-17,Eternal cracks 9% post Q2 results; will stock hit ₹300-mark or jump back? - business-standard.com,-0.8534318804740906
+ETERNAL,2025-07-21,"Eternal Q1 FY26 result: Profit falls 90% to ₹25 crore, revenue up 70% - business-standard.com",-0.8326425552368164
+ETERNAL,2025-10-15,Eternal Q2 preview: Analysts expect PAT to fall 61% YoY; revenue up 43% - business-standard.com,-0.9558200240135193
+ETERNAL,2026-01-21,"Eternal Q3 FY26 profit jumps 73% to ₹102 crore, revenue surges 202% - business-standard.com",0.8172255158424377
+ETERNAL,2026-01-13,"Eternal share price rises 4%, nears 1-month high on hope of foreign inflows - business-standard.com",0.9020177125930786
+ETERNAL,2025-08-06,"Antfin exits Eternal with ₹5,370 crore stake sale at ₹285 floor price - business-standard.com",-0.9333373308181763
+ETERNAL,2025-09-19,"Eternal hits 52-wk high as Goldman Sachs lifts target price, retains 'Buy' - business-standard.com",-0.8012914657592773
+ETERNAL,2026-01-27,"Eternal stock extends fall, down 12% in 3 days; trades at 7-month low - business-standard.com",-0.9653831720352173
+ETERNAL,2025-08-14,"Eternal hits record, market cap regains ₹3-trn mark; soars 21% in 4 weeks - business-standard.com",0.7549824714660645
+ETERNAL,2025-08-11,"Paytm, Eternal surge up to 6%, stocks near 52-week highs - business-standard.com",0.5949018597602844
+ETERNAL,2025-07-22,Eternal shares clock all-time high after Q1 results; brokerages up target - business-standard.com,-0.7436836957931519
+ETERNAL,2025-10-15,"Eternal up 86% from April low; hits new high; Should you buy, hold or sell? - business-standard.com",0.8585526347160339
+ETERNAL,2025-07-18,"How will Eternal perform in Q1FY26? Check estimates, date, and time - business-standard.com",-0.9480711817741394
+ETERNAL,2026-01-22,Eternal Q3 PAT jumps 73% YoY to Rs 102-cr; CEO Deepinder Goyal resigns - business-standard.com,-0.5005132555961609
+ETERNAL,2026-01-19,Eternal Q3 preview: Revenue may rise 194% YoY; Blinkit store addition eyed - business-standard.com,0.8756319284439087
+ETERNAL,2025-10-16,"Eternal Q2 results: PAT at ₹65 cr, revenue more than doubles to ₹13,590 cr - business-standard.com",-0.5386761426925659
+ETERNAL,2025-07-22,"Food for portfolio: This stock can deliver up to 30% gain, chart suggests - business-standard.com",0.7988293170928955
