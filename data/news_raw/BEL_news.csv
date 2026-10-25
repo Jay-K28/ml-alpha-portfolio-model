@@ -1,101 +1,141 @@
-ticker,date,headline,sentiment_score
-BEL,2026-04-01,"BEL clocks 16.2% growth in FY26 revenue at ₹26,750 crore - ET Manufacturing",0.9240556955337524
-BEL,2026-04-01,"Motilal Oswal sector of the week: Defence; BEL, Bharat Dynamics top picks - business-standard.com",-0.914000928401947
-BEL,2026-03-31,"IAF to receive two mountain radars in ₹1,950 crore BEL deal govt - business-standard.com",-0.6192415952682495
-BEL,2026-04-06,Swiggy among 4 stocks that closed crossing above VWAP - The Economic Times,-0.7832708358764648
-BEL,2026-04-06,"Persistent Systems - Mahindra, Billionbrains Garage among 6 stocks flashing bullish signals - The Economic Times",-0.8505887985229492
-BEL,2026-04-06,"Rs 3 lakh crore added! Sensex jumps 500 pts, Nifty near 22,900; Iran-US ceasefire framework, 3 other factors.. - cfo.economictimes.indiatimes.com",-0.8982633948326111
-BEL,2026-04-06,Quarterly results of companies - business-standard.com,-0.8989714980125427
-BEL,2026-04-06,DHURANDHAR 2 THE REVENGE BOX OFFICE DAY 7 - The Economic Times,-0.8184447884559631
-BEL,2026-04-07,Meta to release open source versions of its upcoming AI models - The Economic Times,-0.8942826986312866
-BEL,2026-04-07,KSEAB KARNATAKA GOV IN AND KARRESULTS NIC IN - The Economic Times,-0.9283360838890076
-BEL,2026-04-06,"puc result 2026: Latest News & Videos, Photos about puc result 2026 - The Economic Times",-0.936823308467865
-BEL,2026-04-06,‘How did over $9B slip away so easily?’: GOP lawmakers demand answers on Minnesota Somali fraud - The Economic Times,-0.8426657915115356
-BEL,2026-04-06,West Asia crisis: Two Indian LPG vessels safely transit Strait of Hormuz - The Economic Times Video | ET Tv - The Economic Times,-0.9172311425209045
-BEL,2026-04-06,‘Mad dog has bitten them’: Assam CM’s wife Riniki Bhuyan Sharma files FIR against Pawan Khera - The Economic Times,-0.6664263010025024
-BEL,2026-04-06,'WILL GO TO JAIL': Trump goes NUCLEAR on 'leaker' who nearly doomed US Pilot rescue mission in Iran - The Economic Times,-0.494174599647522
-BEL,2026-04-07,"TCS Q4 preview: Profit may rise 14% YoY; AI, deal wins key monitorables - business-standard.com",0.7535569071769714
-BEL,2026-04-06,"FPI, MF positioning leaves HDFC Bank vulnerable to further downside - business-standard.com",-0.5289297103881836
-BEL,2026-04-07,Markets set on favourable FY27 base; Iran war ceasefire key trigger: MOFSL - business-standard.com,-0.8726372718811035
-BEL,2026-04-06,"Reliance slips 4%; stock hits over 10-month low, m-cap falls below ₹18 trn - business-standard.com",-0.9506584405899048
-BEL,2026-04-07,Board of BLUECLOUDS approves acquisition of Global Impx Inc. - business-standard.com,-0.9311233758926392
-BEL,2026-04-07,Shyam Metalics up 8% on posting Q4 update; stainless steel sales up 59% YoY - business-standard.com,0.9474509954452515
-BEL,2026-04-07,Lodha Developers clocks pre-sales of Rs 5.890 crore in Q4 - business-standard.com,-0.926708996295929
-BEL,2026-04-07,CreditAccess Grameen gains on strong Q4 business update - business-standard.com,0.8788933157920837
-BEL,2026-04-07,"Jubilant Food vs Devyani: This QSR stock can rebound upto 33%, says analyst - business-standard.com",0.9506679177284241
-BEL,2026-04-06,SEDEMAC Mechatronics jumps 11% to all-time high on record ECU sales growth - business-standard.com,0.9345356822013855
-BEL,2026-04-06,DMart Q4 growth strong on store additions; margins remain under pressure - business-standard.com,0.8895084261894226
-BEL,2026-04-06,Zydus Wellness zooms 19% on heavy volumes; stock nears record high - business-standard.com,0.8894010186195374
-BEL,2026-04-04,Defence ministry issues EoI for indigenous 1000-kg aerial bomb for IAF - business-standard.com,-0.9078779816627502
-BEL,2026-04-06,Jefferies initiates coverage on Titagarh Rail and Jupiter Wagons; check TP - business-standard.com,-0.9376532435417175
-BEL,2026-04-07,"Punjab Board Class 5, 8 Result 2026: When will PSEB release marksheet? - business-standard.com",-0.9533786177635193
-BEL,2026-04-06,RP-Sanjiv Goenka Group stk RPSG Ventures up 102% in 7 days amid IPL frenzy - business-standard.com,0.9424110651016235
-BEL,2026-04-07,KPI Green Energy Ltd Slips 2.82% - business-standard.com,-0.9557231068611145
-BEL,2026-04-06,Vertex Securities Share Price Partly Paidup - business-standard.com,-0.9430538415908813
-BEL,2026-04-06,Great Eastern Shipping gains 4% on contract to sell Tanker 'Jag Prakash' - business-standard.com,0.9186360836029053
-BEL,2026-04-06,Deep Industries secures contract worth Rs 59 cr from ONGC Corpn - business-standard.com,0.5780002474784851
-BEL,2026-04-06,Air India CEO Campbell Wilson steps down amid continuing losses: Report - business-standard.com,-0.6921120285987854
-BEL,2026-04-07,Swan Defence jumps after securing green shipbuilding order - business-standard.com,0.7203810214996338
-BEL,2026-04-06,Texmaco Rail & Engineering wins order of Rs 39 cr from Southern Railways - business-standard.com,0.8696701526641846
-BEL,2026-04-06,Mkts rise over 1% on truce hopes; bank stocks lead rally as oil prices ease - business-standard.com,0.60830157995224
-BEL,2026-04-07,Karnataka 2nd PUC Result 2026: When and how to download result once out? - business-standard.com,-0.9484745860099792
-BEL,2026-04-07,INR stays supported following RBI initiatives - business-standard.com,0.6172307133674622
-BEL,2026-04-07,Deadline today! These 2 stocks go ex-date on April 8; check if you own them - business-standard.com,-0.9294689893722534
-BEL,2026-04-06,"Anchor lock-in expiry to unlock $3,769-cr worth shares in April 2026 - business-standard.com",-0.945425271987915
-BEL,2026-04-06,TS Inter Result 2026: How and where to check 1st & 2nd year results? - business-standard.com,-0.9430643320083618
-BEL,2026-04-07,B.R.Goyal Infra secures Rs 23-cr MPRDC order - business-standard.com,-0.9091683030128479
-BEL,2026-04-06,CDs emerge as key Q4 funding source for banks despite elevated rates - business-standard.com,0.6337069869041443
-BEL,2026-04-07,"Upside for MCX Gold capped at ₹165,000; Silver may consolidate: Analysts - business-standard.com",-0.8395316004753113
-BEL,2026-04-06,"CBI flags ₹73,000 cr fraud in Anil Ambani Group probe; ED flags IBC issues - business-standard.com",-0.9231855869293213
-BEL,2026-04-07,Iran war hits Uttarakhand industries as costs rise: Industry group chief - business-standard.com,-0.8973418474197388
-BEL,2026-04-06,Max Estates FY26 pre-sales dip slightly despite strong Q4 demand - business-standard.com,-0.965914249420166
-BEL,2026-04-06,"Mixed Q4 seen for top realty players amid launch delays, softer sentiment - business-standard.com",-0.8800351619720459
-BEL,2026-04-06,"India's food systems need a reset for Viksit Bharat, rethink policy focus - business-standard.com",-0.9183731079101562
-BEL,2026-04-07,Sharda Cropchem jumps after Dolly Khanna buys stake - business-standard.com,-0.8218842148780823
-BEL,2026-04-07,Jubilant FoodWorks reports 19% YoY revenue growth in Q4 FY26 - business-standard.com,0.5367207527160645
-BEL,2026-04-07,"QSR stocks under pressure; Jubilant FoodWorks slips 8%, hits 52-week low - business-standard.com",-0.9620224833488464
-BEL,2026-04-07,Gold vs silver: Which metal offers better returns amid global uncertainty? - business-standard.com,-0.762077808380127
-BEL,2026-04-06,3CITS and Cybernara Come Together to Build a Security-First Technology Business in India - business-standard.com,-0.5467494130134583
-BEL,2026-04-06,Oracle names Schneider Electric's Maxson as CFO amid soaring AI spending - business-standard.com,-0.8685322999954224
-BEL,2026-04-06,"Why Sensex cut losses, up 1,400 pts from day's low; Nifty at 22,968? - business-standard.com",0.9094837307929993
-BEL,2026-04-06,"UAE's Valura.ai makes India debut, onboards 1,000 wealth advisors - business-standard.com",-0.8715636134147644
-BEL,2026-04-07,Gallantt Ispat rallies as pellet production climbs 59% YoY in Q4 FY26 - business-standard.com,0.9220668077468872
-BEL,2026-04-07,"Apple's foldable iPhone faces engineering snags, potential delays: Report - business-standard.com",-0.6053621768951416
-BEL,2026-04-06,Wipro to acquire Olam Group's IT service arm 'Mindsprint' - business-standard.com,-0.9359091520309448
-BEL,2026-04-06,"Trent Q4FY26 results: Revenue up 20% at ₹4,937 cr on high consumer spending - business-standard.com",0.9513106942176819
-BEL,2026-04-06,Bank margins to stay under pressure; recovery seen from FY27: Ambit - business-standard.com,0.9054466485977173
-BEL,2026-04-06,Cross Identity Offers VISHWAAS AI at Zero Cost as DPDP Readiness Lags Across India Inc - business-standard.com,-0.8938349485397339
-BEL,2026-04-06,BSE share price target hiked by HDFC Sec; stock surges 4% on heavy volumes - business-standard.com,0.7489810585975647
-BEL,2026-04-06,The Conviction to Lead: How Aditya Jangid Scaled AdCounty Media into a Global Powerhouse - business-standard.com,-0.7691290378570557
-BEL,2026-04-06,"FundVice Acquires a Delhi based production House led By Kunal Sharma, Launches RoughCut Labs as Its Full-Spectrum Creative and Marketing Arm - business-standard.com",-0.8588301539421082
-BEL,2018-03-09,"HAL Share Price Today, HAL Stock Price Live NSE/BSE Updates - The Economic Times",-0.9387754201889038
-BEL,2026-04-06,"India Inc pay hikes pegged at 9.1% in FY26, says Deloitte report - business-standard.com",0.40521129965782166
-BEL,2026-04-06,Aristo Pharmaceuticals buys office space for ₹111 crore in Andheri West - business-standard.com,-0.9038516879081726
-BEL,2026-04-06,BMW overtakes Mercedes in Q1 as luxury car market shows flat growth - business-standard.com,-0.44768190383911133
-BEL,2026-04-06,Bajaj Alternate Investment Management secures PMS licence from Sebi - business-standard.com,-0.6667142510414124
-BEL,2026-04-06,"IPL 2026: Mentally disturbing and painful, Ashwin on quitting IPL - business-standard.com",-0.5349432229995728
-BEL,2026-04-06,RBI policy expectations: Safeguarding growth amid a supply shock - business-standard.com,-0.8878498673439026
-BEL,2026-04-07,"OpenAI, Anthropic, Google join hands to combat AI model copying in China - business-standard.com",-0.8652395009994507
-BEL,2026-04-06,Early wedding buying picks up on gold dip: Titan Company's Arun Narayan - business-standard.com,-0.8958830237388611
-BEL,2026-04-06,Traffic diversions likely in central Delhi on April 8 for IPL match: Police - business-standard.com,-0.5218158960342407
-BEL,2026-04-06,"Qualiance International Ltd IPO 1970 Price, Date, Review and Key Insights - business-standard.com",-0.9453878402709961
-BEL,2026-04-06,TDI Infratech to invest ₹750 crore in 150-acre township project in Ludhiana - business-standard.com,-0.8815344572067261
-BEL,2026-04-06,"Madhuri Exports Ltd IPO 1970 Price, Date, Review and Key Insights - business-standard.com",-0.9458218216896057
-BEL,2026-04-06,Pune Police Commissioner Amitesh Kumar to Lead Anti-Drug Youth Dialogue at Dr. P. A. Inamdar University - business-standard.com,-0.9149764180183411
-BEL,2026-04-06,"Factories' tally in Uttar Pradesh jumps 17% to cross 32,000 mark - business-standard.com",0.8423861861228943
-BEL,2026-04-06,Bisleri Partners with One of Mumbai's Most Anticipated Music Nights with Keinemusik - business-standard.com,-0.6457170248031616
-BEL,2026-04-07,Odisha appoints 14 vice chancellors after 10-month delay in process - business-standard.com,-0.9052391052246094
-BEL,2026-04-06,"Bonanza Enterprises Reports 27 Percent Plus Profitable Growth, Sets Sights on Leadership in India's Logistics Sector - business-standard.com",0.8519712090492249
-BEL,2026-04-07,GIFT Nifty indicates lower opening for equities; Trump hardens rhetoric on Iran war - business-standard.com,-0.8355684876441956
-BEL,2026-04-07,Deep Industries secures Rs 59-cr order from ONGC - business-standard.com,0.5946034789085388
-BEL,2026-04-06,Hyatt ties up with Brigade Group for Hyatt House Bengaluru Devanahalli - business-standard.com,-0.9068387150764465
-BEL,2026-04-06,"IPL 2026 KKR vs PBKS: Kolkata weather forecast, hourly rain prediction - business-standard.com",-0.9348393678665161
-BEL,2026-04-06,"Credent Connect N Care Ltd IPO 1970 Price, Date, Review and Key Insights - business-standard.com",-0.9467246532440186
-BEL,2026-04-06,"Wipro bags $1 bn Olam deal in one of its largest wins, to also buy IT arm - business-standard.com",-0.8271191120147705
-BEL,2026-04-06,ShowKeen by AstaGuru Returns to Mumbai with its third Landmark exhibition - business-standard.com,-0.6429044008255005
-BEL,2026-04-07,"IPL 2026 Today's Match: RR vs MI playing 11, batters vs bowlers match-ups - business-standard.com",-0.9436272978782654
-BEL,2026-04-06,"RBI retains credit default swap cap at 5%, sets ₹3.3 trn limit for FY27 - business-standard.com",-0.9045677185058594
-BEL,2026-04-07,Govt planning sovereign guarantees on loans to businesses hit by Iran war - business-standard.com,-0.8843473792076111
-BEL,2026-04-06,"Vinay Tonse takes charge as YES Bank CEO, outlines growth roadmap - business-standard.com",-0.9266042113304138
-BEL,2026-04-07,"Precious metals: 3 factors to shape the course of gold, silver prices - business-standard.com",-0.937009334564209
-BEL,2026-04-06,"OpenAI urges grid, safety net spending to prepare for AI-driven changes - business-standard.com",-0.8728053569793701
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+BEL,2021-05-09,Bharat Electronics - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.025082705542445183,0.023659327998757362,0.9512580037117004,0.0014233775436878204
+BEL,2021-06-02,Stock Research Report for Bharat Electronics Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.0331154391169548,0.04391621798276901,0.922968327999115,-0.010800778865814209
+BEL,2021-09-07,BEL signs pact for providing reliable power supply to security forces - Business Standard,,2026-10-18,legacy,positive,0.648791491985321,0.009231974370777607,0.34197646379470825,0.6395595176145434
+BEL,2021-12-07,Top defence PSU HAL and Maharatna BEL among top 100 global arms-producing cos in 2020 - ET Government,,2026-10-18,legacy,positive,0.7795169353485107,0.008281288668513298,0.212201789021492,0.7712356466799974
+BEL,2022-04-07,Bharat Electronics to gain from strong order book and new opportunities - Business Standard,Business Standard,2026-10-19,live,positive,0.9482070803642273,0.011294739320874214,0.04049821197986603,0.9369123410433531
+BEL,2022-06-08,BAJE.NS - Reuters,,2026-10-18,legacy,neutral,0.020176051184535027,0.042082227766513824,0.9377416968345642,-0.021906176581978798
+BEL,2022-07-06,About Bharat Electronics Ltd (BAJE.BO) - Reuters,,2026-10-18,legacy,neutral,0.03134796395897865,0.025510292500257492,0.9431416988372803,0.005837671458721161
+BEL,2022-08-04,Bharat Electronics board approves 2:1 bonus issue of equity shares - Livemint,Livemint,2026-10-19,live,neutral,0.18662512302398682,0.008493923582136631,0.8048809766769409,0.17813119944185019
+BEL,2022-10-15,"Defence PSU BEL sets up Lithium Ion Development Centre, Battery Automated Assembly Plant in Pune - ET EnergyWorld",,2026-10-18,legacy,neutral,0.10275965929031372,0.00872902013361454,0.8885113596916199,0.09403063915669918
+BEL,2022-11-29,Britannia Industries enters into a JV with French cheese maker Bel SA - Business Standard,,2026-10-18,legacy,neutral,0.08153237402439117,0.01175173744559288,0.9067158699035645,0.0697806365787983
+BEL,2023-01-24,"Norway sovereign wealth fund excludes AviChina, Bharat Electronics - Reuters",Reuters,2026-10-19,live,neutral,0.022653495892882347,0.0354960560798645,0.9418504238128662,-0.012842560186982155
+BEL,2023-01-30,Bharat Electronics down after Q3 profit disappoints but ICICI Securities sees 37% upside - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.012443697080016136,0.9549927115440369,0.03256360813975334,-0.9425490144640207
+BEL,2023-01-30,Bharat Electronics’ strength hinges on robust order inflows - Livemint,Livemint,2026-10-19,live,positive,0.9287877082824707,0.010592248290777206,0.06062006205320358,0.9181954599916935
+BEL,2023-02-22,"Defence tech: BEL signs MoUs with ADA, DRDO for Advanced Medium Combat Aircraft programme - ET Government",,2026-10-18,legacy,positive,0.7235534191131592,0.006819035857915878,0.26962754130363464,0.7167343832552433
+BEL,2023-03-01,Bharat Electronics gain on pact with Thales Reliance Defence Systems - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.28689128160476685,0.018607471138238907,0.6945012807846069,0.26828381046652794
+BEL,2023-03-24,"BEL gains on Rs 3,800 crore-order wins from Defence Ministry - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.7434849143028259,0.02718358114361763,0.22933141887187958,0.7163013331592083
+BEL,2023-04-03,Britannia Bel Foods elevates Mustufa Arsiwalla to CMO - ET BrandEquity,,2026-10-18,legacy,neutral,0.19889721274375916,0.009769241325557232,0.7913335561752319,0.18912797141820192
+BEL,2023-05-29,Bharat Electronics Profit Loss: Check Bharat Electronics Profit & Loss Account Annual Statement - Livemint,Livemint,2026-10-19,live,negative,0.01766691729426384,0.6044666767120361,0.3778664171695709,-0.5867997594177723
+BEL,2023-05-31,"Bharat Electronics Balance Sheet: Check Bharat Electronics Balance Sheet, Annual Report, Financial Statements - Livemint",Livemint,2026-10-19,live,neutral,0.024746989831328392,0.02519032172858715,0.9500626921653748,-0.00044333189725875854
+BEL,2023-05-31,Bharat Electronics Dividend - Livemint,Livemint,2026-10-19,live,neutral,0.04698317497968674,0.013321042992174625,0.9396957755088806,0.03366213198751211
+BEL,2023-05-31,"Bharat Electronics News: Find Bharat Electronics News Today, Latest News Bharat Electronics - Livemint",Livemint,2026-10-19,live,neutral,0.03644818067550659,0.022783489897847176,0.940768301486969,0.013664690777659416
+BEL,2023-06-03,"Bharat Electronics AGM: Check Annual General Meeting details, AGM Updates, Bharat Electronics AGM News - Livemint",Livemint,2026-10-19,live,neutral,0.02989988587796688,0.024566221982240677,0.9455338716506958,0.005333663895726204
+BEL,2023-07-24,Bharat Electronics Q1 Results 2026 - Find Bharat Electronics Q1 Earnings Result | BEL Q1 results - Livemint,Livemint,2026-10-19,live,neutral,0.04085010290145874,0.028404567390680313,0.9307453036308289,0.012445535510778427
+BEL,2023-08-26,"Defence PSU Bharat Electronics Limited bags orders worth Rs 3,289 crore - Business Standard",,2026-10-18,legacy,positive,0.6394606828689575,0.018637701869010925,0.34190165996551514,0.6208229809999466
+BEL,2023-08-31,"BEL makes vehicle for NDRF to respond to biological, chemical disasters - Business Standard",,2026-10-18,legacy,neutral,0.1117614284157753,0.008516155183315277,0.8797224164009094,0.10324527323246002
+BEL,2023-09-15,"BEL bags Rs 2,118.57 crore order from Cochin Shipyard for various equipment - Business Standard",,2026-10-18,legacy,positive,0.6536005735397339,0.011242440901696682,0.33515694737434387,0.6423581326380372
+BEL,2023-09-18,"Bharat Electronics shares gain 3% on winning defence orders of Rs 3,000 crore - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9292818903923035,0.017164988443255424,0.05355310067534447,0.912116901949048
+BEL,2023-12-11,Order backlog and pipeline offer strong revenue visibility for BEL - Business Standard,,2026-10-18,legacy,positive,0.9462662935256958,0.025369348004460335,0.028364336118102074,0.9208969455212355
+BEL,2023-12-15,"Ammunition manufacturing: MoD inks Rs 5,336 cr contract with BEL - Business Standard",,2026-10-18,legacy,positive,0.5643521547317505,0.017285840585827827,0.418362021446228,0.5470663141459227
+BEL,2023-12-15,MoD inks Rs 5336 cr contract with BEL to procure Electronic Fuzes for Indian Army - ET Government,,2026-10-18,legacy,positive,0.9070459604263306,0.01315504964441061,0.07979900389909744,0.89389091078192
+BEL,2023-12-26,"BEL soars 6% on order wins of Rs 3,351 crore; joins top 50 market-cap club - Business Standard",Business Standard,2026-10-19,live,positive,0.9275565147399902,0.013717439956963062,0.058726053684949875,0.9138390747830272
+BEL,2024-01-30,Bharat Electronics bags IT infrastructure orders worth Rs 848 crore - Business Standard,,2026-10-18,legacy,positive,0.599421501159668,0.013488909229636192,0.3870895802974701,0.5859325919300318
+BEL,2024-02-10,BEL bags Defence Ministry contract worth ₹2269.54 to produce Shakti Electronic Warfare Systems for Indian .. - ET Government,,2026-10-18,legacy,positive,0.9160922169685364,0.011728266254067421,0.07217951864004135,0.904363950714469
+BEL,2024-02-13,"Govt signs contracts worth Rs 2,269 crore with Bharat Electronics Limited - Business Standard",Business Standard,2026-10-19,live,positive,0.8757542967796326,0.0122938621789217,0.1119518131017685,0.8634604346007109
+BEL,2024-02-14,"Bharat Electronics shares gain on Rs 2,167.47-crore order from navy - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9242099523544312,0.030012572184205055,0.04577752202749252,0.8941973801702261
+BEL,2024-03-04,"MoD inks MoU with BEML, BEL, MIDHANI for development of advanced fueling & control system - ET Government",,2026-10-18,legacy,positive,0.7396868467330933,0.007223508320748806,0.25308966636657715,0.7324633384123445
+BEL,2024-03-07,Bharat Electronics share price hits 52-week high after UBS raises target on the stock - Livemint,Livemint,2026-10-19,live,positive,0.8371180891990662,0.027528341859579086,0.13535365462303162,0.8095897473394871
+BEL,2024-03-14,"Defence PSU BEL bags Rs 1,940 crore contract for advanced EW systems - Business Standard",,2026-10-18,legacy,positive,0.8023175001144409,0.010350529104471207,0.1873319298028946,0.7919669710099697
+BEL,2024-03-28,Bharat Electronics Ltd - Business Standard,Business Standard,2026-10-19,live,neutral,0.08941060304641724,0.010926216840744019,0.8996632099151611,0.07848438620567322
+BEL,2024-03-29,Bharat Dynamics Ltd News - Business Standard,,2026-10-18,legacy,neutral,0.031023316085338593,0.02904675155878067,0.9399299621582031,0.0019765645265579224
+BEL,2024-03-29,Bharat Electronics Ltd News - Business Standard,,2026-10-18,legacy,neutral,0.03450116515159607,0.03169677406549454,0.93380206823349,0.002804391086101532
+BEL,2024-04-02,"BEL soars 5%, hits new high on record turnover in FY24, strong order book - Business Standard",,2026-10-18,legacy,positive,0.9518406987190247,0.0211484432220459,0.027010902762413025,0.9306922554969788
+BEL,2024-04-05,BEML & BEL forge partnership to develop indigenous train control management system - ET Infra,,2026-10-18,legacy,positive,0.7611857652664185,0.006685714703053236,0.2321285456418991,0.7545000505633652
+BEL,2024-04-08,"Option strategy of the day | Bullish momentum continues in Bharat Electronics, buy 230 call option - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.11403444409370422,0.016421131789684296,0.8695443868637085,0.09761331230401993
+BEL,2024-04-24,"ECIL, BEL refuse to disclose names of manufacturers of EVM, VVPAT parts - Business Standard",,2026-10-18,legacy,neutral,0.02166931703686714,0.07881281524896622,0.8995178937911987,-0.057143498212099075
+BEL,2024-05-21,"Bharat Electronics share price climbs over 9% to new record high on stellar Q4 earnings, Motilal Oswal upgrades to 'buy' - Livemint",Livemint,2026-10-19,live,positive,0.9150761961936951,0.01798136718571186,0.06694240123033524,0.8970948290079832
+BEL,2024-05-21,Bharat Electronics' growth story is intact after excellent Q4 performance - Business Standard,,2026-10-18,legacy,positive,0.9541895985603333,0.01849803701043129,0.02731228806078434,0.935691561549902
+BEL,2024-06-20,Bharat Electronics appoints Manoj Jain as new MD and chairman - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.053047847002744675,0.018883254379034042,0.9280689358711243,0.03416459262371063
+BEL,2024-06-28,"Bharat Electronics receives orders worth Rs 3,172 crore from AVNL - Business Standard",,2026-10-18,legacy,positive,0.7151188850402832,0.011510584503412247,0.27337050437927246,0.703608300536871
+BEL,2024-07-01,"BEL stock surges on Rs 3,172 crore-order win from Armoured Vehicles Nigam - Business Standard",,2026-10-18,legacy,positive,0.9328557252883911,0.0325823649764061,0.034561824053525925,0.900273360311985
+BEL,2024-07-05,"L&T, ABB, Bharat Electronics are 3 picks of Motilal Oswal in the capital goods sector ahead Q1 results - Livemint",Livemint,2026-10-19,live,neutral,0.14249686896800995,0.016601571813225746,0.8409016132354736,0.1258952971547842
+BEL,2024-07-12,Bharat Electronics Q1 PAT seen up 40.6% YoY to Rs 746.3 cr: Motilal Oswal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.8780400156974792,0.01755218394100666,0.10440781712532043,0.8604878317564726
+BEL,2024-07-30,Multibagger Bharat Electronics share price: 4 key reasons why UBS has downgraded the stock despite strong Q1 performance - Livemint,Livemint,2026-10-19,live,negative,0.015160725452005863,0.8752691745758057,0.10957004874944687,-0.8601084491237998
+BEL,2024-07-30,UBS downgrades BEL stock to 'Neutral' after Q1FY25 results; Here is why - Business Standard,,2026-10-18,legacy,negative,0.019875390455126762,0.5300067663192749,0.4501178562641144,-0.5101313758641481
+BEL,2024-07-31,TTRcT $ol - Business Standard,Business Standard,2026-10-19,live,neutral,0.05359593778848648,0.013432408683001995,0.932971715927124,0.040163529105484486
+BEL,2024-09-11,BEL secures order for indigenous radar worth Rs 850 cr from Cochin Shipyard - Business Standard,,2026-10-18,legacy,positive,0.9023218154907227,0.010220583528280258,0.08745754510164261,0.8921012319624424
+BEL,2024-12-23,"BEL secures Rs 973 cr in new orders; FY25 order book reaches Rs 9,801 cr - Business Standard",,2026-10-18,legacy,positive,0.8021681904792786,0.012949022464454174,0.18488280475139618,0.7892191680148244
+BEL,2025-02-12,Safran and BEL forge partnership for manufacturing HAMMER weapon in India - Business Standard,,2026-10-18,legacy,neutral,0.2445424348115921,0.007460048422217369,0.747997522354126,0.23708238638937473
+BEL,2025-05-16,"Jefferies adds Bharat Electronics, Ambuja Cements in Model Portfolio; drops Shriram Finance - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.058650147169828415,0.013693621382117271,0.9276562333106995,0.044956525787711143
+BEL,2025-05-21,PSU defence stock hits new high on heavy volumes; zooms 24% in 2 weeks - Business Standard,,2026-10-18,legacy,positive,0.9479273557662964,0.020404061302542686,0.03166864067316055,0.9275232944637537
+BEL,2025-05-22,"India's exchange operator BSE to add Trent, Bharat Electronics to benchmark Sensex - Reuters",Reuters,2026-10-19,live,neutral,0.1597982794046402,0.008299433626234531,0.831902265548706,0.15149884577840567
+BEL,2025-06-01,Belrise Industries Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.049118559807538986,0.02887025475502014,0.9220111966133118,0.020248305052518845
+BEL,2025-06-06,BEL and Tata Electronics join hands to boost indigenous semiconductor and electronics development - ET Manufacturing,ET Manufacturing,2026-10-19,live,positive,0.8463161587715149,0.007876269519329071,0.14580751955509186,0.8384398892521858
+BEL,2025-06-23,Bharat Electronics shares up 3% to hit fresh record high on orders win of Rs 585cr - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9190268516540527,0.019246764481067657,0.061726316809654236,0.8997800871729851
+BEL,2025-07-07,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.03676547110080719,0.02449806034564972,0.9387364387512207,0.01226741075515747
+BEL,2025-07-28,"Bharat Electronics Q1 Results: Net profit jumps 23% to Rs 970 crore, beats estimate - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9349949955940247,0.03219780698418617,0.0328071229159832,0.9027971886098385
+BEL,2025-07-30,BHE IN 30Jul25 - Business Standard,,2026-10-18,legacy,neutral,0.05282194912433624,0.016704324632883072,0.9304737448692322,0.03611762449145317
+BEL,2025-10-30,Bharat Electronics bags defence orders worth ₹732 crore - ET Manufacturing,ET Manufacturing,2026-10-19,live,positive,0.8130303621292114,0.01608724147081375,0.1708824187517166,0.7969431206583977
+BEL,2025-11-04,Buy Bharat Electronics; target of Rs 500: Choice Institutional Equities - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.08748462051153183,0.010808476246893406,0.901706874370575,0.07667614426463842
+BEL,2025-11-04,L&T–BEL rope in Dynamatic Technologies for AMCA fifth-generation fighter aircraft project - ET Manufacturing,,2026-10-18,legacy,positive,0.5525730848312378,0.007238289341330528,0.4401886463165283,0.5453347954899073
+BEL,2025-11-14,BEL secures new defence orders worth ₹792 crore - ET Manufacturing,,2026-10-18,legacy,positive,0.9394122958183289,0.012577367946505547,0.048010364174842834,0.9268349278718233
+BEL,2025-11-24,"India's BEL, France's Safran to produce air-to-ground weapons in India - Reuters",,2026-10-18,legacy,neutral,0.15480603277683258,0.009053943678736687,0.836139976978302,0.1457520890980959
+BEL,2025-11-25,BEL shares rise over 1.5% in early trade on HAMMER deal with Safran - ET Manufacturing,,2026-10-18,legacy,positive,0.8461747765541077,0.01787886582314968,0.1359463632106781,0.828295910730958
+BEL,2025-11-25,India-France JV set to transform India’s air-launched precision strike capabilities - ET Government,,2026-10-18,legacy,positive,0.49636775255203247,0.008041663095355034,0.49559059739112854,0.48832608945667744
+BEL,2026-01-23,BEL bags fresh orders worth ₹610 crore across key defence and electronics segments - ET Manufacturing,ET Manufacturing,2026-10-19,live,positive,0.9318155646324158,0.012524266727268696,0.05566020682454109,0.9192912979051471
+BEL,2026-02-01,"Budget day top losers: Bharat Electronics, SBI lead losses as Sensex plunges 1,575 points, Nifty slides... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.012894200161099434,0.9113710522651672,0.07573476433753967,-0.8984768521040678
+BEL,2026-02-17,BEL approves 50:50 JV with France’s Safran for HAMMER weapon system - ET Manufacturing,ET Manufacturing,2026-10-19,live,positive,0.6233993172645569,0.009004073217511177,0.3675966262817383,0.6143952440470457
+BEL,2026-02-21,BEL and SASMOS Sign Strategic MoU to Strengthen Defence Indigenization - Business Standard,,2026-10-18,legacy,positive,0.9205549955368042,0.009158027358353138,0.07028693705797195,0.9113969681784511
+BEL,2026-03-25,"BEL inks pact with RRP Group to unlock defence, semiconductor, drone opportunities - ET Telecom",ET Telecom,2026-10-19,live,positive,0.9124433398246765,0.009800923988223076,0.07775578647851944,0.9026424158364534
+BEL,2026-03-30,BEL and RRP Group MoU Boosts India's Defence Tech and Semiconductor Capabilities - ET Datacenters,ET Datacenters,2026-10-19,live,positive,0.9300715923309326,0.010519400238990784,0.059408944100141525,0.9195521920919418
+BEL,2026-04-01,"BEL shares rally 7% on ₹1,950 crore deal win; analyst stays bullish - Business Standard",,2026-10-18,legacy,positive,0.884260892868042,0.056649576872587204,0.05908959358930588,0.8276113159954548
+BEL,2026-04-10,Nacdac Infrastructure wins ₹8.98 crore contract from BEL for defence test platform - ET Infra,ET Infra,2026-10-19,live,positive,0.9369364976882935,0.013770262710750103,0.04929322004318237,0.9231662349775434
+BEL,2026-04-11,"Defence stocks set for mixed Q4; Nuvama bets on BEL, Solar Industries, and a smallcap pick - ET Manufacturing",,2026-10-18,legacy,negative,0.20230011641979218,0.6950098872184753,0.10269000381231308,-0.49270977079868317
+BEL,2026-04-21,"BEL inks pact with BMIT for advanced defence electronics, aerospace systems - ET Manufacturing",,2026-10-18,legacy,positive,0.897752583026886,0.008738720789551735,0.09350866824388504,0.8890138622373343
+BEL,2026-04-22,"BEL inks pact with BMIT for advanced defence electronics, aerospace systems - ET Telecom",,2026-10-18,legacy,positive,0.9114523530006409,0.009347968734800816,0.07919967919588089,0.90210438426584
+BEL,2026-04-23,Bharat Electronics kicks off FY27 with defence orders worth ₹569 crore - ET Telecom,,2026-10-18,legacy,positive,0.8804580569267273,0.015610622242093086,0.10393131524324417,0.8648474346846342
+BEL,2026-04-29,DAM Capital: Defence sector set for multi-decade growth; check top picks - Business Standard,,2026-10-18,legacy,neutral,0.35484933853149414,0.009028074331581593,0.6361225843429565,0.34582126419991255
+BEL,2026-05-05,"Defence Ministry inks ₹1,476 crore deal with Bharat Electronics to procure GBMES - Economic Times Telecom",Economic Times Telecom,2026-10-19,live,positive,0.7770310640335083,0.013309301808476448,0.2096596509218216,0.7637217622250319
+BEL,2026-05-19,"Bharat Electronics Q4 FY26 profit rises 40.9% to ₹2,225 crore - ET Manufacturing",ET Manufacturing,2026-10-19,live,positive,0.9446447491645813,0.02919483557343483,0.026160461828112602,0.9154499135911465
+BEL,2026-05-21,Accumulate Bharat Electronics; target of Rs 453: Prabhudas Lilladher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03601929172873497,0.01791105605661869,0.946069598197937,0.01810823567211628
+BEL,2026-05-22,RRP Defense receives ₹29.8 crore purchase order from Bharat Electronics - ET Manufacturing,ET Manufacturing,2026-10-19,live,positive,0.867790699005127,0.014378192834556103,0.11783109605312347,0.8534125061705709
+BEL,2026-07-27,"BEL Q1 FY27 profit up 9% to ₹1,054 crore - ET Manufacturing",,2026-10-18,legacy,positive,0.9542510509490967,0.022502677515149117,0.023246310651302338,0.9317483734339476
+BEL,2026-07-27,"BEL Q1 PAT rises 8% YoY to Rs 1,048 cr - Business Standard",,2026-10-18,legacy,positive,0.9471911191940308,0.024893958121538162,0.02791493386030197,0.9222971610724926
+BEL,2026-08-04,"Bharat Electronics Limited, Esri India sign MoU to develop GIS, GeoAI solutions for India's defence sector - ET Manufacturing",ET Manufacturing,2026-10-19,live,positive,0.7398042678833008,0.0073508163914084435,0.252844899892807,0.7324534514918923
+BEL,2026-08-04,"Esri India, Bharat Electronics ink pact to pursue defence projects - ET Telecom",ET Telecom,2026-10-19,live,positive,0.6081563234329224,0.00962700042873621,0.3822166323661804,0.5985293230041862
+BEL,2026-08-05,"Bharat Electronics Limited, Esri India sign MoU to develop GIS, GeoAI solutions for India's defence sector - ET Government",ET Government,2026-10-19,live,positive,0.727052628993988,0.007193487137556076,0.2657538652420044,0.719859141856432
+BEL,2026-08-14,"Turtlemint Fintech Yearly results, Financial Summary - The Economic Times",,2026-10-18,legacy,neutral,0.04212029650807381,0.0436413548886776,0.9142383933067322,-0.0015210583806037903
+BEL,2026-08-18,Trusted silicon is non-negotiable for defence; India needs semiconductor sovereignty: Bharat Electronics' Ha.. - electronics.economictimes.indiatimes.com,electronics.economictimes.indiatimes.com,2026-10-19,live,neutral,0.06577010452747345,0.013801120221614838,0.9204288125038147,0.05196898430585861
+BEL,2026-08-19,"BEL, HAL account for 78% of items in latest defence indigenisation list: PL Capital - ET Manufacturing",,2026-10-18,legacy,neutral,0.04184931516647339,0.015524172224104404,0.9426265358924866,0.026325142942368984
+BEL,2026-08-20,"BEL, Ananth Technologies forge partnership for missiles, radars and satellite systems - ET Government",ET Government,2026-10-19,live,neutral,0.14411917328834534,0.007844566367566586,0.8480362296104431,0.13627460692077875
+BEL,2026-08-21,Data Patterns rises after securing supply contract worth Rs 585 crore from BEL - Business Standard,,2026-10-18,legacy,positive,0.7919460535049438,0.12951095402240753,0.07854291051626205,0.6624350994825363
+BEL,2026-08-26,BEL bags fresh defence orders worth ₹730 crore for defence equipment - ET Manufacturing,ET Manufacturing,2026-10-19,live,positive,0.9385301470756531,0.013289770111441612,0.04818004369735718,0.9252403769642115
+BEL,2026-08-26,Bharat Electronics secures additional orders worth Rs 730 crore - Business Standard,,2026-10-18,legacy,positive,0.9463951587677002,0.02098088711500168,0.0326240174472332,0.9254142716526985
+BEL,2026-08-27,"Ashika bullish on defence pack on global rearmament wave; favours BEL, HAL - Business Standard",,2026-10-18,legacy,neutral,0.11790601164102554,0.04692385718226433,0.8351700901985168,0.07098215445876122
+BEL,2026-10-01,Bharat Electronics Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.04520604386925697,0.0357377752661705,0.9190561771392822,0.009468268603086472
+BEL,2026-10-05,Defence stocks: Bharat Electronics is Motilal Oswal's top pick as Rs 13 lakh crore approvals boost order... - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.8093444108963013,0.011250041425228119,0.1794055998325348,0.7980943694710732
+BEL,2026-10-07,Bharat Forge Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.04279930144548416,0.038582488894462585,0.9186181426048279,0.004216812551021576
+BEL,2026-10-08,"Half Yearly Results, Half yearly Earnings for Panchatv Bharat - The Economic Times",,2026-10-18,legacy,neutral,0.05367486551403999,0.02181832306087017,0.9245068430900574,0.03185654245316982
+BEL,2026-10-08,"ONGC, NTPC, BDL, BEL, IOC among 13 CPSE stocks to hit 52-week lows on Thurs - Business Standard",,2026-10-18,legacy,negative,0.01886090636253357,0.9457671046257019,0.035372037440538406,-0.9269061982631683
+BEL,2026-10-08,"Panchatv Bharat Yearly results, Financial Summary - The Economic Times",,2026-10-18,legacy,neutral,0.036755554378032684,0.03952523320913315,0.9237191677093506,-0.002769678831100464
+BEL,2026-10-12,"Oil prices, yields among key factors behind Sensex's 800 pts intraday fall - Business Standard",Business Standard,2026-10-19,live,neutral,0.13769975304603577,0.06478306651115417,0.7975171804428101,0.07291668653488159
+BEL,2026-10-12,Stock markets open higher amid easing oil prices - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,positive,0.7381032109260559,0.07579430192708969,0.18610243499279022,0.6623089089989662
+BEL,2026-10-12,"Taking Stock: Bears back in action; Nifty below 22,400, Sensex slumps 548 pts as IT, FMCG drag - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.04343998804688454,0.7068697214126587,0.24969027936458588,-0.6634297333657742
+BEL,2026-10-13,DRDO to showcase indigenous semiconductor technologies at ESTIC-2026 - ET Government,ET Government,2026-10-19,live,neutral,0.44612184166908264,0.007823887281119823,0.5460542440414429,0.4382979543879628
+BEL,2026-10-13,DRDO to showcase indigenous semiconductor technologies at ESTIC-2026 - ET Manufacturing,ET Manufacturing,2026-10-19,live,positive,0.5368796586990356,0.008047658950090408,0.45507264137268066,0.5288319997489452
+BEL,2026-10-13,"Kotak Neo's Shrikant Chouhan bullish on BEL, Greenply; check targets - Business Standard",,2026-10-18,legacy,neutral,0.16415351629257202,0.05389232188463211,0.7819541692733765,0.11026119440793991
+BEL,2026-10-14,"Defence Q2 results preview: HAL to lead, BEL steady, Ideaforge seen back in the black - ET Manufacturing",,2026-10-18,legacy,positive,0.9168744087219238,0.033419832587242126,0.049705665558576584,0.8834545761346817
+BEL,2026-10-14,"Stocks in news: Adani Enterprises, Hyundai Motor India, BHEL, BEL, Groww, Tata Elxsi and RailTel - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.04498549550771713,0.02095603197813034,0.934058427810669,0.024029463529586792
+BEL,2026-10-14,"Stocks to Watch Today: Hero Motors, Tata Elxsi, SS Retail, Anand Rathi Share, Zydus Life, Hyundai Motor,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03342520445585251,0.020047912374138832,0.9465268850326538,0.013377292081713676
+BEL,2026-10-14,"Stocks to watch: Hyundai, Tata Elxsi, BHEL, HDB Fin, Adani Enterprises - Business Standard",Business Standard,2026-10-19,live,neutral,0.05725432187318802,0.0124445129185915,0.9303011298179626,0.04480980895459652
+BEL,2026-10-14,"Top stocks to watch today: BHEL, Adani Enterprises, Bharat Electronics shares in focus on Wednesday, 14 Oct | Full list - Livemint",Livemint,2026-10-19,live,neutral,0.03015972301363945,0.031040918081998825,0.9387993812561035,-0.000881195068359375
+BEL,2026-10-15,"Bulls strike! Sensex zooms 1,500 pts intraday, Nifty tops 23k; key reasons - Business Standard",,2026-10-18,legacy,neutral,0.4366113245487213,0.020120780915021896,0.5432679057121277,0.4164905436336994
+BEL,2026-10-15,World Health Organization informs countries to improve efforts to prevent lead exposure - The Economic Times,The Economic Times,2026-10-19,live,positive,0.6784710884094238,0.013389249332249165,0.3081396818161011,0.6650818390771747
+BEL,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,Reuters,2026-10-19,live,positive,0.7371003031730652,0.07562079280614853,0.18727897107601166,0.6614795103669167
+BEL,2026-10-16,"Magnitude 7.0 earthquake hits Russia's Kamchatka region, no tsunami threat - Business Standard",,2026-10-18,legacy,neutral,0.048668280243873596,0.028912756592035294,0.9224189519882202,0.019755523651838303
+BEL,2026-10-16,"Stocks in news: Adani Power, SAIL, BCCL, SAIL, Cupid and CleanMax Enviro - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.039193905889987946,0.018901923671364784,0.9419041872024536,0.02029198221862316
+BEL,2026-10-17,"BEL Q2 results 2026 date out | Market sees up to 16% YoY revenue growth, defence order may drop — share outlook in focus - Livemint",Livemint,2026-10-19,live,negative,0.010926575399935246,0.9426611661911011,0.04641224071383476,-0.9317345907911658
+BEL,2026-10-17,"BEL to invest ₹563 crore in Chitrakoot defence facility, generate 300+ jobs - ET Government",,2026-10-18,legacy,positive,0.7328364849090576,0.009701980277895927,0.2574615180492401,0.7231345046311617
+BEL,2026-10-17,"Hawa Mahal-themed pandal, Shiv Tandav show mark Siliguri Durga Puja celebration - The Economic Times",,2026-10-18,legacy,neutral,0.08661356568336487,0.01934838853776455,0.8940380811691284,0.06726517714560032
+BEL,2026-10-17,Padma Shri sand artist Sudarsan Pattnaik creates 10-foot Maa Durga artwork in Puri - The Economic Times,,2026-10-18,legacy,neutral,0.13597984611988068,0.023280058056116104,0.8407400846481323,0.11269978806376457
+BEL,2026-10-17,"Rajasthan BJP makes local poll gains, Congress fails to contain infighting - The Economic Times",,2026-10-18,legacy,negative,0.17148183286190033,0.7361075282096863,0.09241055697202682,-0.564625695347786
+BEL,2026-10-17,Shreya Bhandari - The Economic Times,,2026-10-18,legacy,neutral,0.06582898646593094,0.037244271486997604,0.896926760673523,0.028584714978933334
+BEL,2026-10-17,Will India Become the Back Office for AI Agents? | Infosys CTO Rafee Tarafda - The Economic Times,,2026-10-18,legacy,neutral,0.036747828125953674,0.021039556711912155,0.9422125816345215,0.01570827141404152
+BEL,2026-10-17,‘He was once my intern’: Jensen Huang’s introduction of Black Forest Labs CEO goes viral - WATCH - The Economic Times,,2026-10-18,legacy,neutral,0.07625140249729156,0.015173256397247314,0.9085753560066223,0.06107814610004425
+BEL,2026-10-18,'Regime Change is forceful and undemocratic': BJP spokesperson Pradeep Bhandari - The Economic Times,,2026-10-18,legacy,neutral,0.07308683544397354,0.05206233263015747,0.874850869178772,0.02102450281381607
+BEL,2026-10-18,China proposes export controls on solar-manufacturing technologies - The Economic Times,,2026-10-18,legacy,neutral,0.12907597422599792,0.015876758843660355,0.8550472855567932,0.11319921538233757
+BEL,2026-10-18,"Kolkata Durga Puja pandal stampede: Death toll rises to 19, CM Suvendu Adhikari forms high-level panel to - The Economic Times",,2026-10-18,legacy,neutral,0.1733761727809906,0.38937053084373474,0.43725332617759705,-0.21599435806274414
+BEL,2026-10-18,What Does Infosys Today Look for When Hiring People? Infosys CTO Rafee Tarafdar - The Economic Times,,2026-10-18,legacy,neutral,0.034082118421792984,0.03952363505959511,0.9263942241668701,-0.005441516637802124
+BEL,2026-10-18,What is holding up the US-India trade deal? - The Economic Times,,2026-10-18,legacy,neutral,0.041444435715675354,0.03599106892943382,0.9225645065307617,0.005453366786241531
+BEL,2026-10-19,"Defence & capital goods stocks: L&T, Cummins, Bharat Electronics among 16 Buys for Motilal Oswal, Thermax a Sell - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.19623857736587524,0.017553802579641342,0.7862076163291931,0.1786847747862339

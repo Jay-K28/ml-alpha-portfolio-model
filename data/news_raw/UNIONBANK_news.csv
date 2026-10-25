@@ -1,101 +1,141 @@
-ticker,date,headline,sentiment_score
-UNIONBANK,2026-04-06,Crude at $70 in 2026? That may remain a distant dream - ET EnergyWorld,-0.8486518859863281
-UNIONBANK,2021-11-18,9 Best Same-Day Personal Loans of 2026 - CNBC,0.7701781392097473
-UNIONBANK,2026-04-02,"OPEC+ likely to weigh further oil output hike on Sunday, sources say - Reuters",-0.47772225737571716
-UNIONBANK,2008-01-22,India Hot Stocks:Union Bank extends gains on strong results - Reuters,0.9018009901046753
-UNIONBANK,2024-02-01,City Union Bank Q3 Result: Net Profit Rises - ET BFSI,0.9067646861076355
-UNIONBANK,2023-10-29,"Page 2 - Union bank of india - Latest union bank of india , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9467421770095825
-UNIONBANK,2020-07-14,"City union bank - Latest city union bank , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9415807723999023
-UNIONBANK,2026-01-19,"Union Bank of India shed ₹40,000 Cr high cost deposits to fix margins structurally: MD Asheesh Pandey - ET BFSI",-0.8272625803947449
-UNIONBANK,2025-10-30,"Union Bank Q2 Results: Profit falls 10% over dip in core income, recoveries from written-off loans - ET BFSI",-0.9718233346939087
-UNIONBANK,2017-03-24,City Union Bank Ltd. - economictimes.indiatimes.com,-0.9400627017021179
-UNIONBANK,2025-08-01,"Union Bank India Share Price Today, Union Bank India Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9401029348373413
-UNIONBANK,2017-04-01,"Union Bank India Cash Flow, Financial Statements - economictimes.indiatimes.com",-0.9198954701423645
-UNIONBANK,2017-03-23,"City Union Bank Share Price Today, City Union Bank Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9394651055335999
-UNIONBANK,2017-03-30,"Union Bank India Target Share Price, Union Bank India Share Price Forecast - economictimes.indiatimes.com",-0.9409223794937134
-UNIONBANK,2025-07-19,"Union Bank of India logs 12 pc rise in net profit to Rs 4,116 cr in Q1 - ET BFSI",0.943128764629364
-UNIONBANK,2017-04-01,Union Bank of India - economictimes.indiatimes.com,-0.9371173977851868
-UNIONBANK,2017-09-01,"Union Bank of India IFSC Code: Find Union Bank IFSC code, MICR code, Branches and Address - economictimes.indiatimes.com",-0.9396734833717346
-UNIONBANK,2020-08-25,Union Bank reports higher number of customers opting for moratorium in second phase - ET BFSI,0.6342794895172119
-UNIONBANK,2025-11-03,Meeting FY26 fiscal targets may be challenging amid weak tax growth: Union Bank of India - ET BFSI,-0.9145233631134033
-UNIONBANK,2014-03-15,UNBK: Union Bank of India Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9440023899078369
-UNIONBANK,2017-08-08,Check out Union Bank of India Ltd's stock price (UNIONBANK-IN) in real time - CNBC,-0.9419162273406982
-UNIONBANK,2026-01-15,"Union Bank of India says FY26 corporate loan growth to touch 10%, ₹45,000 Cr in pipeline - ET BFSI",0.9312499165534973
-UNIONBANK,2022-09-18,"Union Bank Of India Malkajigiri Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9346002340316772
-UNIONBANK,2022-09-19,"Union Bank Of India Hastinapuram Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9365865588188171
-UNIONBANK,2017-11-30,"Union Bank Of India Deoria Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9365903735160828
-UNIONBANK,2017-08-05,Check out City Union Bank Ltd's stock price (CUB-IN) in real time - CNBC,-0.9416239857673645
-UNIONBANK,2022-09-16,"Union Bank Of India Warangal Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9363159537315369
-UNIONBANK,2022-06-14,About Union Bank of India Ltd (UNBK.BO) - Reuters,-0.9376092553138733
-UNIONBANK,2022-09-14,"Union Bank Of India Saidabad Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9368137717247009
-UNIONBANK,2017-10-24,"Union Bank Of India Khetsarai Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9357962608337402
-UNIONBANK,2017-10-17,"Union Bank Of India Maunath Bhanjan Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9353857040405273
-UNIONBANK,2022-09-16,"Union Bank Of India Zonal Office Bhubaneshwar Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.934510350227356
-UNIONBANK,2022-09-18,"Union Bank Of India Regional Office Hubali Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9355249404907227
-UNIONBANK,2017-10-17,"Union Bank Of India Varanasi Main Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.936449408531189
-UNIONBANK,2018-02-14,"Union Bank Of India Asset Recovery Branch Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.936581015586853
-UNIONBANK,2022-09-08,"Union Bank Of India Market Yard Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9369015693664551
-UNIONBANK,2022-09-16,"Union Bank Of India Ro Nizamabad Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9347469806671143
-UNIONBANK,2017-10-16,"Union Bank Of India Indore Branches IFSC Code, MICR Code & Phone Number - economictimes.indiatimes.com",-0.9399908185005188
-UNIONBANK,2022-09-17,"Union Bank Of India Kamareddy Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9344322085380554
-UNIONBANK,2022-09-08,"Union Bank Of India Bangalore White Field Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9381093978881836
-UNIONBANK,2022-09-16,"Union Bank Of India Zonal Office Vijayawada Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9365112781524658
-UNIONBANK,2017-09-01,"City Union Bank Limited IFSC Code : Find City Union Bank Limited IFSC Code, Bank Branches and Address in India - economictimes.indiatimes.com",-0.9415478110313416
-UNIONBANK,2021-01-18,Check out Union Bank of Taiwan's stock price (2838A-TW) in real time - CNBC,-0.9445252418518066
-UNIONBANK,2017-11-01,"Union Bank Of India Mira Road Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9360130429267883
-UNIONBANK,2022-06-06,About City Union Bank Ltd (CTBK.NS) - Reuters,-0.9453455805778503
-UNIONBANK,2022-09-08,"Union Bank Of India Regional Office Chennai South Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9347255825996399
-UNIONBANK,2022-09-18,"Union Bank Of India Sirpur Kagaznagar Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9356578588485718
-UNIONBANK,2022-09-08,"Union Bank Of India Bangalore Raj Mahal Vilas Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9344648718833923
-UNIONBANK,2022-09-16,"Union Bank Of India Rohtak Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9366157650947571
-UNIONBANK,2022-09-19,"Union Bank Of India B N Reddy Nagar Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9332413673400879
-UNIONBANK,2018-02-14,"Union Bank Of India Malappuram Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9370653629302979
-UNIONBANK,2018-02-10,"Union Bank Of India Avarni Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9363975524902344
-UNIONBANK,2017-10-18,"Union Bank Of India Sangola Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9347627758979797
-UNIONBANK,2022-09-08,"Union Bank Of India Nashik Road Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9365531206130981
-UNIONBANK,2017-11-21,"Union Bank Of India Tiruchirapalli Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9362004399299622
-UNIONBANK,2017-10-31,"Union Bank Of India Dombivli West Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9362732768058777
-UNIONBANK,2022-09-08,"Union Bank Of India Sithaphalmandi Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9364041686058044
-UNIONBANK,2017-10-17,"Union Bank Of India Lucknow Main Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9387422204017639
-UNIONBANK,2022-09-08,"Union Bank Of India Zonal Office Hyderabad Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9334108233451843
-UNIONBANK,2017-10-19,"Union Bank Of India Chikhali Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9364772439002991
-UNIONBANK,2017-09-02,"Union Bank Of India Andhra Pradesh Branches IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9375225901603699
-UNIONBANK,2017-10-19,"Union Bank Of India Thane East Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9372577667236328
-UNIONBANK,2022-09-17,"Union Bank Of India Mulug Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9373844265937805
-UNIONBANK,2022-09-16,"Union Bank Of India Rcb Srikakulam Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9344664216041565
-UNIONBANK,2017-12-07,"Union Bank Of India Mauganj Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9359838962554932
-UNIONBANK,2022-09-16,"Union Bank Of India Collectorate Branch Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9355568885803223
-UNIONBANK,2022-09-16,"Union Bank Of India Poonamallee Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9348406791687012
-UNIONBANK,2017-09-04,"Union Bank Of India Katra Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9378318786621094
-UNIONBANK,2026-01-28,We aim to scale our Uttar Pradesh business to ₹3 lakh crore in 3–4 years: Union Bank's Asheesh Pandey - ETGovernment.com,0.7634607553482056
-UNIONBANK,2022-09-17,"Union Bank Of India Badrachalam Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9339485168457031
-UNIONBANK,2022-09-08,"Union Bank Of India New Delhigreater Kailash Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9355564713478088
-UNIONBANK,2022-09-09,"Union Bank Of India Nagpur Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9334682822227478
-UNIONBANK,2022-09-08,"Union Bank Of India Gariahat Kolkata Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9357746839523315
-UNIONBANK,2022-09-19,"Union Bank Of India Chanda Nagar Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9365760087966919
-UNIONBANK,2022-09-08,"Union Bank Of India Bhopal New Market Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9366717338562012
-UNIONBANK,2017-09-04,"Union Bank Of India Siwan Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.936072826385498
-UNIONBANK,2022-09-08,"Union Bank Of India Kanpur Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9368723630905151
-UNIONBANK,2022-09-08,"Union Bank Of India Dharampuri Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9348050951957703
-UNIONBANK,2022-09-18,"Union Bank Of India Ramachandrapuram Hyd Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9367866516113281
-UNIONBANK,2017-10-17,"Union Bank Of India Greater Noida Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.937304675579071
-UNIONBANK,2022-09-08,"Union Bank Of India Jaipur Sanganer Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9367238879203796
-UNIONBANK,2017-09-04,"Union Bank Of India Gaya Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9391742944717407
-UNIONBANK,2017-10-18,"Union Bank Of India Dighee Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.93937748670578
-UNIONBANK,2022-09-08,"Union Bank Of India Coimbatore Main Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9354605674743652
-UNIONBANK,2017-12-11,"Union Bank Of India Guwahati Main Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9351638555526733
-UNIONBANK,2017-12-11,"Union Bank Of India Moradabad Main Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9358417987823486
-UNIONBANK,2022-09-16,"Union Bank Of India Rajarhat Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9361639022827148
-UNIONBANK,2018-01-26,"Union Bank Of India Jangipur Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9359387159347534
-UNIONBANK,2017-10-18,"Union Bank Of India Ratlam Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9360871315002441
-UNIONBANK,2022-09-08,"Union Bank Of India Thanewagle Estate Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9354750514030457
-UNIONBANK,2022-09-08,"Union Bank Of India Sambalpur Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.935451090335846
-UNIONBANK,2022-09-18,"Union Bank Of India Boduppal Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9361585974693298
-UNIONBANK,2017-11-26,"Union Bank Of India Shahkot Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9356974363327026
-UNIONBANK,2022-09-08,"Union Bank Of India Regional Office Amritsar Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9334362745285034
-UNIONBANK,2017-11-21,"Union Bank Of India Morabadi Branch Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9340829849243164
-UNIONBANK,2022-09-08,"Union Bank Of India Maharanipet Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9362668395042419
-UNIONBANK,2017-10-18,"Union Bank Of India Shahad Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9369447827339172
-UNIONBANK,2017-11-06,"Union Bank Of India Uttar Pradesh Branches IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9367570877075195
-UNIONBANK,2017-10-30,"Union Bank Of India Agra Branches IFSC Code, MICR Code & Phone Number - economictimes.indiatimes.com",-0.9427482485771179
-UNIONBANK,2022-09-09,"Union Bank Of India Ghazipur Branch IFSC Code, MICR Code, Address & Phone Number - economictimes.indiatimes.com",-0.9351912140846252
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+UNIONBANK,2020-02-11,Union Bank of India reports strong nos in Q3; key highlights of analyst call - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.4622947871685028,0.03097584843635559,0.5067293643951416,0.4313189387321472
+UNIONBANK,2020-03-05,Board of Andhra Bank approves the share exchange ratio for merger into Union Bank of India - Business Standard,Business Standard,2026-10-19,live,neutral,0.058513715863227844,0.013695714995265007,0.9277905225753784,0.04481800086796284
+UNIONBANK,2020-03-18,Indian Bank approves share swap for Allahabad Bank merger - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.062138013541698456,0.017096897587180138,0.9207650423049927,0.04504111595451832
+UNIONBANK,2020-05-09,Union Bank of India cuts MCLR by up to 15 bps across all tenors - ET Realty,,2026-10-18,legacy,negative,0.02947288006544113,0.9233211278915405,0.04720593988895416,-0.8938482478260994
+UNIONBANK,2020-06-11,"Bank of Baroda, Union Bank of India reduce lending rates - ET Realty",,2026-10-18,legacy,neutral,0.05497291311621666,0.11065646260976791,0.8343706130981445,-0.055683549493551254
+UNIONBANK,2020-06-24,"Union Bank of India reports pre-tax loss of Rs 3,359 crore in Q4 - Business Standard",Business Standard,2026-10-19,live,negative,0.007367701269686222,0.9707584381103516,0.02187397889792919,-0.9633907368406653
+UNIONBANK,2020-07-01,Union Bank of India CMD Rajkiran Rai gets 2-year extension - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.17395037412643433,0.01692117750644684,0.80912846326828,0.1570291966199875
+UNIONBANK,2020-07-10,Union Bank of India reduces MCLR by 20 bps across tenors - ET Realty,,2026-10-18,legacy,negative,0.12627238035202026,0.8484389185905457,0.025288637727499008,-0.7221665382385254
+UNIONBANK,2020-08-25,Union Bank reports higher number of customers opting for moratorium in second phase - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,negative,0.368568480014801,0.5339781641960144,0.09745343029499054,-0.16540968418121338
+UNIONBANK,2020-09-02,REVOLUTION ACCELERATED HOW DIGITAL TRANSFORMATION IS SHAPING THE FUTURE OF BANKING - CNBC,,2026-10-18,legacy,neutral,0.08618594706058502,0.014138767495751381,0.8996752500534058,0.07204717956483364
+UNIONBANK,2020-09-16,"Union bank of india - Latest union bank of india , Information & Updates - Legal -ET LegalWorld - ETLegalWorld.com",,2026-10-18,legacy,neutral,0.027874909341335297,0.02719935216009617,0.9449256658554077,0.0006755571812391281
+UNIONBANK,2020-10-16,Union Bank of India amalgamation depletes its capital buffers - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,negative,0.02017148584127426,0.7781968712806702,0.20163172483444214,-0.7580253854393959
+UNIONBANK,2020-11-04,BharatPe appoints Ex Union Bank Chairman Kewal Handa as Independent Director - ETHRWorld.com,,2026-10-18,legacy,neutral,0.03553032875061035,0.03310847654938698,0.931361198425293,0.0024218522012233734
+UNIONBANK,2020-11-06,Union Bank of India sees net profit jump 55% to Rs 517 crore in Q2 - Business Standard,Business Standard,2026-10-19,live,positive,0.9422644376754761,0.025882547721266747,0.03185305371880531,0.9163818899542093
+UNIONBANK,2021-01-11,"Union Bank Q1 Results: Profit rises 32% YoY to Rs 1,558 crore on loan growth - The Economic Times",,2026-10-18,legacy,positive,0.9357249736785889,0.028958691284060478,0.03531631454825401,0.9067662823945284
+UNIONBANK,2021-01-26,Union Bank completes IT integration of all Andhra Bank branches with itself - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.12021105736494064,0.010201250202953815,0.8695876598358154,0.11000980716198683
+UNIONBANK,2021-03-13,"Nitesh Ranjan, Union Bank of India: Profile and Biography - Bloomberg",Bloomberg,2026-10-19,live,neutral,0.03565941005945206,0.029503369703888893,0.9348371624946594,0.006156040355563164
+UNIONBANK,2021-07-01,Bank of Baroda Ltd - Reuters,,2026-10-18,legacy,neutral,0.030209265649318695,0.026209261268377304,0.9435814619064331,0.004000004380941391
+UNIONBANK,2021-07-14,Union Bank of India accelerates its digital transformation journey - ET CIO,,2026-10-18,legacy,positive,0.743006706237793,0.008279657922685146,0.2487136572599411,0.7347270483151078
+UNIONBANK,2021-07-14,"Union Bank of India rolls out digital vertical at BKC, Mumbai - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.030096251517534256,0.023730861023068428,0.9461728930473328,0.006365390494465828
+UNIONBANK,2021-07-29,"Union Bank of India Q1 results: Profit jumps 255% to Rs 1,181 crore despite elevated provisions - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9172601103782654,0.043137967586517334,0.03960191458463669,0.874122142791748
+UNIONBANK,2021-07-29,"Union Bank of India restructures loans worth Rs 15,927 crore under two recast schemes, majority in retail - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.10744111239910126,0.036769356578588486,0.8557895421981812,0.07067175582051277
+UNIONBANK,2021-08-03,IOB asks Union Bank to buy its stake in Malaysian bank - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.06938108801841736,0.011528459377586842,0.9190903902053833,0.05785262864083052
+UNIONBANK,2021-08-12,Union Bank hiring young engineers; average age of employees is 38 - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.02680518478155136,0.2296019196510315,0.7435928583145142,-0.20279673486948013
+UNIONBANK,2021-09-17,Mitsubishi UFJ Is Said to Consider Sale of U.S. Banking Unit - Bloomberg.com,,2026-10-18,legacy,neutral,0.04098805785179138,0.01846335083246231,0.9405485987663269,0.02252470701932907
+UNIONBANK,2021-09-29,Union Bank of India Ltd - Reuters,,2026-10-18,legacy,neutral,0.028241556137800217,0.0355018675327301,0.9362565875053406,-0.007260311394929886
+UNIONBANK,2021-10-22,Rajneesh Karnatak takes over as Union Bank of India Executive Director - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.031011663377285004,0.026776323094964027,0.9422120451927185,0.004235340282320976
+UNIONBANK,2021-10-27,Union Bank of India cuts home loan rates to 6.40% - ET Realty,,2026-10-18,legacy,negative,0.12274141609668732,0.6470538973808289,0.23020465672016144,-0.5243124812841415
+UNIONBANK,2021-11-24,"Union Bank of India, Capri Global Capital tie up for co-lending to MSMEs - Business Standard",Business Standard,2026-10-19,live,neutral,0.13060903549194336,0.007316231727600098,0.8620747327804565,0.12329280376434326
+UNIONBANK,2021-11-30,Citi Said to Pick Union Bank as Preferred Bidder for Philippines - Bloomberg.com,,2026-10-18,legacy,neutral,0.11610815674066544,0.008913103491067886,0.8749787211418152,0.10719505324959755
+UNIONBANK,2021-12-17,"HomeFirst, Union Bank of India enter co-lending partnership to offer home loans - Livemint",Livemint,2026-10-19,live,positive,0.8022609949111938,0.007344337645918131,0.19039463996887207,0.7949166572652757
+UNIONBANK,2021-12-23,Citigroup sells consumer bank in Philippines to Unionbank - Reuters,,2026-10-18,legacy,neutral,0.06553968787193298,0.012445453554391861,0.9220148324966431,0.05309423431754112
+UNIONBANK,2022-01-02,"Asheesh Pandey, Union Bank of India: Profile and Biography - Bloomberg.com",Bloomberg.com,2026-10-19,live,neutral,0.028434541076421738,0.028986984863877296,0.9425784349441528,-0.0005524437874555588
+UNIONBANK,2022-02-02,Nidhu Saxena takes charge as ED of Union Bank - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.02213420532643795,0.03090226650238037,0.9469634890556335,-0.008768061175942421
+UNIONBANK,2022-02-07,"Union Bank of India's Q3 net profit jumps 49% to Rs 1,085 crore - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.908493161201477,0.029944228008389473,0.06156264990568161,0.8785489331930876
+UNIONBANK,2022-02-12,Bank of Baroda to buy 21% stake of Union Bank of India in IndiaFirst Life - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.07554355263710022,0.012252344749867916,0.9122040867805481,0.0632912078872323
+UNIONBANK,2022-04-07,Union Bank of India to sell its 8 pc stake in ISARC to Dhansamridhi Finance - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.0401480533182621,0.016367178410291672,0.9434847831726074,0.02378087490797043
+UNIONBANK,2022-05-10,Union Bank of India becomes first public sector bank to join the Account Aggregator Ecosystem - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.06887440383434296,0.012450740672647953,0.918674886226654,0.056423663161695004
+UNIONBANK,2022-05-11,Union Bank of India becomes the first Public Sector Bank to join the Account Aggregator Ecosystem - Business Standard,Business Standard,2026-10-19,live,neutral,0.14843584597110748,0.00848657451570034,0.8430776000022888,0.13994927145540714
+UNIONBANK,2022-05-27,"Union Bank of India gets board approval to raise up to Rs 8,100 cr - bfsi.economictimes.indiatimes.com",bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.3102915585041046,0.012667635455727577,0.6770407557487488,0.29762392304837704
+UNIONBANK,2022-06-03,A Manimekhalai assumes charge as MD and CEO of Union Bank of India - ETHRWorld.com,,2026-10-18,legacy,neutral,0.02984301932156086,0.019419219344854355,0.950737714767456,0.010423799976706505
+UNIONBANK,2022-06-03,"Who is A Manimekhalai, Union Bank of India's new CEO? - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03182371333241463,0.026649892330169678,0.9415263533592224,0.005173821002244949
+UNIONBANK,2022-06-04,Centre names A. Manimekhalai as next Union Bank MD - ET Government,ET Government,2026-10-19,live,neutral,0.04331468045711517,0.015647221356630325,0.9410380721092224,0.027667459100484848
+UNIONBANK,2022-06-06,About City Union Bank Ltd (CTBK.NS) - Reuters,,2026-10-18,legacy,neutral,0.028783613815903664,0.02587081305682659,0.9453455805778503,0.002912800759077072
+UNIONBANK,2022-07-08,"In a first, Union Bank of India launches virtual banking lounge on Metaverse - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.05809863656759262,0.012996364384889603,0.9289049506187439,0.04510227218270302
+UNIONBANK,2022-07-26,"Union Bank of India Q1 net profit up 32% at Rs 1,558 crore on higher NII, lower bad loans - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9477308988571167,0.025670494884252548,0.026598617434501648,0.9220604039728642
+UNIONBANK,2022-07-27,Union Bank plans automated solution for resolution of stressed assets - ET CIO,,2026-10-18,legacy,neutral,0.10821393132209778,0.00950163509696722,0.8822844624519348,0.09871229622513056
+UNIONBANK,2022-07-27,Union Bank plans automated solution for resolution of stressed assets - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.07464500516653061,0.012437043711543083,0.912917971611023,0.062207961454987526
+UNIONBANK,2022-08-01,"Union Bank of India launches male employees focused committee, as a part of its HR initiative - ETHRWorld.com",,2026-10-18,legacy,neutral,0.06533069163560867,0.015195449814200401,0.9194738268852234,0.05013524182140827
+UNIONBANK,2022-08-22,"Union Bank of India and JCB to pool resources, signs MoU - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.0435439832508564,0.01563997194170952,0.9408159852027893,0.02790401130914688
+UNIONBANK,2022-08-23,Union Bank of India bullish on cloud; CTO decodes cloud strategy - ET CIO,,2026-10-18,legacy,neutral,0.15388135612010956,0.023065533488988876,0.8230530619621277,0.13081582263112068
+UNIONBANK,2022-08-27,RBI makes public inspection report of City Union Bank under RTI Act - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.02026388607919216,0.054735831916332245,0.9250002503395081,-0.03447194583714008
+UNIONBANK,2022-09-20,"Union Bank, Federal Bank start offering Kisan Credit Card in digital manner - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.0599493607878685,0.011657689698040485,0.9283929467201233,0.048291671089828014
+UNIONBANK,2022-10-03,"Union Bank of India bets on festival season, offers low rates and zero processing charges - bfsi.economictimes.indiatimes.com",bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.051987841725349426,0.017177971079945564,0.930834174156189,0.03480987064540386
+UNIONBANK,2022-10-03,Union Bank of India launches Union Learning Academies - ETHRWorld.com,,2026-10-18,legacy,neutral,0.038302093744277954,0.020574701949954033,0.9411232471466064,0.01772739179432392
+UNIONBANK,2022-11-09,Union Bank of India appoints Rajnish Khare as Chief Digital Officer - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.03268730640411377,0.04007099196314812,0.9272416830062866,-0.0073836855590343475
+UNIONBANK,2022-11-10,Rajnish Khare joins Union Bank of India as Chief Digital Officer - ET CIO,,2026-10-18,legacy,neutral,0.04745704308152199,0.016880840063095093,0.9356621503829956,0.030576203018426895
+UNIONBANK,2022-11-23,Shri Ramasubramanian S appointed as Union Bank of India's Executive Director - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.044543374329805374,0.017447205260396004,0.9380094408988953,0.02709616906940937
+UNIONBANK,2023-01-20,Union Bank of India Q3 results: Top three takeaways - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.04350412264466286,0.02864859625697136,0.9278472661972046,0.014855526387691498
+UNIONBANK,2023-01-31,Adani’s battle with Hindenburg leaves investors sizing up exposure to the global banking sector - CNBC,,2026-10-18,legacy,neutral,0.11319466680288315,0.027574758976697922,0.8592305779457092,0.08561990782618523
+UNIONBANK,2023-03-15,Stablecoin Operator Moves $1 Billion in Reserves to Bahamas - Bloomberg.com,,2026-10-18,legacy,neutral,0.0747222900390625,0.014905720017850399,0.9103719592094421,0.0598165700212121
+UNIONBANK,2023-04-22,Union Bank of India simplifies Form 15G & H submission - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.03571876883506775,0.02518884465098381,0.9390923976898193,0.010529924184083939
+UNIONBANK,2023-05-06,Union Bank of India reports 93% rise in Q4 net profit - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9150514602661133,0.020836781710386276,0.06411178410053253,0.894214678555727
+UNIONBANK,2023-07-20,"Union Bank of India’s Q1 standalone PAT doubles to Rs 3,236 crore - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.21165868639945984,0.03762694448232651,0.7507143020629883,0.17403174191713333
+UNIONBANK,2023-08-02,Mitsubishi UFJ to invest $936 million in U.S. Bancorp - Reuters,,2026-10-18,legacy,neutral,0.06568199396133423,0.013597430661320686,0.9207205772399902,0.05208456330001354
+UNIONBANK,2023-08-02,U.S. Bancorp to Sell Shares to MUFG After Union Bank Acquisition - Bloomberg.com,,2026-10-18,legacy,neutral,0.026002023369073868,0.029196787625551224,0.9448011517524719,-0.003194764256477356
+UNIONBANK,2023-08-21,"Union Bank of India announces a 100% waiver of processing charges for home, and auto loans for these custome.. - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.2455904483795166,0.020400162786245346,0.7340093851089478,0.22519028559327126
+UNIONBANK,2023-08-22,"Union Bank on India to raise up to Rs 5,000 crore through QIP - bfsi.economictimes.indiatimes.com",bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.43974363803863525,0.01175709068775177,0.5484992861747742,0.4279865473508835
+UNIONBANK,2023-09-08,Union Bank of India launches Rupay debit cards for Women and HNIs - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.06432344019412994,0.016638142988085747,0.9190384745597839,0.0476852972060442
+UNIONBANK,2023-09-18,Govt extends Nitesh Ranjan’s term as ED of Union Bank of India - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.10093484818935394,0.02162308059632778,0.8774421215057373,0.07931176759302616
+UNIONBANK,2023-10-13,"RBI imposes monetary penalty on Union Bank of India, RBL Bank for non-compliance - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,negative,0.020834075286984444,0.5522376298904419,0.42692831158638,-0.5314035546034575
+UNIONBANK,2023-11-20,Union Bank of India appoints Avinash Vasant Prabhu as CFO on a 3-year term - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03125917166471481,0.024403251707553864,0.9443375468254089,0.00685591995716095
+UNIONBANK,2023-12-17,"Indian lawmakers to hold discussions with select banks, insurance companies - govt document - Reuters",,2026-10-18,legacy,neutral,0.054873306304216385,0.014905587770044804,0.9302210807800293,0.03996771853417158
+UNIONBANK,2024-01-02,"Page 2 - Union bank - Latest union bank , Information & Updates - BFSI -ET BFSI - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.025724852457642555,0.030336568132042885,0.9439385533332825,-0.00461171567440033
+UNIONBANK,2024-01-08,Union Bank of India Q3 advances grow 11.44% YoY to Rs 8.96 lakh crore; stock rises 1.5% - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9044943451881409,0.020678259432315826,0.07482732087373734,0.883816085755825
+UNIONBANK,2024-01-20,"Union Bank of India Q3 Results: Net profit surges 60% to Rs 3,590 crore - bfsi.economictimes.indiatimes.com",bfsi.economictimes.indiatimes.com,2026-10-19,live,positive,0.9013630151748657,0.03323543071746826,0.06540161371231079,0.8681275844573975
+UNIONBANK,2024-01-20,"Union Bank of India Q3 results: PAT rises 60% to Rs 3,589.91 cr - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9013933539390564,0.0297599695622921,0.06884671747684479,0.8716333843767643
+UNIONBANK,2024-01-20,Union Bank of India makes Rs 12.17 crore provision on AIF investment - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.04206665977835655,0.03262186050415039,0.9253114461898804,0.009444799274206161
+UNIONBANK,2024-02-01,City Union Bank Q3 Result: Net Profit Rises - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.4277667701244354,0.1258316934108734,0.44640153646469116,0.301935076713562
+UNIONBANK,2024-02-20,"Union Bank of India announces Rs 3,000-cr QIP at floor price of Rs 142.78 per share - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.06165838986635208,0.02104160562157631,0.9173000454902649,0.04061678424477577
+UNIONBANK,2024-02-27,Union Bank of India and Maruti Suzuki sign MoU for inventory funding solutions - ET Auto,,2026-10-18,legacy,positive,0.7066242098808289,0.012466169893741608,0.28090959787368774,0.6941580399870872
+UNIONBANK,2024-03-21,"Banks should pass reasoned orders while declaring entity/person wilful defaulter, says Bombay HC - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.025995692238211632,0.06288708746433258,0.9111171960830688,-0.03689139522612095
+UNIONBANK,2024-03-24,Union Bank of India announces resignation of its CDO Rajnish Khare - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,negative,0.0149215804412961,0.7337280511856079,0.25135040283203125,-0.7188064707443118
+UNIONBANK,2024-04-03,Union Bank of India raises $500 million from overseas market - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.5550564527511597,0.015322807244956493,0.4296206831932068,0.5397336455062032
+UNIONBANK,2024-05-11,Union Bank of India Q4 net profit rises 18 pc on lower provisions - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,positive,0.8928719758987427,0.03796754404902458,0.06916049122810364,0.8549044318497181
+UNIONBANK,2024-05-29,Union Bank of India modernises risk management with SAS - Business Standard,Business Standard,2026-10-19,live,neutral,0.12414569407701492,0.010302294977009296,0.8655520081520081,0.11384339910000563
+UNIONBANK,2024-06-12,"Union Bank of India gains after board approves Rs 10,000 crore fundraise plans - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.568501889705658,0.050867170095443726,0.3806309401988983,0.5176347196102142
+UNIONBANK,2024-07-19,Union Bank Q1 results: Net profit up 13.7% on healthy growth in fee income - Business Standard,Business Standard,2026-10-19,live,positive,0.9564582109451294,0.021230334416031837,0.02231157384812832,0.9352278765290976
+UNIONBANK,2024-07-24,Union Bank of India's NPA ratios hit over a decade low in Q1 - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.023683592677116394,0.9359894394874573,0.04032697528600693,-0.9123058468103409
+UNIONBANK,2024-08-07,PSU banks report over threefold increase in compensation for fraud cases to Rs 140 crore - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,positive,0.8911726474761963,0.03043092042207718,0.07839641720056534,0.8607417270541191
+UNIONBANK,2024-08-12,"RBI penalises CSB Bank, Union Bank of India, others - ETLegalWorld.com",,2026-10-18,legacy,negative,0.019294869154691696,0.6249675154685974,0.3557376265525818,-0.6056726463139057
+UNIONBANK,2024-09-10,Union Bank of India becomes first major Indian Bank to sign PCAF - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.10594617575407028,0.012529265135526657,0.8815245628356934,0.09341691061854362
+UNIONBANK,2024-10-15,Union Bank of India and Zoho Mark Digital Transformation Success with Leadership Meet - ET CIO,,2026-10-18,legacy,positive,0.9016684889793396,0.010882499627768993,0.08744890242815018,0.8907859893515706
+UNIONBANK,2024-10-23,FIU fines Union Bank with Rs 54 Lac for PMLA violations - ETLegalWorld.com,,2026-10-18,legacy,negative,0.01699286885559559,0.9373459815979004,0.045661091804504395,-0.9203531127423048
+UNIONBANK,2024-10-23,FIU fines Union Bank with Rs 54 Lac for PMLA violations - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,negative,0.020555173978209496,0.8945444822311401,0.08490023761987686,-0.8739893082529306
+UNIONBANK,2025-04-16,Anil Kuril steps into new role as CISO and Head of Data Protection Office at Union Bank - ET CISO,,2026-10-18,legacy,neutral,0.08200693875551224,0.013674319721758366,0.9043187499046326,0.06833261903375387
+UNIONBANK,2025-05-17,RBI imposes over Rs 1.66 lakh penalty on Union Bank of India - ETLegalWorld.com,,2026-10-18,legacy,negative,0.02010180801153183,0.8344826698303223,0.14541548490524292,-0.8143808618187904
+UNIONBANK,2025-05-20,"Amid drop in domestic yield and surplus liquidity, RBI may change its liquidity management approach: Report - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.028015904128551483,0.384995698928833,0.5869883298873901,-0.3569797948002815
+UNIONBANK,2025-07-17,"Kabir Bhattacharya, Union Bank of India: Profile and Biography - Bloomberg.com",Bloomberg.com,2026-10-19,live,neutral,0.026572508737444878,0.033223412930965424,0.9402040839195251,-0.006650904193520546
+UNIONBANK,2025-07-17,"Ravindra Babu M, Union Bank of India: Profile and Biography - Bloomberg.com",Bloomberg.com,2026-10-19,live,neutral,0.02711567096412182,0.028809458017349243,0.944074809551239,-0.0016937870532274246
+UNIONBANK,2025-07-19,"Union Bank of India logs 12 pc rise in net profit to Rs 4,116 cr in Q1 - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,positive,0.813040554523468,0.027076536789536476,0.15988287329673767,0.7859640177339315
+UNIONBANK,2025-10-30,"Union Bank Q2 Results: Profit falls 10% over dip in core income, recoveries from written-off loans - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,negative,0.0083770751953125,0.9671898484230042,0.02443297579884529,-0.9588127732276917
+UNIONBANK,2025-11-06,"City Union Bank sees steady growth, manageable ECL impact; set for gradual re-rating - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,positive,0.756905198097229,0.014010647311806679,0.2290840893983841,0.7428945507854223
+UNIONBANK,2026-01-15,Daily Newsletter - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.02187231369316578,0.04203614592552185,0.9360914826393127,-0.02016383223235607
+UNIONBANK,2026-01-15,"Union Bank of India says FY26 corporate loan growth to touch 10%, ₹45,000 Cr in pipeline - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,positive,0.676260232925415,0.014226041734218597,0.3095136284828186,0.6620341911911964
+UNIONBANK,2026-01-19,"Union Bank of India shed ₹40,000 Cr high cost deposits to fix margins structurally: MD Asheesh Pandey - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,negative,0.039217766374349594,0.7964953184127808,0.16428691148757935,-0.7572775520384312
+UNIONBANK,2026-01-29,We aim to scale our Uttar Pradesh business to ₹3 lakh crore in 3–4 years: Union Bank's Asheesh Pandey - ET Government,,2026-10-18,legacy,positive,0.8585569262504578,0.009438670240342617,0.13200441002845764,0.8491182560101151
+UNIONBANK,2026-02-10,All 12 PSU Banks post highest ever quarterly net profit in Q3 FY26 - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.3421114385128021,0.02995043806731701,0.6279381513595581,0.3121610004454851
+UNIONBANK,2026-03-27,"RBI imposes monetary penalty on 3 govt banks, Pine Labs for non-compliance with directions - ETLegalWorld.com",,2026-10-18,legacy,negative,0.012871092185378075,0.9163768291473389,0.0707520842552185,-0.9035057369619608
+UNIONBANK,2026-04-23,Union Bank of India - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.026137815788388252,0.028357194736599922,0.9455049633979797,-0.00221937894821167
+UNIONBANK,2026-04-23,"Union Bank sheds around Rs 75,000 crore bulk deposits in FY26, Rs 30,000 crore in Q4: MD Asheesh Pandey - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,negative,0.022686874493956566,0.6564515233039856,0.3208616375923157,-0.633764648810029
+UNIONBANK,2026-04-28,Indian shares fall as banks drag; oil tops $110 - Reuters,,2026-10-18,legacy,negative,0.011154177598655224,0.9472858309745789,0.041559960693120956,-0.9361316533759236
+UNIONBANK,2026-05-22,"RBI slaps Rs 10.10 lakh penalty on City Union Bank, 2 more entities - ETLegalWorld.com",,2026-10-18,legacy,negative,0.013569528236985207,0.9081598520278931,0.07827059179544449,-0.8945903237909079
+UNIONBANK,2026-05-26,"Union Bank to raise Rs 8,000 cr through debt, equity mix - ETLegalWorld.com",,2026-10-18,legacy,neutral,0.09141870588064194,0.010679814033210278,0.8979015350341797,0.08073889184743166
+UNIONBANK,2026-05-26,"Union Bank to raise Rs 8,000 cr through debt, equity mix - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.11997847259044647,0.010975410230457783,0.869046151638031,0.10900306235998869
+UNIONBANK,2026-07-14,Union Bank of India Selects Leegality's Consentin Platform for DPDP Compliance - Economic Times BFSI,,2026-10-18,legacy,neutral,0.11321166157722473,0.01128906849771738,0.8754991888999939,0.10192259307950735
+UNIONBANK,2026-07-15,"Union Bank Q1 Results: Profit rises over 27% to Rs 5,641 crore - ET BFSI",,2026-10-18,legacy,positive,0.9484971165657043,0.026266884058713913,0.025236036628484726,0.9222302325069904
+UNIONBANK,2026-07-15,"Union Bank pares bulk deposits by nearly Rs 25,000 crore in Q1, targets sub 15% share of total deposits: MD .. - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.1327129453420639,0.01424316130578518,0.8530438542366028,0.11846978403627872
+UNIONBANK,2026-07-17,"Union Bank targets faster loan growth, higher margins as deposit costs ease - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,positive,0.6299678087234497,0.011830816976726055,0.35820138454437256,0.6181369917467237
+UNIONBANK,2026-07-30,City Union Bank banks on secured lending to outpace industry growth - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.17099449038505554,0.018337972462177277,0.8106675744056702,0.15265651792287827
+UNIONBANK,2026-08-23,"India's Federal Bank latest lender to tap dollar debt market via GIFT City, bankers say - Reuters",Reuters,2026-10-19,live,neutral,0.4186742305755615,0.012443095445632935,0.5688827037811279,0.4062311351299286
+UNIONBANK,2026-08-25,Union Bank of India taps dollar debt market after 12-year hiatus - Reuters,,2026-10-18,legacy,neutral,0.10295478999614716,0.08208069205284119,0.8149645924568176,0.02087409794330597
+UNIONBANK,2026-09-01,"Chandra's dissenting lenders Canara Bank, Union Bank move NCLAT against NCLT order - ETLegalWorld.com",,2026-10-18,legacy,neutral,0.026173042133450508,0.1705353558063507,0.8032916188240051,-0.1443623136729002
+UNIONBANK,2026-09-09,RBI may not need immediate CRR hike as liquidity surplus likely to moderate: UBI Report - cfo.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.09041458368301392,0.03442000225186348,0.8751653432846069,0.055994581431150436
+UNIONBANK,2026-09-10,Mastercard and City Union Bank Unveil India's First 'One Credential' Experience for Consumers and SMEs - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,positive,0.5426717400550842,0.010406922549009323,0.44692131876945496,0.5322648175060749
+UNIONBANK,2026-09-10,"Union Bank's maiden dollar bond draws 7.8x subscription, listed at GIFT City - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.04393071308732033,0.015060128644108772,0.9410091042518616,0.028870584443211555
+UNIONBANK,2026-09-28,SBI retains 25% debit card market share in Aug’26; HDFC Bank continues to lead credit cards - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.1450883448123932,0.009040983393788338,0.8458706736564636,0.13604736141860485
+UNIONBANK,2026-10-07,"Investec names Paytm its 'Quarterly Alpha' pick, expects 28% jump in Q2 net revenue growth - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,positive,0.9124072790145874,0.014217383228242397,0.07337522506713867,0.898189895786345
+UNIONBANK,2026-10-13,"Ashok Leyland, Union Bank partner to offer vehicle financing solutions - ET Auto",ET Auto,2026-10-19,live,neutral,0.44574031233787537,0.007732087280601263,0.5465275645256042,0.4380082250572741
+UNIONBANK,2026-10-15,"RBI may announce unscheduled rate hike amid inflation, rupee pressures: Union Bank report - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.05553940683603287,0.13252519071102142,0.8119354248046875,-0.07698578387498856
+UNIONBANK,2026-10-15,The 9 best same-day personal loans of October 2026 - CNBC,,2026-10-18,legacy,neutral,0.11961698532104492,0.021679850295186043,0.8587031960487366,0.09793713502585888
+UNIONBANK,2026-10-16,FD rates by major banks: Know where you can earn up to 8.25% interest - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.05354027822613716,0.018889551982283592,0.9275701642036438,0.03465072624385357
+UNIONBANK,2026-10-16,Reliance's newest listing arrives in a market very different from its first IPO in 1977 - cfo.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.06969581544399261,0.018455447629094124,0.9118487238883972,0.05124036781489849
+UNIONBANK,2026-10-16,Union Bank of India - The Economic Times,,2026-10-18,legacy,neutral,0.04847101867198944,0.03911440074443817,0.91241455078125,0.00935661792755127
+UNIONBANK,2026-10-18,"Earnings, crude oil, Jio Platforms IPO key monitorables for investors next week - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.026783844456076622,0.034702032804489136,0.9385141134262085,-0.007918188348412514
+UNIONBANK,2026-10-18,"Q2 results 2026 today Oct 19 Monday: Hindustan Zinc, IREDA, L&T Tech, Union Bank among 35 firms to announce earnings - Livemint",Livemint,2026-10-19,live,neutral,0.22557619214057922,0.014001178555190563,0.7604225873947144,0.21157501358538866
+UNIONBANK,2026-10-19,"Nifty PSU Bank index surges 3%; PNB, PSB, Canara, Union Bank soar up to 8% - Business Standard",Business Standard,2026-10-19,live,positive,0.9393117427825928,0.022900288924574852,0.037787944078445435,0.9164114538580179
+UNIONBANK,2026-10-19,"Q2 results today: UltraTech Cement, Hindustan Zinc, and 33 more on Oct 19 - Business Standard",Business Standard,2026-10-19,live,neutral,0.10180200636386871,0.018423261120915413,0.8797747492790222,0.0833787452429533
+UNIONBANK,2026-10-19,"Stocks to Watch Today: ICICI Bank, HDFC Bank, Axis Bank, GPT Infra, RailTel, ACME Solar, Yes Bank, Urban... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03557887300848961,0.019819283857941628,0.9446017742156982,0.01575958915054798
+UNIONBANK,2026-10-19,"Stocks to watch: HDFC Bank, ICICI Bank, Bajaj Fin, DLF, OMCs, NTPC & more - Business Standard",Business Standard,2026-10-19,live,neutral,0.03693241998553276,0.018702024593949318,0.9443656206130981,0.018230395391583443

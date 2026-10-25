@@ -1,101 +1,139 @@
-ticker,date,headline,sentiment_score
-SOLARINDS,2026-03-31,Axios Software Tool Used by Millions Compromised in Hack - bloomberg.com,-0.9309418201446533
-SOLARINDS,2017-03-24,"Solar Ind. Share Price Today, Solar Ind. Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9447462558746338
-SOLARINDS,2017-08-06,Check out Solar Industries India Ltd's stock price (SOLARINDS-IN) in real time - CNBC,-0.946972668170929
-SOLARINDS,2017-03-29,Solar Industries India Ltd. - economictimes.indiatimes.com,-0.9413354396820068
-SOLARINDS,2020-12-16,SolarWinds hack has shaved 23% from software company's stock this week - CNBC,-0.5023217797279358
-SOLARINDS,2020-12-17,Microsoft was swept up in SolarWinds hack - CNBC,-0.7931590676307678
-SOLARINDS,2021-04-13,SolarWinds says dealing with hack fallout cost at least $18 million - Reuters,-0.905606746673584
-SOLARINDS,2023-10-31,"SEC sues SolarWinds over massive cyberattack, alleging fraud and weak controls - CNBC",-0.8372513651847839
-SOLARINDS,2021-10-11,SOLARWINDS INDIA PRIVATE LIMITED - economictimes.indiatimes.com,-0.9426895976066589
-SOLARINDS,2025-02-07,Turn/River Capital to take SolarWinds private in $4.4 billion deal - Reuters,-0.9334603548049927
-SOLARINDS,2021-04-15,White House blames Russian spy agency SVR for SolarWinds hack: statement - Reuters,-0.5848129391670227
-SOLARINDS,2021-02-14,SolarWinds hack was 'largest and most sophisticated attack' ever: Microsoft president - Reuters,-0.9084969758987427
-SOLARINDS,2025-07-02,"US SEC, SolarWinds reach preliminary deal to end breach lawsuit - Reuters",-0.6780452132225037
-SOLARINDS,2025-11-20,"US SEC dismisses case against SolarWinds, top security officer - Reuters",-0.5338620543479919
-SOLARINDS,2018-09-14,SOLARSON INDUSTRIES LIMITED - economictimes.indiatimes.com,-0.9443477392196655
-SOLARINDS,2024-07-18,SolarWinds beats most of US SEC lawsuit over Russia-linked cyberattack - Reuters,-0.6232677698135376
-SOLARINDS,2021-09-10,Exclusive: Wide-ranging SolarWinds probe sparks fear in Corporate America - Reuters,-0.9014273285865784
-SOLARINDS,2015-10-21,SolarWinds to be taken private in $4.5 billion deal - CNBC,-0.9355133771896362
-SOLARINDS,2021-01-05,U.S. feds say Russians likely behind SolarWinds hack that breached government networks - CNBC,-0.5667698383331299
-SOLARINDS,2023-12-13,US officials say Russian targeting JetBrains servers for potential SolarWinds-style operations - Reuters,-0.9099536538124084
-SOLARINDS,2021-05-07,SolarWinds Believes Russian Group Took Data During Cyber-Attack - bloomberg.com,-0.8484792709350586
-SOLARINDS,2021-06-21,SolarWinds Corp - Reuters,-0.9431449174880981
-SOLARINDS,2021-01-26,How the massive SolarWinds hack went down - CNBC,-0.8481264114379883
-SOLARINDS,2023-11-01,"The SolarWinds Hack Could Have Been Prevented, SEC Lawsuit Finds - bloomberg.com",-0.8783581256866455
-SOLARINDS,2023-11-21,SolarWinds and the SEC lawsuit - Reuters,-0.8453145027160645
-SOLARINDS,2021-10-08,"Hackers of SolarWinds stole data on U.S. sanctions policy, intelligence probes - Reuters",-0.5121817588806152
-SOLARINDS,2025-01-31,Once-Secret Treasury Memos Detail Agency Response to SolarWinds Hack - bloomberg.com,-0.90256667137146
-SOLARINDS,2021-01-08,"SolarWinds Taps Chris Krebs, Alex Stamos to Help Investigate Russia Hack - bloomberg.com",-0.9341158866882324
-SOLARINDS,2023-10-27,"Silver Lake, Thoma Bravo-Backed SolarWinds Is Weighing Potential Sale - bloomberg.com",-0.9406723976135254
-SOLARINDS,2025-02-07,Turn/River Agrees to Buy SolarWinds Years After Cyber-Attack - bloomberg.com,-0.8858445882797241
-SOLARINDS,2022-11-03,U.S. SEC considering action against SolarWinds over cyber disclosures - Reuters,-0.5237042903900146
-SOLARINDS,2020-12-18,Suspected Russian hack is much worse than first feared: Here's what you need to know - CNBC,-0.5105132460594177
-SOLARINDS,2025-10-20,Cyber defenders sound the alarm as F5 hack exposes broad risks - Reuters,-0.7041340470314026
-SOLARINDS,2025-11-20,SEC to Drop Controversial SolarWinds Cyberattack Lawsuit - bloomberg.com,-0.6164647340774536
-SOLARINDS,2023-05-15,SUNBURST cyberattack: SolarWinds CEO discusses key learnings in Exclusive Interview - ET CIO,-0.9280474781990051
-SOLARINDS,2020-12-20,America Isn’t Finished Paying for Trump’s Incompetence - bloomberg.com,-0.6565695405006409
-SOLARINDS,2022-06-22,"Mangalam Worldwide Share Price Today, Mangalam Worldwide Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9409262537956238
-SOLARINDS,2021-01-05,Critical Infrastructure Left in the Dark About SolarWinds Hack - bloomberg.com,-0.8163456320762634
-SOLARINDS,2023-07-10,SolarWinds forum selection clause kills shareholders’ derivative suit - Reuters,-0.6296589970588684
-SOLARINDS,2025-08-08,Latest US Court System Hack Is a Throwback to 2020 SolarWinds - bloomberg.com,-0.8987592458724976
-SOLARINDS,2020-12-18,"SolarWinds hackers broke into U.S. cable firm and Arizona county, web records show - Reuters",-0.7256262302398682
-SOLARINDS,2020-12-18,Cisco Latest Victim of Russian Cyber-Attack Using SolarWinds - bloomberg.com,-0.8094341158866882
-SOLARINDS,2020-12-24,Relentless Hacking Is Turning All of Us Into Data Nihilists - bloomberg.com,-0.7565582990646362
-SOLARINDS,2014-03-24,SOIL: Solar Industries India Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.945941686630249
-SOLARINDS,2021-05-28,"Russian hackers launch major cyberattack through U.S. aid agency’s email system, Microsoft says - CNBC",-0.6967560052871704
-SOLARINDS,2023-10-31,Bad Passwords Are Securities Fraud - bloomberg.com,-0.812009334564209
-SOLARINDS,2024-10-25,SEC Penalties Over Hack Disclosure is Latest SolarWinds Fallout - bloomberg.com,-0.5587788820266724
-SOLARINDS,2022-06-23,About Solar Industries India Ltd (SLIN.BO) - Reuters,-0.9441725611686707
-SOLARINDS,2021-01-08,"Stocks making the biggest moves in the premarket: Tesla, Micron Technology, Sarepta Therapeutics & more - CNBC",-0.9120824933052063
-SOLARINDS,2020-12-14,U.S. Agencies Exposed in Attack by Suspected Russian Hackers - bloomberg.com,-0.7891215085983276
-SOLARINDS,2021-06-21,SEC Investigating Companies’ Handling of SolarWinds Attack - bloomberg.com,-0.8555259108543396
-SOLARINDS,2015-10-21,"Silver Lake, Thoma Bravo to take SolarWinds private in $4.5 billion deal - Reuters",-0.9143742322921753
-SOLARINDS,2020-12-15,Hackers Used Obscure Texas IT Vendor to Attack U.S. Agencies - bloomberg.com,-0.8896210789680481
-SOLARINDS,2021-05-12,Biden signs executive order to strengthen U.S. cybersecurity defenses after Colonial Pipeline hack - CNBC,-0.6959735155105591
-SOLARINDS,2021-02-03,Exclusive: Suspected Chinese hackers used SolarWinds bug to spy on U.S. payroll agency – sources - Reuters,-0.8384513854980469
-SOLARINDS,2021-01-26,Microsoft reports 17% revenue growth as cloud business accelerates - CNBC,0.8579946756362915
-SOLARINDS,2012-10-25,SolarWinds up 5.9 percent in premarket trading - Reuters,0.782563328742981
-SOLARINDS,2020-12-24,'Shark Tank' host Robert Herjavec on the SolarWinds cyber hack - CNBC,-0.9323306679725647
-SOLARINDS,2020-12-17,"Russian hack against the U.S. government ‘will take years to overcome,’ former national intelligence official says - CNBC",-0.8491079807281494
-SOLARINDS,2023-05-26,You’re the CEO and Your Company Got Hacked—What Now? - bloomberg.com,-0.7358905076980591
-SOLARINDS,2022-10-19,U.S. says seven board directors resigned under antitrust pressure - Reuters,-0.929325520992279
-SOLARINDS,2025-11-25,Take the Crypto Out of the Indexes - bloomberg.com,-0.9285897612571716
-SOLARINDS,2024-12-09,Wave of cyber-related SEC enforcement activity may signal increased scrutiny - Reuters,-0.7145968675613403
-SOLARINDS,2024-05-02,Apple’s Earnings (AAPL) Come With a Low Bar and Big Buyback Hopes - bloomberg.com,-0.8245210647583008
-SOLARINDS,2021-06-03,Cybersecurity company SentinelOne files to go public with 108% revenue growth year-over-year - CNBC,-0.5299074053764343
-SOLARINDS,2021-05-11,"Colonial Pipeline cyber attack and the high stakes for Biden, business world relationship - CNBC",-0.9160050749778748
-SOLARINDS,2020-12-19,"Trump contradicts Pompeo, plays down alleged Russian role in cyberattack - CNBC",-0.5542869567871094
-SOLARINDS,2021-06-30,SentinelOne closes up 21% in NYSE debut as highest-valued cybersecurity IPO ever - CNBC,0.8830065131187439
-SOLARINDS,2021-05-25,4. SentinelOne - CNBC,-0.9456042051315308
-SOLARINDS,2021-01-21,White House reveals which global leader will be first to hold a call with President Biden - CNBC,-0.9422786235809326
-SOLARINDS,2024-01-19,"Microsoft executive emails hacked by Russian intelligence group, company says - CNBC",-0.6072890758514404
-SOLARINDS,2021-01-27,Secretary of State Blinken takes aim at Russia's treatment of opposition leader Navalny - CNBC,-0.5417124032974243
-SOLARINDS,2025-04-10,"Stocks making the biggest moves midday: Capri, Janover, Harley-Davidson, CarMax, U.S. Steel and more - CNBC",-0.9049949049949646
-SOLARINDS,2021-08-24,"Amazon, Apple and Microsoft CEOs reportedly to attend White House cybersecurity meeting - CNBC",-0.9116703271865845
-SOLARINDS,2021-08-25,"Biden to host tech, finance and energy CEOs for security summit at White House following wave of cyberattacks - CNBC",-0.8784686923027039
-SOLARINDS,2015-07-17,"CORRECTED-BUZZ-U.S. STOCKS ON THE MOVE-Google, Ooma, Honeywell, Solera, Best Buy - Reuters",-0.9109089374542236
-SOLARINDS,2020-12-15,Russian hacks weigh on private equity's software investments - Reuters,-0.6147023439407349
-SOLARINDS,2021-04-15,Stocks Close at Record Highs; Bond Yields Tumble: Markets Wrap - bloomberg.com,-0.4964851438999176
-SOLARINDS,2021-07-26,Thoma Bravo to take software firm Medallia private for $6.4 bln - Reuters,-0.9302226305007935
-SOLARINDS,2021-10-25,Ex-NSA hacker says a supply chain cyberattack is one of the things that keeps him up at night - CNBC,-0.6068305969238281
-SOLARINDS,2021-08-05,"Amazon, Google and other tech companies join government effort to fight ransomware - CNBC",-0.85670006275177
-SOLARINDS,2021-03-09,"Microsoft's big email hack: What happened, who did it, and why it matters - CNBC",-0.7775228023529053
-SOLARINDS,2021-07-01,Jack Stubbs - Reuters,-0.9141013026237488
-SOLARINDS,2021-07-09,"Thoma Bravo to take Stamps.com private for $6 bln, shares jump - Reuters",-0.8346527218818665
-SOLARINDS,2025-06-30,A Trio of US Treasury Hacks Exposes a Pattern Making Banks Nervous - bloomberg.com,-0.8107035160064697
-SOLARINDS,2022-10-19,Justice Department Uses 1914 Law to Keep Directors From Serving on Competing Boards - bloomberg.com,-0.9064887762069702
-SOLARINDS,2017-01-03,"It professionals - Latest it professionals , Information & Updates - CIO - ET CIO",-0.9498953223228455
-SOLARINDS,2020-12-18,"Google Blames Gmail, YouTube Outage on Error in User ID System - bloomberg.com",-0.8956566452980042
-SOLARINDS,2026-04-01,Iranian Regime’s Grip on Local Internet Unshaken by Bombs - bloomberg.com,-0.8814575672149658
-SOLARINDS,2024-01-24,HPE hacked by same Russian intelligence group that hit Microsoft - CNBC,-0.7614536881446838
-SOLARINDS,2021-03-16,"Russia and Iran tried to interfere with 2020 election, U.S. intelligence agencies say - CNBC",-0.500566840171814
-SOLARINDS,2023-06-21,Google accuses Microsoft of unfair practices in Azure cloud unit - CNBC,-0.7453551292419434
-SOLARINDS,2025-07-23,Nuclear Weapons Agency Breached in Microsoft SharePoint Hack - bloomberg.com,-0.7516682744026184
-SOLARINDS,2023-07-27,"Microsoft ‘Bears Responsibility’ For China-Tied Hacks, Senator Says - bloomberg.com",-0.7117315530776978
-SOLARINDS,2021-06-17,Microsoft updates Office apps for a world in which more people work from home - CNBC,-0.8689272403717041
-SOLARINDS,2021-07-09,Thoma Bravo to take Stamps.com private for $6 billion - CNBC,-0.9332497715950012
-SOLARINDS,2024-04-18,Cisco debuts new AI-focused security system after $28 billion deal to buy Splunk - CNBC,0.6512081623077393
-SOLARINDS,2021-06-22,Articles archive of 2021-06-22 - Reuters,-0.9289426803588867
-SOLARINDS,2021-05-13,Colonial Pipeline paid $5 million ransom to hackers - CNBC,-0.8581953644752502
-SOLARINDS,2022-05-21,America's small businesses aren't ready for a cyberattack - CNBC,-0.8262160420417786
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+SOLARINDS,2020-11-02,Solar Industries India Daily Technical Analysis | Stochastic RSI indicators - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.023568404838442802,0.04206346347928047,0.9343681931495667,-0.01849505864083767
+SOLARINDS,2020-12-14,U.S. Agencies Exposed in Attack by Suspected Russian Hackers - Bloomberg.com,,2026-10-18,legacy,neutral,0.02836356684565544,0.18251481652259827,0.789121687412262,-0.15415124967694283
+SOLARINDS,2020-12-14,"U.S. Homeland Security, thousands of businesses scramble after suspected Russian hack - Reuters",,2026-10-18,legacy,negative,0.02168336883187294,0.8160758018493652,0.16224077343940735,-0.7943924330174923
+SOLARINDS,2020-12-15,Hackers used SolarWinds' dominance against it in sprawling spy campaign - Reuters,,2026-10-18,legacy,neutral,0.03378688171505928,0.15742865204811096,0.8087844252586365,-0.12364177033305168
+SOLARINDS,2020-12-16,SolarWinds hack has shaved 23% from software company's stock this week - CNBC,,2026-10-18,legacy,neutral,0.20075249671936035,0.296925812959671,0.5023216605186462,-0.09617331624031067
+SOLARINDS,2020-12-17,Microsoft was swept up in SolarWinds hack - CNBC,,2026-10-18,legacy,neutral,0.037275586277246475,0.16956552863121033,0.7931588292121887,-0.13228994235396385
+SOLARINDS,2020-12-17,"Russian hack against the U.S. government ‘will take years to overcome,’ former national intelligence official says - CNBC",,2026-10-18,legacy,neutral,0.09823901951313019,0.052653029561042786,0.8491079211235046,0.0455859899520874
+SOLARINDS,2020-12-17,U.S. Sees a ‘Grave Risk’ in Scope of Russia-Linked Hacking - Bloomberg.com,,2026-10-18,legacy,neutral,0.038195252418518066,0.1075383797287941,0.8542664051055908,-0.06934312731027603
+SOLARINDS,2020-12-18,Cisco Latest Victim of Russian Cyber-Attack Using SolarWinds - Bloomberg.com,,2026-10-18,legacy,neutral,0.02314363420009613,0.167422354221344,0.8094339966773987,-0.14427872002124786
+SOLARINDS,2020-12-18,"SolarWinds hackers broke into U.S. cable firm and Arizona county, web records show - Reuters",,2026-10-18,legacy,negative,0.020587872713804245,0.7256259918212891,0.2537861466407776,-0.7050381191074848
+SOLARINDS,2020-12-18,Suspected Russian hack is much worse than first feared: Here's what you need to know - CNBC,,2026-10-18,legacy,negative,0.03285304456949234,0.5105133056640625,0.456633597612381,-0.47766026109457016
+SOLARINDS,2020-12-19,"Trump contradicts Pompeo, plays down alleged Russian role in cyberattack - CNBC",,2026-10-18,legacy,neutral,0.02946213260293007,0.4162507653236389,0.5542870759963989,-0.38678863272070885
+SOLARINDS,2020-12-21,INSIGHT 'Powerful tradecraft': how foreign cyber-spies compromised America - Reuters,,2026-10-18,legacy,neutral,0.05769365280866623,0.03354092314839363,0.9087653756141663,0.0241527296602726
+SOLARINDS,2020-12-21,SolarWinds Adviser Warned of Lax Security Years Before Hack - Bloomberg.com,,2026-10-18,legacy,neutral,0.03708351403474808,0.1839342713356018,0.7789822220802307,-0.14685075730085373
+SOLARINDS,2020-12-24,Relentless Hacking Is Turning All of Us Into Data Nihilists - Bloomberg.com,,2026-10-18,legacy,neutral,0.023669499903917313,0.21977201104164124,0.7565584182739258,-0.19610251113772392
+SOLARINDS,2021-01-05,Critical Infrastructure Left in the Dark About SolarWinds Hack - Bloomberg.com,,2026-10-18,legacy,neutral,0.020199555903673172,0.1634548306465149,0.8163456320762634,-0.14325527474284172
+SOLARINDS,2021-01-05,U.S. feds say Russians likely behind SolarWinds hack that breached government networks - CNBC,,2026-10-18,legacy,negative,0.03324411064386368,0.5667694211006165,0.3999864459037781,-0.5335253104567528
+SOLARINDS,2021-01-06,FBI probe of major hack includes project-management software from JetBrains -sources - Reuters,,2026-10-18,legacy,neutral,0.03116103634238243,0.06011856719851494,0.9087204337120056,-0.028957530856132507
+SOLARINDS,2021-01-08,"SolarWinds Taps Chris Krebs, Alex Stamos to Help Investigate Russia Hack - Bloomberg.com",,2026-10-18,legacy,neutral,0.04175782576203346,0.024126295000314713,0.9341158866882324,0.01763153076171875
+SOLARINDS,2021-01-08,"Stocks making the biggest moves in the premarket: Tesla, Micron Technology, Sarepta Therapeutics & more - CNBC",,2026-10-18,legacy,neutral,0.06824862957000732,0.019668806344270706,0.9120826125144958,0.04857982322573662
+SOLARINDS,2021-01-26,How the massive SolarWinds hack went down - CNBC,,2026-10-18,legacy,neutral,0.028390245512127876,0.12348339706659317,0.8481264114379883,-0.0950931515544653
+SOLARINDS,2021-01-26,Microsoft reports 17% revenue growth as cloud business accelerates - CNBC,,2026-10-18,legacy,positive,0.8579944372177124,0.014247945509850979,0.12775763869285583,0.8437464917078614
+SOLARINDS,2021-01-26,The massive SolarWinds hack and the future of cyber espionage - CNBC,,2026-10-18,legacy,neutral,0.0353994220495224,0.03475116938352585,0.9298494458198547,0.0006482526659965515
+SOLARINDS,2021-02-02,Exclusive: Suspected Chinese hackers used SolarWinds bug to spy on U.S. payroll agency – sources - Reuters,,2026-10-18,legacy,neutral,0.029975250363349915,0.13157346844673157,0.8384513258934021,-0.10159821808338165
+SOLARINDS,2021-02-09,Op-ed: The SolarWinds hack is a blow. The U.S. must prioritize cybersecurity now - CNBC,,2026-10-18,legacy,neutral,0.046512868255376816,0.3311593532562256,0.6223277449607849,-0.28464648500084877
+SOLARINDS,2021-02-14,SolarWinds hack was 'largest and most sophisticated attack' ever: Microsoft president - Reuters,,2026-10-18,legacy,neutral,0.04288593307137489,0.04861706867814064,0.9084969758987427,-0.005731135606765747
+SOLARINDS,2021-02-17,"WH cyber adviser: SolarWinds Hack compromised 9 agencies, about 100 private companies - CNBC",,2026-10-18,legacy,neutral,0.042688775807619095,0.038083627820014954,0.9192276000976562,0.004605147987604141
+SOLARINDS,2021-02-23,Microsoft president: The only reason we know about SolarWinds hack is because FireEye told us - CNBC,,2026-10-18,legacy,neutral,0.0295424722135067,0.04312683269381523,0.9273306727409363,-0.013584360480308533
+SOLARINDS,2021-03-02,"SolarWinds Says It’s Cooperating with Probes by SEC, Justice - Bloomberg.com",,2026-10-18,legacy,neutral,0.06002376601099968,0.017221055924892426,0.922755241394043,0.042802710086107254
+SOLARINDS,2021-03-29,SolarWinds hack obtained emails of top US Department of Homeland Security officials - AP - Reuters,,2026-10-18,legacy,neutral,0.03418060392141342,0.03390488401055336,0.9319145083427429,0.00027571991086006165
+SOLARINDS,2021-03-30,Nine U.S. Agencies Have Largely Removed Russia-Linked Malware - Bloomberg.com,,2026-10-18,legacy,neutral,0.0714351236820221,0.07576502859592438,0.8527998328208923,-0.004329904913902283
+SOLARINDS,2021-03-30,SolarWinds hack got emails of top DHS officials - ET CIO,,2026-10-18,legacy,neutral,0.04485948011279106,0.029386023059487343,0.9257545471191406,0.015473457053303719
+SOLARINDS,2021-04-13,SolarWinds says dealing with hack fallout cost at least $18 million - Reuters,,2026-10-18,legacy,neutral,0.06922853738069534,0.02516479603946209,0.9056066274642944,0.044063741341233253
+SOLARINDS,2021-04-15,White House blames Russian spy agency SVR for SolarWinds hack: statement - Reuters,,2026-10-18,legacy,neutral,0.021482007578015327,0.3937053680419922,0.5848126411437988,-0.37222336046397686
+SOLARINDS,2021-05-11,"Colonial Pipeline cyber attack and the high stakes for Biden, business world relationship - CNBC",,2026-10-18,legacy,neutral,0.05349467694759369,0.03050023689866066,0.9160050749778748,0.02299444004893303
+SOLARINDS,2021-05-12,Biden signs executive order to strengthen U.S. cybersecurity defenses after Colonial Pipeline hack - CNBC,,2026-10-18,legacy,neutral,0.17250870168209076,0.13151751458644867,0.6959737539291382,0.04099118709564209
+SOLARINDS,2021-05-28,Biden budget sets aside $750 mln for SolarWinds response - Reuters,,2026-10-18,legacy,neutral,0.08143434673547745,0.023694830015301704,0.8948708772659302,0.05773951672017574
+SOLARINDS,2021-05-28,"Microsoft says group behind SolarWinds hack now targeting government agencies, NGOs - Reuters",,2026-10-18,legacy,neutral,0.02554577775299549,0.051938578486442566,0.9225156307220459,-0.026392800733447075
+SOLARINDS,2021-05-28,"Russian hackers launch major cyberattack through U.S. aid agency’s email system, Microsoft says - CNBC",,2026-10-18,legacy,neutral,0.05431072413921356,0.2489330768585205,0.6967562437057495,-0.19462235271930695
+SOLARINDS,2021-05-28,Solar Industries India Limited - Business Standard,Business Standard,2026-10-19,live,neutral,0.08363715559244156,0.011073299683630466,0.9052895903587341,0.07256385590881109
+SOLARINDS,2021-05-31,"Moneesh Agrawal, Solar Industries India Ltd: Profile and Biography - Bloomberg.com",Bloomberg.com,2026-10-19,live,neutral,0.02740303985774517,0.02637447789311409,0.9462225437164307,0.0010285619646310806
+SOLARINDS,2021-06-03,Cybersecurity company SentinelOne files to go public with 108% revenue growth year-over-year - CNBC,,2026-10-18,legacy,neutral,0.45748522877693176,0.01260672602802515,0.5299080014228821,0.4448785027489066
+SOLARINDS,2021-06-27,Microsoft says new breach discovered in probe of suspected SolarWinds hackers - Reuters,,2026-10-18,legacy,negative,0.0299347173422575,0.8458998799324036,0.12416543066501617,-0.8159651625901461
+SOLARINDS,2021-06-29,"Denmark's central bank exposed in SolarWinds hack, media report says - Reuters",,2026-10-18,legacy,negative,0.017532914876937866,0.9528894424438477,0.02957761287689209,-0.9353565275669098
+SOLARINDS,2021-06-30,SentinelOne closes up 21% in NYSE debut as highest-valued cybersecurity IPO ever - CNBC,,2026-10-18,legacy,positive,0.8830066919326782,0.017428921535611153,0.09956426918506622,0.8655777703970671
+SOLARINDS,2021-07-01,Jack Stubbs - Reuters,,2026-10-18,legacy,neutral,0.0271963719278574,0.05870230123400688,0.9141013026237488,-0.03150592930614948
+SOLARINDS,2021-07-12,SolarWinds says unknown hackers exploited newly discovered software flaw - Reuters,,2026-10-18,legacy,negative,0.026975451037287712,0.6574690937995911,0.31555548310279846,-0.6304936427623034
+SOLARINDS,2021-07-26,Thoma Bravo to take software firm Medallia private for $6.4 bln - Reuters,,2026-10-18,legacy,neutral,0.048216111958026886,0.02156132087111473,0.9302226305007935,0.026654791086912155
+SOLARINDS,2021-08-03,SolarWinds says shareholders' cyber disclosure lawsuit fails - Reuters,,2026-10-18,legacy,negative,0.0142753217369318,0.8914166688919067,0.09430798888206482,-0.8771413471549749
+SOLARINDS,2021-09-10,Exclusive: Wide-ranging SolarWinds probe sparks fear in Corporate America - Reuters,,2026-10-18,legacy,neutral,0.05024515837430954,0.048327431082725525,0.9014274477958679,0.001917727291584015
+SOLARINDS,2021-10-08,"Hackers of SolarWinds stole data on U.S. sanctions policy, intelligence probes - Reuters",,2026-10-18,legacy,negative,0.02349916845560074,0.5121818780899048,0.4643189609050751,-0.48868270963430405
+SOLARINDS,2021-10-29,PB Fintech Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.04043353721499443,0.03354668244719505,0.9260198473930359,0.0068868547677993774
+SOLARINDS,2022-06-23,About Solar Industries India Limited (SLIN.BO) - Reuters,Reuters,2026-10-19,live,neutral,0.0338825061917305,0.02079334296286106,0.9453241229057312,0.013089163228869438
+SOLARINDS,2022-09-08,Hyderabad's space tech startup attracts global funding to propel new future of small satellite launches - ET Government,ET Government,2026-10-19,live,positive,0.923485517501831,0.009345226921141148,0.06716927140951157,0.9141402905806899
+SOLARINDS,2022-09-08,"We are looking at Rajasthan with big vision: RK Vishnoi, Chairman & Managing Director, THDC India Ltd - ET Government",ET Government,2026-10-19,live,neutral,0.1676817536354065,0.007440031506121159,0.8248782157897949,0.16024172212928534
+SOLARINDS,2022-09-23,₹20 to ₹3827: Multibagger stock turns ₹1 lakh to ₹1.91 crore in 15 years - Livemint,Livemint,2026-10-19,live,positive,0.8486603498458862,0.03638750687241554,0.11495217680931091,0.8122728429734707
+SOLARINDS,2022-12-21,Solar Industries: Is it exploding its way to success? - Livemint,Livemint,2026-10-19,live,neutral,0.32376599311828613,0.00917659793049097,0.667057454586029,0.31458939518779516
+SOLARINDS,2023-04-24,Solar Industries India grabs Rs 212 cr order from ministry of defence - Business Standard,Business Standard,2026-10-19,live,positive,0.6652666330337524,0.015386801213026047,0.31934654712677,0.6498798318207264
+SOLARINDS,2023-05-15,SUNBURST cyberattack: SolarWinds CEO discusses key learnings in Exclusive Interview - ET CIO,,2026-10-18,legacy,neutral,0.05842266231775284,0.01352983433753252,0.9280474781990051,0.04489282798022032
+SOLARINDS,2023-05-31,"Solar Industries India Splits: Splits, Split History, Stock Split History - Livemint",Livemint,2026-10-19,live,neutral,0.02117268368601799,0.09186570346355438,0.8869616389274597,-0.07069301977753639
+SOLARINDS,2023-05-31,Solar Industries India shareholdings: Find Solar Industries India Shareholding Pattern and Ownership - Livemint,Livemint,2026-10-19,live,neutral,0.03340120613574982,0.015753062441945076,0.9508457183837891,0.01764814369380474
+SOLARINDS,2023-06-01,Solar Industries India Bonus - Livemint,Livemint,2026-10-19,live,neutral,0.07146885991096497,0.01260555349290371,0.9159255623817444,0.058863306418061256
+SOLARINDS,2023-06-02,"Solar Industries India News: Find Solar Industries India News Today, Latest News Solar Industries India - Livemint",Livemint,2026-10-19,live,neutral,0.05343468487262726,0.01533010695129633,0.9312352538108826,0.03810457792133093
+SOLARINDS,2023-07-10,COMMENTARY: SolarWinds forum selection clause kills shareholders’ derivative suit - Reuters,,2026-10-18,legacy,negative,0.01867976039648056,0.6825501918792725,0.29877007007598877,-0.6638704314827919
+SOLARINDS,2023-08-14,"One dead, 2 injured in fire at Solar Industries’ Nagpur facility - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.019574137404561043,0.8084507584571838,0.17197516560554504,-0.7888766210526228
+SOLARINDS,2023-10-20,Solar Industries India Q1 Results 2026 - Find Solar Industries India Q1 Earnings Result | SOLARINDS Q1 results - Livemint,Livemint,2026-10-19,live,neutral,0.048894524574279785,0.028161073103547096,0.9229443669319153,0.02073345147073269
+SOLARINDS,2023-10-20,Solar Industries India Q2 Results 2026 - Find Solar Industries India Q2 Earnings Result | SOLARINDS Q2 results - Livemint,Livemint,2026-10-19,live,neutral,0.04658101871609688,0.033341776579618454,0.9200772047042847,0.013239242136478424
+SOLARINDS,2023-10-20,Solar Industries India Q3 Results 2026 - Find Solar Industries India Q3 Earnings Result | SOLARINDS Q3 results - Livemint,Livemint,2026-10-19,live,neutral,0.04482785984873772,0.03187641501426697,0.9232957363128662,0.012951444834470749
+SOLARINDS,2023-10-30,US SEC sues SolarWinds for concealing cyber risks before massive hacking - Reuters,,2026-10-18,legacy,negative,0.02719646319746971,0.6196037530899048,0.3531997799873352,-0.5924072898924351
+SOLARINDS,2023-10-31,"SEC sues SolarWinds over massive cyberattack, alleging fraud and weak controls - CNBC",,2026-10-18,legacy,negative,0.018239092081785202,0.8372513651847839,0.14450953900814056,-0.8190122731029987
+SOLARINDS,2023-11-01,"The SolarWinds Hack Could Have Been Prevented, SEC Lawsuit Finds - Bloomberg.com",,2026-10-18,legacy,neutral,0.024893414229154587,0.09674862027168274,0.8783579468727112,-0.07185520604252815
+SOLARINDS,2023-11-21,COMMENTARY: SolarWinds and the SEC lawsuit - Reuters,,2026-10-18,legacy,neutral,0.028037546202540398,0.05093875527381897,0.9210236668586731,-0.022901209071278572
+SOLARINDS,2023-12-13,US officials say Russian targeting JetBrains servers for potential SolarWinds-style operations - Reuters,,2026-10-18,legacy,neutral,0.043038174510002136,0.04700830578804016,0.9099535346031189,-0.003970131278038025
+SOLARINDS,2023-12-17,"Nine dead, several injured in a blast at India explosives factory - Reuters",Reuters,2026-10-19,live,negative,0.01842285320162773,0.8944075107574463,0.0871695876121521,-0.8759846575558186
+SOLARINDS,2024-01-19,"Microsoft executive emails hacked by Russian intelligence group, company says - CNBC",,2026-10-18,legacy,negative,0.019981367513537407,0.60728919506073,0.37272945046424866,-0.5873078275471926
+SOLARINDS,2024-01-31,Which is the more explosive stock: Solar Industries or Premier Explosives? - Livemint,Livemint,2026-10-19,live,neutral,0.03303353860974312,0.023148419335484505,0.9438180923461914,0.009885119274258614
+SOLARINDS,2024-03-26,"SEC ramps up hack probe with focus on tech, telecom companies, Bloomberg News says - Reuters",,2026-10-18,legacy,neutral,0.12454716116189957,0.03167811036109924,0.8437747955322266,0.09286905080080032
+SOLARINDS,2024-03-28,Solar Industries India Ltd - Business Standard,Business Standard,2026-10-19,live,neutral,0.11877128481864929,0.00985231064260006,0.8713763952255249,0.10891897417604923
+SOLARINDS,2024-07-18,SolarWinds beats most of US SEC lawsuit over Russia-linked cyberattack - Reuters,,2026-10-18,legacy,negative,0.08437923341989517,0.623268187046051,0.2923525869846344,-0.5388889536261559
+SOLARINDS,2024-08-04,IAF Deputy Chief inaugurates Solar Industries' Chaff manufacturing plant in Nagpur - ET Manufacturing,ET Manufacturing,2026-10-19,live,neutral,0.022605491802096367,0.06059366837143898,0.9168007969856262,-0.03798817656934261
+SOLARINDS,2024-09-25,Solar Industries gains 2% on securing NCLT's nod for unit's merger with Rajasthan Explosives - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.8256381154060364,0.017016198486089706,0.15734566748142242,0.8086219169199467
+SOLARINDS,2024-10-17,"SolarWinds Plans Riyadh Office as Mideast Sales Boom, CEO Says - Bloomberg.com",,2026-10-18,legacy,neutral,0.1531655490398407,0.0178888738155365,0.8289456367492676,0.1352766752243042
+SOLARINDS,2024-11-16,Solar Industries India - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03556039184331894,0.02047727443277836,0.9439623355865479,0.01508311741054058
+SOLARINDS,2024-12-09,COMMENTARY: Wave of cyber-related SEC enforcement activity may signal increased scrutiny - Reuters,,2026-10-18,legacy,neutral,0.14074775576591492,0.24389690160751343,0.6153553128242493,-0.10314914584159851
+SOLARINDS,2025-01-27,"Solar Industries India | AGM/EGM > Chemicals > Meetings of Solar Industries India - BSE: 532725, NSE: SOLARINDS - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03084714151918888,0.023638445883989334,0.945514440536499,0.007208695635199547
+SOLARINDS,2025-01-31,Once-Secret Treasury Memos Detail Agency Response to SolarWinds Hack - Bloomberg.com,,2026-10-18,legacy,neutral,0.021920830011367798,0.07551259547472,0.9025665521621704,-0.0535917654633522
+SOLARINDS,2025-02-07,Turn/River Capital to take SolarWinds private in $4.4 billion deal - Reuters,,2026-10-18,legacy,neutral,0.05386311933398247,0.012676559388637543,0.9334602952003479,0.041186559945344925
+SOLARINDS,2025-04-25,"SOLARg""''' - Business Standard",Business Standard,2026-10-19,live,neutral,0.1054791808128357,0.0128813860937953,0.8816394209861755,0.0925977947190404
+SOLARINDS,2025-06-21,Satyanarayan Nuwal - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.021974904462695122,0.03755755349993706,0.9404674768447876,-0.015582649037241936
+SOLARINDS,2025-07-01,Indian billionaires shine in first half of 2025 despite market turbulence - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.7325349450111389,0.026692695915699005,0.2407722771167755,0.7058422490954399
+SOLARINDS,2025-07-02,"US SEC, SolarWinds reach preliminary deal to end breach lawsuit - Reuters",,2026-10-18,legacy,neutral,0.16919483244419098,0.1527603417634964,0.678044855594635,0.01643449068069458
+SOLARINDS,2025-07-05,"Paresh Patel, Solar Industries India Ltd: Profile and Biography - Bloomberg.com",Bloomberg.com,2026-10-19,live,neutral,0.027315616607666016,0.026297684758901596,0.9463866949081421,0.0010179318487644196
+SOLARINDS,2025-09-18,SOLARINDS 27Oct2026 - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.027160104364156723,0.0280214361846447,0.9448184967041016,-0.0008613318204879761
+SOLARINDS,2025-10-20,Cyber defenders sound the alarm as F5 hack exposes broad risks - Reuters,,2026-10-18,legacy,neutral,0.03637560084462166,0.25949040055274963,0.7041339874267578,-0.22311479970812798
+SOLARINDS,2025-11-12,Solar Industries - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.030702393501996994,0.021400930359959602,0.9478967189788818,0.009301463142037392
+SOLARINDS,2025-11-20,"US SEC dismisses case against SolarWinds, top security officer - Reuters",,2026-10-18,legacy,neutral,0.03738503158092499,0.4287528097629547,0.5338621735572815,-0.3913677781820297
+SOLARINDS,2025-12-24,Solar Ind Peers Comparison - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.043716736137866974,0.018345743417739868,0.9379374980926514,0.025370992720127106
+SOLARINDS,2025-12-31,"Solar Industries India bags additional order of Rs 1,746 cr from Coal India - Business Standard",Business Standard,2026-10-19,live,positive,0.909671425819397,0.012651222757995129,0.07767733186483383,0.8970202030614018
+SOLARINDS,2026-03-27,Solar Industries rides defence tailwinds. Sustaining growth is the real test - Livemint,Livemint,2026-10-19,live,neutral,0.1558975726366043,0.014067086391150951,0.830035388469696,0.14183048624545336
+SOLARINDS,2026-04-11,"Defence stocks set for mixed Q4; Nuvama bets on BEL, Solar Industries, and a smallcap pick - ET Manufacturing",ET Manufacturing,2026-10-19,live,negative,0.20229968428611755,0.6950104832649231,0.10268984735012054,-0.49271079897880554
+SOLARINDS,2026-04-24,"Trade Spotlight: How should you trade Zydus Lifesciences, Anthem Biosciences, SRF, Solar Industries,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.050192706286907196,0.0127799604088068,0.9370273351669312,0.037412745878100395
+SOLARINDS,2026-05-15,"Power Grid, Tata Steel, Solar Industries among major companies set to announce Q4 results today - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.07923757284879684,0.016611427068710327,0.9041509628295898,0.06262614578008652
+SOLARINDS,2026-05-15,"Solar Ind Consolidated March 2026 Net Sales at Rs 3,052.75 crore, up 40.9% Y-o-Y - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9506127238273621,0.01825716905295849,0.031130101531744003,0.9323555547744036
+SOLARINDS,2026-05-15,"Solar Ind Standalone March 2026 Net Sales at Rs 1,573.71 crore, up 21.12% Y-o-Y - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9505748152732849,0.01922813430428505,0.03019709140062332,0.9313466809689999
+SOLARINDS,2026-05-15,Solar Industries India consolidated net profit rises 69.95% in the March 2026 quarter - Business Standard,Business Standard,2026-10-19,live,positive,0.9270943403244019,0.04232876002788544,0.030576996505260468,0.8847655802965164
+SOLARINDS,2026-05-15,Solar Industries Q4FY26 consolidated net profit surges 61% - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.831060528755188,0.03499148041009903,0.13394801318645477,0.796069048345089
+SOLARINDS,2026-06-24,Solar Industries India Cash Flow | Solar Industries India Financial Statement & Accounts - Moneycontrol - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.02134360559284687,0.039367519319057465,0.9392889142036438,-0.018023913726210594
+SOLARINDS,2026-06-24,Solar Industries India Key Financial Ratios | Solar Industries India Financial Statement & Accounts - Moneycontrol - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.020500604063272476,0.04961741715669632,0.9298819303512573,-0.029116813093423843
+SOLARINDS,2026-07-21,"Trade Spotlight: How should you trade Lloyds Metals, ITC, Colgate Palmolive, NTPC, Solar Industries, VA... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.045800283551216125,0.01450915727764368,0.9396905303001404,0.031291126273572445
+SOLARINDS,2026-07-27,"Slept at railway stations, built Rs 1.5 lakh crore empire: How school dropout Satyanarayan Nuwal founded... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03389281406998634,0.041174743324518204,0.9249324202537537,-0.00728192925453186
+SOLARINDS,2026-07-31,Solar Industries India shares gain 2.33% in today's trade - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.7938192486763,0.02810419350862503,0.17807656526565552,0.765715055167675
+SOLARINDS,2026-08-06,"Solar Industries India Shares Rise 2.05% to Rs 18,777 - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.5806025862693787,0.028824176639318466,0.3905732333660126,0.5517784096300602
+SOLARINDS,2026-08-11,"Solar Industries India Shares Fall 2.13% to Rs 18,420.00 - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.009218120947480202,0.9346120953559875,0.0561697855591774,-0.9253939744085073
+SOLARINDS,2026-08-14,"Buy Solar Industries; target of Rs 23,500: ICICI Securities - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03989260643720627,0.016332952305674553,0.9437744617462158,0.023559654131531715
+SOLARINDS,2026-08-14,"Solar Industries India Shares Fall 2.95% to Rs 19,724 - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.008681421168148518,0.943263053894043,0.04805561155080795,-0.9345816327258945
+SOLARINDS,2026-09-03,"Solar Ind soars 5%, stock up 79% from Mar low; market cap nears ₹2 trillion - Business Standard",Business Standard,2026-10-19,live,positive,0.9491574764251709,0.023474635556340218,0.02736784517765045,0.9256828408688307
+SOLARINDS,2026-09-08,Solar Industries shares rise over 2% on defence indigenisation push; Jefferies bullish on private sector... - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9258053302764893,0.026075810194015503,0.04811890423297882,0.8997295200824738
+SOLARINDS,2026-09-14,Solar Industries Bids $1.4 Billion for South Africa’s Omnia - Bloomberg.com,Bloomberg.com,2026-10-19,live,positive,0.6031972765922546,0.010671700350940228,0.38613104820251465,0.5925255762413144
+SOLARINDS,2026-09-14,"Solar Industries arm to acquire South Africa's Omnia Holdings for ₹12,951 crore - ET Manufacturing",ET Manufacturing,2026-10-19,live,neutral,0.08793509751558304,0.00904045533388853,0.9030244946479797,0.07889464218169451
+SOLARINDS,2026-09-15,"CAM, DLA Piper, Webber Wentzel advise on Solar Group’s proposed INR 12,951 crore acquisition of Omnia - ETLegalWorld.com",ETLegalWorld.com,2026-10-19,live,neutral,0.0591764822602272,0.014886246994137764,0.9259372353553772,0.04429023526608944
+SOLARINDS,2026-09-15,"Omnia buy adds to Solar Inds' explosive growth, but valuations high - Business Standard",Business Standard,2026-10-19,live,positive,0.9330155849456787,0.016369858756661415,0.05061452090740204,0.9166457261890173
+SOLARINDS,2026-09-15,"Solar Industries falls 9% as company to acquire South Africa's Omnia Holdings for nearly Rs 13,000 cr - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.030242744833230972,0.8471569418907166,0.12260027229785919,-0.8169141970574856
+SOLARINDS,2026-09-15,"Stocks to Watch Today: HDFC Bank, Lalithaa Jewellery, Horizon Industrial Parks, Solar Industries,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.030154891312122345,0.02290920726954937,0.9469359517097473,0.007245684042572975
+SOLARINDS,2026-09-21,"Solar Ind snaps 5-day losing streak, gains 4%; MOFSL initiates BUY rating - Business Standard",Business Standard,2026-10-19,live,positive,0.910826563835144,0.02772977016866207,0.06144367530941963,0.883096793666482
+SOLARINDS,2026-09-22,"Solar Industries shares rise 3.5% as Motilal Oswal says 'Buy', sees up to 17% upside - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.7381884455680847,0.012423567473888397,0.2493879497051239,0.7257648780941963
+SOLARINDS,2026-09-24,"Buy Solar Industries India; target of Rs 23,124: Prabhudas Lilladher - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.05020979791879654,0.01567092351615429,0.9341192841529846,0.03453887440264225
+SOLARINDS,2026-10-07,The Economic Times - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.03021029755473137,0.05379044637084007,0.9159992933273315,-0.023580148816108704
+SOLARINDS,2026-10-13,"Trade Spotlight: How should you trade Gabriel India, Dr Reddys Labs, MCX India, Craftsman Automation,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.05051594600081444,0.01469505112618208,0.9347890615463257,0.03582089487463236
+SOLARINDS,2026-10-14,Institutional Equities - Business Standard,Business Standard,2026-10-19,live,neutral,0.056421272456645966,0.015265126712620258,0.9283135533332825,0.04115614574402571
+SOLARINDS,2026-10-14,Solar Industries India Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.05430034175515175,0.0241337139159441,0.9215660095214844,0.03016662783920765
+SOLARINDS,2026-10-15,BHEL (BHEL IN) - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.027411429211497307,0.02419804222881794,0.948390543460846,0.003213386982679367
+SOLARINDS,2026-10-15,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.036765459924936295,0.024498049169778824,0.9387364387512207,0.01226741075515747
+SOLARINDS,2026-10-16,India's submarine gap widens as fleet ages and new boats remain years away - defence.economictimes.indiatimes.com,defence.economictimes.indiatimes.com,2026-10-19,live,neutral,0.04662095010280609,0.054589636623859406,0.8987894058227539,-0.007968686521053314
+SOLARINDS,2026-10-16,"Stocks to Watch Today: Tech Mahindra, IIFL Finance, Persistent, Angel One, Lotus Developers, Solar... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03580945357680321,0.019946224987506866,0.9442443251609802,0.01586322858929634
+SOLARINDS,2026-10-17,Unsubscribe - ET CIO - Indiatimes - ET CIO,,2026-10-18,legacy,neutral,0.03501078113913536,0.013286273926496506,0.9517030119895935,0.021724507212638855
+SOLARINDS,2026-10-18,- ET CIO,,2026-10-18,legacy,neutral,0.043533649295568466,0.01696155034005642,0.9395048022270203,0.026572098955512047
+SOLARINDS,2026-10-18,Google - ET CIO - Indiatimes - ET CIO,,2026-10-18,legacy,neutral,0.0330527201294899,0.01420782320201397,0.9527394771575928,0.01884489692747593
+SOLARINDS,2026-10-18,Sebi - ET CIO - Indiatimes - ET CIO,,2026-10-18,legacy,neutral,0.03271526098251343,0.014392510987818241,0.9528923034667969,0.018322749994695187

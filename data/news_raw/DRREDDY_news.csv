@@ -1,101 +1,185 @@
-ticker,date,headline,sentiment_score
-DRREDDY,2024-03-26,"Dr. Reddy's Laboratories Stocks Live Updates: Dr. Reddy's Laboratories Sees a 0.68% Decrease in Price, wi - The Economic Times",-0.8888832330703735
-DRREDDY,2026-04-06,Quarterly results of companies - business-standard.com,-0.8989714980125427
-DRREDDY,2026-04-06,"Nifty Healthcare below 100-WMA, down 8% from its peak; what charts say? - business-standard.com",-0.9648768901824951
-DRREDDY,2026-04-07,No evidence of generalized supply stress or inflationary transmission in essential food commodities - business-standard.com,-0.7699611186981201
-DRREDDY,2026-04-07,"TCS Q4 preview: Profit may rise 14% YoY; AI, deal wins key monitorables - business-standard.com",0.7535569071769714
-DRREDDY,2026-04-07,"Government of India announces the sale of one dated security for a notified amount of ₹34,000 crore - business-standard.com",-0.9242982864379883
-DRREDDY,2026-04-07,Board of BLUECLOUDS approves acquisition of Global Impx Inc. - business-standard.com,-0.9311233758926392
-DRREDDY,2026-04-07,Yen nears 160 as dollar strength and oil surge intensify pressure - business-standard.com,-0.7276647686958313
-DRREDDY,2026-04-07,India's 10-year yield eases near 7% mark as RBI remains in focus - business-standard.com,-0.6340800523757935
-DRREDDY,2026-04-06,Barometers trade with significant gains; consumer durable shares jumps - business-standard.com,0.634514570236206
-DRREDDY,2026-04-06,Vertex Securities Share Price Partly Paidup - business-standard.com,-0.9430538415908813
-DRREDDY,2026-04-06,"Mahanagar Gas Ltd soars 1.13%, Gains for third straight session - business-standard.com",0.9084708094596863
-DRREDDY,2026-04-06,"Quick Wrap: Nifty Financial Services Index records a surge of 2.34%, NIFTY climbs 1.12% - business-standard.com",0.8649388551712036
-DRREDDY,2026-04-07,Metal stocks up 22% from Mar lows; Analyst sees up to 18% upside in these 3 - business-standard.com,0.9528912901878357
-DRREDDY,2026-04-06,"Summer crops sowing edges up, sharp spurt in pulses acreage - business-standard.com",-0.7839694023132324
-DRREDDY,2026-04-06,Central Bank of India up for third straight session - business-standard.com,-0.8801356554031372
-DRREDDY,2026-04-06,"Reliance slips 4%; stock hits over 10-month low, m-cap falls below ₹18 trn - business-standard.com",-0.9506584405899048
-DRREDDY,2026-04-06,"FPI, MF positioning leaves HDFC Bank vulnerable to further downside - business-standard.com",-0.5289297103881836
-DRREDDY,2026-04-07,KPI Green Energy Ltd Slips 2.82% - business-standard.com,-0.9557231068611145
-DRREDDY,2026-04-07,Markets set on favourable FY27 base; Iran war ceasefire key trigger: MOFSL - business-standard.com,-0.8726372718811035
-DRREDDY,2026-04-07,Godrej Consumer gains on double-digit Q4 growth outlook - business-standard.com,-0.7434005737304688
-DRREDDY,2026-04-06,SEDEMAC Mechatronics jumps 11% to all-time high on record ECU sales growth - business-standard.com,0.9345356822013855
-DRREDDY,2026-04-06,US dollar index speculative net longs hold around one-year high - business-standard.com,-0.7438322901725769
-DRREDDY,2026-04-06,Oracle names Schneider Electric's Maxson as CFO amid soaring AI spending - business-standard.com,-0.8685322999954224
-DRREDDY,2026-04-06,Dmart gains on reporting healthy Q4 business update; store count reaches 500 - business-standard.com,0.9164861440658569
-DRREDDY,2026-04-07,Swan Defence jumps after securing green shipbuilding order - business-standard.com,0.7203810214996338
-DRREDDY,2026-04-06,Great Eastern Shipping gains 4% on contract to sell Tanker 'Jag Prakash' - business-standard.com,0.9186360836029053
-DRREDDY,2026-04-06,"Trent Q4FY26 results: Revenue up 20% at ₹4,937 cr on high consumer spending - business-standard.com",0.9513106942176819
-DRREDDY,2026-04-06,Barometers trade sideways; FMCG shares decline - business-standard.com,-0.9306617379188538
-DRREDDY,2026-04-06,Take Solutions launches Rs 5 cr Innovation Fund - business-standard.com,-0.8800212144851685
-DRREDDY,2026-04-06,Zydus Wellness zooms 19% on heavy volumes; stock nears record high - business-standard.com,0.8894010186195374
-DRREDDY,2026-04-06,Larsen & Toubro gains 3%; stock up 13% from March low - business-standard.com,0.9453648328781128
-DRREDDY,2026-04-06,RBI cancels Shirpur Merchants' Co-op Bank licence over poor finances - business-standard.com,-0.941153883934021
-DRREDDY,2026-04-06,Every $10 rise in oil above $90/bbl may hit Nifty earnings by 3%: Bernstein - business-standard.com,-0.8500698208808899
-DRREDDY,2026-04-06,Mkts rise over 1% on truce hopes; bank stocks lead rally as oil prices ease - business-standard.com,0.60830157995224
-DRREDDY,2026-04-06,Jaiprakash Power Ventures Ltd rises for third straight session - business-standard.com,0.694979190826416
-DRREDDY,2026-04-06,India's forex reserves fall around 30 billion in March - business-standard.com,-0.9522153735160828
-DRREDDY,2026-04-06,Bharti Airtel deploys 4300 new 5G sites across UP East - business-standard.com,-0.6999677419662476
-DRREDDY,2026-04-06,"Bank stocks mixed after Q4 update: BoB, BoM jump; HDFC Bank, IndusInd slip - business-standard.com",-0.7013976573944092
-DRREDDY,2026-04-07,INR stays supported following RBI initiatives - business-standard.com,0.6172307133674622
-DRREDDY,2026-04-06,Nifty April futures trade at premium - business-standard.com,-0.8886277079582214
-DRREDDY,2026-04-06,RP-Sanjiv Goenka Group stk RPSG Ventures up 102% in 7 days amid IPL frenzy - business-standard.com,0.9424110651016235
-DRREDDY,2026-04-06,INR regains momentum following RBI initiatives - business-standard.com,0.8024806380271912
-DRREDDY,2026-04-07,PTC India edges higher after Crisil Ratings revises rating outlook to 'negative' - business-standard.com,-0.8032673597335815
-DRREDDY,2026-04-06,Volumes spurt at EIH Ltd counter - business-standard.com,-0.9308892488479614
-DRREDDY,2026-04-06,CDs emerge as key Q4 funding source for banks despite elevated rates - business-standard.com,0.6337069869041443
-DRREDDY,2026-04-06,Union Bank of India rises as domestic advances grow 10% YoY in Q4 - business-standard.com,0.9275879263877869
-DRREDDY,2026-04-06,Hyatt ties up with Brigade Group for Hyatt House Bengaluru Devanahalli - business-standard.com,-0.9068387150764465
-DRREDDY,2026-04-06,BMW overtakes Mercedes in Q1 as luxury car market shows flat growth - business-standard.com,-0.44768190383911133
-DRREDDY,2026-04-06,GeM records ₹18.4 trillion GMV since inception; MSMEs dominate FY26 - business-standard.com,-0.9336869716644287
-DRREDDY,2026-04-07,India achieves highest-ever annual wind energy capacity addition of 6.05 GW in 2025-26 - business-standard.com,0.6716435551643372
-DRREDDY,2026-04-06,L&T Finance climbs after strong retail disbursement in Q4 - business-standard.com,0.9345772862434387
-DRREDDY,2026-04-07,Gujarat Pipavav Port sees container volumes dip 3.5% YoY in Q4 FY26 - business-standard.com,-0.934195339679718
-DRREDDY,2026-04-05,Payments industry must target beyond growth as RBI shifts focus to risk - business-standard.com,-0.8851993083953857
-DRREDDY,2026-04-05,"Amul turnover crosses ₹1 trillion mark on domestic, global growth - business-standard.com",-0.866288959980011
-DRREDDY,2026-04-06,Utkarsh SFB gains on reporting strong disbursement growth in Q4 FY26 - business-standard.com,0.9404715299606323
-DRREDDY,2026-04-06,The long reach of West Asia war: Sheffield of the East waits and watches - business-standard.com,-0.9323080778121948
-DRREDDY,2026-04-07,Titagarh Rail Systems share jump 13%; check what's fuelling investor demand - business-standard.com,-0.8779138326644897
-DRREDDY,2026-04-06,"Mixed Q4 seen for top realty players amid launch delays, softer sentiment - business-standard.com",-0.8800351619720459
-DRREDDY,2026-04-06,Sun Pharmaceutical Industries Ltd eases for fifth straight session - business-standard.com,-0.3937443196773529
-DRREDDY,2026-04-06,HDFC Bank gains as average deposits climb 13% YoY in Q4 FY26 - business-standard.com,0.9299106001853943
-DRREDDY,2026-04-07,CreditAccess Grameen gains on strong Q4 business update - business-standard.com,0.8788933157920837
-DRREDDY,2026-04-06,Plan to focus on capacity building for independent directors: Sebi chief - business-standard.com,-0.930877685546875
-DRREDDY,2026-04-06,Rajasthan govt set to achieve record mustard production this year - business-standard.com,-0.5408883094787598
-DRREDDY,2026-04-06,Deep Industries secures contract worth Rs 59 cr from ONGC Corpn - business-standard.com,0.5780002474784851
-DRREDDY,2026-04-06,Max Estates FY26 pre-sales dip slightly despite strong Q4 demand - business-standard.com,-0.965914249420166
-DRREDDY,2026-04-06,Razorpay partners OpenAI to enable instant payments in AI-built apps - business-standard.com,-0.8358582854270935
-DRREDDY,2026-04-06,Sensex drops 400 pts; pharma shares decline - business-standard.com,-0.9428840279579163
-DRREDDY,2026-04-06,Texmaco Rail & Engineering wins order of Rs 39 cr from Southern Railways - business-standard.com,0.8696701526641846
-DRREDDY,2026-04-05,Hindustan Copper eyeing 'Navratna' status amid expansion push: CMD - business-standard.com,-0.8182059526443481
-DRREDDY,2026-04-07,Karnataka 2nd PUC Result 2026: When and how to download result once out? - business-standard.com,-0.9484745860099792
-DRREDDY,2026-04-07,NSE SME Vivid Electromech powers onto bourses with muted gains - business-standard.com,-0.6847196817398071
-DRREDDY,2026-04-06,Bank margins to stay under pressure; recovery seen from FY27: Ambit - business-standard.com,0.9054466485977173
-DRREDDY,2026-04-07,B.R.Goyal Infra secures Rs 23-cr MPRDC order - business-standard.com,-0.9091683030128479
-DRREDDY,2026-04-05,SAIL's Rourkela plant posts record output across key units in FY26 - business-standard.com,0.771415114402771
-DRREDDY,2026-04-07,Shyam Metalics up 8% on posting Q4 update; stainless steel sales up 59% YoY - business-standard.com,0.9474509954452515
-DRREDDY,2026-04-06,DMart Q4 growth strong on store additions; margins remain under pressure - business-standard.com,0.8895084261894226
-DRREDDY,2026-04-06,Union Bank of India gains for third straight session - business-standard.com,-0.5424132943153381
-DRREDDY,2026-04-06,"UAE's Valura.ai makes India debut, onboards 1,000 wealth advisors - business-standard.com",-0.8715636134147644
-DRREDDY,2026-04-07,"Jubilant Food vs Devyani: This QSR stock can rebound upto 33%, says analyst - business-standard.com",0.9506679177284241
-DRREDDY,2026-04-06,Krebs Biochemicals & Industries Ltd leads gainers in 'B' group - business-standard.com,0.8276706337928772
-DRREDDY,2026-04-06,Jefferies initiates coverage on Titagarh Rail and Jupiter Wagons; check TP - business-standard.com,-0.9376532435417175
-DRREDDY,2026-04-06,"Auto retail sales up 13.3% at 2,96,71,064 units in FY26: FADA - business-standard.com",0.9279650449752808
-DRREDDY,2026-04-06,India's services PMI rises at softest pace in 14 months in March - business-standard.com,0.5352354645729065
-DRREDDY,2026-04-06,NMDC climbs after hiking iron ore prices - business-standard.com,0.5730512738227844
-DRREDDY,2026-04-06,"India's food systems need a reset for Viksit Bharat, rethink policy focus - business-standard.com",-0.9183731079101562
-DRREDDY,2026-04-07,"Jubilant Food vs Devyani: This QSR stock can rally up to 33%, says analyst - business-standard.com",0.946084201335907
-DRREDDY,2026-04-06,Bajaj Alternate Investment Management secures PMS licence from Sebi - business-standard.com,-0.6667142510414124
-DRREDDY,2026-04-06,IEX sees highest-ever electricity traded volume of 141 BU in FY26 - business-standard.com,-0.8856167793273926
-DRREDDY,2026-04-06,India's misunderstood shock: Lessons from the pandemic on what not to do - business-standard.com,-0.925632894039154
-DRREDDY,2026-04-06,Foreign firms lease record 9.1 mn sq ft office space for GCCs in Q1: CBRE - business-standard.com,-0.8949573636054993
-DRREDDY,2026-04-06,Senco Gold surges on strong Q4 revenue driven by wedding season - business-standard.com,0.945658802986145
-DRREDDY,2026-04-06,"Apeejay Surrendra Park Hotels launches properties in Darjeeling, Gangtok and Katra - business-standard.com",-0.8970344662666321
-DRREDDY,2026-04-06,TMPV gains as JLR Q4 wholesale volumes surge 61% QoQ - business-standard.com,0.9133104085922241
-DRREDDY,2026-04-07,"Upside for MCX Gold capped at ₹165,000; Silver may consolidate: Analysts - business-standard.com",-0.8395316004753113
-DRREDDY,2026-04-06,"Why Sensex cut losses, up 1,400 pts from day's low; Nifty at 22,968? - business-standard.com",0.9094837307929993
-DRREDDY,2026-04-07,"Punjab Board Class 5, 8 Result 2026: When will PSEB release marksheet? - business-standard.com",-0.9533786177635193
-DRREDDY,2026-04-06,"India Inc pay hikes pegged at 9.1% in FY26, says Deloitte report - business-standard.com",0.40521129965782166
-DRREDDY,2026-04-06,Services PMI falls to 14-month low in March amid West Asia conflict - business-standard.com,-0.9607662558555603
-DRREDDY,2026-04-06,Air India CEO Campbell Wilson steps down amid continuing losses: Report - business-standard.com,-0.6921120285987854
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+DRREDDY,2020-02-07,Dr.Reddy's Laboratories Says Unit Enters Amendment Of License Agreement With Aurigene Discovery Technologies - Reuters,Reuters,2026-10-19,live,positive,0.763033926486969,0.011336457915604115,0.22562965750694275,0.7516974685713649
+DRREDDY,2020-06-28,Expect to launch 25 products in US this fiscal: Dr Reddy's Laboratories - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.15297849476337433,0.008219092153012753,0.8388023972511292,0.14475940261036158
+DRREDDY,2020-07-29,"Dr Reddy's Labs Q1 Preview: Profit may decline on higher base, but revenue can grow over 5% - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.023667991161346436,0.9355674386024475,0.04076464846730232,-0.9118994474411011
+DRREDDY,2020-09-18,Dr. Reddy's Laboratories announces settlement with Celgene - Business Standard,Business Standard,2026-10-19,live,negative,0.051396433264017105,0.7966635823249817,0.15193994343280792,-0.7452671490609646
+DRREDDY,2021-05-14,"Dr Reddy's Labs to announce Q4 numbers today, here's what brokerages expect - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.027224965393543243,0.03066050447523594,0.9421145915985107,-0.0034355390816926956
+DRREDDY,2021-06-28,Dr Reddy's Labs share price gains over launch of COVID-19 treatment drug - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.87110835313797,0.024744540452957153,0.10414716601371765,0.8463638126850128
+DRREDDY,2022-01-04,Dr Reddy's to launch generic COVID-19 Merck drug at about 50 cents a pill - Reuters,Reuters,2026-10-19,live,neutral,0.17314039170742035,0.008272448554635048,0.8185871839523315,0.1648679431527853
+DRREDDY,2022-03-09,Indian companies stay put in Russia but pharma exports could be hit - Reuters,Reuters,2026-10-19,live,negative,0.023962875828146935,0.9373922348022461,0.038644835352897644,-0.9134293589740992
+DRREDDY,2022-06-30,JB Pharma acquires four brands from Dr Reddy's Laboratories - Business Standard,Business Standard,2026-10-19,live,neutral,0.1635173261165619,0.010168692097067833,0.8263139724731445,0.15334863401949406
+DRREDDY,2022-07-27,Dr Reddy’s Q1 Results Preview | Profit may rise 47-50%; revenue likely to grow 11-12% - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9407684206962585,0.013611102476716042,0.04562053456902504,0.9271573182195425
+DRREDDY,2023-05-05,Dr Reddy's Laboratories launches Regadenoson injection in US market - Business Standard,Business Standard,2026-10-19,live,neutral,0.17302854359149933,0.010785871185362339,0.8161855340003967,0.162242672406137
+DRREDDY,2023-09-29,Dr Reddy's Laboratories incorporates wholly-owned subsidiary in Jamaica; stock rises 1% - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.6448532342910767,0.025072429329156876,0.3300743103027344,0.6197808049619198
+DRREDDY,2023-10-06,"Analyst call tracker: Analysts increasingly bearish on Divi's Labs, Dr Reddy's - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.01558239571750164,0.8422543406486511,0.14216332137584686,-0.8266719449311495
+DRREDDY,2023-10-26,"Dr Reddy's Q2 preview: Revenue, net profit to rise as Revlimid sales to boost US growth - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9053103923797607,0.010892507620155811,0.08379707485437393,0.8944178847596049
+DRREDDY,2023-10-30,Brokerages predict multiple headwinds for Dr Reddy's Labs despite stellar Q2 results - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.020979035645723343,0.919570803642273,0.05945015326142311,-0.8985917679965496
+DRREDDY,2024-01-31,Dr Reddy's Laboratories' CEO expects 'double digit' growth in most markets in coming quarters - CNBC,CNBC,2026-10-19,live,neutral,0.45635557174682617,0.021304134279489517,0.5223402976989746,0.43505143746733665
+DRREDDY,2024-02-12,Dr Reddy's Laboratories R&D facility gets VAI status in USFDA inspection - Business Standard,Business Standard,2026-10-19,live,positive,0.8541958332061768,0.007069400046020746,0.13873477280139923,0.847126433160156
+DRREDDY,2024-03-28,Dr Reddy’s gains on distribution tie-up with Sanofi Healthcare - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.8606555461883545,0.013381116092205048,0.12596330046653748,0.8472744300961494
+DRREDDY,2024-05-07,"Dr Reddy's Q4 results: Net profit up 36% to Rs 1,307 crore, Rs 40/share dividend declared - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9509073495864868,0.020892120897769928,0.02820047177374363,0.9300152286887169
+DRREDDY,2024-05-07,India's Dr Reddy's expects healthy products pipeline in North America for FY25 - Reuters,Reuters,2026-10-19,live,positive,0.9143381118774414,0.009293033741414547,0.0763687863945961,0.9050450781360269
+DRREDDY,2024-05-18,Dr Reddy's Lab Andhra Pradesh facility gets 2 USFDA observations - Business Standard,Business Standard,2026-10-19,live,positive,0.900338888168335,0.009142747148871422,0.09051842987537384,0.8911961410194635
+DRREDDY,2024-05-19,"Drug makers Dr Reddy's, Sun Pharma, Aurobindo recall products in US market - Business Standard",Business Standard,2026-10-19,live,negative,0.02379799075424671,0.5468987822532654,0.42930322885513306,-0.5231007914990187
+DRREDDY,2024-06-07,Dr Reddy's Laboratories eyes acquisitions to drive growth in India - Business Standard,Business Standard,2026-10-19,live,positive,0.7873052358627319,0.006736718118190765,0.2059580236673355,0.7805685177445412
+DRREDDY,2024-06-13,Dr. Reddy's shares rise as arm signs license agreement with Ingenus Pharmaceuticals - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.8019342422485352,0.029680294916033745,0.16838547587394714,0.7722539473325014
+DRREDDY,2024-07-04,Dr Reddy's Lab pushes the pedal to touch 1.5 billion patients by FY30 - Business Standard,Business Standard,2026-10-19,live,positive,0.7531201839447021,0.008291534148156643,0.23858824372291565,0.7448286497965455
+DRREDDY,2024-07-25,Dr Reddy's Labs Q1 Preview: Market share loss in products to drag profits - Business Standard,Business Standard,2026-10-19,live,negative,0.009670491330325603,0.9682064056396484,0.022123116999864578,-0.9585359143093228
+DRREDDY,2024-07-30,Dr. Reddy's Laboratories: India 'will be our number one market' - CNBC,CNBC,2026-10-19,live,neutral,0.4618106186389923,0.009491869248449802,0.5286975502967834,0.4523187493905425
+DRREDDY,2024-09-10,"India's Mahindra, Dr Reddy's deny conflict in payments to India regulatory chief's husband - Reuters",Reuters,2026-10-19,live,neutral,0.05343031883239746,0.027859924361109734,0.9187096953392029,0.025570394471287727
+DRREDDY,2024-11-05,"India's Dr Reddy's Q2 profit drops on acquisition cost, impairment charge - Reuters",Reuters,2026-10-19,live,negative,0.00704638147726655,0.9679789543151855,0.024974659085273743,-0.960932572837919
+DRREDDY,2024-11-07,Dr Reddy's Laboratories CEO on becoming a market leader in India - CNBC,CNBC,2026-10-19,live,neutral,0.12950675189495087,0.010254262015223503,0.8602390289306641,0.11925248987972736
+DRREDDY,2025-01-23,Indian drugmaker Dr Reddy's shares slide after Q3 profit miss - Reuters,Reuters,2026-10-19,live,negative,0.007736089173704386,0.9557716250419617,0.03649231418967247,-0.9480355358682573
+DRREDDY,2025-01-24,Dr Reddy's Laboratories CEO: 'very positive outlook' for Indian pharma industry despite Trump 2.0 - CNBC,CNBC,2026-10-19,live,positive,0.8957212567329407,0.011506685987114906,0.09277204424142838,0.8842145707458258
+DRREDDY,2025-05-09,India's Dr Reddy's says open to boosting U.S. manufacturing as tariff threat looms - Reuters,Reuters,2026-10-19,live,positive,0.9164901971817017,0.013060730881989002,0.07044912874698639,0.9034294662997127
+DRREDDY,2025-07-23,Dr Reddy's kicks off India big pharma earnings with narrow profit miss - Reuters,Reuters,2026-10-19,live,negative,0.06989436596632004,0.7176229357719421,0.21248270571231842,-0.6477285698056221
+DRREDDY,2025-07-23,Dr Reddy’s (DRRD IN) Joins Generic Drugmakers Readying Semaglutide Launch - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.09643148630857468,0.010524248704314232,0.8930442929267883,0.08590723760426044
+DRREDDY,2025-07-23,"India's Dr Reddy's plans to launch generic obesity drugs in 87 countries next year, CEO says - Reuters",Reuters,2026-10-19,live,neutral,0.2942667305469513,0.007932622916996479,0.6978006958961487,0.2863341076299548
+DRREDDY,2025-09-24,"Indian drugmakers Dr Reddy's, Hetero to sell generic HIV prevention drug for $40 a year - Reuters",Reuters,2026-10-19,live,neutral,0.37702521681785583,0.009142450988292694,0.6138323545455933,0.36788276582956314
+DRREDDY,2025-10-24,India's Dr Reddy's misses profit view on stiff US competition for Revlimid generic - Reuters,Reuters,2026-10-19,live,neutral,0.12353900820016861,0.35363638401031494,0.5228245854377747,-0.23009737581014633
+DRREDDY,2025-10-29,India's Dr Reddy's falls as weight-loss drug faces regulatory setback in Canada - Reuters,Reuters,2026-10-19,live,negative,0.013916273601353168,0.9626466631889343,0.023437006399035454,-0.9487303895875812
+DRREDDY,2025-12-07,India's Dr Reddy's signs licensing pact to sell Immutep's cancer drug - Reuters,Reuters,2026-10-19,live,positive,0.7344917058944702,0.008195643313229084,0.25731268525123596,0.7262960625812411
+DRREDDY,2026-01-21,"Dr Reddy's gets regulatory nod to sell generic Ozempic in India, targets 12 million pens in first year - Reuters",Reuters,2026-10-19,live,positive,0.6300048828125,0.009785043075680733,0.3602100610733032,0.6202198397368193
+DRREDDY,2026-02-17,"Dr Reddy’s says Wegovy copycat to be priced competitively, with 50–60% discounts feasible - Reuters",Reuters,2026-10-19,live,neutral,0.1445401906967163,0.008284498937427998,0.8471753001213074,0.1362556917592883
+DRREDDY,2026-02-25,"EXCLUSIVE: Indian drugmaker Dr Reddy's gearing up for March debut of generic semaglutide Obeda, sources say - Reuters",Reuters,2026-10-19,live,positive,0.6456227898597717,0.011598031967878342,0.34277912974357605,0.6340247578918934
+DRREDDY,2026-05-12,Dr. Reddy’s to Launch Generic Ozempic in Canada Within Days - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.08941341191530228,0.010313276201486588,0.900273323059082,0.07910013571381569
+DRREDDY,2026-05-12,"India's Dr Reddy's plans generic Ozempic launch in Canada this month, eyes India semaglutide tablet roll-out - Reuters",Reuters,2026-10-19,live,neutral,0.14781571924686432,0.009756731800734997,0.8424275517463684,0.13805898744612932
+DRREDDY,2026-05-13,Dr Reddy’s Laboratories - Business Standard,Business Standard,2026-10-19,live,neutral,0.06212737783789635,0.013394180685281754,0.9244784116744995,0.048733197152614594
+DRREDDY,2026-05-13,"Dr Reddy’s set to scale up Semaglutide generic franchise, trims oncology pipeline - pharma.economictimes.indiatimes.com",pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.16273504495620728,0.010538066737353802,0.8267268538475037,0.15219697821885347
+DRREDDY,2026-05-16,"Dr. Reddy’s launches generic semaglutide injection in Canada, first approval in a G7 market - pharma.economictimes.indiatimes.com",pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.33067214488983154,0.010122368112206459,0.659205436706543,0.3205497767776251
+DRREDDY,2026-06-14,Dr Reddy’s launches blood cancer generic in US - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.08196419477462769,0.013139916583895683,0.9048959612846375,0.068824278190732
+DRREDDY,2026-06-29,Dr Reddy’s biologics plant gets 7 observations from FDA - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.17177265882492065,0.014959854073822498,0.8132675290107727,0.15681280475109816
+DRREDDY,2026-07-09,Dr. Reddy’s Generic Ozempic Supplies Delayed on Ingredient Issue - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.021731866523623466,0.10179252922534943,0.8764756321907043,-0.08006066270172596
+DRREDDY,2026-07-09,India's Dr Reddy's says semaglutide shipping disruption to last until at least late October - Reuters,Reuters,2026-10-19,live,negative,0.014242677949368954,0.7989121079444885,0.18684524297714233,-0.7846694299951196
+DRREDDY,2026-07-09,India's Torrent Pharma recalls select semaglutide pens after Dr. Reddy's notice - Reuters,Reuters,2026-10-19,live,negative,0.013054236769676208,0.889354407787323,0.09759125113487244,-0.8763001710176468
+DRREDDY,2026-07-10,Dr Reddy’s halts semaglutide supply over impurities in API - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,negative,0.015550071373581886,0.8309811949729919,0.1534687727689743,-0.8154311235994101
+DRREDDY,2026-07-10,India's Dr Reddy's posts worst week in 3 years as semaglutide setback stokes growth fears - Reuters,Reuters,2026-10-19,live,negative,0.01679028943181038,0.9209585189819336,0.06225115433335304,-0.9041682295501232
+DRREDDY,2026-07-22,India's Dr Reddy's warns of wider semaglutide supply impact after profit miss - Reuters,Reuters,2026-10-19,live,negative,0.03117556869983673,0.8494199514389038,0.11940451711416245,-0.8182443827390671
+DRREDDY,2026-07-23,Dr Reddy’s says Semaglutide supply disruption may weigh on new market rollouts but remains bullish on dema.. - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,negative,0.030506256967782974,0.727362334728241,0.24213139712810516,-0.696856077760458
+DRREDDY,2026-07-23,Dr Reddy’s says Tariffs may push up Co’s US drug prices; shifting manufacturing not practical - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,negative,0.0677800327539444,0.7771400809288025,0.1550798863172531,-0.7093600481748581
+DRREDDY,2026-07-23,"Indian drugmaker Dr Reddy's slips on margin, semaglutide supply woes - Reuters",Reuters,2026-10-19,live,negative,0.012123593129217625,0.9535139799118042,0.03436240553855896,-0.9413903867825866
+DRREDDY,2026-07-30,Dr. Reddy’s Sees Weight-Loss Drug Boosting Growth After Setback - Bloomberg.com,Bloomberg.com,2026-10-19,live,positive,0.7715204954147339,0.012226281687617302,0.21625323593616486,0.7592942137271166
+DRREDDY,2026-08-01,Dr Reddy’s wins FDA nod for rituximab biosimilar - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.41609159111976624,0.013918176293373108,0.5699902176856995,0.4021734148263931
+DRREDDY,2026-08-10,Dr Reddy’s to discontinue marketing of Novartis in-licensed brands from October - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.01884077675640583,0.0769166350364685,0.9042425751686096,-0.058075858280062675
+DRREDDY,2026-08-14,Dr Reddy’s API chief Deepak Sapra quits after 23 years - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.018773550167679787,0.36231014132499695,0.6189163327217102,-0.34353659115731716
+DRREDDY,2026-08-16,Dr Reddy’s formulations facility gets 4 observations from FDA - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.15487922728061676,0.01221414189785719,0.8329066634178162,0.14266508538275957
+DRREDDY,2026-08-26,Dr Reddy’s wins marketing approval for Abatacept biosimilar in India - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,positive,0.5738930702209473,0.012492272071540356,0.4136146605014801,0.5614007981494069
+DRREDDY,2026-09-02,Dr. Reddy's Laboratories Limited - Reuters,Reuters,2026-10-19,live,neutral,0.03394420072436333,0.02227732539176941,0.9437784552574158,0.011666875332593918
+DRREDDY,2026-09-16,Dr Reddy’s launches cancer blockbuster nivolumab biosimilar in India - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.19395603239536285,0.00993693619966507,0.7961069941520691,0.18401909619569778
+DRREDDY,2026-09-17,Dr Reddy's signs India distribution deal for Takeda's Qdenga dengue vaccine - Reuters,Reuters,2026-10-19,live,neutral,0.11882376670837402,0.011114480905234814,0.8700617551803589,0.10770928580313921
+DRREDDY,2026-10-09,Dr Reddy’s Laboratories receives two observations for Andhra Pradesh facility - ET Manufacturing,ET Manufacturing,2026-10-19,live,neutral,0.08459736406803131,0.017100216820836067,0.898302435874939,0.06749714724719524
+DRREDDY,2026-10-09,Dr+reddy's+laboratories - Indiatimes,Indiatimes,2026-10-19,live,neutral,0.05369304493069649,0.01668371818959713,0.9296232461929321,0.03700932674109936
+DRREDDY,2026-10-12,"Taking Stock: Bears back in action; Nifty below 22,400, Sensex slumps 548 pts as IT, FMCG drag - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.043439943343400955,0.7068696618080139,0.2496904581785202,-0.663429718464613
+DRREDDY,2026-10-13,FSSAI plans tighter rules for qcom platforms amid food safety crackdown - Business Standard,Business Standard,2026-10-19,live,neutral,0.3191826343536377,0.06592416763305664,0.6148931980133057,0.25325846672058105
+DRREDDY,2026-10-13,"Trade Spotlight: How should you trade Gabriel India, Dr Reddys Labs, MCX India, Craftsman Automation,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.05051594600081444,0.01469505112618208,0.9347890615463257,0.03582089487463236
+DRREDDY,2026-10-13,Zydus’ Keytruda biosimilar application accepted for review by FDA - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.103041872382164,0.014292548410594463,0.8826655745506287,0.08874932397156954
+DRREDDY,2026-10-14,21 strategic PSU stake sales in 26 years as IDBI Bank joins the list - Business Standard,,2026-10-18,legacy,neutral,0.25973206758499146,0.008577931672334671,0.731689989566803,0.2511541359126568
+DRREDDY,2026-10-14,AST SPACEMOBILE SHARE PRICE DROP TODAY - The Economic Times,,2026-10-18,legacy,negative,0.009565548039972782,0.9276431202888489,0.06279123574495316,-0.9180775722488761
+DRREDDY,2026-10-14,Alternative accommodation gains ground among Indian travellers: Report - Business Standard,,2026-10-18,legacy,positive,0.8453956246376038,0.012670573778450489,0.14193382859230042,0.8327250508591533
+DRREDDY,2026-10-14,Asian stocks rise as chipmakers rebound ahead of US inflation data - Business Standard,,2026-10-18,legacy,positive,0.7196680307388306,0.19695143401622772,0.08338057994842529,0.5227165967226028
+DRREDDY,2026-10-14,Aurobindo joins speciality pharma race as Indian drugmakers return to branded US play - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.1735573410987854,0.013334177434444427,0.813108503818512,0.16022316366434097
+DRREDDY,2026-10-14,"BHEL gains 5%, hits new high post Q2 results; stock up 100% in one year - Business Standard",,2026-10-18,legacy,positive,0.9488521218299866,0.02245272882282734,0.02869516983628273,0.9263993930071592
+DRREDDY,2026-10-14,CCEA clears largest financial sector FDI: Fairfax to take reins at IDBI - Business Standard,,2026-10-18,legacy,neutral,0.04427136108279228,0.015766402706503868,0.9399622082710266,0.028504958376288414
+DRREDDY,2026-10-14,"Groww's net profit up 54%, equity derivatives' share in revenue dips - Business Standard",,2026-10-18,legacy,negative,0.2569679021835327,0.7212508916854858,0.02178124524652958,-0.4642829895019531
+DRREDDY,2026-10-14,"Mutual funds' September 2026 portfolio moves: Top 5 stocks bought and sold across large-, mid- and small-cap segments - Livemint",Livemint,2026-10-19,live,neutral,0.27860692143440247,0.01474728062748909,0.7066457867622375,0.2638596408069134
+DRREDDY,2026-10-14,Repatriation and overseas bets drain India's record gross FDI inflows - Business Standard,Business Standard,2026-10-19,live,negative,0.023247413337230682,0.9521309733390808,0.02462158352136612,-0.9288835600018501
+DRREDDY,2026-10-14,"Small IPOs deliver 17% gains in 2026, beat larger issues: Kotak report - Business Standard",,2026-10-18,legacy,positive,0.9042757749557495,0.013774152845144272,0.08195018768310547,0.8905016221106052
+DRREDDY,2026-10-14,"Wipro Q2 results preview: Revenue growth likely over 8%, margins in focus - Business Standard",,2026-10-18,legacy,positive,0.8577678203582764,0.012230262160301208,0.13000193238258362,0.8455375581979752
+DRREDDY,2026-10-15,AI agents accessed Indian firms' records without authorisation: Cert-In - Business Standard,,2026-10-18,legacy,neutral,0.023291517049074173,0.0273758377879858,0.9493326544761658,-0.004084320738911629
+DRREDDY,2026-10-15,Anthropic's Q3 revenue jumps to $16.8 billion ahead of planned IPO - Business Standard,,2026-10-18,legacy,positive,0.9205164313316345,0.04500969499349594,0.034474004060029984,0.8755067363381386
+DRREDDY,2026-10-15,Anthropic's revenue rises 45% to $16.8 billion in Q3 ahead of IPO - Business Standard,,2026-10-18,legacy,positive,0.9502149820327759,0.02160298265516758,0.02818201668560505,0.9286119993776083
+DRREDDY,2026-10-15,Asian stocks slide as US inflation stokes rate fears; Kospi plunges 8% - Business Standard,,2026-10-18,legacy,negative,0.0134505620226264,0.9646667242050171,0.02188275195658207,-0.9512161621823907
+DRREDDY,2026-10-15,Beyond Generation: RE: DIALOGUES 2026 Puts India's Power Distribution and Infrastructure Challenges in Focus - Business Standard,,2026-10-18,legacy,neutral,0.2913292944431305,0.010128769092261791,0.6985419392585754,0.2812005253508687
+DRREDDY,2026-10-15,Consumer durables buck FPI exodus in FY27; festive demand to test momentum - Business Standard,,2026-10-18,legacy,positive,0.948423445224762,0.021129103377461433,0.030447373166680336,0.9272943418473005
+DRREDDY,2026-10-15,Datanomics: Delhi Metro's restrictions hit a 10-year high in 2026 - Business Standard,,2026-10-18,legacy,positive,0.8881701231002808,0.01684577204287052,0.09498409181833267,0.8713243510574102
+DRREDDY,2026-10-15,"FM holds bilateral talks with UK, Swiss, Japanese counterparts in Bangkok - Business Standard",,2026-10-18,legacy,neutral,0.41360676288604736,0.012338224798440933,0.574055016040802,0.40126853808760643
+DRREDDY,2026-10-15,"Fairfax Financial plans to merge Digit, IIFL Capital with IDBI Bank - Business Standard",,2026-10-18,legacy,neutral,0.055615272372961044,0.010427315719425678,0.9339573383331299,0.045187956653535366
+DRREDDY,2026-10-15,Getting AI into infrastructure - Business Standard,,2026-10-18,legacy,neutral,0.09246204048395157,0.013373772613704205,0.8941641449928284,0.07908826787024736
+DRREDDY,2026-10-15,HSBC India commits INR 200 crore to advance financial literacy - Business Standard,,2026-10-18,legacy,positive,0.6744987964630127,0.007527580950409174,0.31797367334365845,0.6669712155126035
+DRREDDY,2026-10-15,High nuclear power costs may hinder wider adoption in India: ReNew CEO - Business Standard,,2026-10-18,legacy,neutral,0.04417414963245392,0.040026914328336716,0.9157989025115967,0.004147235304117203
+DRREDDY,2026-10-15,Higher mutual fund yields lift ICICI Prudential AMC's Q2FY27 earnings - Business Standard,,2026-10-18,legacy,positive,0.9362341165542603,0.043259602040052414,0.020506206899881363,0.8929745145142078
+DRREDDY,2026-10-15,IDBI Bank ownership change: Should customers worry about their deposits? - Business Standard,,2026-10-18,legacy,neutral,0.03161894902586937,0.03958667069673538,0.9287943840026855,-0.007967721670866013
+DRREDDY,2026-10-15,In freefall! Yes Bank crashes 20% after SC ruling on AT-1 bond write-off - Business Standard,,2026-10-18,legacy,negative,0.030468188226222992,0.955965518951416,0.01356629841029644,-0.925497330725193
+DRREDDY,2026-10-15,India's trade deficit widens to $30.21 bn in Sep from $26.86 bn in August - Business Standard,,2026-10-18,legacy,positive,0.8965612649917603,0.0841253250837326,0.019313471391797066,0.8124359399080276
+DRREDDY,2026-10-15,"Inflation puts FMCG firms' margins at risk; analysts back Marico, Nestle - Business Standard",,2026-10-18,legacy,negative,0.023811636492609978,0.9438499212265015,0.03233849257230759,-0.9200382847338915
+DRREDDY,2026-10-15,"Leela Palaces Hotels rallies 10%, hits new high on healthy Q2 results - Business Standard",,2026-10-18,legacy,positive,0.9450520277023315,0.024695653468370438,0.030252330005168915,0.9203563742339611
+DRREDDY,2026-10-15,"Logistics, QC stocks: A proxy play for consumption theme? Analysts decode - Business Standard",,2026-10-18,legacy,neutral,0.04313778877258301,0.025388803333044052,0.9314733743667603,0.017748985439538956
+DRREDDY,2026-10-15,Mankind Pharma to acquire 70% in Belgian biotech firm for €48 million - Business Standard,,2026-10-18,legacy,neutral,0.10674015432596207,0.008903132751584053,0.8843567371368408,0.09783702157437801
+DRREDDY,2026-10-15,"Nifty sees best day in 4 months, rally remains confined to largecap stocks - Business Standard",,2026-10-18,legacy,neutral,0.09563003480434418,0.24676750600337982,0.6576024889945984,-0.15113747119903564
+DRREDDY,2026-10-15,Pernod Ricard India sales grow 19% in Sep quarter; IPO plan awaits approval - Business Standard,,2026-10-18,legacy,positive,0.9029562473297119,0.013188550248742104,0.08385521918535233,0.8897676970809698
+DRREDDY,2026-10-15,"Q2 results today: Wipro, Nestle India, 47 others to announce earnings - Business Standard",,2026-10-18,legacy,neutral,0.15970927476882935,0.018504837527871132,0.8217858672142029,0.1412044372409582
+DRREDDY,2026-10-15,Sky Gold surges 26% in October; stock up over 3-fold thus far in FY27 - Business Standard,,2026-10-18,legacy,positive,0.9489439725875854,0.017416829243302345,0.033639103174209595,0.9315271433442831
+DRREDDY,2026-10-15,"Stocks to Watch Today: IDBI Bank, Dr Reddys Labs, RIL, Enviro Infra, Om Power Transmission, Bajaj... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.02894042618572712,0.021757889539003372,0.9493017196655273,0.007182536646723747
+DRREDDY,2026-10-15,"Stocks to watch: IDBI Bank, Reliance, Wipro, TechM, Nestle, Jio Financial - Business Standard",Business Standard,2026-10-19,live,neutral,0.02939782105386257,0.022128615528345108,0.9484735131263733,0.007269205525517464
+DRREDDY,2026-10-15,Takeda partners Dr Reddy's to launch dengue vaccine Qdenga in India from 2027 - The Economic Times,,2026-10-18,legacy,neutral,0.2345527857542038,0.008888802491128445,0.7565584182739258,0.22566398326307535
+DRREDDY,2026-10-15,"Tata Communications Q2 profit rises 86% to ₹341 crore, revenue up 9.6% - Business Standard",,2026-10-18,legacy,positive,0.9521146416664124,0.023788323625922203,0.024097001180052757,0.9283263180404902
+DRREDDY,2026-10-15,"Tonbo Imaging IPO subscribed 4 times on Day 1, led by strong NII demand - Business Standard",,2026-10-18,legacy,positive,0.9477904438972473,0.016080506145954132,0.03612903878092766,0.9317099377512932
+DRREDDY,2026-10-16,"'Cert-In alert on AI agents an early warning, no major financial loss' - Business Standard",,2026-10-18,legacy,neutral,0.05061114951968193,0.13122446835041046,0.8181643486022949,-0.08061331883072853
+DRREDDY,2026-10-16,"3 children, teacher killed in Oregon school shooting; shooter dead - Business Standard",,2026-10-18,legacy,negative,0.014750523492693901,0.902773380279541,0.08247621357440948,-0.8880228567868471
+DRREDDY,2026-10-16,AI drives 75% of orders on ecom platform Meesho via personalised ranking - Business Standard,,2026-10-18,legacy,neutral,0.10227276384830475,0.008703989908099174,0.8890232443809509,0.09356877394020557
+DRREDDY,2026-10-16,Beyond the sell-off: What an MSCI downgrade threat could mean for Indonesia - Business Standard,,2026-10-18,legacy,negative,0.03683808818459511,0.6936967372894287,0.2694651484489441,-0.6568586491048336
+DRREDDY,2026-10-16,Cert-In advisory on AI calls for tighter cybersecurity controls: Experts - Business Standard,,2026-10-18,legacy,neutral,0.12212514132261276,0.015894204378128052,0.861980676651001,0.10623093694448471
+DRREDDY,2026-10-16,China's trade barriers remain a hurdle to closer bilateral ties: Sitharaman - Business Standard,,2026-10-18,legacy,neutral,0.1799173206090927,0.015816347673535347,0.8042663335800171,0.16410097293555737
+DRREDDY,2026-10-16,"Climate, floods, war: Why sweets are getting costlier this festival season - Business Standard",,2026-10-18,legacy,neutral,0.052003487944602966,0.08797713369131088,0.860019326210022,-0.035973645746707916
+DRREDDY,2026-10-16,Cyient DLM tanks 19% on huge volumes post Q2 results; here's why - Business Standard,,2026-10-18,legacy,positive,0.5045562386512756,0.060168683528900146,0.4352751076221466,0.4443875551223755
+DRREDDY,2026-10-16,DMart share price hits over 3-year low; down 28% from April high - Business Standard,,2026-10-18,legacy,negative,0.01157261710613966,0.9753772020339966,0.01305009052157402,-0.9638045849278569
+DRREDDY,2026-10-16,Datanomics: India's capital productivity has declined in recent years - Business Standard,,2026-10-18,legacy,negative,0.00714462623000145,0.9676705002784729,0.02518480084836483,-0.9605258740484715
+DRREDDY,2026-10-16,Deakin forges landmark partnerships with CII and LinkedIn to advance India's future-ready workforce - Business Standard,,2026-10-18,legacy,positive,0.9220239520072937,0.00960600096732378,0.06836999207735062,0.9124179510399699
+DRREDDY,2026-10-16,Dr Reddy’s formulations facility gets three observations from FDA - pharma.economictimes.indiatimes.com,pharma.economictimes.indiatimes.com,2026-10-19,live,neutral,0.0947270542383194,0.013399401679635048,0.8918735980987549,0.08132765255868435
+DRREDDY,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.7371003031730652,0.07562079280614853,0.18727897107601166,0.6614795103669167
+DRREDDY,2026-10-16,"FM Sitharaman, JBIC governor discuss clean energy and critical minerals - Business Standard",,2026-10-18,legacy,neutral,0.0735384076833725,0.012024898082017899,0.9144366979598999,0.0615135096013546
+DRREDDY,2026-10-16,"FSSAI acts against Radisson Blu, e-commerce platforms over safety lapses - Business Standard",,2026-10-18,legacy,neutral,0.0712612122297287,0.3056160807609558,0.6231226921081543,-0.2343548685312271
+DRREDDY,2026-10-16,"Federal Bank net profit surges 45% to record ₹1,386 crore on higher NII - Business Standard",,2026-10-18,legacy,positive,0.9399955868721008,0.031898412853479385,0.028106018900871277,0.9080971740186214
+DRREDDY,2026-10-16,Festival demand already picking up: Canara Bank CEO Brajesh Kumar Singh - Business Standard,,2026-10-18,legacy,neutral,0.47217991948127747,0.015554207377135754,0.5122658610343933,0.4566257121041417
+DRREDDY,2026-10-16,Global investors firm India BFSI bets with over $20 bn in deals since 2025 - Business Standard,,2026-10-18,legacy,neutral,0.49007219076156616,0.01506791077554226,0.494859904050827,0.4750042799860239
+DRREDDY,2026-10-16,HDFC Bank Q2 preview: Single-digit PAT growth likely; margin pressure seen - Business Standard,,2026-10-18,legacy,positive,0.9337934255599976,0.02956746332347393,0.036639124155044556,0.9042259622365236
+DRREDDY,2026-10-16,HDFC Life Insurance sheds 3% post Q2 results; brokerages remain upbeat - Business Standard,,2026-10-18,legacy,negative,0.03769541531801224,0.9470598101615906,0.015244823880493641,-0.9093643948435783
+DRREDDY,2026-10-16,Humble feni's second coming: Can Goans turn it into the next tequila? - Business Standard,,2026-10-18,legacy,neutral,0.1023358553647995,0.011703239753842354,0.8859608769416809,0.09063261561095715
+DRREDDY,2026-10-16,India Inc's FY27 profit growth estimates dip 700 bps since February - Business Standard,,2026-10-18,legacy,negative,0.02132328785955906,0.965565025806427,0.013111628592014313,-0.9442417379468679
+DRREDDY,2026-10-16,India overhauls drug patent guidelines to curb evergreening and speed up cheap generics - Livemint,Livemint,2026-10-19,live,neutral,0.2736726701259613,0.05211569741368294,0.6742116212844849,0.22155697271227837
+DRREDDY,2026-10-16,India wants to push rupee trade to help forex-starved nations: Sitharaman - Business Standard,,2026-10-18,legacy,neutral,0.25905996561050415,0.011629036627709866,0.7293109893798828,0.24743092898279428
+DRREDDY,2026-10-16,India's forex reserves fall for fifth straight week to $726 billion: RBI - Business Standard,,2026-10-18,legacy,negative,0.007939974777400494,0.9678979516029358,0.02416209690272808,-0.9599579768255353
+DRREDDY,2026-10-16,"Indian Hotels, Oriental Hotels rally up to 6%; what's driving hotel stocks? - Business Standard",,2026-10-18,legacy,positive,0.6385455131530762,0.025501428171992302,0.3359530568122864,0.6130440849810839
+DRREDDY,2026-10-16,Indian IT stocks post best weekly gain in 18 years amid global AI sell-off - Business Standard,,2026-10-18,legacy,positive,0.8766186237335205,0.09557468444108963,0.027806676924228668,0.7810439392924309
+DRREDDY,2026-10-16,InvoiceCloud Strengthens Global Innovation Hub in India with INR 350 Crore Three-Year Growth Plan - Business Standard,,2026-10-18,legacy,positive,0.9339391589164734,0.008434556424617767,0.05762629583477974,0.9255046024918556
+DRREDDY,2026-10-16,Jio Financial shares drop 2.5% as Q2 PAT halves; MOFSL cuts FY27 estimates - Business Standard,,2026-10-18,legacy,negative,0.007981020957231522,0.9674938321113586,0.024525176733732224,-0.9595128111541271
+DRREDDY,2026-10-16,Katie Zacharia is out after 5 days as White House Press Secretary - Business Standard,,2026-10-18,legacy,neutral,0.029237978160381317,0.31682145595550537,0.6539406180381775,-0.28758347779512405
+DRREDDY,2026-10-16,"L & T Finance Records Highest Ever Consolidated PAT of Rs. 975 Crore for The Second Quarter Ended September 30, 2026, Up 33% Year-on-Year - Business Standard",,2026-10-18,legacy,positive,0.9488708972930908,0.02205437794327736,0.02907475084066391,0.9268165193498135
+DRREDDY,2026-10-16,NIF Global Presents GENNEXT: Three Bold Visions at Lakme Fashion Week x FDCI - Business Standard,,2026-10-18,legacy,neutral,0.16230858862400055,0.009395484812557697,0.8282959461212158,0.15291310381144285
+DRREDDY,2026-10-16,Nature Conference India 2026 at MAHE Manipal puts infectious disease threats under the scientific spotlight - Business Standard,,2026-10-18,legacy,neutral,0.11027702689170837,0.01481295470148325,0.8749100565910339,0.09546407219022512
+DRREDDY,2026-10-16,"Nifty conquers 20-DMA, now eyes 50-DMA breakout at 23,500: Tech analysts - Business Standard",,2026-10-18,legacy,neutral,0.10767420381307602,0.01722261868417263,0.8751031756401062,0.09045158512890339
+DRREDDY,2026-10-16,"Of bots, watts, and water - Business Standard",,2026-10-18,legacy,neutral,0.033416882157325745,0.017227856442332268,0.9493551850318909,0.016189025714993477
+DRREDDY,2026-10-16,OfBusiness's AI-powered BidAssist expands reach beyond India's big cities - Business Standard,,2026-10-18,legacy,positive,0.6435827612876892,0.007879284210503101,0.34853804111480713,0.6357034770771861
+DRREDDY,2026-10-16,"Punjab National Bank Q2 results: Net profit rises 13% to ₹5,532 crore - Business Standard",,2026-10-18,legacy,positive,0.9487924575805664,0.025322388857603073,0.02588515169918537,0.9234700687229633
+DRREDDY,2026-10-16,RBI approves amalgamation of Emirates NBD's Indian branches with RBL Bank - Business Standard,,2026-10-18,legacy,neutral,0.09568163752555847,0.011423102580010891,0.8928952217102051,0.08425853494554758
+DRREDDY,2026-10-16,"Reliance rebuts Musk's allegations, says rules apply equally to all - Business Standard",,2026-10-18,legacy,neutral,0.06217600405216217,0.05431714281439781,0.8835068941116333,0.007858861237764359
+DRREDDY,2026-10-16,"Sebi's IPO nod to Cult.fit, Eswari Global Metal, Sohan Lal Commodity - Business Standard",,2026-10-18,legacy,neutral,0.2144889533519745,0.00936578493565321,0.7761452198028564,0.20512316841632128
+DRREDDY,2026-10-16,Some parts of India facing overlap of floods and droughts: IIT study - Business Standard,,2026-10-18,legacy,neutral,0.040023960173130035,0.035600144416093826,0.9243759512901306,0.004423815757036209
+DRREDDY,2026-10-16,South Indian Bank aims 16% loan growth in FY27 amid West Asia war risks - Business Standard,,2026-10-18,legacy,positive,0.944010853767395,0.018733566626906395,0.037255577743053436,0.9252772871404886
+DRREDDY,2026-10-16,"Top 3 stocks to buy: Bajaj Finance, Dr Reddy's Lab, Grasim Industries by Sumeet Bagadia | Target price, stop-loss - Livemint",Livemint,2026-10-19,live,neutral,0.05592379719018936,0.01761864684522152,0.9264575242996216,0.03830515034496784
+DRREDDY,2026-10-16,"UPI politics, SIR protests and India’s inflation squeeze | Delhi Police | CEC | Macro Matters Ep 10 - Business Standard",,2026-10-18,legacy,neutral,0.020913954824209213,0.08830510824918747,0.8907809257507324,-0.06739115342497826
+DRREDDY,2026-10-16,Urban Company Q2 net loss widens to ₹182.48 crore; revenue up 41.4% - Business Standard,,2026-10-18,legacy,positive,0.9488388299942017,0.029787695035338402,0.021373506635427475,0.9190511349588633
+DRREDDY,2026-10-16,Wipro shares gain nearly 2% after Q2 results; brokerages remain bearish - Business Standard,,2026-10-18,legacy,positive,0.838028073310852,0.11880243569612503,0.04316946864128113,0.719225637614727
+DRREDDY,2026-10-17,Apple appoints Meta veteran Scott Tucker to lead global litigation - Business Standard,,2026-10-18,legacy,neutral,0.08197320997714996,0.017011763527989388,0.901015043258667,0.06496144644916058
+DRREDDY,2026-10-17,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.03676547110080719,0.02449806034564972,0.9387364387512207,0.01226741075515747
+DRREDDY,2026-10-17,"FSSAI acts against Priyagold maker for cattle bran in biscuits, 5 others - Business Standard",,2026-10-18,legacy,neutral,0.04359755665063858,0.45960304141044617,0.4967994689941406,-0.4160054847598076
+DRREDDY,2026-10-17,"FSSAI issues notices to Nestle, HUL over misleading food product claims - Business Standard",,2026-10-18,legacy,negative,0.01186427753418684,0.854842483997345,0.13329318165779114,-0.8429782064631581
+DRREDDY,2026-10-17,"FSSAI proposes curbs on added sugar in infant food, pesticide limits in tea - Business Standard",,2026-10-18,legacy,neutral,0.05186612159013748,0.04590526223182678,0.9022286534309387,0.0059608593583106995
+DRREDDY,2026-10-17,From Four Decades of Manufacturing to the Future of Sleep: How Homescapes Is Building a Complete Sleep Ecosystem - Business Standard,,2026-10-18,legacy,neutral,0.09968734532594681,0.01344651822000742,0.8868661522865295,0.08624082710593939
+DRREDDY,2026-10-17,"From Karmayogi to the World Stage: Dr. Hemant Garg Wins ""Excellence in AI for Public Policy"", Charts India's Path to the AI Big League - Business Standard",,2026-10-18,legacy,positive,0.6210764646530151,0.01082423236221075,0.3680993318557739,0.6102522322908044
+DRREDDY,2026-10-17,IPO-bound Sathya Agencies plans to strengthen presence in Karnataka - Business Standard,,2026-10-18,legacy,positive,0.9010261297225952,0.006737010553479195,0.09223692864179611,0.894289119169116
+DRREDDY,2026-10-17,India's internal security landscape changed irrevocably: Home Secretary - Business Standard,,2026-10-18,legacy,neutral,0.1127549484372139,0.14854632318019867,0.7386987209320068,-0.03579137474298477
+DRREDDY,2026-10-17,InvoiceCloud strengthens global innovation hub in India with ₹350 cr - Business Standard,,2026-10-18,legacy,positive,0.9424165487289429,0.010065033100545406,0.047518324106931686,0.9323515156283975
+DRREDDY,2026-10-17,"Ixigo reports ₹63 crore net profit, 13% revenue growth in Q2 FY27 - Business Standard",,2026-10-18,legacy,positive,0.8709455728530884,0.009798194281756878,0.11925628036260605,0.8611473785713315
+DRREDDY,2026-10-17,Mutual Fund Ownership - The Economic Times,,2026-10-18,legacy,neutral,0.037498027086257935,0.026988647878170013,0.9355133771896362,0.010509379208087921
+DRREDDY,2026-10-17,Onward Technologies Delivers its Strongest-Ever Quarter; Total Revenue up 22.2% and EBITDA up 33.7% YoY; Raises FY27 Outlook - Business Standard,,2026-10-18,legacy,positive,0.9538275599479675,0.02122514136135578,0.024947304278612137,0.9326024185866117
+DRREDDY,2026-10-17,Quarterly results of companies - Business Standard,,2026-10-18,legacy,neutral,0.024120111018419266,0.05849451571702957,0.9173853993415833,-0.034374404698610306
+DRREDDY,2026-10-17,"Rohit Sharma Joins Freyr Energy as its First Brand Ambassador; Launches 'Solar Ho, Toh Freyr Ho!' Campaign - Business Standard",,2026-10-18,legacy,neutral,0.17454902827739716,0.011288237757980824,0.8141627907752991,0.16326079051941633
+DRREDDY,2026-10-17,Unlocking the massive opportunities in real estate expansion - Business Standard,,2026-10-18,legacy,neutral,0.2708123028278351,0.009061971679329872,0.720125675201416,0.2617503311485052
+DRREDDY,2026-10-18,Crypto devices built to foil hackers may have come with spies inside - Business Standard,,2026-10-18,legacy,neutral,0.03140408173203468,0.19374169409275055,0.774854302406311,-0.16233761236071587
+DRREDDY,2026-10-18,"Earnings, crude oil, Jio IPO key monitorables for investors next week - Business Standard",,2026-10-18,legacy,neutral,0.033478714525699615,0.025387031957507133,0.9411342144012451,0.008091682568192482
+DRREDDY,2026-10-18,"Fragmented rules, missing incentives hold back India's green finance growth - Business Standard",,2026-10-18,legacy,negative,0.07024265080690384,0.7962819933891296,0.13347530364990234,-0.7260393425822258
+DRREDDY,2026-10-18,"Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint",Livemint,2026-10-19,live,positive,0.6336671710014343,0.02806326001882553,0.33826956152915955,0.6056039109826088
+DRREDDY,2026-10-18,Pharma haircare market in India finds its growth roots in young patients - Business Standard,Business Standard,2026-10-19,live,neutral,0.19232331216335297,0.008301585912704468,0.7993751168251038,0.1840217262506485
+DRREDDY,2026-10-18,Serious incident caused major fire at military base in Alberta: Canada's PM - Business Standard,,2026-10-18,legacy,neutral,0.03377583250403404,0.15078949928283691,0.8154346942901611,-0.11701366677880287
+DRREDDY,2026-10-19,India's pharmaceutical companies to report mixed results as domestic growth offsets pricing pressures - The Economic Times,The Economic Times,2026-10-19,live,negative,0.012134239077568054,0.9654355645179749,0.02243017591536045,-0.9533013254404068

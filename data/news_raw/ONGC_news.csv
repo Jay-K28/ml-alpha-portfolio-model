@@ -1,101 +1,160 @@
-ticker,date,headline,sentiment_score
-ONGC,2026-04-06,Deep Industries secures contract worth Rs 59 cr from ONGC Corpn - business-standard.com,0.5780002474784851
-ONGC,2026-04-04,Fire at ONGC Mumbai High platform injures 10; operations restored - business-standard.com,-0.7351205348968506
-ONGC,2026-04-01,"Stocks to buy today: Analyst at Kotak Sec bets on ONGC, Emmvee Photovoltaic - business-standard.com",-0.9359299540519714
-ONGC,2026-04-07,Deep Industries secures Rs 59-cr order from ONGC - business-standard.com,0.5946034789085388
-ONGC,2026-04-04,"Govt to call off Shipping Corp, CONCOR privatisation after Cabinet clears three big ticket projects - ET Infra",-0.662394106388092
-ONGC,2026-04-03,"Crude sustaining above $100 will push inflation beyond 6%, says HSBC - business-standard.com",-0.7779837846755981
-ONGC,2026-04-06,India’s stagnant 6% gas share: Why infra alone cannot drive the shift to 15% energy mix - ETGovernment.com,-0.8670242428779602
-ONGC,2026-04-02,FY27 Outlook: Geopolitical pressure and AI disruption set to reshape India Inc - ET CIO,0.8146294951438904
-ONGC,2026-04-06,Texmaco Rail & Engineering wins order of Rs 39 cr from Southern Railways - business-standard.com,0.8696701526641846
-ONGC,2026-04-07,GIFT Nifty indicates lower opening for equities; Trump hardens rhetoric on Iran war - business-standard.com,-0.8355684876441956
-ONGC,2026-04-06,Every $10 rise in oil above $90/bbl may hit Nifty earnings by 3%: Bernstein - business-standard.com,-0.8500698208808899
-ONGC,2026-04-02,"Steel, aluminium stocks slide amid reports of Trump's 25% tariff plan - business-standard.com",-0.9501570463180542
-ONGC,2026-04-05,Domestic OMCs to pay discounted rates to refiners amid fuel price freeze - business-standard.com,-0.9237368106842041
-ONGC,2026-04-02,"M&M, TVS Motor: BSE Auto slips 3% as brokerages flag demand, margin risks - business-standard.com",-0.964975118637085
-ONGC,2026-04-01,"Stocks to Watch today: Bharti Airtel, Adani Ports, PhysicsWallah, IndiGo - business-standard.com",-0.9467412829399109
-ONGC,2026-04-05,OIL ramps up crude production from Rajasthan's Thar amid energy crisis - business-standard.com,0.798783004283905
-ONGC,2026-04-01,"Dividend stocks: TVS Holdings, Ireda, 4 others to remain in focus today - business-standard.com",-0.9399150013923645
-ONGC,2026-04-04,Court sends Al-Falah group chairman to judicial custody in 2nd PMLA case - business-standard.com,-0.731360673904419
-ONGC,2026-04-04,"2 arrested, 1 injured in Dehradun encounter linked to Brigadier murder - business-standard.com",-0.714385449886322
-ONGC,2026-04-04,Hundreds fall ill after suspected water contamination in Jaipur locality - business-standard.com,-0.89006507396698
-ONGC,2026-04-04,Raid at Hyderabad graveyard uncovers hidden LPG canisters amid shortage - business-standard.com,-0.6295524835586548
-ONGC,2026-04-02,"ATF, LPG price hikes to pressure OMC margins; IOCL, BPCL hit: Nomura - business-standard.com",-0.740792453289032
-ONGC,2026-04-05,"An oil shock, a green opportunity for India's clean energy transition - business-standard.com",-0.6042400002479553
-ONGC,2017-03-24,"ONGC Share Price Today, ONGC Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9387437105178833
-ONGC,2024-08-05,"ONGC declares results for Q1 FY’25: Posts Net Profit of ₹ 8,938 Crore New Delhi, 5th August 2024 - bsmedia.business-standard.com",-0.899893581867218
-ONGC,2025-05-22,ONGC IN Equity 22May25 RU - bsmedia.business-standard.com,-0.9435282945632935
-ONGC,2014-03-15,ONGC: Oil & Natural Gas Corp Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9469504356384277
-ONGC,2017-08-02,Check out Oil and Natural Gas Corporation Ltd's stock price (ONGC-IN) in real time - CNBC,-0.9440411329269409
-ONGC,2025-01-31,India's ONGC misses Q3 profit estimates as lower realisations weigh - Reuters,-0.9170646667480469
-ONGC,2025-08-13,ONGC IN Equity 13Aug25 RU - bsmedia.business-standard.com,-0.946567177772522
-ONGC,2026-02-13,ONGC IN Equity 13Feb26 - bsmedia.business-standard.com,-0.9469334483146667
-ONGC,2024-11-11,"ONGC Q2 profit up 17.1% to ₹11,984 crore; dividend set at ₹6 per share - ET EnergyWorld",0.9492171406745911
-ONGC,2025-11-11,"ONGC Q2 net profit rises 28.2% to ₹12,615 crore; announces ₹6 interim dividend - ET EnergyWorld",0.9317245483398438
-ONGC,2024-05-20,ONGC declares results for FY'24; posts highest ever standalone net - bsmedia.business-standard.com,-0.5799776911735535
-ONGC,2026-02-13,"ONGC Q3 net steady at ₹8,372 cr despite softer oil prices - ET EnergyWorld",0.4903475046157837
-ONGC,2021-06-02,Stock Research Report for Oil and Natural Gas Corporation Ltd - economictimes.indiatimes.com,-0.9319944381713867
-ONGC,2025-11-11,ONGC IN Equity 11Nov25 RU - bsmedia.business-standard.com,-0.9441490173339844
-ONGC,2020-10-06,"ONGC Q1 Results: Profit drops 34% YoY to Rs 10,015 crore on lower prices - economictimes.indiatimes.com",-0.9702152609825134
-ONGC,2022-06-06,ONGC.NS - Reuters,-0.9426895976066589
-ONGC,2017-03-29,Oil And Natural Gas Corporation Ltd. - economictimes.indiatimes.com,-0.9406704902648926
-ONGC,2017-03-29,"ONGC Target Share Price, ONGC Share Price Forecast - economictimes.indiatimes.com",-0.94139164686203
-ONGC,2019-05-21,"ONGC to spend Rs 65,773 crore on ramping up production from 13 projects - ET EnergyWorld",0.7835083603858948
-ONGC,2020-04-01,"ONGC Q4 Results: Profit falls 53% YoY to Rs 5,701 crore - economictimes.indiatimes.com",-0.9480586647987366
-ONGC,2021-12-20,"ONGC Q3 Results: Cons PAT falls 19% YoY to Rs 8,622 crore; Rs 5 per share dividend announced - economictimes.indiatimes.com",-0.8924287557601929
-ONGC,2025-05-08,ONGC denies report on cancellation of Mumbai High Tender - ET EnergyWorld,-0.5716390609741211
-ONGC,2025-08-13,"ONGC Q1 net profit rises 18.2% to ₹11,554 crore on higher new well gas revenue - ET EnergyWorld",0.9518717527389526
-ONGC,2017-10-30,"ONGC could borrow Rs 25,000 crore to part fund HPCL acquisition: Moody's - ET EnergyWorld",-0.9160296320915222
-ONGC,2025-06-02,ONGC's downstream gains to cushion impact of lower oil prices: S&P Global Ratings - ET EnergyWorld,0.8627510070800781
-ONGC,2018-08-02,"ONGC first quarter net profit up 58 per cent at Rs 6,144 crore - ET EnergyWorld",0.9464182257652283
-ONGC,2019-08-23,ONGC to drill 46 wells in Mehsana Asset at the cost of Rs 500 crore - ET EnergyWorld,-0.7396677732467651
-ONGC,2019-11-21,"ONGC projects marginal rise in oil production, cuts gas output guidance from KG block - ET EnergyWorld",-0.9325186610221863
-ONGC,2019-08-07,"ONGC spending Rs 83,000 cr to execute 25 projects: Shashi Shanker, Chairman - ET EnergyWorld",-0.8257869482040405
-ONGC,2025-06-13,ONGC well blowout in Assam: Uncontrollable gas release continues - ET EnergyWorld,-0.5547919273376465
-ONGC,2017-05-24,"ONGC Videsh turns profitable, records Net Profit of Rs 701 crore in 2016-2017 - ET EnergyWorld",0.9300931692123413
-ONGC,2019-05-29,How bad really is ONGC’s financial health? - ET EnergyWorld,-0.5390569567680359
-ONGC,2018-09-14,ONGC VIDESH LIMITED - economictimes.indiatimes.com,-0.9398986101150513
-ONGC,2023-12-31,ONGC witnesses gradual decline in its workforce since 2015-16 - ETHRWorld.com,-0.9655914902687073
-ONGC,2017-10-18,"ongc bonus share issue: Latest News & Videos, Photos about ongc bonus share issue - economictimes.indiatimes.com",-0.9436638355255127
-ONGC,2019-01-04,"ONGC’s offshore drilling conversion project delayed by 70 months, cost overrun of Rs 715 crore - ET EnergyWorld",-0.9401306509971619
-ONGC,2023-04-07,"New gas pricing formula to impact realisations of ONGC, RIL: Report - ET EnergyWorld",-0.8880087733268738
-ONGC,2016-06-27,"RIL knew about KG-D6 and ONGC block connectivity in 2003, suggests regulatory filings by Niko Resources - ET EnergyWorld",-0.8301582336425781
-ONGC,2024-10-28,"ONGC head should be chairman of subsidiary HPCL, says synergy panel - ET EnergyWorld",-0.9397721290588379
-ONGC,2020-02-20,ONGC expects production to fall 3-4 per cent this fiscal - ET EnergyWorld,-0.9736829996109009
-ONGC,2019-02-14,"ONGC third quarter net profit up 64.76 per cent at Rs 8,263 crore - ET EnergyWorld",0.9468808770179749
-ONGC,2024-10-27,"ONGC head should be chairman of subsidiary HPCL, says synergy panel - ET Auto",-0.9417230486869812
-ONGC,2016-09-02,Shah panel report on RIL-ONGC dispute puts government in a fix over compensation - ET EnergyWorld,-0.5340311527252197
-ONGC,2019-04-26,ONGC’s oil production lowest in 16 years - ET EnergyWorld,-0.8585156798362732
-ONGC,2017-07-25,"​ONGC-HPCL merger to be completed this fiscal, Jaitley to head panel: Dharmendra Pradhan - ET EnergyWorld",-0.9439126253128052
-ONGC,2024-01-02,"ONGC seeks partners to cut gas flaring, zero methane emission by 2030 - ET EnergyWorld",0.5041452050209045
-ONGC,2026-01-30,"IEW 2026: ONGC stabilises output from mature fields; Mumbai High adds up to 4,000 bpd with BP support - ET EnergyWorld",0.93968266248703
-ONGC,2019-07-23,HPCL refuses to recognise ONGC as its promoter - ET EnergyWorld,-0.7174950838088989
-ONGC,2024-01-14,ONGC makes back-to-back gas discoveries in Mahanadi basin block - ET Auto,-0.847937285900116
-ONGC,2017-03-17,ONGC has discovered hydrocarbon deposit in Mizoram: Minister - ET EnergyWorld,-0.8793632984161377
-ONGC,2023-11-24,India plans to ask ONGC to consider rights issue to fund HPCL: Report - ET EnergyWorld,-0.8853713274002075
-ONGC,2018-04-06,"ONGC may gain Rs 1,500 crore in H1 with natural gas price hike - ET EnergyWorld",0.8645480871200562
-ONGC,2018-09-20,ONGC PETRO ADDITIONS LIMITED - economictimes.indiatimes.com,-0.9397427439689636
-ONGC,2018-02-04,HPCL head to retain designation if ONGC follows Coal India model - ET EnergyWorld,-0.9054949879646301
-ONGC,2018-01-30,Govt’s control over HPCL to remain strong post acquisition by ONGC: Moody’s - ET EnergyWorld,0.7432028651237488
-ONGC,2023-10-26,India's ONGC hopes to recover over $500 mln dividend as sanctions on Venezuela eased - Reuters,0.5787542462348938
-ONGC,2024-08-05,India's ONGC tops first-quarter profit estimates on strong fuel demand - Reuters,0.9329250454902649
-ONGC,2019-04-21,HPCL continues not to recognise ONGC as promoter; to face real test in selection of directors - ET EnergyWorld,-0.901615560054779
-ONGC,2017-07-27,ONGC first quarter net profit down 8.2 per cent - ET EnergyWorld,-0.9725582003593445
-ONGC,2025-05-22,"ONGC posts ₹35,610 crore standalone profit in FY25; crude output rises 0.9% - ET EnergyWorld",0.9340476393699646
-ONGC,2017-03-10,ONGC puts on production two oil wells discovered in Assam - ET EnergyWorld,-0.6438009738922119
-ONGC,2026-03-16,India Inc. Braces for Earnings Squeeze as Oil Stays Firm - bloomberg.com,-0.6477379202842712
-ONGC,2021-12-22,CAG pulls up ONGC for flaring high-pressure gas worth Rs 816 cr from Mumbai High Field - ET EnergyWorld,0.7789964079856873
-ONGC,2023-10-04,Check out Oil and Natural Gas Corporation Ltd's stock price (ONGC-IN&__SOURCE=OTS) in real time - CNBC,-0.9430727958679199
-ONGC,2022-12-26,ONGC board revamp on lines of McKinsey suggestions - ET EnergyWorld,-0.9011553525924683
-ONGC,2019-08-01,"Amid local protests against hydrocarbon projects, ONGC mulling drilling 104 wells in Cauvery asset - ET EnergyWorld",-0.5206966996192932
-ONGC,2024-09-16,"ONGC gets director to spearhead new energy, petrochem business - ET EnergyWorld",-0.6627513766288757
-ONGC,2018-01-10,ONGC to open India's 8th sedimentary basin with Kutch gas find - ET EnergyWorld,-0.7108446955680847
-ONGC,2023-12-18,ONGC planning to build 2 MTPA Green Ammonia capacity by 2035: Head - New Energy - ET EnergyWorld,-0.8394383192062378
-ONGC,2025-12-05,"India's ONGC moves closer to keeping 20% stake in Russia's Sakhalin-1 project, sources say - Reuters",-0.7268715500831604
-ONGC,2023-02-08,Ongc Videsh Limited - Reuters,-0.9415427446365356
-ONGC,2023-08-07,ONGC plans oil-to-chemical plants in pivot towards energy transition - ET EnergyWorld,-0.8168665170669556
-ONGC,2018-11-01,ONGC to draw perspective plan to integrate business - ET EnergyWorld,-0.7699950337409973
-ONGC,2019-07-17,CAG finds deficiencies in ONGC’s marine logistics operations - ET EnergyWorld,-0.9365834593772888
-ONGC,2015-07-22,"ONGC and rig operator’s negligence behind fire in ONGC oil well at Olpad, Surat - ET EnergyWorld",-0.8874039053916931
-ONGC,2024-08-30,India's ONGC seeks US approval to operate two projects in Venezuela - Reuters,0.6118189096450806
-ONGC,2026-01-16,"ONGC to board Shipping Corp, oil companies JV as equity partner - ET EnergyWorld",-0.886272668838501
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+ONGC,2020-04-01,"ONGC Q4 Results: Profit falls 53% YoY to Rs 5,701 crore - The Economic Times",The Economic Times,2026-10-19,live,negative,0.00937502272427082,0.9624912738800049,0.028133749961853027,-0.9531162511557341
+ONGC,2020-06-25,Ratio of India's public debt to GDP likely to scale a new high in FY21 - Business Standard,Business Standard,2026-10-19,live,positive,0.9450436234474182,0.023322293534874916,0.031634069979190826,0.9217213299125433
+ONGC,2020-09-24,ONGC shares slip 3% after fire at Surat plant - Livemint,Livemint,2026-10-19,live,negative,0.010734924115240574,0.9653268456459045,0.023938152939081192,-0.954591921530664
+ONGC,2020-10-09,"ONGC to explore oil, gas at Bikaner; block allocated for 3 years - ET Auto",,2026-10-18,legacy,neutral,0.3564718961715698,0.010046573355793953,0.633481502532959,0.34642532281577587
+ONGC,2021-01-07,L&T Hydrocarbon bags offshore contract from ONGC - Livemint,Livemint,2026-10-19,live,neutral,0.14732085168361664,0.010970492847263813,0.8417086601257324,0.13635035883635283
+ONGC,2021-01-08,L&T Hydrocarbon Engineering secures offshore contract from ONGC - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.8841531276702881,0.008481727913022041,0.10736517608165741,0.875671399757266
+ONGC,2021-04-25,"Oil ministry tells ONGC to sell oilfields; hive off drilling, other services - ET Auto",,2026-10-18,legacy,neutral,0.04316530004143715,0.04787852242588997,0.9089561104774475,-0.00471322238445282
+ONGC,2021-07-06,NHAI debt reaches new high of Rs 3.2 trillion; toll revenue dips 4% - Business Standard,Business Standard,2026-10-19,live,negative,0.11688254028558731,0.8663105368614197,0.016806907951831818,-0.7494279965758324
+ONGC,2021-09-03,"Norway wealth fund excludes India's ONGC, 3 Israeli firms from portfolio - Reuters",,2026-10-18,legacy,neutral,0.020748600363731384,0.08313986659049988,0.8961115479469299,-0.062391266226768494
+ONGC,2021-12-20,"ONGC Q3 Results: Cons PAT falls 19% YoY to Rs 8,622 crore; Rs 5 per share dividend announced - The Economic Times",,2026-10-18,legacy,negative,0.06954970210790634,0.913698673248291,0.016751620918512344,-0.8441489711403847
+ONGC,2021-12-21,Day trading guide for Tuesday: 8 stocks to buy or sell today — 21st December - Livemint,Livemint,2026-10-19,live,neutral,0.03210331127047539,0.029097188264131546,0.9387995004653931,0.0030061230063438416
+ONGC,2021-12-22,CAG pulls up ONGC for flaring high-pressure gas worth Rs 816 cr from Mumbai High Field - ET Auto,,2026-10-18,legacy,positive,0.8073585629463196,0.031566254794597626,0.1610751897096634,0.775792308151722
+ONGC,2022-01-05,Tata’s Nelco bags contract worth Rs 40 cr from ONGC to enhance communication infrastructure - ET Telecom,,2026-10-18,legacy,positive,0.892464280128479,0.008517061360180378,0.0990186482667923,0.8839472187682986
+ONGC,2022-01-09,"Exclusive Interview: Dr Alka Mittal, CMD, ONGC - ETHRWorld.com",ETHRWorld.com,2026-10-19,live,neutral,0.028267597779631615,0.021549412980675697,0.9501830339431763,0.006718184798955917
+ONGC,2022-02-12,"ONGC net profit surges seven-fold to Rs 8,764 cr in Q3 - ET Auto",,2026-10-18,legacy,positive,0.9436222910881042,0.0260293111205101,0.030348414555191994,0.9175929799675941
+ONGC,2022-03-10,India's ONGC fails to get bids in its tender to sell Russian oil -sources - Reuters,,2026-10-18,legacy,negative,0.02022513747215271,0.8758043050765991,0.10397050529718399,-0.8555791676044464
+ONGC,2022-04-20,"Pomila Jaspal shatters glass ceiling, becomes 1st woman Director (Fin) at ONGC - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,neutral,0.07926168292760849,0.05692996457219124,0.8638083338737488,0.02233171835541725
+ONGC,2022-06-06,ONGC.NS - Reuters,,2026-10-18,legacy,neutral,0.02082071825861931,0.03648974001407623,0.9426895976066589,-0.015669021755456924
+ONGC,2022-08-04,How ONGC is skilling its workforce to become future ready - ETHRWorld.com,,2026-10-18,legacy,neutral,0.1554676741361618,0.010962137021124363,0.8335702419281006,0.14450553711503744
+ONGC,2022-08-13,"ONGC's net profit surges 3x to Rs 15,206 crore in June quarter - Business Standard",,2026-10-18,legacy,positive,0.9380388855934143,0.03163830190896988,0.030322855338454247,0.9064005836844444
+ONGC,2022-08-17,ONGC signs agreement with ExxonMobil for deepwater exploration in India - Reuters,,2026-10-18,legacy,positive,0.8702952265739441,0.011719000525772572,0.11798572540283203,0.8585762260481715
+ONGC,2022-09-26,India ONGC gets better price for oil under new rules - Reuters,,2026-10-18,legacy,neutral,0.20982173085212708,0.015867652371525764,0.7743106484413147,0.1939540784806013
+ONGC,2022-09-28,Ongc: Gas price review panel seeks more time to submit its report - ET EnergyWorld,,2026-10-18,legacy,neutral,0.0682598203420639,0.011857260949909687,0.9198828935623169,0.05640255939215422
+ONGC,2022-10-17,EXCLUSIVE India's ONGC eyes stake in Russian entity managing Sakhalin 1 -sources - Reuters,,2026-10-18,legacy,neutral,0.041296280920505524,0.023990826681256294,0.9347128868103027,0.01730545423924923
+ONGC,2023-01-02,"ONGC ‘Sagar Samrat’ starts Oil and Gas production in Arabian Sea New Delhi, 02 January 2023 - Business Standard",,2026-10-18,legacy,neutral,0.07207382470369339,0.01280699297785759,0.9151191711425781,0.0592668317258358
+ONGC,2023-02-08,Ongc Videsh Limited - Reuters,,2026-10-18,legacy,neutral,0.026582414284348488,0.031874898821115494,0.9415427446365356,-0.005292484536767006
+ONGC,2023-03-08,"Bulls ride PSE index to historic peak, half of index stocks on breakouts - Business Standard",Business Standard,2026-10-19,live,positive,0.6761137247085571,0.045480869710445404,0.27840539813041687,0.6306328549981117
+ONGC,2023-04-07,"New gas pricing formula to impact realisations of ONGC, RIL: Report - ET EnergyWorld",,2026-10-18,legacy,neutral,0.10279403626918793,0.009197190403938293,0.8880087733268738,0.09359684586524963
+ONGC,2023-04-09,"CNG, PNG prices drop, which oil and gas stocks to buy? - Livemint",Livemint,2026-10-19,live,neutral,0.046437863260507584,0.13713839650154114,0.816423773765564,-0.09070053324103355
+ONGC,2023-04-26,ONGC planning to invest Rs 1 trillion to expand production capacity: Report - Business Standard,,2026-10-18,legacy,neutral,0.1816527247428894,0.008862640708684921,0.809484601020813,0.17279008403420448
+ONGC,2023-05-05,Manish Patil joins ONGC as Director - HR - ETHRWorld.com,,2026-10-18,legacy,neutral,0.03304281458258629,0.022867225110530853,0.9440898895263672,0.010175589472055435
+ONGC,2023-05-11,"ONGC discovers crude oil, natural gas in in two blocks in Mumbai offshore - Business Standard",,2026-10-18,legacy,neutral,0.052339427173137665,0.023560555651783943,0.9241000413894653,0.02877887152135372
+ONGC,2023-05-11,"Sebi's SCORES platform resolves 2,071 complaints against companies in April - Business Standard",Business Standard,2026-10-19,live,negative,0.037668630480766296,0.7502869963645935,0.2120443433523178,-0.7126183658838272
+ONGC,2023-05-12,National Technology Day: Celebrating tech advancements in HR - ETHRWorld.com,ETHRWorld.com,2026-10-19,live,neutral,0.12011929601430893,0.011531615629792213,0.8683490753173828,0.10858768038451672
+ONGC,2023-05-26,ONGC to pay Rs 50 lakh damages for crude oil leak in Bharuch district - Business Standard,,2026-10-18,legacy,negative,0.05794031545519829,0.8989471197128296,0.043112561106681824,-0.8410068042576313
+ONGC,2023-06-08,"Apeejay Surrendra Park Hotels announces the launch of Zone by The Park at Pathankot, Punjab - ET HospitalityWorld",ET HospitalityWorld,2026-10-19,live,neutral,0.1714412271976471,0.007972313091158867,0.8205864429473877,0.16346891410648823
+ONGC,2023-07-17,"ONGC revamp: New director to spearhead new energy, petrochemicals business - ET EnergyWorld",,2026-10-18,legacy,neutral,0.17569111287593842,0.008767398074269295,0.8155414462089539,0.16692371480166912
+ONGC,2023-07-17,"Reliance Industries, HDFC Bank lift Indian shares to fresh highs - Reuters",Reuters,2026-10-19,live,positive,0.6369462609291077,0.03126394376158714,0.33178985118865967,0.6056823171675205
+ONGC,2023-07-19,Day trading guide for today: Six buy or sell stocks on Wednesday - July 19 - Livemint,Livemint,2026-10-19,live,neutral,0.03145746514201164,0.02342679537832737,0.9451157450675964,0.008030669763684273
+ONGC,2023-08-04,"FinMin approves Maharatna status for Oil India, ONGC Videsh gets Navratna - Business Standard",Business Standard,2026-10-19,live,neutral,0.2708140015602112,0.009392687119543552,0.7197933197021484,0.26142131444066763
+ONGC,2023-08-07,ONGC plans oil-to-chemical plants in pivot towards energy transition - ET EnergyWorld,,2026-10-18,legacy,neutral,0.1761171519756317,0.007016295567154884,0.8168665170669556,0.16910085640847683
+ONGC,2023-08-10,"SJVN signs pacts with ONGC, Sambhar Salts to set up solar projects, parks - Business Standard",Business Standard,2026-10-19,live,positive,0.810254693031311,0.007351637817919254,0.18239369988441467,0.8029030552133918
+ONGC,2023-08-12,"ONGC Q1 net profit drops 34% on lower oil prices, output - ET Auto",,2026-10-18,legacy,negative,0.007958666421473026,0.9739564657211304,0.01808495633304119,-0.9659977992996573
+ONGC,2023-08-19,Indian energy company ONGC Videsh secures 3-yr extension to explore South China Sea - Reuters,,2026-10-18,legacy,positive,0.764506459236145,0.011863422580063343,0.2236301600933075,0.7526430366560817
+ONGC,2023-09-01,"ONGC, Oil India rally up to 6% after government hikes natural gas price - Business Standard",,2026-10-18,legacy,positive,0.855049729347229,0.09651894122362137,0.04843132942914963,0.7585307881236076
+ONGC,2023-09-10,ONGC to pay for Uran oil leak - ET Auto,,2026-10-18,legacy,negative,0.10999806225299835,0.5076602697372437,0.3823417127132416,-0.3976622074842453
+ONGC,2023-09-15,National Engineers’ Day: Insights from Engineers turned HR Leaders - ETHRWorld.com,ETHRWorld.com,2026-10-19,live,neutral,0.04729576036334038,0.025131510570645332,0.9275727272033691,0.022164249792695045
+ONGC,2023-09-19,India's ONGC willing to wait to regain oil from Russian project - Reuters,,2026-10-18,legacy,neutral,0.09026511758565903,0.03279770538210869,0.8769371509552002,0.05746741220355034
+ONGC,2023-09-24,"After BPCL, ONGC signs up HPCL for sale of oil from Mumbai offshore fields - Business Standard",,2026-10-18,legacy,neutral,0.32817116379737854,0.010376435704529285,0.6614524126052856,0.31779472809284925
+ONGC,2023-11-24,"L&T, RIL, AU Small Finance Bank: Chris Wood rejigs India equity portfolio - Business Standard",Business Standard,2026-10-19,live,neutral,0.06355952471494675,0.01278410293161869,0.9236563444137573,0.050775421783328056
+ONGC,2023-11-26,"ONGC charges premium over Brent in oil deals with BPCL, HPCL - ET Auto",,2026-10-18,legacy,neutral,0.19002269208431244,0.013996611349284649,0.79598069190979,0.1760260807350278
+ONGC,2023-11-27,"ONGC charges premium over Brent in oil deals with BPCL, HPCL - energymea.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.06842353194952011,0.015493234619498253,0.9160832166671753,0.05293029733002186
+ONGC,2023-12-19,Energy stocks power India's blue-chip indexes to new highs - Reuters,Reuters,2026-10-19,live,positive,0.6896536350250244,0.030087603256106377,0.28025877475738525,0.659566031768918
+ONGC,2024-01-04,"ONGC hits over 7-year high, up 3% on winning seven oil exploration areas - Business Standard",,2026-10-18,legacy,positive,0.9489498138427734,0.018569208681583405,0.03248094767332077,0.93038060516119
+ONGC,2024-01-08,ONGC commences oil production in KG basin deep-water block - Livemint,Livemint,2026-10-19,live,neutral,0.12021841108798981,0.009123539552092552,0.8706580996513367,0.11109487153589725
+ONGC,2024-01-14,ONGC makes back-to-back gas discoveries in Mahanadi basin block - ET Auto,,2026-10-18,legacy,neutral,0.14183008670806885,0.010232515633106232,0.8479374051094055,0.13159757107496262
+ONGC,2024-01-15,ONGC hits 7-year high; jumps 9% in 2 days on discovering major gas reserves - Business Standard,,2026-10-18,legacy,positive,0.9380808472633362,0.0255911722779274,0.03632799908518791,0.9124896749854088
+ONGC,2024-02-10,"ONGC Profit Drops 14% Amid Low Oil Prices, But Beats Estimate - Bloomberg.com",,2026-10-18,legacy,negative,0.010689378716051579,0.9392916560173035,0.05001898109912872,-0.9286022773012519
+ONGC,2024-03-07,L&T bags order from ONGC for offshore gas compressor project - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.9029006361961365,0.01149787101894617,0.08560138940811157,0.8914027651771903
+ONGC,2024-03-28,Larsen & Toubro Ltd News - Business Standard,Business Standard,2026-10-19,live,neutral,0.02798803523182869,0.030025849118828773,0.9419861435890198,-0.002037813887000084
+ONGC,2024-03-31,"FY24 Review | Bajaj Auto, NTPC, among top 10 Nifty 50 performers, deliver hefty 80-140% returns in last 12 months - Livemint",Livemint,2026-10-19,live,positive,0.9142366051673889,0.011768958531320095,0.07399450242519379,0.9024676466360688
+ONGC,2024-04-04,"Financials, IT power Indian shares to record closing high ahead of RBI rate decision - Reuters",Reuters,2026-10-19,live,positive,0.6845906972885132,0.040368396788835526,0.275040864944458,0.6442223004996777
+ONGC,2024-04-04,"ONGC, Oil India dip 4% on profit booking after hike in windfall tax - Business Standard",,2026-10-18,legacy,negative,0.38526612520217896,0.5749934911727905,0.03974032402038574,-0.18972736597061157
+ONGC,2024-05-20,"ONGC Q4 results: Net profit rises 78% to Rs 11,526 cr, dividend announced - Business Standard",,2026-10-18,legacy,positive,0.9418190717697144,0.02529025636613369,0.0328906811773777,0.9165288154035807
+ONGC,2024-06-13,L&T share price gains after bagging large offshore order from ONGC - Business Standard,Business Standard,2026-10-19,live,positive,0.8828727006912231,0.06940575689077377,0.04772156476974487,0.8134669438004494
+ONGC,2024-06-15,"ONGC, Oil India Ltd to gain as Govt cuts windfall tax on crude oil - ET Auto",,2026-10-18,legacy,positive,0.9202697277069092,0.04621025174856186,0.03352007642388344,0.8740594759583473
+ONGC,2024-07-02,Larsen & Toubro shares surge over 2% on reports of securing $4 billion Saudi Aramco contract for Jafurah Gas project - Livemint,Livemint,2026-10-19,live,positive,0.907580554485321,0.05704990029335022,0.03536961227655411,0.8505306541919708
+ONGC,2024-07-08,"Mahanagar Gas increases CNG and domestic PNG prices in Mumbai, Report: Check latest rates IGL and Gujarat Gas - Livemint",Livemint,2026-10-19,live,neutral,0.16661451756954193,0.02899567224085331,0.8043897747993469,0.13761884532868862
+ONGC,2024-07-09,ICICI Prudential MF launches India's first oil & gas ETF: Should you invest - Business Standard,Business Standard,2026-10-19,live,neutral,0.1301705688238144,0.009126347489655018,0.8607031106948853,0.12104422133415937
+ONGC,2024-07-15,ONGC stock hits new high after a gap of over 10 years; up 39% from June low - Business Standard,,2026-10-18,legacy,positive,0.9522312879562378,0.022200465202331543,0.025568336248397827,0.9300308227539062
+ONGC,2024-07-16,Hardeep Puri hails ONGC's highest-ever share surge - ET Auto,,2026-10-18,legacy,neutral,0.46062612533569336,0.025355050340294838,0.5140187740325928,0.4352710749953985
+ONGC,2024-07-18,ONGC hits 52-week high on commencing production of Coal Bed Methane block - Business Standard,,2026-10-18,legacy,positive,0.8798695802688599,0.01675199158489704,0.10337845981121063,0.8631175886839628
+ONGC,2024-08-05,India's ONGC tops first-quarter profit estimates on strong fuel demand - Reuters,,2026-10-18,legacy,positive,0.9329250454902649,0.034201670438051224,0.03287334740161896,0.8987233750522137
+ONGC,2024-08-30,India's ONGC seeks US approval to operate two projects in Venezuela - Reuters,,2026-10-18,legacy,positive,0.6118188500404358,0.012218297459185123,0.37596285343170166,0.5996005525812507
+ONGC,2024-09-03,ONGC News: India's Top Oil Explorer May Set Up Refinery in Uttar Pradesh - Bloomberg.com,,2026-10-18,legacy,neutral,0.094040647149086,0.01250051986426115,0.8934588432312012,0.08154012728482485
+ONGC,2024-09-05,Govt weighs forming a new Shipping Services Company to help state-run firms buy and runs ships - ET Infra,ET Infra,2026-10-19,live,neutral,0.3422572612762451,0.008935783989727497,0.6488069295883179,0.3333214772865176
+ONGC,2024-09-16,"ONGC gets director to spearhead new energy, petrochem business - ET EnergyWorld",,2026-10-18,legacy,neutral,0.3275463879108429,0.00970213208347559,0.6627514362335205,0.3178442558273673
+ONGC,2024-10-08,ONGC – India’s flagship Energy major - ET EnergyWorld,,2026-10-18,legacy,neutral,0.15193571150302887,0.00973142683506012,0.8383328914642334,0.14220428466796875
+ONGC,2024-10-27,"ONGC head should be chairman of subsidiary HPCL, says synergy panel - ET Auto",,2026-10-18,legacy,neutral,0.04427364841103554,0.014003343880176544,0.9417230486869812,0.030270304530858994
+ONGC,2024-12-25,Regular employees in CPSEs dropped 3.1% to 0.81 million in FY24: Survey - Business Standard,Business Standard,2026-10-19,live,negative,0.006644355598837137,0.9745404124259949,0.018815260380506516,-0.9678960568271577
+ONGC,2025-01-07,"ONGC rally, Reliance recovery prop up Indian shares after Monday's slump - Reuters",,2026-10-18,legacy,positive,0.8937771320343018,0.058228783309459686,0.04799412190914154,0.8355483487248421
+ONGC,2025-01-08,India's ONGC engages BP to boost production in largest oil field - Reuters,,2026-10-18,legacy,positive,0.942962646484375,0.012609397061169147,0.044427961111068726,0.9303532494232059
+ONGC,2025-01-31,India's ONGC misses Q3 profit estimates as lower realisations weigh - Reuters,,2026-10-18,legacy,negative,0.03042999468743801,0.9170646071434021,0.0525054931640625,-0.8866346124559641
+ONGC,2025-02-19,"India ONGC plans foray into ethane carrier business, seeks partner - Reuters",,2026-10-18,legacy,neutral,0.10900462418794632,0.009677312336862087,0.8813180327415466,0.09932731185108423
+ONGC,2025-03-23,ONGC to import ethane to make up for changed Qatar LNG composition - Business Standard,,2026-10-18,legacy,neutral,0.4235786199569702,0.045184046030044556,0.5312373638153076,0.37839457392692566
+ONGC,2025-05-08,ONGC denies report on cancellation of Mumbai High Tender - ET EnergyWorld,,2026-10-18,legacy,negative,0.03204958513379097,0.5716391801834106,0.3963111937046051,-0.5395895950496197
+ONGC,2025-05-22,ONGC IN Equity 22May25 RU - Business Standard,,2026-10-18,legacy,neutral,0.061654120683670044,0.014696354046463966,0.9236494898796082,0.04695776663720608
+ONGC,2025-05-26,LARSEN & TOUBRO - Business Standard,Business Standard,2026-10-19,live,neutral,0.05387258902192116,0.014877958223223686,0.9312493801116943,0.03899463079869747
+ONGC,2025-06-24,"Bulls ride PSU Banks as Sensex, Nifty hit 2025 highs amid ceasefire news - Business Standard",Business Standard,2026-10-19,live,positive,0.8133217096328735,0.04244600981473923,0.14423221349716187,0.7708756998181343
+ONGC,2025-08-13,"OIL, ONGC sign joint operating agreement for three OALP-IX blocks - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,positive,0.8534033894538879,0.009318448603153229,0.13727812469005585,0.8440849408507347
+ONGC,2025-08-13,"ONGC Q1 net profit rises 18.2% to ₹11,554 crore on higher new well gas revenue - ET EnergyWorld",,2026-10-18,legacy,positive,0.9518717527389526,0.024666786193847656,0.023461509495973587,0.927204966545105
+ONGC,2025-08-19,ONGC-EIL tie up for India’s first helium recovery demonstration facility - ET EnergyWorld,,2026-10-18,legacy,neutral,0.4161178171634674,0.008541125804185867,0.5753410458564758,0.40757669135928154
+ONGC,2025-08-26,"India's ONGC plans to set up trading unit for crude, refined fuels for group firms - Reuters",,2026-10-18,legacy,neutral,0.07040940970182419,0.010713924653828144,0.9188766479492188,0.059695485047996044
+ONGC,2025-09-11,SWAPNITA VIKAS YADAV - Business Standard,Business Standard,2026-10-19,live,neutral,0.04177726060152054,0.030677251517772675,0.9275454878807068,0.011100009083747864
+ONGC,2025-10-09,"India's ONGC to provide first guarantee in 15 years for unit's bond sale, sources say - Reuters",,2026-10-18,legacy,neutral,0.217860609292984,0.011679485440254211,0.7704598903656006,0.2061811238527298
+ONGC,2025-11-11,"ONGC Q2 net profit rises 28.2% to ₹12,615 crore; announces ₹6 interim dividend - ET EnergyWorld",,2026-10-18,legacy,positive,0.9317245483398438,0.02257412299513817,0.04570126533508301,0.9091504253447056
+ONGC,2025-12-05,"India's ONGC moves closer to keeping 20% stake in Russia's Sakhalin-1 project, sources say - Reuters",,2026-10-18,legacy,neutral,0.25761449337005615,0.015514140948653221,0.7268713116645813,0.24210035242140293
+ONGC,2025-12-20,ONGC Green ties up with IIM Nagpur for research in renewable energy areas - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.5913100242614746,0.008079556748270988,0.40061044692993164,0.5832304675132036
+ONGC,2025-12-29,"Nifty trades below 25,950 mark; broader mrkt underperforms - Business Standard",Business Standard,2026-10-19,live,negative,0.1999356597661972,0.6805811524391174,0.1194831132888794,-0.4806454926729202
+ONGC,2026-01-09,"Nifty trades below 25,700 level; European mrkt advance - Business Standard",Business Standard,2026-10-19,live,neutral,0.07913735508918762,0.04853450506925583,0.8723282217979431,0.030602850019931793
+ONGC,2026-01-16,"L&T wins ₹2,500–5,000 crore hydrocarbon onshore order from Petronet LNG - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,positive,0.9195206761360168,0.012847162783145905,0.06763219833374023,0.9066735133528709
+ONGC,2026-01-30,"IEW 2026: ONGC stabilises output from mature fields; Mumbai High adds up to 4,000 bpd with BP support - ET EnergyWorld",,2026-10-18,legacy,positive,0.93968266248703,0.01568119414150715,0.04463619366288185,0.9240014683455229
+ONGC,2026-02-09,Corporate India's capital expenditure cycle shifts into top gear - Business Standard,Business Standard,2026-10-19,live,neutral,0.09913688898086548,0.02902647666633129,0.8718366026878357,0.07011041231453419
+ONGC,2026-02-26,"Nifty PSE at 52-wk high, eyes new peak; Charts hint 10% upside in 3 stocks - Business Standard",Business Standard,2026-10-19,live,positive,0.9246557354927063,0.0394846610724926,0.03585966303944588,0.8851710744202137
+ONGC,2026-03-03,"Fund Pick: ICICI Pru Value Fund delivers value, consistent high returns - Business Standard",Business Standard,2026-10-19,live,positive,0.8035182952880859,0.007756734266877174,0.18872496485710144,0.7957615610212088
+ONGC,2026-03-30,"Nifty trades below 22,500 level; European mrkt decline - Business Standard",Business Standard,2026-10-19,live,negative,0.021000392735004425,0.9266698956489563,0.05232972279191017,-0.9056695029139519
+ONGC,2026-03-31,"Big business groups' diversification game amid slowing growth, rising risks - Business Standard",Business Standard,2026-10-19,live,neutral,0.11666113138198853,0.42731624841690063,0.4560226500034332,-0.3106551170349121
+ONGC,2026-04-09,West Asia conflict likely to weigh on India Inc's Q4 FY26 results - Business Standard,Business Standard,2026-10-19,live,negative,0.022387642413377762,0.8093045949935913,0.16830779612064362,-0.7869169525802135
+ONGC,2026-04-26,ONGC names Yogish Nayak S as CFO; approves petrochem JV with MRPL and OPaL - ET EnergyWorld,,2026-10-18,legacy,positive,0.671978235244751,0.011015734635293484,0.31700605154037476,0.6609625006094575
+ONGC,2026-04-28,"Nifty trades below 24,050; European mrkt decline - Business Standard",Business Standard,2026-10-19,live,negative,0.08014976978302002,0.647760272026062,0.27208998799324036,-0.567610502243042
+ONGC,2026-05-02,India Inc's big foreign acquisitions yield no more than tepid returns - Business Standard,Business Standard,2026-10-19,live,neutral,0.1059962660074234,0.136235311627388,0.7577683925628662,-0.0302390456199646
+ONGC,2026-05-12,"Nifty trades below 23,600 level as intense selling continues on domestic bourses - Business Standard",Business Standard,2026-10-19,live,negative,0.024074291810393333,0.9258689880371094,0.05005679279565811,-0.901794696226716
+ONGC,2026-05-12,"Sensex, Nifty plunge over 1%; European mrkt drop - Business Standard",Business Standard,2026-10-19,live,negative,0.020053206011652946,0.9622882008552551,0.017658546566963196,-0.9422349948436022
+ONGC,2026-05-20,"Nifty trades below 23,600 level; European mkt opens lower - Business Standard",Business Standard,2026-10-19,live,negative,0.043458689004182816,0.9087833166122437,0.047758039087057114,-0.8653246276080608
+ONGC,2026-05-22,"Nifty trades above 23,800 level; European mkt opens higher - Business Standard",Business Standard,2026-10-19,live,positive,0.9186018705368042,0.035587895661592484,0.04581030458211899,0.8830139748752117
+ONGC,2026-05-23,Ladakh L-G approves extension of MoU with ONGC for India's first Geothermal energy project - ET EnergyWorld,,2026-10-18,legacy,positive,0.870359480381012,0.009756328538060188,0.11988425999879837,0.8606031518429518
+ONGC,2026-05-26,Top Indian Oil Produce ONGC's Quarterly Earnings Miss Estimates - Bloomberg.com,,2026-10-18,legacy,neutral,0.026990896090865135,0.062404975295066833,0.9106041193008423,-0.0354140792042017
+ONGC,2026-05-27,"Nifty trades below 23,900 level; broader mkt outperforms - Business Standard",Business Standard,2026-10-19,live,negative,0.06186351180076599,0.8671128153800964,0.07102368026971817,-0.8052493035793304
+ONGC,2026-05-27,"ONGC profit rises 3% to ₹6,650 cr in Q4 - ET EnergyWorld",,2026-10-18,legacy,positive,0.9408490061759949,0.02686135098338127,0.032289616763591766,0.9139876551926136
+ONGC,2026-05-29,"Nifty trades below 23,800 level; European mrkt advance - Business Standard",Business Standard,2026-10-19,live,neutral,0.07065071165561676,0.04478304460644722,0.8845662474632263,0.02586766704916954
+ONGC,2026-06-25,"Nifty trades above 24,150; European mrkt advance - Business Standard",Business Standard,2026-10-19,live,neutral,0.4773906469345093,0.017168520018458366,0.5054408311843872,0.4602221269160509
+ONGC,2026-07-09,India’s ONGC Approves Project to Expand Strategic Crude Reserves - Bloomberg.com,,2026-10-18,legacy,positive,0.6885014772415161,0.010581606067717075,0.3009168803691864,0.677919871173799
+ONGC,2026-07-09,"Nifty trades above 24,000 level; European mrkt advance - Business Standard",Business Standard,2026-10-19,live,neutral,0.2717747986316681,0.011710498481988907,0.7165147066116333,0.2600643001496792
+ONGC,2026-07-09,"Telecom, energy, and commodities may lead Q1FY27 earnings growth - Business Standard",Business Standard,2026-10-19,live,positive,0.6933642625808716,0.009015167132019997,0.29762059450149536,0.6843490954488516
+ONGC,2026-07-10,India's ONGC plans to build 13 million bbl national strategic oil reserve - Reuters,,2026-10-18,legacy,neutral,0.09921276569366455,0.010410156100988388,0.8903770446777344,0.08880260959267616
+ONGC,2026-08-03,India's ONGC to reserve half of new oil storage for strategic reserves - Reuters,,2026-10-18,legacy,neutral,0.09779582917690277,0.014482682570815086,0.8877215385437012,0.08331314660608768
+ONGC,2026-08-04,India's ONGC posts profit jump as crude price surge boosts margins - Reuters,,2026-10-18,legacy,positive,0.6656176447868347,0.15096615254878998,0.1834161877632141,0.5146514922380447
+ONGC,2026-08-05,"Nifty trade above 24,600 in early trade; breadth strong - Business Standard",Business Standard,2026-10-19,live,positive,0.9366325736045837,0.02878524735569954,0.03458211570978165,0.9078473262488842
+ONGC,2026-08-05,"ONGC Q1 FY27 profit up 21% to ₹9,804 crore; JM Financial sees production-led upside - ET EnergyWorld",,2026-10-18,legacy,positive,0.9509405493736267,0.024571185931563377,0.024488268420100212,0.9263693634420633
+ONGC,2026-08-07,"L&T bags ONGC contracts for offshore pipeline, wellhead platform projects - Business Standard",Business Standard,2026-10-19,live,neutral,0.11263017356395721,0.01000765711069107,0.8773621916770935,0.10262251645326614
+ONGC,2026-08-07,"L&T wins ₹5,000–10,000 crore offshore hydrocarbon order from ONGC - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,positive,0.9094796180725098,0.012836020439863205,0.07768438011407852,0.8966435976326466
+ONGC,2026-08-15,GRSE: A British era shipyard at the forefront of India’s shipbuilding ambitions - ET Infra,ET Infra,2026-10-19,live,neutral,0.23655985295772552,0.009540694765746593,0.7538995146751404,0.22701915819197893
+ONGC,2026-08-19,"Brent may stay near $80/bbl for 12 months; JM Financial sees ONGC, Oil India as key gainers - ET EnergyWorld",,2026-10-18,legacy,positive,0.672990083694458,0.0161996278911829,0.31081029772758484,0.6567904558032751
+ONGC,2026-08-31,"India's ONGC to invest $10.5 billion for deepwater exploration, chairman says - Reuters",,2026-10-18,legacy,neutral,0.10910113900899887,0.010335037484765053,0.8805638551712036,0.09876610152423382
+ONGC,2026-09-09,L&T secures large offshore order from ONGC for west coast projects - Business Standard,Business Standard,2026-10-19,live,positive,0.9074557423591614,0.00923498347401619,0.08330931514501572,0.8982207588851452
+ONGC,2026-09-09,"L&T secures up to ₹5,000 cr offshore order for west coast energy projects - Business Standard",Business Standard,2026-10-19,live,positive,0.7916666865348816,0.007544887717813253,0.20078833401203156,0.7841217988170683
+ONGC,2026-09-09,Larsen & Toubro secures 'large' offshore contract from ONGC - Business Standard,Business Standard,2026-10-19,live,positive,0.9302676916122437,0.009862907230854034,0.05986936762928963,0.9204047843813896
+ONGC,2026-09-09,Larsen & Toubro secures offshore EPCIC order from ONGC - Business Standard,Business Standard,2026-10-19,live,positive,0.8833416700363159,0.011380491778254509,0.10527783632278442,0.8719611782580614
+ONGC,2026-09-09,"Nifty reclaims 23,550 level; European markets edge lower - Business Standard",Business Standard,2026-10-19,live,negative,0.03782590851187706,0.9237152338027954,0.038458943367004395,-0.8858893252909184
+ONGC,2026-09-09,"Sensex sheds 813 pts, Nifty ends below 23,450 as crude boils - Business Standard",Business Standard,2026-10-19,live,negative,0.014977638609707355,0.9423262476921082,0.042696159332990646,-0.9273486090824008
+ONGC,2026-09-10,"Sensex, Nifty snap 3-day losing streak as bank shares lend support - bfsi.economictimes.indiatimes.com",bfsi.economictimes.indiatimes.com,2026-10-19,live,negative,0.03751995787024498,0.7564884424209595,0.20599164068698883,-0.7189684845507145
+ONGC,2026-09-21,Oil & Natural Gas Corporation strikes gas in Mahanadi Basin - Business Standard,Business Standard,2026-10-19,live,neutral,0.07684319466352463,0.01060168445110321,0.9125550985336304,0.06624151021242142
+ONGC,2026-09-21,Onward Technologies secures 3-year renewal of managed digital services contract - Business Standard,Business Standard,2026-10-19,live,positive,0.9158877730369568,0.00913820881396532,0.0749739408493042,0.9067495642229915
+ONGC,2026-09-21,Pace Digitek arm receives BESS order worth Rs 488.46 cr - Business Standard,Business Standard,2026-10-19,live,neutral,0.3173673152923584,0.011865999549627304,0.6707666516304016,0.3055013157427311
+ONGC,2026-09-21,Share India Securities board approves investment of Rs 120 cr in proposed new subsidiary - Business Standard,Business Standard,2026-10-19,live,neutral,0.41043704748153687,0.01128015574067831,0.5782828330993652,0.39915689174085855
+ONGC,2026-09-21,Suryoday Small Finance Bank board approves raising Lower Tier II capital of Rs 400 cr - Business Standard,Business Standard,2026-10-19,live,neutral,0.3693612217903137,0.010001176036894321,0.6206375360488892,0.3593600457534194
+ONGC,2026-09-28,₹31 trn wiped out; nearly 40% of Nifty stocks down over 20% from 52-wk high - Business Standard,Business Standard,2026-10-19,live,negative,0.00871987733989954,0.9732983112335205,0.017981892451643944,-0.964578433893621
+ONGC,2026-10-01,"Market strategy, stock ideas by Ajit Mishra of Religare Broking on Thursday - Business Standard",Business Standard,2026-10-19,live,neutral,0.06581123918294907,0.013993793167173862,0.9201949834823608,0.051817446015775204
+ONGC,2026-10-06,"Oil India, BPCL, HPCL, IOCL, ONGC, Petronet LNG: Oil & Gas Q2 results preview - ET EnergyWorld",,2026-10-18,legacy,neutral,0.05892561748623848,0.014476272277534008,0.9265981316566467,0.04444934520870447
+ONGC,2026-10-07,"L&T : Latest News Headlines, Videos and Photo Galleries on L&T - Business Standard",Business Standard,2026-10-19,live,neutral,0.02650992013514042,0.03380671888589859,0.9396833777427673,-0.007296798750758171
+ONGC,2026-10-13,"After three decades in the ICICI fold, Anup Bagchi readies for his next act - Business Standard",,2026-10-18,legacy,neutral,0.0751553550362587,0.015529938973486423,0.9093146920204163,0.059625416062772274
+ONGC,2026-10-13,"Larsen and Toubro : Latest News Headlines, Videos and Photo Galleries on Larsen and Toubro - Business Standard",Business Standard,2026-10-19,live,neutral,0.028684768825769424,0.03176181763410568,0.9395533800125122,-0.003077048808336258
+ONGC,2026-10-13,ReNew secures $100 million from Dutch development bank FMO for projects - Business Standard,,2026-10-18,legacy,positive,0.8277392983436584,0.007603263016790152,0.16465741395950317,0.8201360353268683
+ONGC,2026-10-15,Jindal Drilling & Industries Ltd. - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.050190526992082596,0.029556233435869217,0.9202532172203064,0.02063429355621338
+ONGC,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.7371003031730652,0.07562079280614853,0.18727897107601166,0.6614795103669167
+ONGC,2026-10-16,Govt should act as 'landlord' in port JVs: DP World CEO Yuvraj Narayan - Business Standard,,2026-10-18,legacy,neutral,0.11940060555934906,0.009315992705523968,0.8712833523750305,0.11008461285382509
+ONGC,2026-10-17,"DLF eyes revenue growth from FY28 as ₹75,000 cr projects near completion - Business Standard",,2026-10-18,legacy,positive,0.9211827516555786,0.010869950987398624,0.06794728338718414,0.91031280066818
+ONGC,2026-10-17,Kaizad Bharucha to exit HDFC Bank at end of December after three decades - Business Standard,,2026-10-18,legacy,neutral,0.01894817315042019,0.09667888283729553,0.8843729496002197,-0.07773070968687534
+ONGC,2026-10-17,Oil PSU ONGC gets Arun Singh as new full-time chairman after 19 months - ET Government,,2026-10-18,legacy,neutral,0.07567307353019714,0.025663981214165688,0.8986629843711853,0.050009092316031456

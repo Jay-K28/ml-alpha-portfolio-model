@@ -1,101 +1,187 @@
-ticker,date,headline,sentiment_score
-TECHM,2026-04-06,IT firms may post muted Q4; weak INR to cushion earnings; FY27 guidance key - business-standard.com,-0.9572206735610962
-TECHM,2026-04-06,"Persistent Systems - Mahindra, Billionbrains Garage among 6 stocks flashing bullish signals - economictimes.indiatimes.com",-0.9139025211334229
-TECHM,2026-04-07,Samsung shares rise after profit seen jumping 8-fold on AI chip boom - CNBC,0.7086837887763977
-TECHM,2026-04-06,"Indian IT firms face subdued fourth quarter as war, AI concerns persist; weak rupee helps earnings - Reuters",-0.956290066242218
-TECHM,2015-09-30,International: Top News And Analysis - CNBC,-0.935094952583313
-TECHM,2016-05-26,Tech News | Today's Latest Technology News - Reuters,-0.9235796332359314
-TECHM,2026-04-06,Swiggy among 4 stocks that closed crossing above VWAP - economictimes.indiatimes.com,-0.8635498881340027
-TECHM,2026-04-06,Trading Open Shadowed by Trump Escalation Threats: Markets Wrap - bloomberg.com,-0.9017495512962341
-TECHM,2026-04-06,Strategy Posts $14.5 Billion Unrealized Loss in First Quarter - bloomberg.com,-0.8582293391227722
-TECHM,2026-04-06,Goldman Traders See ‘Fast-Money’ Funds Turning Into Stock Buyers - bloomberg.com,-0.9134297370910645
-TECHM,2026-04-07,"Oil Up, S&P 500 Futures Drop Before Iran Deadline: Markets Wrap - bloomberg.com",-0.5044373869895935
-TECHM,2026-04-06,Asia-Pacific markets trade mixed as investors assess Trump's hardened rhetoric on Iran war - CNBC,-0.8449444770812988
-TECHM,2026-04-07,Indian shares decline ahead of Trump's looming Iran deadline - Reuters,-0.9534971117973328
-TECHM,2026-04-07,Meta to release open source versions of its upcoming AI models - economictimes.indiatimes.com,-0.9380402565002441
-TECHM,2026-04-06,"Reliance slips 4%; stock hits over 10-month low, m-cap falls below ₹18 trn - business-standard.com",-0.9506584405899048
-TECHM,2026-04-07,Markets set on favourable FY27 base; Iran war ceasefire key trigger: MOFSL - business-standard.com,-0.8726372718811035
-TECHM,2026-04-07,"TCS Q4 preview: Profit may rise 14% YoY; AI, deal wins key monitorables - business-standard.com",0.7535569071769714
-TECHM,2026-04-06,Every $10 rise in oil above $90/bbl may hit Nifty earnings by 3%: Bernstein - business-standard.com,-0.8500698208808899
-TECHM,2026-04-06,"FPI, MF positioning leaves HDFC Bank vulnerable to further downside - business-standard.com",-0.5289297103881836
-TECHM,2026-04-06,"Bank stocks mixed after Q4 update: BoB, BoM jump; HDFC Bank, IndusInd slip - business-standard.com",-0.7013976573944092
-TECHM,2026-04-06,Larsen & Toubro gains 3%; stock up 13% from March low - business-standard.com,0.9453648328781128
-TECHM,2026-04-06,RP-Sanjiv Goenka Group stk RPSG Ventures up 102% in 7 days amid IPL frenzy - business-standard.com,0.9424110651016235
-TECHM,2026-04-07,"Jubilant Food vs Devyani: This QSR stock can rebound upto 33%, says analyst - business-standard.com",0.9506679177284241
-TECHM,2026-04-06,SEDEMAC Mechatronics jumps 11% to all-time high on record ECU sales growth - business-standard.com,0.9345356822013855
-TECHM,2026-04-06,Jefferies initiates coverage on Titagarh Rail and Jupiter Wagons; check TP - business-standard.com,-0.9376532435417175
-TECHM,2026-04-06,Mkts rise over 1% on truce hopes; bank stocks lead rally as oil prices ease - business-standard.com,0.60830157995224
-TECHM,2026-04-07,Metal stocks up 22% from Mar lows; Analyst sees up to 18% upside in these 3 - business-standard.com,0.9528912901878357
-TECHM,2026-04-06,"Mixed Q4 seen for top realty players amid launch delays, softer sentiment - business-standard.com",-0.8800351619720459
-TECHM,2026-04-06,Ola Electric soars 34% in 3 days; hits 7-wk high on huge volume; here's why - business-standard.com,0.8763629198074341
-TECHM,2026-04-06,DMart Q4 growth strong on store additions; margins remain under pressure - business-standard.com,0.8895084261894226
-TECHM,2026-04-05,Improving job quality: India needs to generate more productive employment - business-standard.com,0.6982391476631165
-TECHM,2026-04-06,Great Eastern Shipping gains 4% on contract to sell Tanker 'Jag Prakash' - business-standard.com,0.9186360836029053
-TECHM,2026-04-06,Avenue Supermarts shares rise 3% on Q4 update; here's what analysts suggest - business-standard.com,0.6126046776771545
-TECHM,2026-04-07,Biocon seeks to become 'the' insulin company as rivals chase GLP-1 boom - business-standard.com,0.722865879535675
-TECHM,2018-03-09,"HAL Share Price Today, HAL Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9417374134063721
-TECHM,2017-03-23,"Tech Mahindra Share Price Today, Tech Mahindra Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9404075145721436
-TECHM,2014-03-22,TECHM: Tech Mahindra Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9462260603904724
-TECHM,2017-08-07,Check out Tech Mahindra Ltd's stock price (TECHM-IN) in real time - CNBC,-0.9429465532302856
-TECHM,2022-11-06,"Kaynes Technology Share Price Today, Kaynes Technology Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9440644383430481
-TECHM,2017-10-14,"Dixon Tech Share Price Today, Dixon Tech Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9429457187652588
-TECHM,2026-04-07,"Delhi, Noida and Gurugram weather today (April 7): Delhi-NCR wakes up to rainfall, IMD issues yellow alert for two days. Check full forecast - economictimes.indiatimes.com",-0.8800238966941833
-TECHM,2026-01-16,"Infosys, TechM, Wipro surged up to 5%; why Nifty IT rallied 3% on Friday? - business-standard.com",0.907203733921051
-TECHM,2025-10-15,HCL Tech vs TechM vs Persistent: Which IT stock to bet on post Q2 results? - business-standard.com,-0.9257249236106873
-TECHM,2025-04-25,Tech Mahindra shares fall 5% after Q4 results; earnings breakdown here - business-standard.com,-0.9447433948516846
-TECHM,2026-01-16,"Q3 results: RIL, Wipro, Tech Mahindra, Polycab among 42 firms on Jan 16 - business-standard.com",-0.9351313710212708
-TECHM,2025-10-15,TechM shares drop 2% as Q2 profit slips YoY; should you sell or hold? - business-standard.com,-0.8803109526634216
-TECHM,2025-07-14,Tech Mahindra Q1 preview: Earnings set to dip QoQ as key segments drag - business-standard.com,-0.9158378839492798
-TECHM,2026-01-19,TechM shares jump after 'all-around beat' in Q3 show; check stock outlook - business-standard.com,-0.772326648235321
-TECHM,2025-09-04,Broadcom Earnings Run Headlong Into Stock’s $730 Billion Rally - bloomberg.com,-0.8757145404815674
-TECHM,2025-04-01,"Tech Mahindra Ltd Quarterly Results, 02 Apr 2026 - NSE 1,441.50, BSE 1,441.50 - business-standard.com",-0.9426345825195312
-TECHM,2015-04-07,"TCS, Wipro, TechM, Infy are key to Apple's supply chain - ET CIO",-0.838560163974762
-TECHM,2025-04-30,"TECHM, BEL, JSWENERGY: Top picks by Chandan Taparia of MOFSL; check targets - business-standard.com",-0.8724563121795654
-TECHM,2025-10-15,"Stocks to watch today, Oct 15: Axis Bank, TechM, L&T Finance, Mishra Dhatu - business-standard.com",-0.9428960680961609
-TECHM,2026-02-03,"Nifty IT index soars 6% intra-day, TechM hits record high; here's why - business-standard.com",-0.5880021452903748
-TECHM,2024-03-28,Tech Mahindra Share Price - business-standard.com,-0.9406296610832214
-TECHM,2026-03-05,"Marvell Technology reports earnings beat, strong guidance - CNBC",0.8766802549362183
-TECHM,2025-05-13,"Tencent, Alibaba Results Key to Cementing China Tech Stock Rally - bloomberg.com",-0.8175830245018005
-TECHM,2025-12-17,Micron forecasts surging revenue as computer memory demand for AI remains high - CNBC,0.6742579936981201
-TECHM,2025-06-17,"TechM trades higher for 10th straight day; should you buy, hold or sell? - business-standard.com",-0.7993180751800537
-TECHM,2026-03-10,Oracle’s Biggest Earnings Challenge Is a Market Fixated on Risk - bloomberg.com,-0.7986807823181152
-TECHM,2026-01-25,Big Tech Earnings Land With 2026’s AI Winners Still In Question - bloomberg.com,-0.9000422358512878
-TECHM,2017-03-24,"L&T Tech Share Price Today, L&T Tech Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9399740099906921
-TECHM,2026-02-04,Alphabet Earnings Need to Justify Its Stock’s $2 Trillion Rally - bloomberg.com,-0.8801000714302063
-TECHM,2026-03-04,Broadcom Earnings Are the Latest to Try to Climb AI Wall of Fear - bloomberg.com,-0.9019334316253662
-TECHM,2025-07-22,Stocks Hold at Record Highs Before Megacap Results: Markets Wrap - bloomberg.com,-0.9196518659591675
-TECHM,2024-10-31,"Amazon shares pop on earnings beat, cloud growth - CNBC",0.7713396549224854
-TECHM,2026-02-06,Tech Mahindra Ltd - bloomberg.com,-0.9413182139396667
-TECHM,2024-05-22,"Nvidia forecasts quarterly revenue above estimates, unveils stock split - Reuters",-0.8534796833992004
-TECHM,2015-06-16,"IT firms like Google, Microsoft, Capgemini, TechM hire more women in technical roles - telecom.economictimes.indiatimes.com",-0.883329451084137
-TECHM,2025-08-01,Amazon stock sinks 8% after earnings: Here are the key takeaways - CNBC,-0.5035265684127808
-TECHM,2025-11-27,Margin expansion likely to drive earnings upgrades for Tech Mahindra - business-standard.com,0.7533560991287231
-TECHM,2026-01-22,"Intel stock plunges 13% on soft guidance, concerns about chip production - CNBC",-0.945409893989563
-TECHM,2026-01-15,"European shares extend record run on technology, financial gains - Reuters",0.8620779514312744
-TECHM,2025-12-02,Marvell to acquire Celestial AI for as much as $5.5 billion - CNBC,-0.922131359577179
-TECHM,2026-01-24,"Standard Glass Linin Share Price Today, Standard Glass Linin Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9465886354446411
-TECHM,2022-12-22,"Anlon Technology Sol Share Price Today, Anlon Technology Sol Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9467160701751709
-TECHM,2026-01-27,Big Tech earnings to test AI rally as resurgent Alphabet takes lead - Reuters,0.7805582284927368
-TECHM,2026-01-29,Stocks Rise as Tech Megacaps Step Up AI Spending: Markets Wrap - bloomberg.com,-0.8534399271011353
-TECHM,2025-09-10,Larry Ellison is $100 billion richer after blowout Oracle earnings report - CNBC,-0.8874321579933167
-TECHM,2017-04-20,"Zen Tech Share Price Today, Zen Tech Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9412039518356323
-TECHM,2026-02-24,"HSBC annual pre-tax profit drops over 7%, revenue jumps as bank's results top estimates - CNBC",-0.9344626665115356
-TECHM,2018-01-09,"Newgen Software Share Price Today, Newgen Software Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9402456283569336
-TECHM,2025-08-08,The winners and losers in tech's AI-powered ad race - CNBC,-0.9170705080032349
-TECHM,2023-07-14,"Netweb Technologies Share Price Today, Netweb Technologies Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.943914532661438
-TECHM,2025-02-07,"Hexaware Technologie Share Price Today, Hexaware Technologie Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9420445561408997
-TECHM,2026-04-07,"China targets Taiwan's chip prowess to evade global 'containment', Taipei government says - economictimes.indiatimes.com",-0.8857327103614807
-TECHM,2026-01-28,"Samsung’s profit triples, beating estimates as AI chip demand fuels memory shortage - CNBC",0.9144270420074463
-TECHM,2025-10-28,"SK Hynix, a critical Nvidia supplier, has already sold out chips for 2026 as AI demand booms - CNBC",0.6558502316474915
-TECHM,2023-01-17,"Mewat Zinc Share Price Today, Mewat Zinc Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9428538084030151
-TECHM,2024-02-21,Nvidia posts revenue up 265% on booming AI business - CNBC,0.9530399441719055
-TECHM,2017-08-04,Check out Micron Technology's stock price (MU) in real time - CNBC,-0.9456266760826111
-TECHM,2025-07-30,Microsoft stock pops 9% on earnings beat as Azure annual revenue tops $75 billion - CNBC,0.8413278460502625
-TECHM,2025-04-23,"IBM beats on earnings and revenue, maintains full-year guidance - CNBC",-0.7714326977729797
-TECHM,2026-04-06,"Fitch upgrades Vedanta Resources to BB-, outlook stable - economictimes.indiatimes.com",-0.7751200199127197
-TECHM,2025-07-23,ServiceNow lifts guidance on AI growth - CNBC,-0.8659196496009827
-TECHM,2020-09-02,"Happiest Minds Share Price Today, Happiest Minds Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9254468083381653
-TECHM,2025-12-01,"MongoDB stock jumps 15% on earnings and revenue beat, strong guidance - CNBC",0.9394705891609192
-TECHM,2025-07-28,S&P 500 Rally Faces $11 Trillion Gauntlet of Big Tech Earnings - bloomberg.com,-0.871529757976532
-TECHM,2017-03-23,"Infosys Share Price Today, Infosys Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9373888969421387
-TECHM,2019-03-08,"Moschip Tech Share Price Today, Moschip Tech Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9413033127784729
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+TECHM,2025-03-28,Tech Mahindra deploys ERP solutions for Coal India to enable digital transformation of projects - ET Government,ET Government,2026-10-19,live,neutral,0.30057328939437866,0.006640922743827105,0.6927857995033264,0.29393236665055156
+TECHM,2026-10-12,Stock markets open higher amid easing oil prices - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,positive,0.7381032109260559,0.07579430192708969,0.18610243499279022,0.6623089089989662
+TECHM,2026-10-12,Tech Mahindra shares fall up to 4% ahead of Q2 results this week: Here's why - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.015558441169559956,0.9428377747535706,0.041603799909353256,-0.9272793335840106
+TECHM,2026-10-12,"Tech Mahindra, TCS, Oracle shares fall up to 3% today - Is it the right time to buy IT stocks? - Livemint",Livemint,2026-10-19,live,negative,0.015462297946214676,0.9190699458122253,0.06546768546104431,-0.9036076478660107
+TECHM,2026-10-13,From middling to fastest-growing large IT firm: How Mohit Joshi turned around Tech Mahindra - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.07940295338630676,0.01646934449672699,0.9041277170181274,0.06293360888957977
+TECHM,2026-10-13,Goldman and JPMorgan Earnings: Bank Bosses Are Too Optimistic About the AI Boom - Bloomberg.com,,2026-10-18,legacy,negative,0.021740872412919998,0.5008220672607422,0.47743701934814453,-0.4790811948478222
+TECHM,2026-10-13,Indian benchmark shares jump as encouraging HCLTech earnings propel IT buying - Reuters,,2026-10-18,legacy,positive,0.8254472017288208,0.06783991307020187,0.10671291500329971,0.7576072886586189
+TECHM,2026-10-13,"J&J posts weak medical device sales, shares fall - CNBC",,2026-10-18,legacy,negative,0.00834743957966566,0.9663435220718384,0.025309061631560326,-0.9579960824921727
+TECHM,2026-10-13,"Nifty IT shines, up 3%; HCL Tech, TCS, LTM, Tech Mahindra surge up to 5% - Business Standard",,2026-10-18,legacy,positive,0.9504348039627075,0.017247823998332024,0.032317306846380234,0.9331869799643755
+TECHM,2026-10-13,"Q2 results today: Hero Motors, Tata Elxsi, 20 others to report earnings - Business Standard",,2026-10-18,legacy,neutral,0.09496274590492249,0.01988556608557701,0.8851516842842102,0.07507717981934547
+TECHM,2026-10-13,"Why are IT stocks up today? TCS, Infosys, HCL Tech, Wipro, Tech Mahindra shares rise up to 3% - Time to buy? - Livemint",Livemint,2026-10-19,live,positive,0.8159992098808289,0.014399032108485699,0.16960179805755615,0.8016001777723432
+TECHM,2026-10-13,World stocks dip on AI spending concerns; Brent settles lower - Reuters,,2026-10-18,legacy,negative,0.04764886200428009,0.9315470457077026,0.02080410160124302,-0.8838981837034225
+TECHM,2026-10-14,"BHEL gains 5%, hits new high post Q2 results; stock up 100% in one year - Business Standard",,2026-10-18,legacy,positive,0.9488521218299866,0.022452721372246742,0.02869514375925064,0.9263994004577398
+TECHM,2026-10-14,Bank of America shares drop after third-quarter revenue miss and regulatory penalty - CNBC,,2026-10-18,legacy,negative,0.007193376310169697,0.964905858039856,0.027900706976652145,-0.9577124817296863
+TECHM,2026-10-14,"BofA Results Marred by $1.2 Billion Penalty, Weaker Trading - Bloomberg.com",,2026-10-18,legacy,negative,0.009757690131664276,0.9426583051681519,0.0475839227437973,-0.9329006150364876
+TECHM,2026-10-14,Canara Bank stock jumps 5% post Q2 results - Business Standard,,2026-10-18,legacy,positive,0.9391067028045654,0.026806168258190155,0.034087151288986206,0.9123005345463753
+TECHM,2026-10-14,"European shares edge up after solid ASML results, healthcare gains - Reuters",,2026-10-18,legacy,positive,0.9335739016532898,0.03683076798915863,0.02959531359374523,0.8967431336641312
+TECHM,2026-10-14,"Goldman Sachs CEO Solomon on earnings: We have a big, durable, diverse business - CNBC",,2026-10-18,legacy,positive,0.49502673745155334,0.013497870415449142,0.4914754629135132,0.4815288670361042
+TECHM,2026-10-14,"Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk - CNBC",,2026-10-18,legacy,neutral,0.033993180841207504,0.05025465413928032,0.9157522320747375,-0.016261473298072815
+TECHM,2026-10-14,"Investors are on edge this earnings season, says Jim Cramer - CNBC",,2026-10-18,legacy,positive,0.8346127271652222,0.07128758728504181,0.09409970045089722,0.7633251398801804
+TECHM,2026-10-14,"Q2 results today: BHEL, Canara Bank, Groww, 24 others to report earnings - Business Standard",,2026-10-18,legacy,neutral,0.07811227440834045,0.017004186287522316,0.9048835635185242,0.06110808812081814
+TECHM,2026-10-14,Tech Mahindra Q2 preview: PAT may jump 30-40% YoY; firm to mull bonus issue - Business Standard,,2026-10-18,legacy,positive,0.8734151721000671,0.04009455069899559,0.0864902138710022,0.8333206214010715
+TECHM,2026-10-14,"Wipro Q2 results preview: Revenue growth likely over 8%, margins in focus - Business Standard",,2026-10-18,legacy,positive,0.8577678203582764,0.012230262160301208,0.13000190258026123,0.8455375581979752
+TECHM,2026-10-15,"AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off - CNBC",,2026-10-18,legacy,neutral,0.2685541808605194,0.012734237127006054,0.7187116146087646,0.25581994373351336
+TECHM,2026-10-15,Anthropic grants outside evaluator METR employee-level access in AI safety push - Reuters,,2026-10-18,legacy,neutral,0.19116979837417603,0.007320044096559286,0.8015101552009583,0.18384975427761674
+TECHM,2026-10-15,Anthropic's Q3 revenue jumps to $16.8 billion ahead of planned IPO - Business Standard,,2026-10-18,legacy,positive,0.9205161929130554,0.045009709894657135,0.03447401523590088,0.8755064830183983
+TECHM,2026-10-15,Asian stocks slide as US inflation stokes rate fears; Kospi plunges 8% - Business Standard,,2026-10-18,legacy,negative,0.013450555503368378,0.9646667242050171,0.021882744506001472,-0.9512161687016487
+TECHM,2026-10-15,Chipmakers Set for Longest Losing Streak Since ‘08: Markets Wrap - Bloomberg.com,,2026-10-18,legacy,negative,0.02821085788309574,0.49841687083244324,0.4733722507953644,-0.4702060129493475
+TECHM,2026-10-15,Consumer durables buck FPI exodus in FY27; festive demand to test momentum - Business Standard,,2026-10-18,legacy,positive,0.948423445224762,0.021129103377461433,0.030447373166680336,0.9272943418473005
+TECHM,2026-10-15,CoreWeave credit default swaps hit distress levels as investors sour on AI debt - CNBC,,2026-10-18,legacy,negative,0.02082810364663601,0.9401998519897461,0.03897198289632797,-0.9193717483431101
+TECHM,2026-10-15,Fintech startup Ramp hits $60 billion valuation after $1.85 billion funding round - Reuters,,2026-10-18,legacy,positive,0.6148137450218201,0.01949361339211464,0.3656926155090332,0.5953201316297054
+TECHM,2026-10-15,Fusion CX IPO Day 2: Issue fully subscribed at 1.1x; GMP at 12%. Check key details - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.03541114553809166,0.037064891308546066,0.9275239109992981,-0.0016537457704544067
+TECHM,2026-10-15,HDFC Life's quarterly profit rises as sales via India's HDFC Bank recover - Reuters,,2026-10-18,legacy,positive,0.7766411900520325,0.09509050101041794,0.12826822698116302,0.6815506890416145
+TECHM,2026-10-15,Higher mutual fund yields lift ICICI Prudential AMC's Q2FY27 earnings - Business Standard,,2026-10-18,legacy,positive,0.9362341165542603,0.043259602040052414,0.020506206899881363,0.8929745145142078
+TECHM,2026-10-15,"India's Reliance, Airtel rally as Jio Platforms IPO recasts valuations - Reuters",,2026-10-18,legacy,neutral,0.07182511687278748,0.422039270401001,0.5061356425285339,-0.3502141535282135
+TECHM,2026-10-15,India's Tech Mahindra maintains fiscal 2027 margin target after large deals drive revenue beat - Reuters,Reuters,2026-10-19,live,positive,0.6846746802330017,0.11705464869737625,0.19827067852020264,0.5676200315356255
+TECHM,2026-10-15,Indian share benchmarks log best day in four months on global AI slump - Reuters,,2026-10-18,legacy,neutral,0.2279660403728485,0.1436048448085785,0.628429114818573,0.08436119556427002
+TECHM,2026-10-15,Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat - CNBC,,2026-10-18,legacy,neutral,0.1311464160680771,0.08812966197729111,0.7807238698005676,0.04301675409078598
+TECHM,2026-10-15,KFC’s US Locations to Replace PepsiCo Beverages With Coca-Cola - Bloomberg.com,,2026-10-18,legacy,neutral,0.043465305119752884,0.015315288677811623,0.9412194490432739,0.02815001644194126
+TECHM,2026-10-15,"Kontoor brands was a great stock before it peaked in early 2025, says Jim Cramer - CNBC",,2026-10-18,legacy,positive,0.7123695015907288,0.013356144540011883,0.27427437901496887,0.6990133570507169
+TECHM,2026-10-15,"Leela Palaces Hotels rallies 10%, hits new high on healthy Q2 results - Business Standard",,2026-10-18,legacy,positive,0.9450520277023315,0.024695653468370438,0.030252333730459213,0.9203563742339611
+TECHM,2026-10-15,Nestle India share price crashes 9% in intraday trade post Q2 results - Business Standard,,2026-10-18,legacy,positive,0.6219006776809692,0.33814737200737,0.039951931685209274,0.28375330567359924
+TECHM,2026-10-15,Nifty IT rallies 9% in 3 sessions: 3 key factors driving the momentum - Business Standard,,2026-10-18,legacy,neutral,0.4840202331542969,0.016626866534352303,0.49935293197631836,0.4673933666199446
+TECHM,2026-10-15,"PERM suspension: About 70% of Tech Mahindra US employees are permanent residents, says CEO Mohit Joshi - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.026382124051451683,0.3280493915081024,0.6455684900283813,-0.30166726745665073
+TECHM,2026-10-15,Pernod Ricard India sales grow 19% in Sep quarter; IPO plan awaits approval - Business Standard,,2026-10-18,legacy,positive,0.9029562473297119,0.013188543729484081,0.08385519683361053,0.8897677036002278
+TECHM,2026-10-15,"Q2 results: Tech Mahindra dividend, bonus shares - Double delight for 7 lakh investors | Payout, ratio, record date - Livemint",Livemint,2026-10-19,live,positive,0.7875210642814636,0.014171634800732136,0.19830738008022308,0.7733494294807315
+TECHM,2026-10-15,SMIDs to large-caps shift likely if earnings gap narrows: Bharti Axa CIO - Business Standard,,2026-10-18,legacy,neutral,0.1838090568780899,0.1363835334777832,0.6798074245452881,0.0474255234003067
+TECHM,2026-10-15,"Short-covering rally may take Nifty to 23,000-23,150, says analyst - Business Standard",,2026-10-18,legacy,negative,0.13587580621242523,0.7085058093070984,0.15561838448047638,-0.5726300030946732
+TECHM,2026-10-15,"Stocks to watch: IDBI Bank, Reliance, Wipro, TechM, Nestle, Jio Financial - Business Standard",,2026-10-18,legacy,neutral,0.029397819191217422,0.022128619253635406,0.9484736323356628,0.007269199937582016
+TECHM,2026-10-15,"TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter - CNBC",,2026-10-18,legacy,neutral,0.12936006486415863,0.4210529029369354,0.4495870769023895,-0.2916928380727768
+TECHM,2026-10-15,"Tech Mahindra Q2 FY27 profit jumps 33% to ₹1,586 crore - ET Enterprise AI",ET Enterprise AI,2026-10-19,live,positive,0.9351458549499512,0.03754977136850357,0.027304334565997124,0.8975960835814476
+TECHM,2026-10-15,"Tech Mahindra Q2 profit rises 32.7% to ₹1,586 crore; revenue up 15.6% - Business Standard",Business Standard,2026-10-19,live,positive,0.9515358805656433,0.025081811472773552,0.023382287472486496,0.9264540690928698
+TECHM,2026-10-15,"Tech Mahindra Q2 results: Net profit rises 32% YoY to Rs 1,586 cr, IT firm declares Rs 15 dividend - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9141993522644043,0.027287887409329414,0.058512765914201736,0.8869114648550749
+TECHM,2026-10-15,Tech Mahindra maintains edge over Wipro in September quarter - Livemint,Livemint,2026-10-19,live,positive,0.928442120552063,0.01870005391538143,0.052857864648103714,0.9097420666366816
+TECHM,2026-10-15,"Tech Mahindra recommends 1:1 bonus issue, Q2 profit rises 32.7% to Rs 1,585.6 crore - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9171718955039978,0.025179235264658928,0.057648882269859314,0.8919926602393389
+TECHM,2026-10-15,"Tech Mahindra's headcount rises by 5,446 employees in Q2, attrition rate falls to 11.7% - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.02232620306313038,0.9518282413482666,0.02584555558860302,-0.9295020382851362
+TECHM,2026-10-15,Why CoreWeave's troubles are rattling the AI boom - Reuters,,2026-10-18,legacy,neutral,0.035968996584415436,0.3098961114883423,0.6541348695755005,-0.27392711490392685
+TECHM,2026-10-15,Why was IDBI Bank sold at ₹81 a share? Understanding the valuation - Business Standard,,2026-10-18,legacy,neutral,0.03721203655004501,0.026602815836668015,0.9361851215362549,0.010609220713376999
+TECHM,2026-10-15,"Wipro Q2 results: Net profit falls 1.4% to ₹3,201 crore, revenue rises 9.1% - Business Standard",,2026-10-18,legacy,negative,0.05647823587059975,0.9247147440910339,0.018807001411914825,-0.8682365082204342
+TECHM,2026-10-15,"Wipro, Tech Mahindra Q2 results today: Revenue growth in focus - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.13703379034996033,0.016202008351683617,0.8467641472816467,0.12083178199827671
+TECHM,2026-10-16,'Fast Money' traders talk executive changes at Netflix ahead of earnings - CNBC,,2026-10-18,legacy,neutral,0.028837889432907104,0.11034975200891495,0.8608123660087585,-0.08151186257600784
+TECHM,2026-10-16,1770.7 - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.022507233545184135,0.037757981568574905,0.9397347569465637,-0.01525074802339077
+TECHM,2026-10-16,5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk - CNBC,,2026-10-18,legacy,neutral,0.04957062005996704,0.03648267686367035,0.9139467477798462,0.013087943196296692
+TECHM,2026-10-16,AI drives 75% of orders on ecom platform Meesho via personalised ranking - Business Standard,,2026-10-18,legacy,neutral,0.10227276384830475,0.008703989908099174,0.8890232443809509,0.09356877394020557
+TECHM,2026-10-16,"Are Indians investing more, or are asset-rich Indians getting richer? Zerodha's Nithin Kamath sparks debate online - Livemint",Livemint,2026-10-19,live,neutral,0.11920282244682312,0.014324176125228405,0.8664730191230774,0.10487864632159472
+TECHM,2026-10-16,Asian stocks rebound after tech sell-off; Indonesia market plunges 11% - Business Standard,,2026-10-18,legacy,negative,0.030277501791715622,0.9546154737472534,0.015107027254998684,-0.9243379719555378
+TECHM,2026-10-16,Buy Tech Mahindra; target of Rs 1910: Prabhudas Lilladher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.042940426617860794,0.016391757875680923,0.9406677484512329,0.02654866874217987
+TECHM,2026-10-16,Buy Tech Mahindra; target of Rs 1950: Motilal Oswal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.039030637592077255,0.01914527826011181,0.9418241381645203,0.019885359331965446
+TECHM,2026-10-16,Buzzing Stocks: Tech Mahindra surges 6% after Q2 earnings; Mankind Pharma falls 2% on Belgium acquisition - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.20729213953018188,0.7565199136734009,0.03618790954351425,-0.549227774143219
+TECHM,2026-10-16,CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed - Bloomberg.com,,2026-10-18,legacy,neutral,0.03366868570446968,0.07599961757659912,0.8903316855430603,-0.04233093187212944
+TECHM,2026-10-16,CoreWeave bond rout tests market's math on AI buildout - Reuters,,2026-10-18,legacy,neutral,0.17127485573291779,0.04119822755455971,0.7875269651412964,0.13007662817835808
+TECHM,2026-10-16,"CoreWeave's CEO sold nearly $1 billion of stock since IPO, filings show - Reuters",,2026-10-18,legacy,neutral,0.03886626660823822,0.021478569135069847,0.9396551847457886,0.017387697473168373
+TECHM,2026-10-16,Cyient DLM tanks 19% on huge volumes post Q2 results; here's why - Business Standard,,2026-10-18,legacy,positive,0.5045562386512756,0.060168683528900146,0.4352751076221466,0.4443875551223755
+TECHM,2026-10-16,DMart share price hits over 3-year low; down 28% from April high - Business Standard,,2026-10-18,legacy,negative,0.01157261710613966,0.9753772020339966,0.01305009052157402,-0.9638045849278569
+TECHM,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.73710036277771,0.07562077045440674,0.1872788965702057,0.6614795923233032
+TECHM,2026-10-16,European shares close out best week since June as earnings soften blow from tech selloff - Reuters,,2026-10-18,legacy,positive,0.6120339035987854,0.31187936663627625,0.07608678936958313,0.30015453696250916
+TECHM,2026-10-16,Expect lower crude prices but elevated product prices for longer: Goldman Sachs' Daan Struyven - CNBC,,2026-10-18,legacy,neutral,0.13184523582458496,0.07302410900592804,0.7951306700706482,0.05882112681865692
+TECHM,2026-10-16,Exxon Signals Knockout Refining Earnings as Diesel Prices Soar - Bloomberg.com,,2026-10-18,legacy,neutral,0.2276105135679245,0.055886395275592804,0.7165031433105469,0.1717241182923317
+TECHM,2026-10-16,ExxonMobil signals $4.5 billion refining earnings boost as margins soar - Reuters,,2026-10-18,legacy,positive,0.921800971031189,0.015591956675052643,0.062607042491436,0.9062090143561363
+TECHM,2026-10-16,HDFC Bank Q2 preview: Single-digit PAT growth likely; margin pressure seen - Business Standard,,2026-10-18,legacy,positive,0.9337934255599976,0.02956746332347393,0.036639124155044556,0.9042259622365236
+TECHM,2026-10-16,HDFC Life Insurance sheds 3% post Q2 results; brokerages remain upbeat - Business Standard,,2026-10-18,legacy,negative,0.03769543021917343,0.9470597505569458,0.015244829468429089,-0.9093643203377724
+TECHM,2026-10-16,Hold Tech Mahindra; target of Rs 1590: ICICI Securities - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03393986076116562,0.019012579694390297,0.9470475316047668,0.014927281066775322
+TECHM,2026-10-16,"Home loan EMI: How much salary do you need for a ₹50 lakh, ₹75 lakh or ₹1 crore home? - Livemint",Livemint,2026-10-19,live,neutral,0.03700972720980644,0.030951011925935745,0.9320392608642578,0.006058715283870697
+TECHM,2026-10-16,"ICICI Bank Q2 Preview: Profit may rise 8-14% YoY, NIM likely to contract - Business Standard",,2026-10-18,legacy,positive,0.9510282874107361,0.021730823442339897,0.02724086120724678,0.9292974639683962
+TECHM,2026-10-16,IMF expects at least one more 25 bps ECB rate hike in 2026 - Reuters,,2026-10-18,legacy,neutral,0.22173364460468292,0.02961415797472,0.7486521601676941,0.19211948662996292
+TECHM,2026-10-16,India Inc's FY27 profit growth estimates dip 700 bps since February - Business Standard,,2026-10-18,legacy,negative,0.02132328227162361,0.965565025806427,0.013111623004078865,-0.9442417435348034
+TECHM,2026-10-16,India's Jio Financial Services falls after quarterly profit halves - Reuters,,2026-10-18,legacy,negative,0.00856658723205328,0.9524170160293579,0.03901635482907295,-0.9438504287973046
+TECHM,2026-10-16,India's Tech Mahindra jumps most in over six years as deal wins fuel growth optimism - Reuters,Reuters,2026-10-19,live,positive,0.8185258507728577,0.021060138940811157,0.16041402518749237,0.7974657118320465
+TECHM,2026-10-16,India's Yes Bank expects AT1 reinstatement to cut core capital ratio by 250 bps - Reuters,,2026-10-18,legacy,negative,0.019602537155151367,0.9170541763305664,0.06334332376718521,-0.897451639175415
+TECHM,2026-10-16,"Indian Hotels, Oriental Hotels rally up to 6%; what's driving hotel stocks? - Business Standard",,2026-10-18,legacy,positive,0.6385455131530762,0.025501420721411705,0.3359529972076416,0.6130440924316645
+TECHM,2026-10-16,Indian IT stocks post best weekly gain in 18 years amid global AI sell-off - Business Standard,,2026-10-18,legacy,positive,0.8766186237335205,0.09557468444108963,0.027806678786873817,0.7810439392924309
+TECHM,2026-10-16,"Indian equity market open flat amid profit booking; Sensex down over 130 pts, Nifty below 22,980 - cfo.economictimes.indiatimes.com",cfo.economictimes.indiatimes.com,2026-10-19,live,negative,0.010536442510783672,0.9570923447608948,0.0323711596429348,-0.9465559022501111
+TECHM,2026-10-16,Indian software stocks set to outperform AI peers by most margin in decades - Business Standard,,2026-10-18,legacy,positive,0.9369068741798401,0.014554823748767376,0.04853827506303787,0.9223520504310727
+TECHM,2026-10-16,Jio Financial shares drop 2.5% as Q2 PAT halves; MOFSL cuts FY27 estimates - Business Standard,,2026-10-18,legacy,negative,0.007981018163263798,0.9674938321113586,0.024525176733732224,-0.9595128139480948
+TECHM,2026-10-16,"LTM Q2 Results: PAT remains flat at Rs 1,380 crore; revenue rises 14% YoY; co declares Rs 25 per share dividend - The Economic Times",The Economic Times,2026-10-19,live,positive,0.8945470452308655,0.08246203511953354,0.02299085445702076,0.8120850101113319
+TECHM,2026-10-16,"Market wrap: Tech Mahindra, TCS, InterGlobe, BSE top gainers and losers on Nifty and Sensex on Friday - The Economic Times",The Economic Times,2026-10-19,live,negative,0.12403131276369095,0.4933792054653168,0.3825894892215729,-0.3693478927016258
+TECHM,2026-10-16,"Mutual funds stop bulk subscriptions to gold ETFs: Check what's changed, and what happens to your existing SIPs - Livemint",Livemint,2026-10-19,live,neutral,0.023761199787259102,0.07941284030675888,0.8968259692192078,-0.05565164051949978
+TECHM,2026-10-16,"Nifty IT soars 14% in 6 days on Q2 earnings boost; TechM, Wipro, TCS shine - Business Standard",,2026-10-18,legacy,positive,0.7249203324317932,0.02047399990260601,0.25460565090179443,0.7044463325291872
+TECHM,2026-10-16,"Nifty IT surges over 10%, heads for biggest weekly gain in 18 years as Tech Mahindra, Wipro rally - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.8695749044418335,0.020132213830947876,0.11029298603534698,0.8494426906108856
+TECHM,2026-10-16,Nifty IT: ₹3 lakh cr added in m-cap after best weekly gains in 18 years; Q2 earnings revive investor interest - Livemint,Livemint,2026-10-19,live,positive,0.9433334469795227,0.024417810142040253,0.03224867209792137,0.9189156368374825
+TECHM,2026-10-16,"Q2 impact: TechM shares gain 5% as analysts raise earnings estimate, target - Business Standard",,2026-10-18,legacy,positive,0.9422749876976013,0.023893317207694054,0.03383171930909157,0.9183816704899073
+TECHM,2026-10-16,"Q2 impact: TechM shares gain 8% as analysts raise earnings estimate, target - Business Standard",,2026-10-18,legacy,positive,0.9422962069511414,0.0244922935962677,0.033211540430784225,0.9178039133548737
+TECHM,2026-10-16,S&P 500 Steady as Warsh Boosts Expectations of Rate Hold - Bloomberg.com,,2026-10-18,legacy,neutral,0.17348718643188477,0.3494989275932312,0.47701388597488403,-0.17601174116134644
+TECHM,2026-10-16,Schneider Electric raises 2026 targets again on booming data centre demand - Reuters,,2026-10-18,legacy,positive,0.934128999710083,0.021478332579135895,0.04439270496368408,0.9126506671309471
+TECHM,2026-10-16,Sebi's CAS changes may revive participation on expiry days: Analysts - Business Standard,,2026-10-18,legacy,neutral,0.04662884399294853,0.017447007820010185,0.9359241724014282,0.029181836172938347
+TECHM,2026-10-16,"Sebi's IPO nod to Cult.fit, Eswari Global Metal, Sohan Lal Commodity - Business Standard",,2026-10-18,legacy,neutral,0.2144889533519745,0.00936578493565321,0.7761452198028564,0.20512316841632128
+TECHM,2026-10-16,Sell gold on rallies as rate hike concerns weigh: Mirae Asset Sharekhan - Business Standard,,2026-10-18,legacy,neutral,0.15954908728599548,0.0400601327419281,0.8003907203674316,0.11948895454406738
+TECHM,2026-10-16,"Senco, PC Jeweller zoom up to 17%; why are gold-related stocks dazzling? - Business Standard",,2026-10-18,legacy,positive,0.7999712228775024,0.01431821659207344,0.18571053445339203,0.785653006285429
+TECHM,2026-10-16,"Sensex settles 700 pts higher from day's low, Nifty ends near 23,150: Key reasons behind market gain - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.1557549685239792,0.03601102903485298,0.8082339763641357,0.1197439394891262
+TECHM,2026-10-16,Silver outlook bearish; may fall to $48 if $54.50 support breaks: Analyst - Business Standard,,2026-10-18,legacy,negative,0.01331757940351963,0.910409152507782,0.07627328485250473,-0.8970915731042624
+TECHM,2026-10-16,"Skydance is real threat to Netflix, pricing power is a concern: G Squared's Greene - CNBC",,2026-10-18,legacy,neutral,0.03345818445086479,0.08394119143486023,0.8826006054878235,-0.05048300698399544
+TECHM,2026-10-16,Snabbit operator posts ₹167.75 cr loss in FY26; revenue rises to ₹12.25 cr - Business Standard,Business Standard,2026-10-19,live,negative,0.060127753764390945,0.9237322211265564,0.016140038147568703,-0.8636044673621655
+TECHM,2026-10-16,Stock markets trade lower during early session amid profit-taking - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,negative,0.013112319633364677,0.9514031410217285,0.03548446297645569,-0.9382908213883638
+TECHM,2026-10-16,"Stocks to Watch Today: Tech Mahindra, IIFL Finance, Persistent, Angel One, Lotus Developers, Solar... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03580945357680321,0.019946210086345673,0.9442443251609802,0.015863243490457535
+TECHM,2026-10-16,"TCS vs HCL Tech vs Tech Mahindra vs Wipro: Which IT stock won Q2 results 2026? AI revenue, deal wins compared - Livemint",Livemint,2026-10-19,live,positive,0.7958599328994751,0.010566869750618935,0.19357317686080933,0.7852930631488562
+TECHM,2026-10-16,Tech Mahindra (TECHM IN) - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.032553669065237045,0.02378479205071926,0.9436615705490112,0.008768877014517784
+TECHM,2026-10-16,Tech Mahindra Q2 FY27 – strengthening its growth leadership - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.7021654844284058,0.012867826037108898,0.28496670722961426,0.6892976583912969
+TECHM,2026-10-16,"Tech Mahindra dividend, bonus share 2026: Double delight for investors this Diwali | Should you buy ahead of record date - Livemint",Livemint,2026-10-19,live,neutral,0.14609260857105255,0.012494487687945366,0.8414129018783569,0.13359812088310719
+TECHM,2026-10-16,"Tech Mahindra stock surges over 8%, tops Nifty gainers after Q2 earnings beat; HSBC sees further upside - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.913286030292511,0.041936278343200684,0.044777762144804,0.8713497519493103
+TECHM,2026-10-16,"Tech Mahindra up 7% after Q2 results, dividend, bonus shares announced- Buy, sell or hold? Check target prices, ratings - Livemint",Livemint,2026-10-19,live,positive,0.9211409091949463,0.015562444925308228,0.06329677253961563,0.9055784642696381
+TECHM,2026-10-16,"Tesla's Roadster reveal, Apple and Meta team up, Nike's India push and more in Morning Squawk - CNBC",,2026-10-18,legacy,neutral,0.05705282464623451,0.014990288764238358,0.9279569387435913,0.042062535881996155
+TECHM,2026-10-16,Trump says White House didn't order Starlink restrictions in Ukraine - CNBC,,2026-10-18,legacy,neutral,0.05278722196817398,0.13047553598880768,0.816737174987793,-0.0776883140206337
+TECHM,2026-10-16,"Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings - Reuters",,2026-10-18,legacy,neutral,0.07456842809915543,0.09279028326272964,0.8326413035392761,-0.01822185516357422
+TECHM,2026-10-16,Watch CNBC's full interview with Interactive Brokers’ Thomas Peterffy - CNBC,,2026-10-18,legacy,neutral,0.03837630897760391,0.019134484231472015,0.9424892067909241,0.019241824746131897
+TECHM,2026-10-16,Watch CNBC's full interview with Tenacity Venture Capital founder and general partner Ben Narasin - CNBC,,2026-10-18,legacy,neutral,0.029853638261556625,0.026498861610889435,0.9436474442481995,0.0033547766506671906
+TECHM,2026-10-16,Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues - CNBC,,2026-10-18,legacy,neutral,0.02923532947897911,0.12828713655471802,0.842477560043335,-0.0990518070757389
+TECHM,2026-10-16,Wipro shares gain nearly 2% after Q2 results; brokerages remain bearish - Business Standard,,2026-10-18,legacy,positive,0.838028073310852,0.11880243569612503,0.04316946864128113,0.719225637614727
+TECHM,2026-10-16,"Worst over for IT stocks? Experts analyse Q2 results of TCS, HCL, Tech Mahindra and others, suggest top picks - Livemint",Livemint,2026-10-19,live,neutral,0.07428561896085739,0.029174959287047386,0.8965393900871277,0.045110659673810005
+TECHM,2026-10-17,"5 stocks with consistent score improvement and upside potential of up to 29 % in 1 year, according to anal - The Economic Times",The Economic Times,2026-10-19,live,positive,0.9532382488250732,0.01804031990468502,0.028721477836370468,0.9351979289203882
+TECHM,2026-10-17,AI fears are rocking markets. The brave should buy the dips. - Livemint,Livemint,2026-10-19,live,neutral,0.056585490703582764,0.08270009607076645,0.8607144355773926,-0.026114605367183685
+TECHM,2026-10-17,"AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers - CNBC",,2026-10-18,legacy,positive,0.9499223828315735,0.014629087410867214,0.03544851019978523,0.9352932954207063
+TECHM,2026-10-17,Cyber fraud alert: SBI warns about AI voice-cloning scams — 5 ways to protect your money - Livemint,Livemint,2026-10-19,live,neutral,0.04095199331641197,0.107304647564888,0.8517433404922485,-0.06635265424847603
+TECHM,2026-10-17,DA hike after Dussehra: Will central government employees get good news in October? - What we know so far - Livemint,Livemint,2026-10-19,live,neutral,0.14323613047599792,0.018692951649427414,0.8380709290504456,0.12454317882657051
+TECHM,2026-10-17,"DA news: Key salary components explained — We breakdown the differences between your DA, DR and HRA - Livemint",Livemint,2026-10-19,live,neutral,0.06268568336963654,0.022850222885608673,0.9144641160964966,0.03983546048402786
+TECHM,2026-10-17,Dearness Allowance hike 2026: Will the Centre announce the July DA revision before Diwali? What history suggests - Livemint,Livemint,2026-10-19,live,neutral,0.04557699337601662,0.02012808993458748,0.9342949390411377,0.025448903441429138
+TECHM,2026-10-17,"Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout - Livemint",Livemint,2026-10-19,live,neutral,0.0661514475941658,0.0142454132437706,0.919603168964386,0.0519060343503952
+TECHM,2026-10-17,EPFO VISHWAS 2026 explained: How employers can settle pending Section 14B penal damages - Livemint,Livemint,2026-10-19,live,neutral,0.023532170802354813,0.10424037277698517,0.8722274899482727,-0.08070820197463036
+TECHM,2026-10-17,"EPFO explains new rules for EPF advances: Check withdrawal limits, conditions and forms - Livemint",Livemint,2026-10-19,live,neutral,0.03077017515897751,0.019985830411314964,0.9492440223693848,0.010784344747662544
+TECHM,2026-10-17,"Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint",Livemint,2026-10-19,live,neutral,0.035794131457805634,0.10830545425415039,0.8559004068374634,-0.07251132279634476
+TECHM,2026-10-17,"Home loan alert: SBI, PNB and 4 other banks revise lending rates — how borrowers may be affected - Livemint",Livemint,2026-10-19,live,neutral,0.024810796603560448,0.061563506722450256,0.9136257171630859,-0.03675271011888981
+TECHM,2026-10-17,How SBI’s failure to inform a retired scientist about FD maturity cost it ₹15.35 lakh; details of the case here - Livemint,Livemint,2026-10-19,live,neutral,0.021422121673822403,0.2577233910560608,0.7208544611930847,-0.2363012693822384
+TECHM,2026-10-17,"IMF members call for more support amid war shocks, 'advanced intelligence' risks - Reuters",,2026-10-18,legacy,neutral,0.18148380517959595,0.025571497157216072,0.7929447293281555,0.15591230802237988
+TECHM,2026-10-17,"India's Axis Bank quarterly profit rises 37.6%, but misses estimates on higher costs - Reuters",,2026-10-18,legacy,negative,0.027921030297875404,0.9387174248695374,0.033361539244651794,-0.910796394571662
+TECHM,2026-10-17,India's HDFC Bank Q2 profit rises 4.7%; deputy MD Bharucha to step down - Reuters,,2026-10-18,legacy,negative,0.021199746057391167,0.723550021648407,0.2552502453327179,-0.7023502755910158
+TECHM,2026-10-17,Infineon signs 200mm SiC wafer supply deal with Wolfspeed - electronics.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.22882942855358124,0.010158154182136059,0.7610124349594116,0.21867127437144518
+TECHM,2026-10-17,Parag Parikh Flexi Cap Fund cash falls to 9.77% after Rajeev Thakkar's ‘single-digit’ outlook: Where is the money going? - Livemint,Livemint,2026-10-19,live,negative,0.009131042286753654,0.9584717750549316,0.03239724785089493,-0.949340732768178
+TECHM,2026-10-17,"Regular vs step-up SIPs: Do ₹1,000 and 10% annual top-ups give you higher XIRR returns or just create a larger corpus? - Livemint",Livemint,2026-10-19,live,neutral,0.12621665000915527,0.011480691842734814,0.8623026609420776,0.11473595816642046
+TECHM,2026-10-17,SGB 2020-21 Series VII: Investors to pocket 192% gains on premature redemption; RBI fixes October 19 date - Livemint,Livemint,2026-10-19,live,positive,0.5543224811553955,0.026561208069324493,0.4191162884235382,0.527761273086071
+TECHM,2026-10-17,"Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says - CNBC",,2026-10-18,legacy,positive,0.8847101330757141,0.01051430031657219,0.1047755777835846,0.8741958327591419
+TECHM,2026-10-17,Software’s new consolidator gets big vote of confidence from Berkshire - CNBC,,2026-10-18,legacy,positive,0.864978015422821,0.01313749235123396,0.12188446521759033,0.8518405230715871
+TECHM,2026-10-17,Some companies give AI to everyone. This CEO is doing the opposite - CNBC,,2026-10-18,legacy,neutral,0.0306194256991148,0.0313250906765461,0.9380554556846619,-0.0007056649774312973
+TECHM,2026-10-17,Tech Mahindra - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.024767057970166206,0.03289838880300522,0.9423344731330872,-0.008131330832839012
+TECHM,2026-10-17,Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine - CNBC,,2026-10-18,legacy,neutral,0.11734320968389511,0.3361507058143616,0.5465061068534851,-0.21880749613046646
+TECHM,2026-10-17,Using two health insurance policies for one hospital bill? Are you aware of these claim rejection traps? - Livemint,Livemint,2026-10-19,live,neutral,0.02995999902486801,0.0915815606713295,0.8784584403038025,-0.06162156164646149
+TECHM,2026-10-17,₹9 lakh in Post Office MIS vs ₹9 lakh in bank FD: Which gives a higher monthly income? - Livemint,Livemint,2026-10-19,live,neutral,0.12957347929477692,0.02618788182735443,0.8442385792732239,0.10338559746742249
+TECHM,2026-10-18,"8th Pay Commission: How salaries change at fitment factors of 4, 3.833 and 3.80; Check complete calculations - Livemint",Livemint,2026-10-19,live,neutral,0.026975730434060097,0.03878628462553024,0.9342380166053772,-0.011810554191470146
+TECHM,2026-10-18,"Aadhaar update: Want to change your name, address or date of birth? Check UIDAI's list of accepted documents - Livemint",Livemint,2026-10-19,live,neutral,0.01804356649518013,0.04567660018801689,0.9362798929214478,-0.02763303369283676
+TECHM,2026-10-18,Best-performing SIFs: Quant leads hybrid long-short funds with 25.5% returns in 6 months; check how peers performed - Livemint,Livemint,2026-10-19,live,neutral,0.3179176449775696,0.009293559938669205,0.6727887988090515,0.3086240850389004
+TECHM,2026-10-18,Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - Livemint,Livemint,2026-10-19,live,positive,0.8305219411849976,0.012056343257427216,0.15742167830467224,0.8184655979275703
+TECHM,2026-10-18,DA hike before Diwali 2026: How much extra salary could central government employees get if DA rises to 63%? - Livemint,Livemint,2026-10-19,live,neutral,0.23255343735218048,0.02355491742491722,0.7438916563987732,0.20899851992726326
+TECHM,2026-10-18,"EPFO scheme offers up to ₹15,000 to first-time employees: Check eligibility, salary limit and payment rules - Livemint",Livemint,2026-10-19,live,neutral,0.06295186281204224,0.011000827886164188,0.9260473251342773,0.05195103492587805
+TECHM,2026-10-18,"EPFO: How to check status, EPF account passbook on official portal, Umang app, SMS, Missed Call, WhatsApp—Stepwise guide - Livemint",Livemint,2026-10-19,live,neutral,0.05301089957356453,0.01584567315876484,0.9311434626579285,0.03716522641479969
+TECHM,2026-10-18,"Earnings, crude oil, Jio IPO key monitorables for investors next week - Business Standard",,2026-10-18,legacy,neutral,0.033478714525699615,0.025387031957507133,0.9411342144012451,0.008091682568192482
+TECHM,2026-10-18,"Earnings, crude oil, Jio Platforms IPO key monitorables for investors next week - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.026783868670463562,0.03470204770565033,0.9385141134262085,-0.007918179035186768
+TECHM,2026-10-18,"Eating out with family for Diwali, Dussehra? Here's why your restaurant bills may go up by 10-15% this festive season - Livemint",Livemint,2026-10-19,live,positive,0.7849933505058289,0.03552398830652237,0.17948266863822937,0.7494693621993065
+TECHM,2026-10-18,FD maturity mistake: Fixed deposit matured but you forgot to withdraw money? What happens to your amount? Renew or not? - Livemint,Livemint,2026-10-19,live,neutral,0.02800249308347702,0.04324764013290405,0.9287498593330383,-0.015245147049427032
+TECHM,2026-10-18,"Income Tax New TDS Form 141: How it simplifies tax deduction at source compliance for property transactions, rent, etc - Livemint",Livemint,2026-10-19,live,neutral,0.05907716602087021,0.013225287199020386,0.9276975989341736,0.04585187882184982
+TECHM,2026-10-18,Income tax audit last date: 21 Oct is deadline; last-minute checklist for taxpayers before submission | List from expert - Livemint,Livemint,2026-10-19,live,neutral,0.01718260534107685,0.050264280289411545,0.9325531125068665,-0.033081674948334694
+TECHM,2026-10-18,Insurance reforms: Why claims matter more than distribution costs - Livemint,Livemint,2026-10-19,live,neutral,0.05614390969276428,0.02345406264066696,0.9204020500183105,0.03268984705209732
+TECHM,2026-10-18,Markets - Bloomberg.com,,2026-10-18,legacy,neutral,0.02371409721672535,0.03593253716826439,0.9403533339500427,-0.01221843995153904
+TECHM,2026-10-18,"Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint",Livemint,2026-10-19,live,positive,0.6336671710014343,0.02806326001882553,0.33826956152915955,0.6056039109826088
+TECHM,2026-10-18,"NRI's ₹3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT gives relief - Livemint",Livemint,2026-10-19,live,negative,0.06317933648824692,0.4893200993537903,0.44750064611434937,-0.42614076286554337
+TECHM,2026-10-18,"No ITR filed, but ITAT Jaipur still quashed the 200% income tax penalty: Here's what the taxpayer did to win the case - Livemint",Livemint,2026-10-19,live,neutral,0.09165002405643463,0.037385810166597366,0.8709641695022583,0.054264213889837265
+TECHM,2026-10-18,"Stock split, bonus, dividend, buyback record date in 19-25Oct week: Angel One, JSW, IRFC, Tech Mahindra, Modison, others - Livemint",Livemint,2026-10-19,live,neutral,0.11055761575698853,0.013497443869709969,0.875944972038269,0.09706017188727856
+TECHM,2026-10-18,"Using Buying Now, Pay Later (BNPL) for Diwali, Dussehra, and Dhanteras online shopping? Are you aware of these 5 risks? - Livemint",Livemint,2026-10-19,live,neutral,0.057413555681705475,0.023272603750228882,0.9193137884140015,0.03414095193147659
+TECHM,2026-10-18,"Want to retire early? How to split ₹1 lakh in monthly investments between short-term goals and FIRE, expert explains - Livemint",Livemint,2026-10-19,live,neutral,0.07719823718070984,0.012526788748800755,0.9102749824523926,0.06467144843190908
+TECHM,2026-10-18,What Does Infosys Today Look for When Hiring People? Infosys CTO Rafee Tarafdar - The Economic Times,,2026-10-18,legacy,neutral,0.03408209607005119,0.0395236536860466,0.9263942241668701,-0.005441557615995407
+TECHM,2026-10-18,"₹50,000 in KVP vs ₹50,000 in NSC: Which post office scheme is better for a five-year goal? Check out the calculations - Livemint",Livemint,2026-10-19,live,neutral,0.1011575385928154,0.019315024837851524,0.8795274496078491,0.08184251375496387
+TECHM,2026-10-19,8th Pay Commission: What is dearness relief and how is it different from DA? Expert explains - Livemint,Livemint,2026-10-19,live,neutral,0.0475323423743248,0.02110881358385086,0.9313588738441467,0.026423528790473938
+TECHM,2026-10-19,A hedge-fund billionaire’s two bitter wars—against his wife and his business partner - Livemint,Livemint,2026-10-19,live,negative,0.09851834177970886,0.4784472584724426,0.4230344593524933,-0.37992891669273376
+TECHM,2026-10-19,ET Wealth Edition 25 October 2026 - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.04234568402171135,0.024824492633342743,0.9328297972679138,0.017521191388368607
+TECHM,2026-10-19,"Gold, silver prices today, 19 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",Livemint,2026-10-19,live,neutral,0.07737729698419571,0.02003602869808674,0.9025866389274597,0.05734126828610897
+TECHM,2026-10-19,Smita Balram - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.06622924655675888,0.04004879295825958,0.8937219381332397,0.026180453598499298
+TECHM,2026-10-19,The AI stock market wobble is a reminder: This time isn’t different - Livemint,Livemint,2026-10-19,live,neutral,0.04363156855106354,0.16439838707447052,0.7919700741767883,-0.12076681852340698
+TECHM,2026-10-19,The deadly 1.5-mile corridor that shows the fatal flaw in America’s road design - Livemint,Livemint,2026-10-19,live,neutral,0.09331399202346802,0.05143614113330841,0.8552498817443848,0.04187785089015961
+TECHM,2026-10-19,What is a ‘boss scam’? 5 ways to protect yourself from CEO fraud - Livemint,Livemint,2026-10-19,live,neutral,0.031349752098321915,0.06962459534406662,0.8990256786346436,-0.038274843245744705

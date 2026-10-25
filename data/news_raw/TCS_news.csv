@@ -1,101 +1,166 @@
-ticker,date,headline,sentiment_score
-TCS,2026-04-07,"TCS Q4 preview: Profit may rise 14% YoY; AI, deal wins key monitorables - business-standard.com",0.7535569071769714
-TCS,2026-04-07,"Nifty IT up 2%; Wipro, Infy, TCS rise up to 4% as investors eye Q4 results - business-standard.com",0.9250752925872803
-TCS,2008-01-17,"TCS results put slowdown fears to rest, show outsourcing’s on a roll - economictimes.indiatimes.com",-0.8808147311210632
-TCS,2026-04-01,"tcs q2 date: Latest News & Videos, Photos about tcs q2 date - economictimes.indiatimes.com",-0.9424657821655273
-TCS,2026-04-06,IT firms may post muted Q4; weak INR to cushion earnings; FY27 guidance key - business-standard.com,-0.9572206735610962
-TCS,2013-11-20,"MS partners with TCS, Wipro for intelligent city solns and services - economictimes.indiatimes.com",-0.9072529673576355
-TCS,2026-04-07,"Lodha Developers' pre-sales up 23% at ₹5,890 cr in Q4, misses annual target - business-standard.com",0.9346950054168701
-TCS,2026-04-07,Shyam Metalics up 8% on posting Q4 update; stainless steel sales up 59% YoY - business-standard.com,0.9474509954452515
-TCS,2026-04-07,Godrej Consumer rises 4% on posting Q4 update; Nomura maintains 'Buy' - business-standard.com,0.9155107736587524
-TCS,2026-04-07,Titagarh Rail Systems share jump 13%; check what's fuelling investor demand - business-standard.com,-0.8779138326644897
-TCS,2026-04-07,Metal stocks up 22% from Mar lows; Analyst sees up to 18% upside in these 3 - business-standard.com,0.9528912901878357
-TCS,2026-04-07,Markets set on favourable FY27 base; Iran war ceasefire key trigger: MOFSL - business-standard.com,-0.8726372718811035
-TCS,2026-04-07,"Stock Alert: Godrej Consumer Products, IRFC, Aurobindo Pharma, Titagarh Rail Systems, Globus Spirits - business-standard.com",-0.9494476318359375
-TCS,2026-04-07,Globus Spirits shares jump 7% after launching CRT-certified TERAI Tequila - business-standard.com,0.8292059302330017
-TCS,2026-04-07,GIFT Nifty indicates lower opening for equities; Trump hardens rhetoric on Iran war - business-standard.com,-0.8355684876441956
-TCS,2026-04-07,"Government of India announces the sale of one dated security for a notified amount of ₹34,000 crore - business-standard.com",-0.9242982864379883
-TCS,2026-04-07,"Jubilant Food vs Devyani: This QSR stock can rebound upto 33%, says analyst - business-standard.com",0.9506679177284241
-TCS,2026-04-07,Meta to release open source versions of its upcoming AI models - economictimes.indiatimes.com,-0.9380402565002441
-TCS,2026-04-07,No evidence of generalized supply stress or inflationary transmission in essential food commodities - business-standard.com,-0.7699611186981201
-TCS,2026-04-06,"Reliance slips 4%; stock hits over 10-month low, m-cap falls below ₹18 trn - business-standard.com",-0.9506584405899048
-TCS,2026-04-07,Yen nears 160 as dollar strength and oil surge intensify pressure - business-standard.com,-0.7276647686958313
-TCS,2026-04-07,Q4FY26 business update sends Gallantt Ispat shares flying 14% on bourses - business-standard.com,0.8424239754676819
-TCS,2026-04-07,India's 10-year yield eases near 7% mark as RBI remains in focus - business-standard.com,-0.6340800523757935
-TCS,2026-04-07,"QSR stocks under pressure; Jubilant FoodWorks slips 8%, hits 52-week low - business-standard.com",-0.9620224833488464
-TCS,2026-04-07,Biocon shares slip 4% amid heavy volumes; 9.58 mn shares traded on NSE - business-standard.com,-0.9721192121505737
-TCS,2026-04-07,KPI Green Energy Ltd Slips 2.82% - business-standard.com,-0.9557231068611145
-TCS,2026-04-07,Board of BLUECLOUDS approves acquisition of Global Impx Inc. - business-standard.com,-0.9311233758926392
-TCS,2026-04-07,Swan Defence jumps after securing green shipbuilding order - business-standard.com,0.7203810214996338
-TCS,2026-04-07,PTC India edges higher after Crisil Ratings revises rating outlook to 'negative' - business-standard.com,-0.8032673597335815
-TCS,2026-04-07,INR stays supported following RBI initiatives - business-standard.com,0.6172307133674622
-TCS,2026-04-07,B.R.Goyal Infra secures Rs 23-cr MPRDC order - business-standard.com,-0.9091683030128479
-TCS,2026-04-07,"Swan Defence hits 5% upper circuit on ₹1,500-3,000 crore bulk carrier order - business-standard.com",0.706193208694458
-TCS,2026-04-07,Godrej Consumer gains on double-digit Q4 growth outlook - business-standard.com,-0.7434005737304688
-TCS,2026-04-07,India achieves highest-ever annual wind energy capacity addition of 6.05 GW in 2025-26 - business-standard.com,0.6716435551643372
-TCS,2026-04-07,Gujarat Pipavav Port sees container volumes dip 3.5% YoY in Q4 FY26 - business-standard.com,-0.934195339679718
-TCS,2026-04-07,ACME Solar commissions Phase V of Rajasthan BESS project - business-standard.com,-0.9358214735984802
-TCS,2026-04-07,Karnataka 2nd PUC Result 2026: When and how to download result once out? - business-standard.com,-0.9484745860099792
-TCS,2026-04-07,NSE SME Vivid Electromech powers onto bourses with muted gains - business-standard.com,-0.6847196817398071
-TCS,2026-04-07,Brainbees Solutions Ltd leads gainers in 'A' group - business-standard.com,-0.5094839930534363
-TCS,2026-04-07,CreditAccess Grameen gains on strong Q4 business update - business-standard.com,0.8788933157920837
-TCS,2026-04-07,Mukul Agrawal portfolio stock: Lux Industries zooms 36% in 2 days - business-standard.com,0.7245875597000122
-TCS,2026-04-07,"IRFC sanctions Rs 1,000 crore term loan to MAHAGENCO - business-standard.com",-0.883880078792572
-TCS,2026-04-07,Sharda Cropchem jumps after Dolly Khanna buys stake - business-standard.com,-0.8218842148780823
-TCS,2026-04-07,Dynacons Systems gains on bagging Rs 25-cr ERP contract from J&K Bank - business-standard.com,0.9394026398658752
-TCS,2026-04-07,India auto retail hits record high in FY26 with strong March finish - business-standard.com,0.886315643787384
-TCS,2026-04-07,"CreditAccess Grameen jumps 10% on strong Q4 update, asset quality recovery - business-standard.com",0.9258901476860046
-TCS,2026-04-07,Lodha Developers clocks pre-sales of Rs 5.890 crore in Q4 - business-standard.com,-0.926708996295929
-TCS,2026-04-07,Gallantt Ispat rallies as pellet production climbs 59% YoY in Q4 FY26 - business-standard.com,0.9220668077468872
-TCS,2026-04-07,Royal Orchid Hotels launches Regenta Place Iris Park in Rishikesh - business-standard.com,-0.9402179718017578
-TCS,2026-04-07,CCTV issues in police stations to be resolved in 2 weeks: Centre tells SC - business-standard.com,-0.8961509466171265
-TCS,2026-04-07,"ANSR Announces ANSR MedTech, a Global Capability Center for a High-Growth MedTech Company - business-standard.com",-0.805707573890686
-TCS,2026-04-07,Jubilant FoodWorks reports 19% YoY revenue growth in Q4 FY26 - business-standard.com,0.5367207527160645
-TCS,2026-04-07,"PM Modi extends wishes on World Health Day, urges focus on well-being - business-standard.com",-0.8850459456443787
-TCS,2026-04-07,US Stocks Edge Up Amid Iran War Tensions and Oil Surge - business-standard.com,-0.4888584017753601
-TCS,2026-04-06,"CBI flags ₹73,000 cr fraud in Anil Ambani Group probe; ED flags IBC issues - business-standard.com",-0.9231855869293213
-TCS,2026-04-06,The Conviction to Lead: How Aditya Jangid Scaled AdCounty Media into a Global Powerhouse - business-standard.com,-0.7691290378570557
-TCS,2026-04-07,"Health insurance firms shifting to personalisation, prevention: Report - business-standard.com",-0.9392076134681702
-TCS,2026-04-07,Relief for migrant workers as govt doubles daily limit of 5kg LPG cylinder - business-standard.com,-0.7714576721191406
-TCS,2026-04-07,Saudi-Bahrain bridge closed over Iranian threats as Trump deadline nears - business-standard.com,-0.6090824604034424
-TCS,2026-04-07,Air India CEO steps down: Inside the turbulence airline is facing - business-standard.com,-0.6927196979522705
-TCS,2026-04-07,2 women in race for UN chief as push grows for 1st female Secretary-General - business-standard.com,-0.8769028782844543
-TCS,2026-04-07,Rahul accuses Centre of excluding Bahujan entrepreneurs from big contracts - business-standard.com,-0.7179707884788513
-TCS,2026-04-07,Heart attack prediction models underestimate Indian patients at risk: Study - business-standard.com,-0.9221686124801636
-TCS,2026-04-07,"Australia student visa: 40% Indians rejected, applications up 36% in 2026 - business-standard.com",-0.7849429249763489
-TCS,2026-04-07,RBI set to hold rates while confronting weak rupee amid West Asia conflict - business-standard.com,-0.4663017988204956
-TCS,2026-04-07,Nearly 9.1 mn names deleted from Bengal electoral rolls after SIR exercise - business-standard.com,-0.7710952758789062
-TCS,2026-04-07,94% of childhood cancer deaths occur in poorer countries: Lancet study - business-standard.com,-0.9420844316482544
-TCS,2026-04-07,Biocon seeks to become 'the' insulin company as rivals chase GLP-1 boom - business-standard.com,0.722865879535675
-TCS,2026-04-07,"Healthy ageing is trending in India, but most people are not acting on it - business-standard.com",-0.9287775158882141
-TCS,2026-04-07,SC bench hears pleas on discrimination against women at religious places - business-standard.com,-0.8854773044586182
-TCS,2026-04-07,India's fast breeder reactor attains criticality: Here's why it matters - business-standard.com,-0.8971037268638611
-TCS,2026-04-07,"Modern-day pioneers, you've inspired world: Trump speaks to Artemis II crew - business-standard.com",-0.9344644546508789
-TCS,2022-10-10,TCS Results: Profit Tops Estimates After Outsourcing Giant Wins New Deals - bloomberg.com,0.5054723024368286
-TCS,2025-04-11,TCS IN Equity 10Apr25 RU - bsmedia.business-standard.com,-0.9470659494400024
-TCS,2023-07-12,TCS Profit Beats Estimates on Demand for Software Services - bloomberg.com,-0.8036490082740784
-TCS,2025-07-10,TCS revenue falls short as tariffs cast shadow on client spending - Reuters,-0.9628780484199524
-TCS,2025-04-10,India's TCS warns US tariff chaos hurting client sentiment - Reuters,-0.9630637764930725
-TCS,2026-01-12,TCS Profit Misses Estimates in Sign Tech Spending Yet to Pick Up - bloomberg.com,-0.5626420974731445
-TCS,2025-07-28,"Indian shares dragged down by Kotak Mahindra Bank, TCS; trade deal delay weighs - Reuters",-0.9391090869903564
-TCS,2025-07-10,TCS Sales Drag as Cautious Clients Hold Back Tech Spends - bloomberg.com,-0.8825124502182007
-TCS,2025-10-07,India's IT sector set for another weak quarter as demand stays soft - Reuters,-0.9644457101821899
-TCS,2025-07-24,TCS Stock Set for Worst Performance Since 2008 After $43 Billion Wipeout - bloomberg.com,-0.9548800587654114
-TCS,2014-03-15,TCS: Tata Consultancy Services Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9453407526016235
-TCS,2024-10-11,"India's TCS slips after Q2 profit miss, other IT firms advance - Reuters",-0.9578256011009216
-TCS,2024-01-11,India's TCS CEO flags uncertain demand as inflation crimps spending - Reuters,-0.8212162852287292
-TCS,2025-01-09,TCS Misses Profit Estimates in Sign IT Spending Yet to Pick Up - bloomberg.com,-0.7471265196800232
-TCS,2026-01-12,"India's TCS posts slim quarterly revenue beat on AI demand, North America growth - Reuters",0.49748966097831726
-TCS,2025-01-11,"India's TCS expects retail, manufacturing revival after banking recovery - Reuters",0.8415320515632629
-TCS,2024-04-14,India’s TCS counts on pricing increases to boost margins - Reuters,0.9468602538108826
-TCS,2025-07-10,India's benchmarks slip on IT drag ahead of TCS earnings - Reuters,-0.9297192692756653
-TCS,2023-10-11,India's TCS flags weak client spending after Q2 revenue miss - Reuters,-0.9678627848625183
-TCS,2025-10-10,Traders See Calmest India Earnings Season as They Look Past TCS - bloomberg.com,-0.804239809513092
-TCS,2024-07-11,"India's TCS beats Q1 view, flags persistent demand uncertainty - Reuters",-0.4310499131679535
-TCS,2024-01-14,India's TCS to diversify to other markets amid US weakness - Reuters,0.677374541759491
-TCS,2024-10-10,India's TCS misses Q2 profit estimates on North America weakness - Reuters,-0.9048592448234558
-TCS,2025-10-09,"TCS/BM/SE/118/2025-26 October 9, 2025 National Stock Exchange of India Limited BSE Limited Exchange Plaza, C-1, Block G, Bandra - bsmedia.business-standard.com",-0.9461491107940674
-TCS,2025-10-09,Indian Investors Watch IT Stocks After Tata Consultancy Services’ Earnings - bloomberg.com,-0.9160459041595459
-TCS,2025-11-20,"India's TCS, TPG partner to invest $2 billion in AI data centre JV - Reuters",-0.5911316275596619
-TCS,2024-07-11,India's TCS jumps after Q1 results indicate 'worst is over' - Reuters,-0.699999213218689
-TCS,2022-06-06,TCS.NS - Reuters,-0.9454762935638428
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+TCS,2020-07-09,"TCS: Q1 profit slips 13.8% YoY to Rs 7,008 cr, wins deals worth $6.9 bn - Business Standard",,2026-10-18,legacy,negative,0.010340021923184395,0.9696207642555237,0.02003921940922737,-0.9592807423323393
+TCS,2021-06-19,Tata Consultancy Services Ltd - Reuters,,2026-10-18,legacy,neutral,0.028599826619029045,0.03585287183523178,0.9355472922325134,-0.007253045216202736
+TCS,2021-10-10,India's TCS slumps 7% on fears large deals drying up - Reuters,,2026-10-18,legacy,negative,0.010628889314830303,0.9628742933273315,0.0264968890696764,-0.9522454040125012
+TCS,2021-11-18,TATA Consultancy Services Limited 9th Floor Nirmal Building Nariman Point Mumbai 400 021 Tel. 91 22 6778 9595 Fax 91 22 6778 966 - Business Standard,Business Standard,2026-10-19,live,neutral,0.030308345332741737,0.02628597803413868,0.9434057474136353,0.004022367298603058
+TCS,2022-01-12,TCS Profit Misses Estimates as Staff Costs Rise Amid IT Boom - Bloomberg.com,Bloomberg.com,2026-10-19,live,negative,0.031351570039987564,0.8842675685882568,0.0843808576464653,-0.8529159985482693
+TCS,2022-06-06,TCS.NS - Reuters,,2026-10-18,legacy,neutral,0.020526643842458725,0.033997081220149994,0.9454762935638428,-0.013470437377691269
+TCS,2022-10-10,TCS Results: Profit Tops Estimates After Outsourcing Giant Wins New Deals - Bloomberg.com,,2026-10-18,legacy,positive,0.5054724812507629,0.11618611961603165,0.3783413767814636,0.3892863616347313
+TCS,2023-01-09,"India's TCS Q3 misses view, flags challenges in Europe - Reuters",,2026-10-18,legacy,neutral,0.08641911298036575,0.08101095259189606,0.8325698971748352,0.005408160388469696
+TCS,2023-01-09,"India's TCS slips 2.7% on profit miss, weak outlook - Reuters",,2026-10-18,legacy,negative,0.008266855962574482,0.9699589014053345,0.021774303168058395,-0.96169204544276
+TCS,2023-01-17,India's growth is benefitting from stable political environment: Tata Consultancy Services CEO - CNBC,CNBC,2026-10-19,live,neutral,0.3163398206233978,0.009992690756917,0.6736674904823303,0.3063471298664808
+TCS,2023-07-12,TCS Profit Beats Estimates on Demand for Software Services - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.142704576253891,0.05364645645022392,0.8036489486694336,0.08905811980366707
+TCS,2023-09-28,Tata Consultancy Services retains top spot as most valuable Indian brand - Business Standard,Business Standard,2026-10-19,live,positive,0.8419570922851562,0.010410626418888569,0.14763230085372925,0.8315464658662677
+TCS,2023-10-11,India's TCS flags weak client spending after Q2 revenue miss - Reuters,,2026-10-18,legacy,negative,0.009922646917402744,0.9678629040718079,0.022214515134692192,-0.9579402571544051
+TCS,2023-11-21,India's TCS to take $125 mln hit to Q3 earnings over US lawsuit - Reuters,,2026-10-18,legacy,neutral,0.22901317477226257,0.15640170872211456,0.6145851612091064,0.07261146605014801
+TCS,2024-01-11,India's TCS CEO flags uncertain demand as inflation crimps spending - Reuters,,2026-10-18,legacy,negative,0.040056873112916946,0.8212161660194397,0.13872699439525604,-0.7811592929065228
+TCS,2024-01-12,"Indian IT stocks rally after TCS, Infosys post better-than-feared results - Reuters",,2026-10-18,legacy,positive,0.7533332705497742,0.184368297457695,0.06229843944311142,0.5689649730920792
+TCS,2024-01-14,India's TCS to diversify to other markets amid US weakness - Reuters,,2026-10-18,legacy,positive,0.6773741841316223,0.038934189826250076,0.2836916446685791,0.6384399943053722
+TCS,2024-03-18,India's TCS drops on top shareholder Tata Sons' share sale plan - Reuters,,2026-10-18,legacy,negative,0.009731791913509369,0.9404796361923218,0.049788523465394974,-0.9307478442788124
+TCS,2024-04-12,India's TCS pins hopes on strong deal pipeline to drive growth in fiscal 2025 - Reuters,,2026-10-18,legacy,positive,0.9402798414230347,0.015173551626503468,0.04454667121171951,0.9251062897965312
+TCS,2024-04-12,"TCS Q4 results: Profit rises 9% to Rs 12,434 crore, revenue up 3.5% - Business Standard",,2026-10-18,legacy,positive,0.953329861164093,0.022978929802775383,0.02369115874171257,0.9303509313613176
+TCS,2024-05-09,TCS CEO Krithivasan earned $3 mln in first year at top job - Reuters,,2026-10-18,legacy,neutral,0.24909740686416626,0.015051696449518204,0.7358508706092834,0.23404571041464806
+TCS,2024-07-11,"India's TCS beats Q1 view, flags persistent demand uncertainty - Reuters",,2026-10-18,legacy,neutral,0.3420279026031494,0.22692158818244934,0.431050568819046,0.11510631442070007
+TCS,2024-07-11,India's TCS jumps after Q1 results indicate 'worst is over' - Reuters,,2026-10-18,legacy,negative,0.14527609944343567,0.6999986171722412,0.15472528338432312,-0.5547225177288055
+TCS,2024-10-10,India's TCS misses Q2 profit estimates on North America weakness - Reuters,,2026-10-18,legacy,negative,0.014954069629311562,0.9048593640327454,0.08018652349710464,-0.8899052944034338
+TCS,2024-10-11,"India's TCS slips after Q2 profit miss, other IT firms advance - Reuters",,2026-10-18,legacy,negative,0.011974669992923737,0.9578256011009216,0.030199652537703514,-0.9458509311079979
+TCS,2025-01-09,India's TCS counts on Trump to boost US client spending - Reuters,,2026-10-18,legacy,positive,0.9225521683692932,0.010618448257446289,0.06682936102151871,0.9119337201118469
+TCS,2025-01-09,India's TCS jumps 6% as CEO signals potential demand revival - Reuters,,2026-10-18,legacy,positive,0.7864472270011902,0.05654072016477585,0.15701204538345337,0.7299065068364143
+TCS,2025-02-17,Former Staffers Say India’s Biggest IT Firm Was Gaming the US Visa System - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.035544175654649734,0.048244915902614594,0.9162108898162842,-0.012700740247964859
+TCS,2025-04-10,India's TCS warns US tariff chaos hurting client sentiment - Reuters,,2026-10-18,legacy,negative,0.012714993208646774,0.9630637764930725,0.024221187457442284,-0.9503487832844257
+TCS,2025-04-17,US Agency Probes Workers' Bias Claims Against India’s TCS - Bloomberg.com,Bloomberg.com,2026-10-19,live,negative,0.014729032292962074,0.920414924621582,0.06485598534345627,-0.90568589232862
+TCS,2025-06-19,India's TCS says none of its systems were compromised in M&S hack - Reuters,Reuters,2026-10-19,live,neutral,0.04137878119945526,0.09844997525215149,0.8601712584495544,-0.05707119405269623
+TCS,2025-07-10,TCS revenue falls short as tariffs cast shadow on client spending - Reuters,,2026-10-18,legacy,negative,0.015028635039925575,0.9628780484199524,0.022093316540122032,-0.9478494133800268
+TCS,2025-07-23,TCS Stock Set for Worst Performance Since 2008 After $43 Billion Wipeout - Bloomberg.com,,2026-10-18,legacy,negative,0.00803909357637167,0.9548800587654114,0.03708089515566826,-0.9468409651890397
+TCS,2025-07-27,"Indian tech company TCS to cut workforce by 2%, affecting more than 12,000 jobs - Reuters",,2026-10-18,legacy,negative,0.008939951658248901,0.9690452218055725,0.022014791145920753,-0.9601052701473236
+TCS,2025-07-28,"Indian shares dragged down by Kotak Mahindra Bank, TCS; trade deal delay weighs - Reuters",,2026-10-18,legacy,negative,0.01008011493831873,0.9391090869903564,0.05081078037619591,-0.9290289720520377
+TCS,2025-07-29,COMMENTARY: India’s new IT playbook begins with layoffs - Reuters,Reuters,2026-10-19,live,negative,0.021389247849583626,0.7127556800842285,0.265855073928833,-0.6913664322346449
+TCS,2025-08-06,"India's TCS to hike wages of 80% employees after five-month delay, company mail shows - Reuters",Reuters,2026-10-19,live,negative,0.27916109561920166,0.47300130128860474,0.2478376179933548,-0.19384020566940308
+TCS,2025-10-07,India's IT sector set for another weak quarter as demand stays soft - Reuters,Reuters,2026-10-19,live,negative,0.009412856772542,0.9644457101821899,0.026141434907913208,-0.9550328534096479
+TCS,2025-10-08,"Metals, IT drive India shares higher; TCS earnings on tap - Reuters",,2026-10-18,legacy,positive,0.7382752895355225,0.0299904216080904,0.23173432052135468,0.7082848679274321
+TCS,2025-10-09,"India's TCS beats quarterly revenue estimates, sees better growth in H2 - Reuters",,2026-10-18,legacy,positive,0.9486879110336304,0.019952841103076935,0.03135915845632553,0.9287350699305534
+TCS,2025-10-10,AI Push Drives Record Job Cuts at Top India Private Employer TCS - Bloomberg.com,Bloomberg.com,2026-10-19,live,negative,0.016992762684822083,0.94913649559021,0.03387065976858139,-0.9321437329053879
+TCS,2025-10-10,"TCS's $7 billion India data centre bet raises questions over returns, fit - Reuters",,2026-10-18,legacy,neutral,0.04709116369485855,0.05307207256555557,0.8998367786407471,-0.0059809088706970215
+TCS,2025-11-20,"India's TCS, TPG partner to invest $2 billion in AI data centre JV - Reuters",,2026-10-18,legacy,neutral,0.4011269807815552,0.00774121331050992,0.591131865978241,0.39338576747104526
+TCS,2026-01-07,"Indian top IT firms set for another tepid quarter on weak US demand, client spending - Reuters",,2026-10-18,legacy,negative,0.012081267312169075,0.9591574668884277,0.02876131236553192,-0.9470761995762587
+TCS,2026-01-12,"India's TCS posts slim quarterly revenue beat on AI demand, North America growth - Reuters",,2026-10-18,legacy,positive,0.49749061465263367,0.4458303451538086,0.05667900666594505,0.05166026949882507
+TCS,2026-01-12,"TCS, HCL Tech Results Bring Setback for India Stock Bulls - Bloomberg.com",,2026-10-18,legacy,negative,0.0760067030787468,0.6914291381835938,0.23256416618824005,-0.615422435104847
+TCS,2026-02-25,"India's TCS urging staff to use AI despite risk to revenue, CEO says - Reuters",Reuters,2026-10-19,live,neutral,0.3582538068294525,0.018794553354382515,0.6229516267776489,0.33945925347507
+TCS,2026-04-08,Indian Stock Bulls Count on Earnings to Extend Best Winning Run Since November - Bloomberg.com,,2026-10-18,legacy,positive,0.7724387645721436,0.019062358886003494,0.20849892497062683,0.7533764056861401
+TCS,2026-04-08,"Tata Consultancy Will See Outsized Move on Results, Options Show - Bloomberg.com",Bloomberg.com,2026-10-19,live,negative,0.03201623260974884,0.6970041394233704,0.27097955346107483,-0.6649879068136215
+TCS,2026-04-09,"India's TCS falls as rare annual revenue drop dulls quarterly earnings beat, deal wins - Reuters",,2026-10-18,legacy,negative,0.009715012274682522,0.9528106451034546,0.03747432678937912,-0.9430956328287721
+TCS,2026-04-09,"India's TCS tops estimates, says new AI models did not dent services demand - Reuters",,2026-10-18,legacy,positive,0.8426181077957153,0.06818616390228271,0.08919572085142136,0.7744319438934326
+TCS,2026-04-09,TCS IN Equity - Business Standard,,2026-10-18,legacy,neutral,0.04045560210943222,0.018389787524938583,0.9411545991897583,0.022065814584493637
+TCS,2026-04-09,TCS Tops Profit Estimates After Cost Cuts to Cope With IT Slump - Bloomberg.com,,2026-10-18,legacy,positive,0.624860405921936,0.19305811822414398,0.18208149075508118,0.43180228769779205
+TCS,2026-04-10,Tata Consultancy Services (TCS IN) - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03026648797094822,0.021419543772935867,0.9483139514923096,0.008846944198012352
+TCS,2026-04-13,"India's TCS to probe sexual assault, religious conversion allegations in western India office - Reuters",Reuters,2026-10-19,live,neutral,0.026182062923908234,0.08297289162874222,0.890845000743866,-0.056790828704833984
+TCS,2026-05-11,Indian panel alleges 'toxic workplace environment' at TCS back office - Reuters,Reuters,2026-10-19,live,negative,0.009619004093110561,0.9231563210487366,0.06722459942102432,-0.913537316955626
+TCS,2026-06-03,India's IT stocks head for worst day in 4 months on AI disruption worries; TCS plunges 9% - Reuters,,2026-10-18,legacy,negative,0.012048042379319668,0.9577468633651733,0.030205048620700836,-0.9456988209858537
+TCS,2026-06-09,Asia’s Largest Outsourcer to Slow Hiring as AI Reshapes Industry - Bloomberg,Bloomberg,2026-10-19,live,negative,0.013361524790525436,0.9456289410591125,0.04100952669978142,-0.9322674162685871
+TCS,2026-06-09,Tata+consultancy+services - electronics.economictimes.indiatimes.com,electronics.economictimes.indiatimes.com,2026-10-19,live,neutral,0.02799590863287449,0.027996033430099487,0.9440081119537354,-1.2479722499847412e-07
+TCS,2026-06-10,India's TCS partners with Anthropic to drive enterprise AI scaling - Reuters,Reuters,2026-10-19,live,neutral,0.21438857913017273,0.007789175026118755,0.7778222560882568,0.20659940410405397
+TCS,2026-06-15,US Supreme Court rejects Tata challenge to $168 million award in trade secrets case - Reuters,Reuters,2026-10-19,live,neutral,0.08322244137525558,0.3409154415130615,0.5758621096611023,-0.25769300013780594
+TCS,2026-06-16,India's TCS to take $70 million hit after US Supreme Court rejects appeal - Reuters,,2026-10-18,legacy,negative,0.063338503241539,0.689784049987793,0.24687740206718445,-0.626445546746254
+TCS,2026-07-06,"Indian IT firms face muted Q1 as AI shift, weak demand weigh - Reuters",,2026-10-18,legacy,negative,0.013135842978954315,0.9548712372779846,0.031992942094802856,-0.9417353942990303
+TCS,2026-07-09,"India's TCS tops revenue estimates on weak rupee, banking boost - Reuters",,2026-10-18,legacy,positive,0.884085476398468,0.07671356201171875,0.039200957864522934,0.8073719143867493
+TCS,2026-07-09,"Indian shares edge up; focus on TCS earnings, Mideast developments - Reuters",,2026-10-18,legacy,positive,0.8959877490997314,0.03214830905199051,0.07186400145292282,0.8638394400477409
+TCS,2026-07-09,TCS Meets Estimates After Deal Momentum Boosts Recovery Campaign - Bloomberg.com,,2026-10-18,legacy,neutral,0.15515534579753876,0.02706482633948326,0.8177798390388489,0.1280905194580555
+TCS,2026-07-10,Breakingviews - COMMENTARY: Tata Consultancy’s AI push uses a blurry yardstick - Reuters,Reuters,2026-10-19,live,neutral,0.021117854863405228,0.05845418944954872,0.9204279184341431,-0.037336334586143494
+TCS,2026-07-10,"India's TCS up as AI momentum fuels revenue beat; sector recovery gradual, analysts say - Reuters",,2026-10-18,legacy,positive,0.9433430433273315,0.02788778394460678,0.028769252821803093,0.9154552593827248
+TCS,2026-07-10,Indian shares rise on TCS boost; snap weekly winning run on Mideast worries - Reuters,,2026-10-18,legacy,positive,0.6680649518966675,0.20181407034397125,0.1301209181547165,0.46625088155269623
+TCS,2026-07-12,"India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions - Reuters",,2026-10-18,legacy,neutral,0.09913712739944458,0.01078501995652914,0.8900778293609619,0.08835210744291544
+TCS,2026-07-13,India's TCS bags multi-million contract from industrial giant ABB - Reuters,Reuters,2026-10-19,live,positive,0.9196693897247314,0.013348913751542568,0.06698163598775864,0.9063204759731889
+TCS,2026-08-10,"India's TCS flags alleged exposure of some employee data, says customer data not impacted - Reuters",,2026-10-18,legacy,negative,0.011427350342273712,0.8796802759170532,0.10889238864183426,-0.8682529255747795
+TCS,2026-08-24,"India's TCS to buy Porsche's IT unit, bags 5-year deal worth $1.46 billion - Reuters",Reuters,2026-10-19,live,neutral,0.12261833250522614,0.009905330836772919,0.8674763441085815,0.11271300166845322
+TCS,2026-09-01,Breakingviews - COMMENTARY: Tata Consultancy spots promising model in Porsche - Reuters,Reuters,2026-10-19,live,positive,0.662990391254425,0.011923621408641338,0.32508596777915955,0.6510667698457837
+TCS,2026-09-05,India's TCS unit to invest up to $7.4 billion in AI data center campus - Reuters,,2026-10-18,legacy,neutral,0.12127383798360825,0.009076105430722237,0.8696500658988953,0.11219773255288601
+TCS,2026-09-24,TCS bets on AI as it renews Jaguar Formula E title partnership - ET BrandEquity,ET BrandEquity,2026-10-19,live,positive,0.745191216468811,0.03192218765616417,0.22288653254508972,0.7132690288126469
+TCS,2026-10-08,India's TCS posts weakest September quarter growth in three years - Reuters,,2026-10-18,legacy,negative,0.008581254631280899,0.9706621766090393,0.020756589248776436,-0.9620809219777584
+TCS,2026-10-08,TCS Profit Beats Estimates as IT Deal Flow Slowly Picks Up - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.3438452184200287,0.04780859127640724,0.6083462238311768,0.29603662714362144
+TCS,2026-10-09,Breakingviews - COMMENTARY: Tata Consultancy's AI strategy has key-man risk - Reuters,,2026-10-18,legacy,neutral,0.07630224525928497,0.01334113534539938,0.9103566408157349,0.0629611099138856
+TCS,2026-10-09,India's TCS rises as margins steady despite AI investments - Reuters,,2026-10-18,legacy,positive,0.8090717196464539,0.10490244626998901,0.08602584898471832,0.7041692733764648
+TCS,2026-10-09,"India's TCS senior staff will miss out on variable pay for September quarter, memo shows - Reuters",,2026-10-18,legacy,negative,0.01589956134557724,0.8738723993301392,0.1102280393242836,-0.8579728379845619
+TCS,2026-10-10,"Global Market: Porsche stock falls as MHP sale, weak revenue keep investors on edge - The Economic Times",,2026-10-18,legacy,negative,0.010951286181807518,0.9664126634597778,0.022635996341705322,-0.9554613772779703
+TCS,2026-10-10,"US green card suspension poses little risk to Indian IT, analysts say - Reuters",,2026-10-18,legacy,negative,0.08150539547204971,0.5416366457939148,0.3768579661846161,-0.4601312503218651
+TCS,2026-10-10,"tata consultancy services tcs Forum Discussion on Market View, Business sectors,Stocks, Commodity, Personal Finance & More - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.02766740694642067,0.027800485491752625,0.9445321559906006,-0.00013307854533195496
+TCS,2026-10-11,"Q2 earnings, inflation data, oil prices to guide stock markets this week: Analysts - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.031073806807398796,0.031062860041856766,0.9378633499145508,1.0946765542030334e-05
+TCS,2026-10-11,Top 10 blue-chips’ share of India’s m-cap drops to lowest since 2017 - The Economic Times,,2026-10-18,legacy,negative,0.009055339731276035,0.9610546827316284,0.02989000640809536,-0.9519993430003524
+TCS,2026-10-12,Don't see US acting against tech companies based on their domicile: TCS - Business Standard,,2026-10-18,legacy,neutral,0.027434416115283966,0.031502723693847656,0.941062867641449,-0.00406830757856369
+TCS,2026-10-12,Don't see US acting against tech companies based on their domicile: TCS - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.024061106145381927,0.051286689937114716,0.9246521592140198,-0.027225583791732788
+TCS,2026-10-12,"ET Startup Awards 2026 | List when the business is predictable, and stay transparent after: Groww, Meesho founders - The Economic Times",,2026-10-18,legacy,neutral,0.06414969265460968,0.020038926973938942,0.9158114194869995,0.04411076568067074
+TCS,2026-10-12,GCCs gain share of India's office leasing as demand mix shifts - The Economic Times,The Economic Times,2026-10-19,live,positive,0.6068700551986694,0.016628555953502655,0.3765014111995697,0.5902414992451668
+TCS,2026-10-12,"HCL Tech vs TCS Q2 results dividend: Which IT stock offers more? Amount, record date, yield, earnings compared - Livemint",Livemint,2026-10-19,live,neutral,0.05102120339870453,0.016390856355428696,0.9325879216194153,0.03463034704327583
+TCS,2026-10-12,"HCLTech says US PERM suspension will have limited impact, echoing Infosys, TCS - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03648236021399498,0.3669241964817047,0.5965933799743652,-0.33044183626770973
+TCS,2026-10-12,"India's HCLTech flags volatile demand environment, narrows growth forecast - Reuters",Reuters,2026-10-19,live,negative,0.01717161200940609,0.9142289161682129,0.06859949231147766,-0.8970573041588068
+TCS,2026-10-12,"Noida to expand by 20,000 hectares under 'New Noida' development plan - Business Standard",Business Standard,2026-10-19,live,positive,0.8033636808395386,0.006641376297920942,0.1899949461221695,0.7967223045416176
+TCS,2026-10-12,Plot twist: Indian IT isn't the green card villain it's made out to be - Livemint,Livemint,2026-10-19,live,neutral,0.04272359237074852,0.025060884654521942,0.9322155714035034,0.017662707716226578
+TCS,2026-10-12,"TCS to hire 80% of workforce with digital, AI skills; AI work to expand profitability - ETHRWorld.com",,2026-10-18,legacy,positive,0.7809863090515137,0.008224559016525745,0.21078921854496002,0.7727617500349879
+TCS,2026-10-12,"TCS to hire 80% of workforce with digital, AI skills; expects margin gains - Business Standard",,2026-10-18,legacy,positive,0.9540458917617798,0.016336113214492798,0.02961801178753376,0.937709778547287
+TCS,2026-10-12,US’s tightening immigration policies: How many Indians depend on American visas? - Livemint,Livemint,2026-10-19,live,neutral,0.05353359505534172,0.09131620079278946,0.8551502227783203,-0.03778260573744774
+TCS,2026-10-12,Zetwerk IPO eyes big returns; Flipkart alumni seek Esop buyback - The Economic Times,,2026-10-18,legacy,neutral,0.23487941920757294,0.011608472093939781,0.7535120844841003,0.22327094711363316
+TCS,2026-10-13,"AI job-loss fears are 'hogwash', says Infosys Chairman Nandan Nilekani - Business Standard",Business Standard,2026-10-19,live,negative,0.013652059249579906,0.9512308239936829,0.03511707857251167,-0.937578764744103
+TCS,2026-10-13,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.036765482276678085,0.024498067796230316,0.9387364387512207,0.01226741448044777
+TCS,2026-10-13,"HCLTech's next test: Sustaining margins, deal momentum amid rich valuations - Business Standard",Business Standard,2026-10-19,live,positive,0.8944287896156311,0.008675226010382175,0.09689591079950333,0.8857535636052489
+TCS,2026-10-13,HCL’s Q2 brings cheer. Will premium valuations limit upside? - Livemint,Livemint,2026-10-19,live,neutral,0.32920974493026733,0.014349772594869137,0.6564404964447021,0.3148599723353982
+TCS,2026-10-13,Indian benchmark shares jump as encouraging HCLTech earnings propel IT buying - Reuters,Reuters,2026-10-19,live,positive,0.8254472017288208,0.06783991307020187,0.10671291500329971,0.7576072886586189
+TCS,2026-10-13,"Nifty IT shines, up 3%; HCL Tech, TCS, LTM, Tech Mahindra surge up to 5% - Business Standard",,2026-10-18,legacy,positive,0.9504348039627075,0.017247823998332024,0.03231729194521904,0.9331869799643755
+TCS,2026-10-13,TCS partners with Zoho Corp’s ManageEngine to supercharge sovereign cloud adoption in India - ET CIO,,2026-10-18,legacy,positive,0.7294014096260071,0.006489332765340805,0.26410922408103943,0.7229120768606663
+TCS,2026-10-13,"TCS, Zoho's ManageEngine partner for AI-enabled sovereign cloud in India - ET Telecom",ET Telecom,2026-10-19,live,neutral,0.2567375898361206,0.006691900081932545,0.7365705370903015,0.25004568975418806
+TCS,2026-10-13,"Trade Spotlight: How should you trade Gabriel India, Dr Reddys Labs, MCX India, Craftsman Automation,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.05051594600081444,0.01469505112618208,0.9347890615463257,0.03582089487463236
+TCS,2026-10-13,US Midterms 2026: Why Trump's H-1B crackdown matters to Indian-American voters - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.037328898906707764,0.029558634385466576,0.9331124424934387,0.007770264521241188
+TCS,2026-10-13,US visa curbs could fuel reverse brain drain. Is India’s IT sector ready? - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.17511111497879028,0.026997676119208336,0.7978911399841309,0.14811343885958195
+TCS,2026-10-13,"Wipro sees no material business impact from US suspension of PERM applications, says 80% of US staff... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03408936411142349,0.28957754373550415,0.6763330698013306,-0.25548817962408066
+TCS,2026-10-14,Accenture lays out three-year plan to approach $100 billion revenue despite macro drag - Livemint,Livemint,2026-10-19,live,positive,0.8763373494148254,0.00924527458846569,0.11441737413406372,0.8670920748263597
+TCS,2026-10-14,Shifting immigration rules - Business Standard,Business Standard,2026-10-19,live,neutral,0.06756525486707687,0.020825373008847237,0.9116092920303345,0.04673988185822964
+TCS,2026-10-14,"Stocks to Watch Today: Hero Motors, Tata Elxsi, SS Retail, Anand Rathi Share, Zydus Life, Hyundai Motor,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03342520445585251,0.020047912374138832,0.9465268850326538,0.013377292081713676
+TCS,2026-10-14,TCS share price rebounds 14% from September low: Can the rally extend further? - Livemint,Livemint,2026-10-19,live,positive,0.8809859156608582,0.04503430798649788,0.0739797055721283,0.8359516076743603
+TCS,2026-10-14,TCS shares rally 11% in a week: IT major poised for bigger recovery as ‘Reverse AI Trade’ gains momentum? Decoded - Livemint,Livemint,2026-10-19,live,positive,0.7753577828407288,0.03633233159780502,0.18830987811088562,0.7390254512429237
+TCS,2026-10-14,Tata Consultancy Services Ltd. BUY - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.026806974783539772,0.023906400427222252,0.9492866396903992,0.00290057435631752
+TCS,2026-10-14,UK trade delegation signs growth partnership with businesses in Maharashtra - Business Standard,Business Standard,2026-10-19,live,positive,0.9357514977455139,0.01191025972366333,0.05233830586075783,0.9238412380218506
+TCS,2026-10-15,Best of Opinion: A paradoxical succession issue within the Tata group - Business Standard,Business Standard,2026-10-19,live,neutral,0.03331216797232628,0.227183997631073,0.739503800868988,-0.19387182965874672
+TCS,2026-10-15,Buy Tata Consultancy Services; target of Rs 2530: Geojit Financial Services - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.041355401277542114,0.017034372314810753,0.9416102766990662,0.02432102896273136
+TCS,2026-10-15,CAS review: Sebi announces last 30-minute VWAP method for settlement - Business Standard,,2026-10-18,legacy,neutral,0.024410195648670197,0.061360280960798264,0.9142295122146606,-0.03695008531212807
+TCS,2026-10-15,DoT extends Robert Ravi’s tenure as BSNL CMD by 3 months until January 15 - ET Telecom,ET Telecom,2026-10-19,live,neutral,0.08873271942138672,0.015353205613791943,0.8959140181541443,0.07337951380759478
+TCS,2026-10-15,"IT index surges 2.5%: The correction in AI stocks is a positive for Indian markets, says this analyst - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.8460429310798645,0.12768344581127167,0.026273652911186218,0.7183594852685928
+TCS,2026-10-15,India's Tech Mahindra maintains fiscal 2027 margin target after large deals drive revenue beat - Reuters,,2026-10-18,legacy,positive,0.6846746206283569,0.11705467104911804,0.19827066361904144,0.5676199495792389
+TCS,2026-10-15,Indian share benchmarks log best day in four months on global AI slump - Reuters,,2026-10-18,legacy,neutral,0.2279660403728485,0.1436048448085785,0.628429114818573,0.08436119556427002
+TCS,2026-10-15,"Microsoft's Brad Smith hits back at JD Vance over H-1B claims, invokes Satya Nadella's success - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.1574472188949585,0.33096569776535034,0.5115870833396912,-0.17351847887039185
+TCS,2026-10-15,Nifty IT rallies 9% in 3 sessions: 3 key factors driving the momentum - Business Standard,,2026-10-18,legacy,neutral,0.48402026295661926,0.016626864671707153,0.4993528723716736,0.4673933982849121
+TCS,2026-10-15,"Nifty sees best day in 4 months, rally remains confined to largecap stocks - Business Standard",,2026-10-18,legacy,neutral,0.09563003480434418,0.24676750600337982,0.6576024889945984,-0.15113747119903564
+TCS,2026-10-15,"Noida Authority plans 20,000-hectare ‘New Noida’ to meet industrial demand - ET Government",ET Government,2026-10-19,live,neutral,0.30107584595680237,0.007559139281511307,0.6913650035858154,0.29351670667529106
+TCS,2026-10-15,"PERM suspension: About 70% of Tech Mahindra US employees are permanent residents, says CEO Mohit Joshi - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.026382124051451683,0.3280493915081024,0.6455684900283813,-0.30166726745665073
+TCS,2026-10-15,"Reliance Industries, BSE lead mutual fund buys in September, shows data - Business Standard",,2026-10-18,legacy,neutral,0.16714957356452942,0.012785537168383598,0.820064902305603,0.15436403639614582
+TCS,2026-10-15,Stock recommendations for 15 October from MarketSmith India - Livemint,Livemint,2026-10-19,live,neutral,0.035778116434812546,0.031450338661670685,0.9327715635299683,0.004327777773141861
+TCS,2026-10-15,"Tech Mahindra's headcount rises by 5,446 employees in Q2, attrition rate falls to 11.7% - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.02232622355222702,0.9518282413482666,0.025845587253570557,-0.9295020177960396
+TCS,2026-10-16,"Ambani taps Reliance's 420,000 employees to boost Jio IPO participation - Business Standard",Business Standard,2026-10-19,live,positive,0.9253823757171631,0.011207068338990211,0.06341052055358887,0.9141753073781729
+TCS,2026-10-16,Battered Indian IT stocks rally as AI fears ease and global tech sells off - Livemint,Livemint,2026-10-19,live,positive,0.7555676698684692,0.210856094956398,0.03357619792222977,0.5447115749120712
+TCS,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.73710036277771,0.07562077045440674,0.1872788965702057,0.6614795923233032
+TCS,2026-10-16,HDFC Bank Q2 preview: Single-digit PAT growth likely; margin pressure seen - Business Standard,,2026-10-18,legacy,positive,0.9337934255599976,0.029567448422312737,0.036639124155044556,0.9042259771376848
+TCS,2026-10-16,"ICICI Bank Q2 Preview: Profit may rise 8-14% YoY, NIM likely to contract - Business Standard",,2026-10-18,legacy,positive,0.9510282874107361,0.02173081785440445,0.02724086120724678,0.9292974695563316
+TCS,2026-10-16,Indian IT stocks post best weekly gain in 18 years amid global AI sell-off - Business Standard,,2026-10-18,legacy,positive,0.8766186237335205,0.09557468444108963,0.027806678786873817,0.7810439392924309
+TCS,2026-10-16,Iveco Group shareholders approve Tata Motors' takeover proposals - Business Standard,,2026-10-18,legacy,neutral,0.06708083301782608,0.012565899640321732,0.9203532934188843,0.05451493337750435
+TCS,2026-10-16,Jio Financial shares drop 2.5% as Q2 PAT halves; MOFSL cuts FY27 estimates - Business Standard,,2026-10-18,legacy,negative,0.007981018163263798,0.9674938321113586,0.024525165557861328,-0.9595128139480948
+TCS,2026-10-16,"LTM Q2 Results: PAT remains flat at Rs 1,380 crore; revenue rises 14% YoY; co declares Rs 25 per share dividend - The Economic Times",,2026-10-18,legacy,positive,0.8945468664169312,0.08246222883462906,0.022990848869085312,0.8120846375823021
+TCS,2026-10-16,Manjit Singh Bedi brought back to US to face $600K fraud charges: FBI chief - Business Standard,,2026-10-18,legacy,neutral,0.037482116371393204,0.07846590131521225,0.8840519189834595,-0.040983784943819046
+TCS,2026-10-16,"Market wrap: Tech Mahindra, TCS, InterGlobe, BSE top gainers and losers on Nifty and Sensex on Friday - The Economic Times",,2026-10-18,legacy,negative,0.12403134256601334,0.493379145860672,0.38258951902389526,-0.36934780329465866
+TCS,2026-10-16,"Nifty IT soars 14% in 6 days on Q2 earnings boost; TechM, Wipro, TCS shine - Business Standard",,2026-10-18,legacy,positive,0.7249201536178589,0.02047400362789631,0.25460582971572876,0.7044461499899626
+TCS,2026-10-16,"Nifty conquers 20-DMA, now eyes 50-DMA breakout at 23,500: Tech analysts - Business Standard",,2026-10-18,legacy,neutral,0.10767415165901184,0.017222611233592033,0.8751031756401062,0.09045154042541981
+TCS,2026-10-16,Sell gold on rallies as rate hike concerns weigh: Mirae Asset Sharekhan - Business Standard,,2026-10-18,legacy,neutral,0.15954908728599548,0.0400601327419281,0.8003907203674316,0.11948895454406738
+TCS,2026-10-16,"Senco, PC Jeweller zoom up to 17%; why are gold-related stocks dazzling? - Business Standard",,2026-10-18,legacy,positive,0.7999709844589233,0.01431821845471859,0.18571074306964874,0.7856527660042048
+TCS,2026-10-16,Silver outlook bearish; may fall to $48 if $54.50 support breaks: Analyst - Business Standard,,2026-10-18,legacy,negative,0.013317572884261608,0.910409152507782,0.07627329975366592,-0.8970915796235204
+TCS,2026-10-16,"Stocks to watch: Jio Fin, Yes Bank, Wipro, L&T Fin, Angel One, Urban Co - Business Standard",,2026-10-18,legacy,neutral,0.03859516978263855,0.01676807925105095,0.9446367621421814,0.0218270905315876
+TCS,2026-10-16,"TCS vs HCL Tech vs Tech Mahindra vs Wipro: Which IT stock won Q2 results 2026? AI revenue, deal wins compared - Livemint",Livemint,2026-10-19,live,positive,0.7958599925041199,0.01056687068194151,0.19357314705848694,0.7852931218221784
+TCS,2026-10-16,Wipro shares gain nearly 2% after Q2 results; brokerages remain bearish - Business Standard,,2026-10-18,legacy,positive,0.838028073310852,0.11880243569612503,0.04316948726773262,0.719225637614727
+TCS,2026-10-17,"Best of Opinion: India must bring its brightest minds home, like China did - Business Standard",,2026-10-18,legacy,positive,0.5053818821907043,0.01071599218994379,0.4839021861553192,0.49466589000076056
+TCS,2026-10-17,Mukesh Ambani taps massive Reliance workforce to boost Jio’s record IPO - ET Telecom,ET Telecom,2026-10-19,live,positive,0.9172416925430298,0.011132907122373581,0.07162535190582275,0.9061087854206562
+TCS,2026-10-17,"Q2 results today: HDFC Bank, ICICI Bank, Axis Bank among 18 firms on Oct 17 - Business Standard",,2026-10-18,legacy,neutral,0.06474876403808594,0.01583148166537285,0.9194197058677673,0.04891728237271309
+TCS,2026-10-17,"Rajasthan BJP makes local poll gains, Congress fails to contain infighting - The Economic Times",,2026-10-18,legacy,negative,0.17148183286190033,0.7361075282096863,0.09241055697202682,-0.564625695347786
+TCS,2026-10-17,‘He was once my intern’: Jensen Huang’s introduction of Black Forest Labs CEO goes viral - WATCH - The Economic Times,,2026-10-18,legacy,neutral,0.0762513130903244,0.015173258259892464,0.9085754156112671,0.06107805483043194
+TCS,2026-10-18,'Regime Change is forceful and undemocratic': BJP spokesperson Pradeep Bhandari - The Economic Times,,2026-10-18,legacy,neutral,0.07308683544397354,0.05206233263015747,0.874850869178772,0.02102450281381607
+TCS,2026-10-18,"Earnings, crude oil, Jio IPO key monitorables for investors next week - Business Standard",,2026-10-18,legacy,neutral,0.03347872570157051,0.025387031957507133,0.9411342144012451,0.008091693744063377
+TCS,2026-10-18,JD Vance clarifies his ‘foreign indentured servants’ remark on H-1B workers: 'I love my Indian... - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.222361221909523,0.07601700723171234,0.7016217708587646,0.14634421467781067
+TCS,2026-10-18,"Kolkata Durga Puja pandal stampede: Death toll rises to 19, CM Suvendu Adhikari forms high-level panel to - The Economic Times",,2026-10-18,legacy,neutral,0.1733761727809906,0.38937053084373474,0.43725332617759705,-0.21599435806274414
+TCS,2026-10-18,"Mcap of nine of top-10 most valued firms surges by ₹3.65 trn, TCS shines - Business Standard",,2026-10-18,legacy,positive,0.9172311425209045,0.024971386417746544,0.05779743939638138,0.892259756103158
+TCS,2026-10-18,"Tata Trusts disbursed ₹1,556 crore in FY26, plans 40-50 nonprofit hospitals - Business Standard",,2026-10-18,legacy,neutral,0.09426872432231903,0.011585056781768799,0.894146203994751,0.08268366754055023
+TCS,2026-10-18,What Does Infosys Today Look for When Hiring People? Infosys CTO Rafee Tarafdar - The Economic Times,,2026-10-18,legacy,neutral,0.03408209607005119,0.0395236536860466,0.9263942241668701,-0.005441557615995407
+TCS,2026-10-18,What is holding up the US-India trade deal? - The Economic Times,,2026-10-18,legacy,neutral,0.04144441336393356,0.03599105775356293,0.9225645065307617,0.005453355610370636

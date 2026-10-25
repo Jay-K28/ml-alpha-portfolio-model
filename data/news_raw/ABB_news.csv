@@ -1,100 +1,133 @@
-ticker,date,headline,sentiment_score
-ABB,2026-03-30,Masayoshi Son represents fragile link in AI chain - Reuters,-0.8325705528259277
-ABB,2025-03-24,The One Device Throttling the World’s Electrified Future - bloomberg.com,-0.9147696495056152
-ABB,2015-07-08,Bloomberg Europe - bloomberg.com,-0.9449155926704407
-ABB,2026-04-02,Macquarie: India could emerge as an ‘AI powerhouse' and names top stocks to watch - CNBC,-0.5589016079902649
-ABB,2018-02-08,ABB sees brighter outlook after Q4 net profit drops - CNBC,0.5103155374526978
-ABB,2024-04-18,ABB shares hit record high after Swiss engineering group's confident start to 2024 - Reuters,0.9257288575172424
-ABB,2025-11-08,ABB India - bsmedia.business-standard.com,-0.9485819339752197
-ABB,2026-01-29,ABB confident for 2026 as customers plan ahead despite political uncertainty - Reuters,0.5427731871604919
-ABB,2025-07-17,ABB posts record orders on booming US and data centre demand - Reuters,0.9369328618049622
-ABB,2024-10-17,ABB's new CEO says company has work to do after mixed Q3 numbers - Reuters,-0.6980029344558716
-ABB,2025-01-30,ABB CEO sees growth in data centre business despite rise of DeepSeek - Reuters,0.9512774348258972
-ABB,2025-07-17,ABB Posts Strong Order Growth on Rising Demand From US - bloomberg.com,0.9557009935379028
-ABB,2025-10-16,AI data centre boom spurs robot maker ABB's US sales - Reuters,0.5956880450248718
-ABB,2024-07-18,ABB Reports Drop in Orders Due to Weak Automation Business - bloomberg.com,-0.9686374664306641
-ABB,2025-11-06,Engineering firm ABB India's profit falls as orders dip - Reuters,-0.9612711071968079
-ABB,2023-02-01,ABB sees demand 'normalising' in 2023 after stock build-ups - Reuters,0.7669259309768677
-ABB,2025-11-18,ABB shares fall after sales target remains unchanged - Reuters,-0.957490086555481
-ABB,2025-04-17,ABB to spin off world's second biggest robotics business - Reuters,-0.8978655338287354
-ABB,2019-07-25,"ABB quarterly profit plunges on automotive slowdown, solar business charge - CNBC",-0.9573844075202942
-ABB,2017-08-05,Check out ABB India Ltd's stock price (ABB-IN) in real time - CNBC,-0.9449461102485657
-ABB,2021-06-22,Abb Ltd - Reuters,-0.9410275816917419
-ABB,2019-04-17,ABB CEO Leaves Abruptly After Years of Pressure From Investors - bloomberg.com,-0.7208279371261597
-ABB,2014-03-21,ABB Ltd - bloomberg.com,-0.9445583820343018
-ABB,2025-05-09,Engineering firm ABB India's profit inches up on steady demand - Reuters,0.9429658055305481
-ABB,2017-03-24,"ABB India Share Price Today, ABB India Stock Price Live NSE/BSE Updates - The Economic Times",-0.9389945268630981
-ABB,2021-01-19,Check out ABB Ltd's stock price (ABB.N-CH) in real time - CNBC,-0.9450170993804932
-ABB,2014-03-21,ABB: ABB Ltd Stock Price Quote - - Bloomberg - bloomberg.com,-0.943440318107605
-ABB,2025-04-17,ABB to Spin Off Robotics Unit for 2026 Stock-Market Listing - bloomberg.com,-0.9460485577583313
-ABB,2021-11-29,"ABB Power Share Price Today, ABB Power Stock Price Live NSE/BSE Updates - The Economic Times",-0.9380207657814026
-ABB,2024-11-04,Engineering firm ABB India posts bigger Q3 profit on electrification demand - Reuters,0.9191787242889404
-ABB,2017-03-26,ABB India Ltd. - The Economic Times,-0.9188860058784485
-ABB,2025-11-18,"ABB Lifts Earnings Margin Target, Eyes Acquisitions to Grow - bloomberg.com",0.7058920860290527
-ABB,2016-09-27,Reverse e-auction to result in better price discovery: ABB India CEO - ET EnergyWorld,-0.6778720021247864
-ABB,2025-10-13,ABB and Nvidia Collaborate to Develop Next-Generation Data Centers - bloomberg.com,-0.5069518685340881
-ABB,2018-09-14,ABB LIMITED - The Economic Times,-0.9118815660476685
-ABB,2024-02-01,ABB targets 5% sales growth in 2024 despite geopolitical uncertainties - Reuters,0.7333208918571472
-ABB,2023-10-18,ABB slips as engineer flags Q4 slowdown and China challenges - Reuters,-0.9038184881210327
-ABB,2022-09-30,"ABB sells venture stake back to Hitachi, takes South Africa charge - Reuters",-0.9264699220657349
-ABB,2017-07-30,Check out Abb Ltd's stock price (ABB-SE) in real time - CNBC,-0.9453028440475464
-ABB,2025-01-29,Swiss engineer ABB boosted by data centre demand - Reuters,0.8607144951820374
-ABB,2014-10-29,ABB India shares gain on delisting talk; company denies - Reuters,-0.3873303234577179
-ABB,2024-03-19,ABB's CFO to leave SoftwareOne board in battle for control - Reuters,-0.6333212852478027
-ABB,2024-04-18,Departing ABB CEO Rosengren open to board mandates - Reuters,-0.8987773656845093
-ABB,2026-01-29,"ABB Sees Rising Profitability, Plans $2 Billion Share Buyback - bloomberg.com",0.702117919921875
-ABB,2025-10-08,SoftBank to buy ABB's robot business for $5.4 billion in push to merge AI and robotics - Reuters,-0.8066103458404541
-ABB,2017-02-22,ABB Uncovers $100 Million Korean Fraud as Suspect Vanishes - bloomberg.com,-0.6607868075370789
-ABB,2021-10-07,ABB GLOBAL INDUSTRIES AND SERVICES PRIVATE LIMITED - The Economic Times,-0.9279822707176208
-ABB,2017-03-13,Fraud at ABB trims profit as auditor says firm failed to maintain controls - CNBC,-0.9507114291191101
-ABB,2012-12-14,ABB flags $350 mln charge to revamp power systems unit - Reuters,-0.6131150126457214
-ABB,2024-10-17,"ABB has at least $1 bln to spend on M&A, CFO of Swiss firm says - Reuters",-0.8970625996589661
-ABB,2025-01-30,ABB boosted by data centre demand during fourth quarter - telecom.economictimes.indiatimes.com,0.5818980932235718
-ABB,2024-08-08,Engineering firm ABB India beats Q2 profit view on electrification demand - Reuters,-0.666602373123169
-ABB,2019-02-28,ABB reports forecast-beating Q4 profit as robotics shines - ET EnergyWorld,0.844517707824707
-ABB,2025-04-03,ABB expects to pass on cost increases from new tariffs - Reuters,0.9285738468170166
-ABB,2002-11-19,"ABB Debt, Asbestos Claims Push It Close to Bankruptcy - bloomberg.com",-0.7830209136009216
-ABB,2025-01-21,"ABB increasing U.S. investment to raise local production, CFO says - Reuters",0.9387240409851074
-ABB,2024-10-17,"Decarbonization investment is happening across Europe, says ABB CEO - CNBC",-0.7394468784332275
-ABB,2025-01-21,"ABB CEO sees good growth momentum in 2025, looking at acquisitions - Reuters",-0.7083355188369751
-ABB,2019-04-17,ABB Breakup Is Back on the Menu After CEO Departs - bloomberg.com,-0.9281567335128784
-ABB,2017-04-21,"ABB, Schneider Electric bid for General Electric unit - sources - Reuters",-0.9301089644432068
-ABB,2018-10-18,"ABB Said to Work With Credit Suisse, Dyal on Power Grid Unit - bloomberg.com",-0.8508702516555786
-ABB,2019-08-12,"ABB Says Rosengren, Currently at Sandvik, to Be Chief Executive - bloomberg.com",-0.9512504935264587
-ABB,2017-03-26,The Economic Times - The Economic Times,-0.9159992933273315
-ABB,2023-05-24,Check out Abb Ltd's stock price (ABBNY) in real time - CNBC,-0.9437389969825745
-ABB,2026-03-27,ABB.BO - Reuters,-0.9443657994270325
-ABB,2018-09-30,"ABB's Potential Breakup Heralds Robots, Windfall for Swiss Giant - bloomberg.com",-0.673283576965332
-ABB,2025-05-12,ABB Weighs Sale of Robotics Arm as Alternative to Spinoff - bloomberg.com,-0.868544340133667
-ABB,2023-11-30,Engineering group ABB points to long-term trends as it raises sales target - Reuters,0.8662945032119751
-ABB,2014-03-15,ABB: ABB India Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9473278522491455
-ABB,2026-03-13,"Exclusive: ABB open to 'more than one' big deal in renewed M&A drive, chairman says - Reuters",-0.6797274947166443
-ABB,2025-07-02,ABB expands robot line-up for China to tap mid-sized customers - Reuters,0.778496265411377
-ABB,2026-03-28,ABB.ST - | Stock Price & Latest News - Reuters,-0.929033637046814
-ABB,2019-04-01,ABB hit again by financial control lapses - Reuters,-0.923210084438324
-ABB,2020-08-04,Activist investor Cevian reduces stake in ABB to under 5% - Reuters,-0.8335424065589905
-ABB,2025-10-08,SoftBank Shares Jump 13% as Bull Case Grows With ABB Robot Deal - bloomberg.com,-0.7440245151519775
-ABB,2026-04-04,"ABB.M3 Stock Analysis: Prediction, Earnings, Dividend - Reuters",-0.9413840174674988
-ABB,2025-10-08,SoftBank to Buy ABB’s Robotics Arm in $5.4 Billion Deal - bloomberg.com,-0.9216544032096863
-ABB,2023-05-12,Breaking: ABB confirms cyberattack; work underway to restore operations - ET CISO,0.8561734557151794
-ABB,2017-07-26,Check out ABB Ltd's stock price (ABBN-CH) in real time - CNBC,-0.9450168013572693
-ABB,2025-07-21,ABB India Ltd spurts 1.86% - business-standard.com,-0.9197381734848022
-ABB,2017-03-18,"Bill Gates wants to tax robots, but one robot maker says that's 'as intelligent' as taxing software - CNBC",-0.8871764540672302
-ABB,2026-02-18,Italy's Fincantieri to place new shares for up to 10% of capital through ABB - Reuters,-0.7525919675827026
-ABB,2025-10-08,SoftBank to buy ABB robotics unit for $5.4 billion as it boosts its AI play - CNBC,0.8656283020973206
-ABB,2017-08-14,Check out Abb Ltd's stock price (ABJ-DE) in real time - CNBC,-0.9436168074607849
-ABB,2025-03-14,Check out Abb Ltd's stock price (1ABB-IT) in real time - CNBC,-0.9469103813171387
-ABB,2017-08-07,Check out Abb Ltd's stock price (ABJ-FF) in real time - CNBC,-0.9446112513542175
-ABB,2025-10-16,ABB CEO 'very confident' of demand for data centers powering AI - Reuters,0.9420531988143921
-ABB,2026-03-17,"India’s digital readiness for energy efficiency hits 80%, outpacing global peers: ABB report - ET EnergyWorld",0.920535683631897
-ABB,2019-07-30,Sandvik CEO Emerges as Front-Runner for Top Job at ABB - bloomberg.com,-0.6969792246818542
-ABB,2022-07-20,"ABB to Spin Off, List Accelleron Turbocharging Business on Swiss Stock Exchange - bloomberg.com",-0.947250485420227
-ABB,2025-10-16,ABB CEO: Softbank will be good home for robotics business - CNBC,0.502354621887207
-ABB,2026-03-28,ABB.NS - Reuters,-0.9446104168891907
-ABB,2025-04-17,ABB to increase local US production to reduce tariff impact - Reuters,0.9220629930496216
-ABB,2022-11-21,ABB raises $209 mln from selling stake in EV charging business - Reuters,-0.7855555415153503
-ABB,2025-10-14,A $5.4 Billion Robotics Sale Signals Europe’s Loss of Control - bloomberg.com,-0.7067475914955139
-ABB,2018-10-28,ABB to Invest $150 Million in Robotics Factory in Shanghai - bloomberg.com,-0.8867476582527161
-ABB,2024-02-23,ABB Names Morten Wierod as New CEO to Replace Björn Rosengren From Aug. 1 - bloomberg.com,-0.9038347005844116
-ABB,2017-04-04,ABB Said to Pay $2 Billion for B&R to Plug Gap in Automation - bloomberg.com,-0.8495168089866638
-ABB,2020-07-22,ABB sees tough quarters ahead after second-quarter profit beat - CNBC,-0.4956507980823517
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+ABB,2020-02-25,Ex-ABB CEO Spiesshofer to get $13.3 million payout - Reuters,,2026-10-18,legacy,neutral,0.18365713953971863,0.035226766020059586,0.7811160683631897,0.14843037351965904
+ABB,2020-05-19,ABB India declines for fourth straight day on weak March quarter results - Business Standard,,2026-10-18,legacy,negative,0.012399386614561081,0.9679791331291199,0.019621551036834717,-0.9555797465145588
+ABB,2020-06-17,Titagarh Wagons partners ABB India to make propulsion systems for EMU coaches - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.1808851659297943,0.00858984887599945,0.8105250000953674,0.17229531705379486
+ABB,2020-07-22,ABB sees tough quarters ahead after second-quarter profit beat - CNBC,,2026-10-18,legacy,negative,0.14178283512592316,0.4956510066986084,0.36256614327430725,-0.35386817157268524
+ABB,2020-07-23,ABB India bags country's largest automation order in agro-chemical sector - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.7501716017723083,0.018489981070160866,0.23133839666843414,0.7316816207021475
+ABB,2020-07-31,ABB India opens new robotic solution delivery facility in Bengaluru - Business Standard,,2026-10-18,legacy,positive,0.7793276309967041,0.008917337283492088,0.21175505220890045,0.770410293713212
+ABB,2020-11-09,"Manufacturing industry could improve productivity by 30-40% with better use of data, says automation expert - CNBC",,2026-10-18,legacy,positive,0.9522926807403564,0.012809880077838898,0.034897517412900925,0.9394828006625175
+ABB,2020-11-19,ABB division attracts interest from industry buyers -sources - Reuters,,2026-10-18,legacy,neutral,0.11895188689231873,0.017020484432578087,0.8640276789665222,0.10193140245974064
+ABB,2021-05-03,ABB India: Business recovery could take a pause led by second wave of virus - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.03723106160759926,0.8062465190887451,0.1565224826335907,-0.7690154574811459
+ABB,2021-06-12,ABB India board reappoints Sanjeev Sharma as MD - ETHRWorld.com,ETHRWorld.com,2026-10-19,live,neutral,0.05050158128142357,0.022018369287252426,0.9274800419807434,0.028483211994171143
+ABB,2021-06-22,Abb Ltd - Reuters,,2026-10-18,legacy,neutral,0.024949319660663605,0.0340229757130146,0.9410277009010315,-0.009073656052350998
+ABB,2021-07-28,ABB India net profit jumps four-fold to Rs 68 crore in June quarter - Business Standard,,2026-10-18,legacy,positive,0.9230284690856934,0.05236468091607094,0.024606971070170403,0.8706637881696224
+ABB,2021-08-24,ABB India Ltd - Reuters,,2026-10-18,legacy,neutral,0.025246215984225273,0.035162873566150665,0.9395909905433655,-0.009916657581925392
+ABB,2021-09-16,"Leaders need to think about bringing in ‘Humane Element’ remotely: Raman Singh, ABB India - ETHRWorld.com",ETHRWorld.com,2026-10-19,live,neutral,0.08932006359100342,0.013991194777190685,0.8966888189315796,0.07532886881381273
+ABB,2021-11-01,ABB India unveils new AI-enabled corporate and business office within its own sustainable manufacturing campus - Business Standard,,2026-10-18,legacy,positive,0.5399801731109619,0.00810484029352665,0.45191502571105957,0.5318753328174353
+ABB,2021-11-02,ABB India unveils new AI-enabled corporate and business office within its own sustainable manufacturing camp.. - ET Auto,ET Auto,2026-10-19,live,positive,0.6042172312736511,0.007770545780658722,0.3880121409893036,0.5964466854929924
+ABB,2021-11-17,"ABB India's motors, drives installed base in India saves 12 TWh of energy in 10 years - ET Auto",ET Auto,2026-10-19,live,neutral,0.32334402203559875,0.00864656362682581,0.6680094003677368,0.31469745840877295
+ABB,2021-11-18,"ABB says its motors, drives installed base in India saved 12 TWh of energy - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,positive,0.8130399584770203,0.010109161958098412,0.17685092985630035,0.8029307965189219
+ABB,2021-11-19,ABB Power Products rebrands itself as Hitachi Energy India - ET Auto,ET Auto,2026-10-19,live,neutral,0.05816615745425224,0.010624650865793228,0.9312092065811157,0.047541506588459015
+ABB,2021-11-20,ABB Power Products rebrands itself as Hitachi Energy India - Business Standard,,2026-10-18,legacy,neutral,0.07491102069616318,0.009753149934113026,0.9153358340263367,0.06515787076205015
+ABB,2021-12-08,ABB India to deploy next-gen digital tech for power supply in Indore - ET Auto,,2026-10-18,legacy,positive,0.6186126470565796,0.007609877735376358,0.37377747893333435,0.6110027693212032
+ABB,2021-12-30,Abb AG - Reuters,,2026-10-18,legacy,neutral,0.0236784890294075,0.03910871222615242,0.9372128248214722,-0.015430223196744919
+ABB,2022-03-04,ABB India offers gender-neutral parental leave for staff - ETHRWorld.com,ETHRWorld.com,2026-10-19,live,neutral,0.024448540061712265,0.05481596663594246,0.9207354784011841,-0.030367426574230194
+ABB,2022-04-09,"ABB India expands Gujarat unit, to add traction motor plant for metro rail - Business Standard",Business Standard,2026-10-19,live,positive,0.7172608375549316,0.01247446984052658,0.27026471495628357,0.7047863677144051
+ABB,2022-05-05,ABB India shares jump nearly 10% post earnings - ET Auto,ET Auto,2026-10-19,live,positive,0.9160603284835815,0.052542995661497116,0.031396739184856415,0.8635173328220844
+ABB,2022-05-05,"ABB India soars 9% on robust March quarter earnings, strong order book - Business Standard",,2026-10-18,legacy,positive,0.950331449508667,0.025051597505807877,0.024617016315460205,0.9252798520028591
+ABB,2022-05-17,"ABB looks to pricing, acquisitions to boost process automation profit - Reuters",,2026-10-18,legacy,positive,0.789840579032898,0.00701767485588789,0.20314176380634308,0.7828229041770101
+ABB,2022-08-22,"‘Transformation topics keep me awake at night as CFO’: TK Sridhar, ABB India - cfo.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.034585319459438324,0.02670368365943432,0.9387110471725464,0.007881635800004005
+ABB,2022-08-23,"ABB India growing at double-digit rate, want to maintain momentum: CFO - cfo.economictimes.indiatimes.com",cfo.economictimes.indiatimes.com,2026-10-19,live,neutral,0.13253502547740936,0.012282906100153923,0.8551820516586304,0.12025211937725544
+ABB,2022-08-29,"ABB India expands, upgrades Smart Power factory in Nelamangala, Bengaluru - ET Auto",ET Auto,2026-10-19,live,positive,0.9250652194023132,0.011840476654469967,0.06309430301189423,0.9132247427478433
+ABB,2022-08-29,"ABB India expands, upgrades Smart Power factory in Nelamangala, Bengaluru - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.5638781785964966,0.015611067414283752,0.42051076889038086,0.5482671111822128
+ABB,2022-09-05,Indian industry investing thanks to greater confidence in future: ABB - Livemint,Livemint,2026-10-19,live,positive,0.8695776462554932,0.007645116187632084,0.12277715653181076,0.8619325300678611
+ABB,2022-09-30,"ABB sells venture stake back to Hitachi, takes South Africa charge - Reuters",,2026-10-18,legacy,neutral,0.03446760028600693,0.03906242176890373,0.9264699220657349,-0.004594821482896805
+ABB,2022-11-01,ABB India inaugurates its first smart instrumentation factory in Bengaluru - Business Standard,,2026-10-18,legacy,neutral,0.3660268485546112,0.011228558607399464,0.6227445602416992,0.35479828994721174
+ABB,2022-11-21,ABB raises $209 mln from selling stake in EV charging business - Reuters,,2026-10-18,legacy,neutral,0.2028104066848755,0.011634130030870438,0.7855555415153503,0.19117627665400505
+ABB,2022-12-02,Swiss engineering group ABB fined $4.3 mln - Reuters,,2026-10-18,legacy,neutral,0.03652175888419151,0.4436924457550049,0.5197858214378357,-0.40717068687081337
+ABB,2023-01-20,ABB sells its power conversion division for $505 million - Reuters,,2026-10-18,legacy,neutral,0.05176391452550888,0.014585526660084724,0.9336504936218262,0.037178387865424156
+ABB,2023-02-13,"ABB India looking to spend Rs 1,800 crore for acquisitions to drive growth: CFO Sridhar T K - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.11266867816448212,0.012884125113487244,0.874447226524353,0.09978455305099487
+ABB,2023-02-24,"ABB to invest Rs 1,000 cr in India in next 5 years; new facility in Nashik - Business Standard",,2026-10-18,legacy,positive,0.6041033267974854,0.007725317031145096,0.38817131519317627,0.5963780097663403
+ABB,2023-02-24,"ABB to invest Rs 1,000 crore in India in next five years; opens new facility in Nashik - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.4327755868434906,0.010319954715669155,0.5569044947624207,0.42245563212782145
+ABB,2023-02-25,"ABB to invest Rs 1,000 crore in India in next five years; opens new facility in Nashik - ET Infra",ET Infra,2026-10-19,live,positive,0.5614052414894104,0.010119701735675335,0.4284750819206238,0.5512855397537351
+ABB,2023-04-25,ABB Doubles Revenue Forecast After Strong Start First Quarter - Bloomberg.com,,2026-10-18,legacy,neutral,0.22159916162490845,0.05852822959423065,0.7198725938796997,0.1630709320306778
+ABB,2023-04-25,ABB's strong start and raised guidance dispel industrial gloom - Reuters,,2026-10-18,legacy,positive,0.8669729232788086,0.05849883332848549,0.07452818751335144,0.8084740899503231
+ABB,2023-05-03,ABB India's Q1 pre-tax profit surges 66% on strong order wins - Reuters,Reuters,2026-10-19,live,positive,0.9366475343704224,0.024131756275892258,0.03922063857316971,0.9125157780945301
+ABB,2023-05-04,ABB India hits new high on strong Q1 results; stock up 33% so far in 2023 - Business Standard,,2026-10-18,legacy,positive,0.9491271376609802,0.021825913339853287,0.029046902433037758,0.9273012243211269
+ABB,2023-05-11,ABB India expands Bengaluru facility for production of energy-efficient drive modules - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.7253190279006958,0.010115574114024639,0.2645654082298279,0.7152034537866712
+ABB,2023-05-11,ABB expands Bengaluru facility for production of energy-efficient modules - Business Standard,,2026-10-18,legacy,positive,0.8932908773422241,0.009218904189765453,0.09749015420675278,0.8840719731524587
+ABB,2023-05-12,Breaking: ABB confirms cyberattack; work underway to restore operations - ET CISO,,2026-10-18,legacy,positive,0.8561736345291138,0.08923568576574326,0.05459064617753029,0.7669379487633705
+ABB,2023-05-31,ABB India Board Meetings - Livemint,Livemint,2026-10-19,live,neutral,0.032695528119802475,0.022768866270780563,0.9445356130599976,0.009926661849021912
+ABB,2023-05-31,"ABB India Dividend: Check ABB India Interim Dividend, Dividend History, ABB India Dividend Payment Date - Livemint",Livemint,2026-10-19,live,neutral,0.023870529606938362,0.023670034483075142,0.9524593949317932,0.00020049512386322021
+ABB,2023-05-31,"ABB India Key Metrics: Find Key Metrics, ABB India Financial Ratios and Highlights - Livemint",Livemint,2026-10-19,live,neutral,0.06079842522740364,0.01349247433245182,0.925709068775177,0.04730595089495182
+ABB,2023-06-12,"UBS sees nearly 21% upside on ABB India, upgrades stock to ‘buy’ on 3 key factors; check details - Livemint",Livemint,2026-10-19,live,positive,0.8813715577125549,0.019577451050281525,0.09905095398426056,0.8617941066622734
+ABB,2023-06-30,"ABB India to provide electrification, automation systems to AMNS India - Business Standard",Business Standard,2026-10-19,live,neutral,0.09481978416442871,0.008349194191396236,0.8968310356140137,0.08647058997303247
+ABB,2023-08-11,ABB India Results: Profit doubles to ₹296 crore for June quarter - Livemint,Livemint,2026-10-19,live,positive,0.908878743648529,0.06626024097204208,0.024861078709363937,0.842618502676487
+ABB,2023-08-21,ABB India bags order for automating Reliance Life Sciences' Nashik facilities - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.45979827642440796,0.01581655442714691,0.5243851542472839,0.44398172199726105
+ABB,2023-08-22,ABB India bags order to automate Reliance Life Sciences' biopharmaceutical facilities - ET HealthWorld,ET HealthWorld,2026-10-19,live,neutral,0.3067612648010254,0.007517880294471979,0.6857208609580994,0.2992433845065534
+ABB,2023-08-24,"Seeing growth in both public, private capex: ABB India's Sanjeev Sharma - Business Standard",Business Standard,2026-10-19,live,positive,0.7162824273109436,0.010540937073528767,0.2731766402721405,0.7057414902374148
+ABB,2023-09-05,ABB India CFO urges need to create supply chains locally - cfo.economictimes.indiatimes.com,cfo.economictimes.indiatimes.com,2026-10-19,live,neutral,0.10743953287601471,0.014241553843021393,0.8783189058303833,0.09319797903299332
+ABB,2023-10-18,ABB slips as engineer flags Q4 slowdown and China challenges - Reuters,,2026-10-18,legacy,negative,0.022121308371424675,0.9038183093070984,0.07406038045883179,-0.8816970009356737
+ABB,2023-11-22,Industrial manufacturing poised for breakout; ABB India a top pick - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.6922590732574463,0.029144303873181343,0.2785966098308563,0.663114769384265
+ABB,2023-11-30,Engineering group ABB points to long-term trends as it raises sales target - Reuters,,2026-10-18,legacy,positive,0.8662945032119751,0.012898484244942665,0.12080704420804977,0.8533960189670324
+ABB,2024-02-21,ABB India stock price gains 5% on highest-ever Q4 topline - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.6775920987129211,0.025641290470957756,0.29676660895347595,0.6519508082419634
+ABB,2024-03-19,ABB's CFO to leave SoftwareOne board in battle for control - Reuters,,2026-10-18,legacy,negative,0.02229800634086132,0.6333215832710266,0.34438037872314453,-0.6110235769301653
+ABB,2024-04-18,ABB shares hit record high after Swiss engineering group's confident start to 2024 - Reuters,,2026-10-18,legacy,positive,0.9257288575172424,0.02019408904016018,0.054077085107564926,0.9055347684770823
+ABB,2024-04-18,"Orders for ABB globally fall, drag share price for India-listed entity - Business Standard",,2026-10-18,legacy,negative,0.009889334440231323,0.9715201258659363,0.018590493127703667,-0.961630791425705
+ABB,2024-05-08,How ABB India became a stock market darling - Livemint,Livemint,2026-10-19,live,neutral,0.08747293800115585,0.01945533975958824,0.8930716514587402,0.06801759824156761
+ABB,2024-05-14,Gains in tech firm ABB India may sustain on strong margin outlook - Business Standard,,2026-10-18,legacy,positive,0.9528152346611023,0.021468406543135643,0.025716394186019897,0.9313468281179667
+ABB,2024-07-18,ABB Reports Drop in Orders Due to Weak Automation Business - Bloomberg.com,,2026-10-18,legacy,negative,0.007396760396659374,0.9686374664306641,0.023965707048773766,-0.9612407060340047
+ABB,2024-08-08,Engineering firm ABB India beats Q2 profit view on electrification demand - Reuters,,2026-10-18,legacy,neutral,0.27755090594291687,0.05584709346294403,0.6666019558906555,0.22170381247997284
+ABB,2024-10-17,"ABB has at least $1 bln to spend on M&A, CFO of Swiss firm says - Reuters",,2026-10-18,legacy,neutral,0.08132002502679825,0.021617434918880463,0.8970625996589661,0.059702590107917786
+ABB,2024-10-17,ABB's new CEO says company has work to do after mixed Q3 numbers - Reuters,,2026-10-18,legacy,neutral,0.212947279214859,0.08904936909675598,0.6980032920837402,0.12389791011810303
+ABB,2024-10-17,"Decarbonization investment is happening across Europe, says ABB CEO - CNBC",,2026-10-18,legacy,neutral,0.2502080500125885,0.010344232432544231,0.7394477725028992,0.23986381758004427
+ABB,2024-10-23,"""ABB India is evaluating the impact of the DPDP Act on business and identifying necessary actions to comply"" - ETLegalWorld.com",ETLegalWorld.com,2026-10-19,live,neutral,0.08479128032922745,0.016391213983297348,0.8988174796104431,0.0684000663459301
+ABB,2024-11-04,Engineering firm ABB India posts bigger Q3 profit on electrification demand - Reuters,,2026-10-18,legacy,positive,0.9191787242889404,0.041360922157764435,0.03946034982800484,0.877817802131176
+ABB,2024-11-15,ABB India gets Sebi warning for breach of insider trading norms by employees - ETLegalWorld.com,ETLegalWorld.com,2026-10-19,live,negative,0.0219714418053627,0.7141799330711365,0.2638486623764038,-0.6922084912657738
+ABB,2024-12-18,ABB to buy power electronics business from Siemens Gamesa - Reuters,,2026-10-18,legacy,neutral,0.08196376264095306,0.013849624432623386,0.9041866660118103,0.06811413820832968
+ABB,2025-01-21,"ABB CEO sees good growth momentum in 2025, looking at acquisitions - Reuters",,2026-10-18,legacy,neutral,0.28035417199134827,0.01130982581526041,0.7083359956741333,0.26904434617608786
+ABB,2025-01-21,"ABB increasing U.S. investment to raise local production, CFO says - Reuters",,2026-10-18,legacy,positive,0.9387240409851074,0.014284852892160416,0.04699113219976425,0.924439188092947
+ABB,2025-01-30,ABB CEO sees growth in data centre business despite rise of DeepSeek - Reuters,,2026-10-18,legacy,positive,0.9512774348258972,0.01588035561144352,0.032842181622982025,0.9353970792144537
+ABB,2025-01-30,ABB boosted by data centre demand during fourth quarter - ET Telecom,,2026-10-18,legacy,positive,0.9495183229446411,0.021785149350762367,0.028696509078145027,0.9277331735938787
+ABB,2025-04-03,ABB expects to pass on cost increases from new tariffs - Reuters,,2026-10-18,legacy,positive,0.9285738468170166,0.009114736691117287,0.06231145188212395,0.9194591101258993
+ABB,2025-04-17,ABB to spin off world's second biggest robotics business - Reuters,,2026-10-18,legacy,neutral,0.08270197361707687,0.019432423636317253,0.8978655338287354,0.06326954998075962
+ABB,2025-05-09,Engineering firm ABB India's profit inches up on steady demand - Reuters,,2026-10-18,legacy,positive,0.9429658055305481,0.0282786563038826,0.02875554747879505,0.9146871492266655
+ABB,2025-05-12,ABB Weighs Sale of Robotics Arm as Alternative to Spinoff - Bloomberg.com,,2026-10-18,legacy,neutral,0.12145398557186127,0.010001660324633121,0.868544340133667,0.11145232524722815
+ABB,2025-05-22,SAIL signs MoU with ABB India to digitise Rourkela Steel Plant operations - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.7387394309043884,0.008172919973731041,0.2530876100063324,0.7305665109306574
+ABB,2025-07-17,ABB Posts Strong Order Growth on Rising Demand From US - Bloomberg.com,,2026-10-18,legacy,positive,0.9557009935379028,0.01622789166867733,0.028071120381355286,0.9394731018692255
+ABB,2025-07-17,ABB posts record orders on booming US and data centre demand - Reuters,,2026-10-18,legacy,positive,0.9369328618049622,0.034833502024412155,0.02823358029127121,0.90209935978055
+ABB,2025-07-30,ABB India digitalises THINK Gas's extensive city gas distribution network in 10 states - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.2608652114868164,0.006925983354449272,0.7322088479995728,0.25393922813236713
+ABB,2025-10-07,SoftBank to buy ABB's robot business for $5.4 billion in push to merge AI and robotics - Reuters,,2026-10-18,legacy,neutral,0.18507184088230133,0.008317883126437664,0.8066102862358093,0.17675395775586367
+ABB,2025-10-08,SoftBank Shares Jump 13% as Bull Case Grows With ABB Robot Deal - Bloomberg.com,,2026-10-18,legacy,neutral,0.20356859266757965,0.05240737274289131,0.7440240979194641,0.15116121992468834
+ABB,2025-10-08,SoftBank to Buy ABB’s Robotics Arm in $5.4 Billion Deal - Bloomberg.com,,2026-10-18,legacy,neutral,0.06536097079515457,0.012984611093997955,0.9216544032096863,0.052376359701156616
+ABB,2025-10-08,SoftBank to buy ABB robotics unit for $5.4 billion as it boosts its AI play - CNBC,,2026-10-18,legacy,positive,0.8656281232833862,0.007611640729010105,0.12676021456718445,0.8580164825543761
+ABB,2025-10-13,ABB and Nvidia Collaborate to Develop Next-Generation Data Centers - Bloomberg.com,,2026-10-18,legacy,neutral,0.48351556062698364,0.009532388299703598,0.5069520473480225,0.47398317232728004
+ABB,2025-10-14,A $5.4 Billion Robotics Sale Signals Europe’s Loss of Control - Bloomberg.com,,2026-10-18,legacy,negative,0.027164457365870476,0.7067472338676453,0.26608821749687195,-0.6795827765017748
+ABB,2025-10-15,AI data centre boom spurs robot maker ABB's US sales - Reuters,,2026-10-18,legacy,positive,0.5956873297691345,0.18857963383197784,0.215733140707016,0.4071076959371567
+ABB,2025-10-16,ABB CEO 'very confident' of demand for data centers powering AI - Reuters,,2026-10-18,legacy,positive,0.9420531988143921,0.01313310768455267,0.044813692569732666,0.9289200911298394
+ABB,2025-10-16,ABB CEO: Softbank will be good home for robotics business - CNBC,,2026-10-18,legacy,positive,0.5023549795150757,0.009597359225153923,0.48804768919944763,0.49275762028992176
+ABB,2025-10-28,ABB India expands local production with new line for energy-efficient drives - ET Manufacturing,ET Manufacturing,2026-10-19,live,positive,0.9323930740356445,0.010792424902319908,0.056814540177583694,0.9216006491333246
+ABB,2025-11-06,Engineering firm ABB India's profit falls as orders dip - Reuters,,2026-10-18,legacy,negative,0.009251256473362446,0.9612711071968079,0.029477613046765327,-0.9520198507234454
+ABB,2025-11-17,ABB shares fall after sales target remains unchanged - Reuters,,2026-10-18,legacy,negative,0.008205804042518139,0.9574902057647705,0.034304093569517136,-0.9492844017222524
+ABB,2025-11-25,"ABB India, Deloitte India form alliance to accelerate AI-driven digital transformation in manufacturing - ET Manufacturing",ET Manufacturing,2026-10-19,live,positive,0.675445556640625,0.0075574410147964954,0.3169969618320465,0.6678881156258285
+ABB,2026-01-07,Why Smart Factories Are Being Built from India - ET GCC,ET GCC,2026-10-19,live,neutral,0.11894445866346359,0.011306905187666416,0.869748592376709,0.10763755347579718
+ABB,2026-01-08,ABB India’s role in re-engineering global industrial automation - ET GCC,ET GCC,2026-10-19,live,neutral,0.30877137184143066,0.006912935059517622,0.6843156814575195,0.30185843678191304
+ABB,2026-01-28,ABB confident for 2026 as customers plan ahead despite political uncertainty - Reuters,,2026-10-18,legacy,positive,0.5427725911140442,0.012520978227257729,0.44470641016960144,0.5302516128867865
+ABB,2026-01-30,IEW 2026: ABB India spotlights multi-pathway technologies for energy transition - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.7969043254852295,0.0068982504308223724,0.19619742035865784,0.7900060750544071
+ABB,2026-03-09,ABB teams up with Nvidia to improve factory robot training - Reuters,,2026-10-18,legacy,positive,0.8783366084098816,0.00781411025673151,0.11384929716587067,0.8705224981531501
+ABB,2026-03-10,ABB Robotics announces Nvidia partnership for industrial robots - CNBC,,2026-10-18,legacy,neutral,0.17073389887809753,0.012503717094659805,0.816762387752533,0.15823018178343773
+ABB,2026-03-13,"EXCLUSIVE: ABB open to 'more than one' big deal in renewed M&A drive, chairman says - Reuters",,2026-10-18,legacy,neutral,0.3097451627254486,0.010527203790843487,0.6797276139259338,0.2992179589346051
+ABB,2026-04-22,ABB CEO: Data centre surge driving momentum - CNBC,,2026-10-18,legacy,neutral,0.35895881056785583,0.028904898092150688,0.6121363043785095,0.33005391247570515
+ABB,2026-04-22,ABB Raises Annual Revenue Outlook After Quarterly Orders Surge - Bloomberg.com,,2026-10-18,legacy,neutral,0.3219892680644989,0.20177233219146729,0.4762383997440338,0.12021693587303162
+ABB,2026-04-22,ABB shares surge as data centre business boosts outlook - Reuters,,2026-10-18,legacy,positive,0.7961183190345764,0.05543931573629379,0.14844229817390442,0.7406790032982826
+ABB,2026-05-08,Engineering firm ABB India posts fourth straight profit fall on higher raw material costs - Reuters,,2026-10-18,legacy,negative,0.013229597359895706,0.9694705009460449,0.017299892380833626,-0.9562409035861492
+ABB,2026-05-10,ABB to invest $200 million in medium-voltage equipment production in Europe - Reuters,,2026-10-18,legacy,neutral,0.1950169801712036,0.007054309360682964,0.7979287505149841,0.18796267081052065
+ABB,2026-06-04,CEO of ABB on meeting the surging power demand for AI data centers - CNBC,,2026-10-18,legacy,neutral,0.08904664218425751,0.018428852781653404,0.8925245404243469,0.0706177894026041
+ABB,2026-07-16,ABB Expands Automation Offering With Acquisition of UK’s Rotork - Bloomberg.com,,2026-10-18,legacy,positive,0.9108094573020935,0.01110778283327818,0.07808278501033783,0.8997016744688153
+ABB,2026-07-16,ABB to press ahead with acquisitions after $5.5 billion Rotork deal - Reuters,,2026-10-18,legacy,neutral,0.19233782589435577,0.013626893982291222,0.7940352559089661,0.17871093191206455
+ABB,2026-07-16,Breakingviews - COMMENTARY: ABB's $5 bln deal punctures bargain-Britain myth - Reuters,,2026-10-18,legacy,neutral,0.07359021157026291,0.3274514079093933,0.5989583730697632,-0.2538611963391304
+ABB,2026-07-31,Engineering firm ABB India quarterly profit rises on strong demand - Reuters,,2026-10-18,legacy,positive,0.8311459422111511,0.11851825565099716,0.050335824489593506,0.712627686560154
+ABB,2026-08-25,ABB India: Margin recovery key to earnings upgrades - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.22381794452667236,0.04168110340833664,0.7345010042190552,0.18213684111833572
+ABB,2026-10-09,ABB India Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.04602828249335289,0.035085733979940414,0.9188860058784485,0.010942548513412476
+ABB,2026-10-12,The Economic Times - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.03021029755473137,0.05379044637084007,0.9159992933273315,-0.023580148816108704
+ABB,2026-10-14,"FNO Active by Value sort by Commodity or Symbol, Ascending Order - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.0233079195022583,0.02633640728890896,0.9503556489944458,-0.0030284877866506577
+ABB,2026-10-14,"FNO Top Gainers by Commodity or Symbol, Ascending Order - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.02965562231838703,0.02530527114868164,0.9450390338897705,0.004350351169705391
+ABB,2026-10-15,"EU-backed east Mediterranean undersea cable project applies to resume seabed research, Greece says - Reuters",,2026-10-18,legacy,positive,0.7578862905502319,0.008679281920194626,0.23343448340892792,0.7492070086300373
+ABB,2026-10-15,Global tech giant ABB joins ranks with Indore Smart City to streamline power supply - ET Government,,2026-10-18,legacy,positive,0.8365790843963623,0.008134108036756516,0.1552867591381073,0.8284449763596058
+ABB,2026-10-16,European shares close out best week since June as earnings soften blow from tech selloff - Reuters,,2026-10-18,legacy,positive,0.6120341420173645,0.31187915802001953,0.07608669251203537,0.30015498399734497
+ABB,2026-10-16,"FNO Active by Puts sort by Commodity or Symbol, Ascending Order - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.023560259491205215,0.025599505752325058,0.9508402347564697,-0.0020392462611198425
+ABB,2026-10-16,"Riverway, Offshore Data Center partner on floating data centers - ET Datacenters",,2026-10-18,legacy,neutral,0.07478782534599304,0.010921009816229343,0.9142912030220032,0.0638668155297637
+ABB,2026-10-17,Europe Is Racing China to Dominate Industrial AI - Bloomberg.com,,2026-10-18,legacy,neutral,0.1385498195886612,0.010729438625276089,0.8507207036018372,0.1278203809633851
+ABB,2026-10-17,"FNO Top Losers by Open Interest in Percentage Change, Ascending Order - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.02613706886768341,0.039035338908433914,0.9348275661468506,-0.012898270040750504
+ABB,2026-10-18,"Share/Stock Market News - Latest NSE, BSE, Business News, Stock/Share Tips, Sensex Nifty, Commodity, Global Market News & Analysis - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.02912364900112152,0.025923337787389755,0.9449530243873596,0.0032003112137317657
+ABB,2026-10-19,"Defence & capital goods stocks: L&T, Cummins, Bharat Electronics among 16 Buys for Motilal Oswal, Thermax a Sell - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.19623862206935883,0.01755380444228649,0.7862075567245483,0.17868481762707233

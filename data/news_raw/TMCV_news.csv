@@ -1,101 +1,154 @@
-ticker,date,headline,sentiment_score
-TMCV,2026-04-06,"Persistent Systems - Mahindra, Billionbrains Garage among 6 stocks flashing bullish signals - economictimes.indiatimes.com",-0.9139025211334229
-TMCV,2009-07-18,"Bloomberg - Business News, Stock Markets, Finance, Breaking & World News - bloomberg.com",-0.936978280544281
-TMCV,2025-12-08,Tata Motors Commercial Vehicles - bsmedia.business-standard.com,-0.9497696757316589
-TMCV,2026-01-29,TMCV IN Equity 29Jan26 - bsmedia.business-standard.com,-0.947827160358429
-TMCV,2026-01-04,TMCV IN 04Jan26 - bsmedia.business-standard.com,-0.9477358460426331
-TMCV,2025-11-12,"Tata Motors CV Share Price Today, Tata Motors CV Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9386395215988159
-TMCV,2026-01-29,Tata Motors| BUY - bsmedia.business-standard.com,-0.9476304054260254
-TMCV,2025-11-26,Check out Tata Motors Ltd's stock price (TMCV-IN) in real time - CNBC,-0.9453728199005127
-TMCV,2021-12-13,Tata motors Q3 Results - economictimes.indiatimes.com,-0.923321008682251
-TMCV,2025-11-12,TMCV: Tata Motors Ltd /new Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.947119414806366
-TMCV,2026-01-30,TMCV IN 30Jan26 - bsmedia.business-standard.com,-0.9478324055671692
-TMCV,2026-04-02,TMCV.PK - | Stock Price & Latest News - Reuters,-0.9265071749687195
-TMCV,2025-12-22,"Nomura initiates coverage on Tata Motors CV with ‘Buy’ call, flags MHCV upcycle - ET Auto",-0.7495949864387512
-TMCV,2026-01-28,"Tata Motors Q3 Preview: Profit, revenue and key factors to watch in Dec qtr - business-standard.com",-0.9310615658760071
-TMCV,2025-12-09,Ambit starts coverage on Tata Motors CV with 19% upside target; here's why - business-standard.com,-0.91734379529953
-TMCV,2025-11-12,"Stocks to Watch today: Bajaj Finserv, Biocon, BSE, Groww, TMCV, Tata Power - business-standard.com",-0.9474621415138245
-TMCV,2026-01-16,"ICICI Direct backs Tata Motors CV on strong margins, market leadership - business-standard.com",0.7340099811553955
-TMCV,2025-11-13,"Tata Motors reports ₹867 crore loss in Q2FY26, revenue up 6% - business-standard.com",0.621506929397583
-TMCV,2025-11-12,Tata Motors Q2 preview: Here's what to expect from the auto giant - business-standard.com,-0.9370894432067871
-TMCV,2026-01-22,Nomura initiates TMCV with 'Buy' as India truck cycle shows early revival - business-standard.com,-0.5536364316940308
-TMCV,2025-11-14,Nuvama turns cautious on Tata Motors CV biz despite inline Q2 profitability - business-standard.com,-0.7197965979576111
-TMCV,2025-11-12,Tata Motors demerger complete: Here's how CV & PV arms stack up financially - business-standard.com,-0.9413952231407166
-TMCV,2025-12-22,"Tata Motors CV set for growth, says Nomura; starts coverage with 'Buy' - business-standard.com",-0.6998099088668823
-TMCV,2025-11-06,"Tata Motors demerger impact: Changes in F&O lot size, OI, Strikes explained - business-standard.com",-0.9188909530639648
-TMCV,2025-11-12,Tata Motors CV shares to list on November 12 after demerger - business-standard.com,-0.9223641753196716
-TMCV,2025-11-12,"TaMo CV listing: Tata Motors CV arm lists at ₹335 on NSE, ₹330 on BSE - business-standard.com",-0.9384398460388184
-TMCV,2026-04-06,"At 83, Amitabh Bachchan finds it ‘disturbing’ to take a day off despite Rs 1600 crore net worth. Actor sha - economictimes.indiatimes.com",-0.8487902283668518
-TMCV,2025-11-12,Tata Motors Share Price - business-standard.com,-0.9423825740814209
-TMCV,2025-11-11,Tata Motors demerger: What lies ahead for PV and CV businesses post split - business-standard.com,-0.9463195204734802
-TMCV,2025-11-04,When can investors start trading Tata Motors CV shares? Listing update - business-standard.com,-0.9508941769599915
-TMCV,2026-01-30,"CV upcycle gathers pace, but brokerages split on Tata Motors outlook - business-standard.com",-0.8503108024597168
-TMCV,2017-07-19,"Tata Teleservices Share Price Today, Tata Teleservices Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9389320611953735
-TMCV,2025-11-12,TaMo CV lists today. How to trade commercial vehicle makers' stocks? - business-standard.com,-0.9469404220581055
-TMCV,2017-04-24,"DJS Stock & Shares Ltd. Share Price Today, DJS Stock & Shares Ltd. Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9431314468383789
-TMCV,2025-11-12,"Tata Motors CV shares make strong debut, close at ₹330 on listing day - business-standard.com",0.8970599174499512
-TMCV,2020-07-01,"We Win Share Price Today, We Win Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.8260699510574341
-TMCV,2017-03-24,Tata Chemicals Ltd. - economictimes.indiatimes.com,-0.9402740597724915
-TMCV,2017-05-27,"Tatia Global Share Price Today, Tatia Global Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9425969123840332
-TMCV,2017-03-31,"Global Education Share Price Today, Global Education Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.943630039691925
-TMCV,2017-03-24,"Usha Martin Share Price Today, Usha Martin Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.942116379737854
-TMCV,2023-03-08,"Bright Outdoor Media Share Price Today, Bright Outdoor Media Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9416842460632324
-TMCV,2025-06-27,"Silky Overseas Share Price Today, Silky Overseas Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9393677115440369
-TMCV,2026-03-30,"Vijay Textiles Share Price Today, Vijay Textiles Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9422225952148438
-TMCV,2017-08-29,"Ceinsys Tech Share Price Today, Ceinsys Tech Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9404263496398926
-TMCV,2026-04-02,"VXL Instruments Share Price Today, VXL Instruments Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9367977380752563
-TMCV,2017-09-06,"Matrimony.com Share Price Today, Matrimony.com Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9376097917556763
-TMCV,2017-03-23,"YES Bank Share Price Today, YES Bank Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9394639730453491
-TMCV,2017-03-24,"TV Today Network Share Price Today, TV Today Network Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9423494338989258
-TMCV,2021-08-03,"CarTrade Tech Share Price Today, CarTrade Tech Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9419432878494263
-TMCV,2017-04-09,"Precision Wires Share Price Today, Precision Wires Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9435827136039734
-TMCV,2025-02-17,"Maxvolt Energy Indus Share Price Today, Maxvolt Energy Indus Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9429576396942139
-TMCV,2017-03-24,"South Indian Bnk Share Price Today, South Indian Bnk Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9389739036560059
-TMCV,2025-11-06,Tata Motors CV vs Tata Motors PV: Which stock could re-rate after demerger? - business-standard.com,-0.9415230751037598
-TMCV,2023-09-22,"Goyal Salt Share Price Today, Goyal Salt Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9423347115516663
-TMCV,2017-03-24,"Nitco Share Price Today, Nitco Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9402079582214355
-TMCV,2017-07-19,"D-Link (India) Share Price Today, D-Link (India) Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.940942108631134
-TMCV,2017-03-24,"PTC Financial Share Price Today, PTC Financial Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9387459754943848
-TMCV,2021-05-20,"Adhunik Industries Share Price Today, Adhunik Industries Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9408010244369507
-TMCV,2025-09-23,"Pace Digitek Share Price Today, Pace Digitek Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9419233202934265
-TMCV,2017-03-23,"Krishna Vent Share Price Today, Krishna Vent Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9350350499153137
-TMCV,2017-03-29,"Deep Diamond India Share Price Today, Deep Diamond India Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9424812197685242
-TMCV,2024-08-01,"East West Holdings Share Price Today, East West Holdings Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9424503445625305
-TMCV,2019-11-18,"Welspun Specialty Share Price Today, Welspun Specialty Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9420260190963745
-TMCV,2019-06-13,"Anand Rayons Share Price Today, Anand Rayons Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9432612657546997
-TMCV,2017-04-30,"Garware Synth Share Price Today, Garware Synth Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9376634359359741
-TMCV,2017-03-24,"Rushil Decor Share Price Today, Rushil Decor Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9407719969749451
-TMCV,2021-10-06,"CWD L Share Price Today, CWD L Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9416612982749939
-TMCV,2017-03-30,"Pilani Invest Share Price Today, Pilani Invest Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9440109729766846
-TMCV,2017-03-23,"IFB Industries Share Price Today, IFB Industries Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9407377243041992
-TMCV,2025-12-26,"E to E Transport Share Price Today, E to E Transport Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9437804818153381
-TMCV,2017-04-20,"Swadeshi Ind Share Price Today, Swadeshi Ind Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9412127137184143
-TMCV,2017-04-03,"Shree Securities Share Price Today, Shree Securities Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9390729069709778
-TMCV,2023-12-19,"Sameera Agro & Infra Share Price Today, Sameera Agro & Infra Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9398611187934875
-TMCV,2017-07-20,"Vinyl Chemicals Share Price Today, Vinyl Chemicals Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9441665410995483
-TMCV,2022-08-23,"Ameya Precision Engineers Share Price Today, Ameya Precision Engineers Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9421347975730896
-TMCV,2018-03-13,"Sandhar Tech Share Price Today, Sandhar Tech Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9411900639533997
-TMCV,2024-08-07,"Positron Energy Share Price Today, Positron Energy Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9421046376228333
-TMCV,2023-07-11,"Aaswa Trading Share Price Today, Aaswa Trading Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9443228840827942
-TMCV,2017-04-23,"Sika Interplant Share Price Today, Sika Interplant Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9416186809539795
-TMCV,2017-04-15,"BSL Ltd Share Price Today, BSL Ltd Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9343147873878479
-TMCV,2023-09-13,"Kody Technolab Share Price Today, Kody Technolab Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9425399899482727
-TMCV,2026-01-21,"Sequent Scientific Share Price Today, Sequent Scientific Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9373610615730286
-TMCV,2017-03-24,"Menon Bearings Share Price Today, Menon Bearings Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9323848485946655
-TMCV,2017-04-23,"Axtel Ind Share Price Today, Axtel Ind Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9415528774261475
-TMCV,2019-04-30,"Par Drugs & Chemical Share Price Today, Par Drugs & Chemical Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9435309171676636
-TMCV,2023-09-28,"Marco Cables & Conductors Share Price Today, Marco Cables & Conductors Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.946541965007782
-TMCV,2023-10-11,"Rajgor Castor Derivatives Share Price Today, Rajgor Castor Derivatives Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.941135823726654
-TMCV,2017-03-24,"Kirloskar Electric Co Share Price Today, Kirloskar Electric Co Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9377899765968323
-TMCV,2024-01-13,"National Perox Share Price Today, National Perox Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9387614727020264
-TMCV,2018-10-08,"Real News & Views Share Price Today, Real News & Views Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9409100413322449
-TMCV,2023-05-10,"De Neers Tools Share Price Today, De Neers Tools Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9416201114654541
-TMCV,2017-03-24,"Neuland Labs Share Price Today, Neuland Labs Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9419715404510498
-TMCV,2017-04-12,"Triton Valves Share Price Today, Triton Valves Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9392610192298889
-TMCV,2017-03-24,"Edelweiss Financial Share Price Today, Edelweiss Financial Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9389076232910156
-TMCV,2023-12-16,"Trident Techlabs Share Price Today, Trident Techlabs Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9420340657234192
-TMCV,2017-05-03,"AK Capital Services Share Price Today, AK Capital Services Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9423578977584839
-TMCV,2026-03-30,"Taparia Tools Share Price Today, Taparia Tools Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9418500065803528
-TMCV,2017-04-13,"ACI Infocom Share Price Today, ACI Infocom Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9399799704551697
-TMCV,2017-03-25,"GNA Axles Share Price Today, GNA Axles Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9397487640380859
-TMCV,2023-08-10,"Allcargo Terminals Share Price Today, Allcargo Terminals Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.943182647228241
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+TMCV,2020-01-04,"Stocks in news: Adani Enterprises, Hyundai Motor India, BHEL, BEL, Groww, Tata Elxsi and RailTel - The Economic Times",,2026-10-18,legacy,neutral,0.044985491782426834,0.02095603197813034,0.934058427810669,0.024029459804296494
+TMCV,2020-03-31,"Tata Motors Q4 Results: Automaker clocks profit of Rs 5,408 crore; revenue jumps 35% YoY - The Economic Times",,2026-10-18,legacy,positive,0.9244097471237183,0.047513626515865326,0.0280766561627388,0.8768961206078529
+TMCV,2020-05-03,Nifty PSU Bank - The Economic Times,,2026-10-18,legacy,neutral,0.08443024754524231,0.03136737272143364,0.8842023611068726,0.05306287482380867
+TMCV,2020-05-04,"Indice (NSE), Live Indice , NSE India - The Economic Times",,2026-10-18,legacy,neutral,0.056787267327308655,0.018897559493780136,0.9243152141571045,0.03788970783352852
+TMCV,2020-05-08,Cycles & Accessories Industry Listing - The Economic Times,,2026-10-18,legacy,neutral,0.03366781771183014,0.03867281600832939,0.9276593327522278,-0.005004998296499252
+TMCV,2020-05-16,Nifty Media - The Economic Times,,2026-10-18,legacy,neutral,0.0490848645567894,0.03708645701408386,0.9138286709785461,0.011998407542705536
+TMCV,2020-06-01,IT Consulting & Software - Large Cap Industry Listing - The Economic Times,,2026-10-18,legacy,neutral,0.05410236492753029,0.02348184585571289,0.9224157929420471,0.030620519071817398
+TMCV,2020-08-15,Power Generation - Thermal Industry Listing - The Economic Times,,2026-10-18,legacy,neutral,0.03571855649352074,0.03318993002176285,0.9310915470123291,0.002528626471757889
+TMCV,2021-05-17,Bullish Moving Average Crossover - The Economic Times,,2026-10-18,legacy,neutral,0.07528350502252579,0.03590308129787445,0.8888134360313416,0.03938042372465134
+TMCV,2021-06-02,Stock Research Report for Austin Engineering Company Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.03161529824137688,0.05083523690700531,0.9175494909286499,-0.019219938665628433
+TMCV,2021-06-02,Stock Research Report for IFB Agro Industries Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.033450234681367874,0.04118350148200989,0.9253662824630737,-0.0077332668006420135
+TMCV,2021-06-03,Stock Research Report for West Coast Paper Mills Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.03401636332273483,0.044423434883356094,0.9215602278709412,-0.010407071560621262
+TMCV,2021-06-04,"BHARATRAS Stock Report - BHARATRAS Stock Insights, BHARATRAS Stock Analysis and details - The Economic Times",,2026-10-18,legacy,neutral,0.02922021597623825,0.026831604540348053,0.9439482092857361,0.0023886114358901978
+TMCV,2021-06-14,Stock Research Report for Innovana Thinklabs Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.04266557842493057,0.033673401921987534,0.9236609935760498,0.008992176502943039
+TMCV,2021-06-14,Stock Research Report for Leading Leasing Finance and Investment Company Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.044922541826963425,0.035259172320365906,0.9198183417320251,0.009663369506597519
+TMCV,2021-06-14,Stock Research Report for Mangalam Industrial Finance Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.03248696029186249,0.04434787109494209,0.9231651425361633,-0.011860910803079605
+TMCV,2021-06-19,Tata Motors Ltd - Reuters,,2026-10-18,legacy,neutral,0.02702862210571766,0.032147105783224106,0.9408242106437683,-0.005118483677506447
+TMCV,2021-06-28,Stock Research Report for National Oxygen Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.032801974564790726,0.05372229591012001,0.9134756922721863,-0.020920321345329285
+TMCV,2021-10-21,Nifty 100 - The Economic Times,,2026-10-18,legacy,neutral,0.08688647300004959,0.04164723679423332,0.8714662790298462,0.04523923620581627
+TMCV,2021-10-21,Nifty Midcap 100 - The Economic Times,,2026-10-18,legacy,neutral,0.1004469096660614,0.04044656828045845,0.8591064810752869,0.06000034138560295
+TMCV,2021-12-13,"Tata Motors Q3 Results: Profit falls 22% YoY to Rs 5,451 crore, misses estimates - The Economic Times",,2026-10-18,legacy,negative,0.00971764326095581,0.9660018086433411,0.024280661717057228,-0.9562841653823853
+TMCV,2021-12-30,वित्तीय सेवाएँ - विविध Industry Listing - The Economic Times,,2026-10-18,legacy,neutral,0.048488423228263855,0.026540694758296013,0.9249708652496338,0.021947728469967842
+TMCV,2022-01-12,Stock Research Report for Clara Industries Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.03526433929800987,0.04711323231458664,0.917622447013855,-0.011848893016576767
+TMCV,2023-03-22,Stock Research Report for Divgi TorqTransfer Systems Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.037024520337581635,0.031094152480363846,0.931881308555603,0.005930367857217789
+TMCV,2023-04-22,Here's what you need to know about stock lending and whether it's a good way to make money - CNBC,,2026-10-18,legacy,neutral,0.05022728443145752,0.02294200286269188,0.9268307685852051,0.02728528156876564
+TMCV,2024-12-05,Stock Research Report for SGL Resources Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.033168304711580276,0.041457004845142365,0.9253747463226318,-0.008288700133562088
+TMCV,2025-08-22,Nvidia’s Huang says TSMC among all-time greats: Buying its stock is ‘very smart’ - CNBC,,2026-10-18,legacy,neutral,0.1587860882282257,0.010670874267816544,0.8305431008338928,0.14811521396040916
+TMCV,2025-11-12,"TaMo CV listing: Tata Motors CV arm lists at ₹335 on NSE, ₹330 on BSE - Business Standard",,2026-10-18,legacy,neutral,0.025079714134335518,0.036612384021282196,0.9383079409599304,-0.011532669886946678
+TMCV,2025-11-12,Tata Motors demerger: PV unit vulnerable as JLR dominance clouds growth - Business Standard,,2026-10-18,legacy,negative,0.048396263271570206,0.8383141160011292,0.11328962445259094,-0.789917852729559
+TMCV,2025-11-14,Nuvama turns cautious on Tata Motors CV biz despite inline Q2 profitability - Business Standard,,2026-10-18,legacy,negative,0.04783985763788223,0.8995408415794373,0.0526193343102932,-0.851700983941555
+TMCV,2025-11-18,Stock Research Report for Tata Motors Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.029335157945752144,0.05072762817144394,0.919937252998352,-0.021392470225691795
+TMCV,2025-12-08,Tata Motors Commercial Vehicles - Business Standard,,2026-10-18,legacy,neutral,0.09320060908794403,0.011186651885509491,0.8956127166748047,0.08201395720243454
+TMCV,2025-12-22,"Nomura initiates coverage on Tata Motors CV with ‘Buy’ call, flags MHCV upcycle - ET Auto",,2026-10-18,legacy,neutral,0.23970305919647217,0.010701916180551052,0.7495949864387512,0.22900114301592112
+TMCV,2026-01-29,Tata Motors| BUY - Business Standard,,2026-10-18,legacy,neutral,0.05297873169183731,0.01764409802854061,0.9293771386146545,0.0353346336632967
+TMCV,2026-02-26,TATM.NS - Reuters,,2026-10-18,legacy,neutral,0.023433569818735123,0.02851179800927639,0.9480546116828918,-0.005078228190541267
+TMCV,2026-02-27,Indonesia Hits Pause on Prabowo’s Mega Order of Indian Trucks - Bloomberg,,2026-10-18,legacy,neutral,0.16030243039131165,0.12449104338884354,0.7152064442634583,0.03581138700246811
+TMCV,2026-04-22,"Step aside Tesla, BYD: Japanese carmakers deepen their hold on India's auto market with hybrids - CNBC",,2026-10-18,legacy,positive,0.8472674489021301,0.01470127422362566,0.1380312740802765,0.8325661746785045
+TMCV,2026-05-01,"Tata Motors CV sales rise 28% in April at 32,965 units - ET Auto",,2026-10-18,legacy,positive,0.9408208727836609,0.02112591452896595,0.03805321827530861,0.9196949582546949
+TMCV,2026-06-02,Ex-TMC MLA Ritabrata Banerjee levels fresh allegations against Abhishek Banerjee - The Economic Times,,2026-10-18,legacy,neutral,0.0406939722597599,0.38555216789245605,0.5737538933753967,-0.34485819563269615
+TMCV,2026-06-11,'Didi Must Decide': TMC leaders decode Kalyan Banerjee's message to Mamata - The Economic Times Video | ET Tv - The Economic Times,,2026-10-18,legacy,neutral,0.04079550877213478,0.026050543412566185,0.9331539273262024,0.014744965359568596
+TMCV,2026-06-24,"JM Financial retains Buy on Tata Motors, sees 14% upside; stock up 4% - Business Standard",,2026-10-18,legacy,positive,0.9375084638595581,0.03140046074986458,0.031091151759028435,0.9061080031096935
+TMCV,2026-06-25,Near-term margin concerns may cap gains for Tata Motors Commercial Vehicles - Business Standard,,2026-10-18,legacy,negative,0.21291254460811615,0.7613294720649719,0.02575802057981491,-0.5484169274568558
+TMCV,2026-08-13,Stock Research Report for The Bombay Burmah Trading Corporation Limited - The Economic Times,,2026-10-18,legacy,neutral,0.03185700997710228,0.04110017418861389,0.9270427823066711,-0.009243164211511612
+TMCV,2026-08-13,"Tata Motors up 6% after Q1 beat; analysts see demand, margin upside - Business Standard",,2026-10-18,legacy,positive,0.9425152540206909,0.02457190491259098,0.03291287273168564,0.9179433491080999
+TMCV,2026-08-14,Tata Sons could become the 'mother of all IPOs': analyst - CNBC,,2026-10-18,legacy,neutral,0.08850305527448654,0.010128454305231571,0.9013685584068298,0.07837460096925497
+TMCV,2026-09-04,Nifty 200 - The Economic Times,,2026-10-18,legacy,neutral,0.05979122593998909,0.060080282390117645,0.8801285028457642,-0.0002890564501285553
+TMCV,2026-09-17,Stock Research Report for Phychem Technologies Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.03570739924907684,0.037320733070373535,0.9269719123840332,-0.001613333821296692
+TMCV,2026-09-25,Tata Motors warns of uncertainty over commodity costs as it braces for another margin hit - Reuters,,2026-10-18,legacy,negative,0.061028461903333664,0.8843861818313599,0.05458541214466095,-0.8233577199280262
+TMCV,2026-10-07,"Jaguar unveils $130,000 electric vehicle two years after controversial rebrand - CNBC",,2026-10-18,legacy,neutral,0.12198001146316528,0.012353836558759212,0.8656661510467529,0.10962617490440607
+TMCV,2026-10-12,"Stellantis, Tata Motors PV join hands for vehicle tech, product development - Business Standard",Business Standard,2026-10-19,live,neutral,0.20011582970619202,0.00817109178751707,0.7917131185531616,0.19194473791867495
+TMCV,2026-10-12,"Stellantis, Tata Motors Passenger Vehicles to develop vehicles in India - Reuters",Reuters,2026-10-19,live,neutral,0.09969008713960648,0.01042815763503313,0.8898817300796509,0.08926192950457335
+TMCV,2026-10-12,"Tata Motors PV, Stellantis expand partnership to develop vehicles for over 50 global markets - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.6934846639633179,0.007966874167323112,0.29854846000671387,0.6855177897959948
+TMCV,2026-10-12,"Tata Motors, Stellantis sign deal to develop vehicles for 50-plus global markets - ET Auto",ET Auto,2026-10-19,live,positive,0.8191452622413635,0.007608701940625906,0.17324602603912354,0.8115365603007376
+TMCV,2026-10-15,Google boosts news and link visibility in AI mode - The Economic Times,,2026-10-18,legacy,positive,0.813777506351471,0.008442194201052189,0.17778033018112183,0.8053353121504188
+TMCV,2026-10-15,Stellantis and Tata Motors widen India tie-up for export-focused vehicle development - supplychain.economictimes.indiatimes.com,supplychain.economictimes.indiatimes.com,2026-10-19,live,positive,0.5665289759635925,0.013571380637586117,0.4198996126651764,0.5529575953260064
+TMCV,2026-10-16,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.036765459924936295,0.024498049169778824,0.9387364387512207,0.01226741075515747
+TMCV,2026-10-16,"Chandrasekaran, P.B. Balaji to join Iveco board as Tata deal reaches final stage - Livemint",Livemint,2026-10-19,live,neutral,0.06697025150060654,0.01401438657194376,0.9190154075622559,0.05295586492866278
+TMCV,2026-10-16,Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom - The Economic Times,,2026-10-18,legacy,positive,0.8083001971244812,0.044762883335351944,0.14693696796894073,0.7635373137891293
+TMCV,2026-10-16,Iveco Group shareholders approve Tata Motors' takeover proposals - Business Standard,Business Standard,2026-10-19,live,neutral,0.06708083301782608,0.012565899640321732,0.9203532934188843,0.05451493337750435
+TMCV,2026-10-16,Iveco shareholders approve resolutions paving way for Tata Motors acquisition and delisting - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.1269007921218872,0.013431438244879246,0.8596677780151367,0.11346935387700796
+TMCV,2026-10-17,"Durga Puja pandal stampede: 17 dead, 15 injured; PM announces Rs 2 L ex-gratia for kin of deceased - The Economic Times",,2026-10-18,legacy,negative,0.06706613302230835,0.6925721168518066,0.240361750125885,-0.6255059838294983
+TMCV,2026-10-17,Iveco shareholders lower takeover acceptance threshold to 80% for Tata Motors offer - ET Auto,ET Auto,2026-10-19,live,neutral,0.14442414045333862,0.02452893927693367,0.8310469388961792,0.11989520117640495
+TMCV,2026-10-17,Mutual Fund Ownership - The Economic Times,,2026-10-18,legacy,neutral,0.037498027086257935,0.026988647878170013,0.9355133771896362,0.010509379208087921
+TMCV,2026-10-17,"Tata Motors’ September sales: Nexon beats Punch as Sierra gains, Tiago and Harrier slip | Check full sales break-up - Livemint",Livemint,2026-10-19,live,negative,0.23247694969177246,0.6662903428077698,0.10123273730278015,-0.4338133931159973
+TMCV,2026-10-18,7th Pay Commission: BSNL employees seek wage revision; management assures festival advance in 2 months - Livemint,Livemint,2026-10-19,live,negative,0.07229241728782654,0.7610019445419312,0.1667056381702423,-0.6887095272541046
+TMCV,2026-10-18,"8th Pay Commission: How salaries change at fitment factors of 4, 3.833 and 3.80; Check complete calculations - Livemint",Livemint,2026-10-19,live,neutral,0.02697572484612465,0.038786280900239944,0.9342380166053772,-0.011810556054115295
+TMCV,2026-10-18,"8th pay commission: Official state visit to Mumbai planned this week — Here's all we know about meetings, agenda - Livemint",Livemint,2026-10-19,live,neutral,0.024871837347745895,0.03104211762547493,0.9440860748291016,-0.006170280277729034
+TMCV,2026-10-18,A tale of 2 IPOs: Jio Platforms' unified vision & Tata Sons' divided house - Business Standard,Business Standard,2026-10-19,live,neutral,0.09286202490329742,0.010552973486483097,0.8965849876403809,0.08230905141681433
+TMCV,2026-10-18,AT-1 bonds: The bigger lessons - Business Standard,Business Standard,2026-10-19,live,neutral,0.05510333925485611,0.01806694269180298,0.9268297553062439,0.03703639656305313
+TMCV,2026-10-18,"Aadhaar update: Want to change your name, address or date of birth? Check UIDAI's list of accepted documents - Livemint",Livemint,2026-10-19,live,neutral,0.01804356649518013,0.04567660018801689,0.9362798929214478,-0.02763303369283676
+TMCV,2026-10-18,Best-performing SIFs: Quant leads hybrid long-short funds with 25.5% returns in 6 months; check how peers performed - Livemint,Livemint,2026-10-19,live,neutral,0.31791767477989197,0.00929355900734663,0.6727887392044067,0.30862411577254534
+TMCV,2026-10-18,Blaze at St Petersburg oil sites as Kyiv launches drones at Russia - Business Standard,Business Standard,2026-10-19,live,neutral,0.04292209818959236,0.12568044662475586,0.831397533416748,-0.0827583484351635
+TMCV,2026-10-18,Building natural wealth - Business Standard,Business Standard,2026-10-19,live,neutral,0.0721459686756134,0.014004996977746487,0.9138490557670593,0.05814097169786692
+TMCV,2026-10-18,"Centre plans MMDR Act overhaul, to draft comprehensive new mining law - Business Standard",Business Standard,2026-10-19,live,neutral,0.14102473855018616,0.0110146664083004,0.8479605913162231,0.13001007214188576
+TMCV,2026-10-18,Credit history won't decide a loan on its own anymore: IDfy Founder - Business Standard,Business Standard,2026-10-19,live,neutral,0.03967392072081566,0.023321649059653282,0.9370044469833374,0.016352271661162376
+TMCV,2026-10-18,DA hike before Diwali 2026: How much extra salary could central government employees get if DA rises to 63%? - Livemint,Livemint,2026-10-19,live,neutral,0.23255343735218048,0.02355491742491722,0.7438916563987732,0.20899851992726326
+TMCV,2026-10-18,"Dalal Street Week Ahead: Jio IPO, Q2 earnings, China GDP, oil prices, PMI flash numbers among 10 key... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03906309977173805,0.04107813164591789,0.9198587536811829,-0.00201503187417984
+TMCV,2026-10-18,Datakosa Ltd Announcements - Business Standard,Business Standard,2026-10-19,live,neutral,0.0703054815530777,0.014416735619306564,0.9152777791023254,0.05588874593377113
+TMCV,2026-10-18,"EPFO scheme offers up to ₹15,000 to first-time employees: Check eligibility, salary limit and payment rules - Livemint",Livemint,2026-10-19,live,neutral,0.06295186281204224,0.011000827886164188,0.9260473251342773,0.05195103492587805
+TMCV,2026-10-18,"EPFO: How to check status, EPF account passbook on official portal, Umang app, SMS, Missed Call, WhatsApp—Stepwise guide - Livemint",Livemint,2026-10-19,live,neutral,0.05301091447472572,0.01584567315876484,0.9311434626579285,0.037165241315960884
+TMCV,2026-10-18,"Earnings, crude oil, Jio IPO key monitorables for investors next week - Business Standard",Business Standard,2026-10-19,live,neutral,0.03347872570157051,0.025387031957507133,0.9411342144012451,0.008091693744063377
+TMCV,2026-10-18,"Eating out with family for Diwali, Dussehra? Here's why your restaurant bills may go up by 10-15% this festive season - Livemint",Livemint,2026-10-19,live,positive,0.7849932909011841,0.03552398458123207,0.17948268353939056,0.749469306319952
+TMCV,2026-10-18,"Education, corruption top issues on Rahul Gandhi's Satyagraha portal - Business Standard",Business Standard,2026-10-19,live,neutral,0.026258787140250206,0.032040197402238846,0.9417010545730591,-0.00578141026198864
+TMCV,2026-10-18,FCNR(B) deposit inflows weigh on private banks' margins in Q2FY27 results - Business Standard,Business Standard,2026-10-19,live,negative,0.0194394588470459,0.9087498188018799,0.0718107521533966,-0.889310359954834
+TMCV,2026-10-18,FD maturity mistake: Fixed deposit matured but you forgot to withdraw money? What happens to your amount? Renew or not? - Livemint,Livemint,2026-10-19,live,neutral,0.02800249308347702,0.04324764013290405,0.9287498593330383,-0.015245147049427032
+TMCV,2026-10-18,"France reels after riots leave one dead, over 2,000 arrested nationwide - Business Standard",Business Standard,2026-10-19,live,negative,0.03034028597176075,0.8942712545394897,0.07538837939500809,-0.863930968567729
+TMCV,2026-10-18,Got refund for online shopping after cancelling order but your credit card bill still shows due amount? Should you pay? - Livemint,Livemint,2026-10-19,live,neutral,0.0644732192158699,0.05030614510178566,0.8852205872535706,0.014167074114084244
+TMCV,2026-10-18,IMF-World Bank meetings leave developing nations short of fresh answers - Business Standard,Business Standard,2026-10-19,live,neutral,0.029439270496368408,0.16466595232486725,0.8058947920799255,-0.13522668182849884
+TMCV,2026-10-18,"Income Tax New TDS Form 141: How it simplifies tax deduction at source compliance for property transactions, rent, etc - Livemint",Livemint,2026-10-19,live,neutral,0.05907716602087021,0.013225287199020386,0.9276975989341736,0.04585187882184982
+TMCV,2026-10-18,Income tax audit last date: 21 Oct is deadline; last-minute checklist for taxpayers before submission | List from expert - Livemint,Livemint,2026-10-19,live,neutral,0.017182601615786552,0.05026426911354065,0.9325531125068665,-0.0330816674977541
+TMCV,2026-10-18,Income tax on property buying: Over ₹30 lakh deal? Experts suggest what to report in realty purchases to avoid taxmen - Livemint,Livemint,2026-10-19,live,neutral,0.03480640426278114,0.025284769013524055,0.9399088025093079,0.009521635249257088
+TMCV,2026-10-18,India's VC funding for startups stays flat at $10.9 billion in 2026 so far - Business Standard,Business Standard,2026-10-19,live,negative,0.012958303093910217,0.9578694701194763,0.029172249138355255,-0.9449111670255661
+TMCV,2026-10-18,"India's exports grow across regions, led by Africa, ASEAN in Apr-Aug - Business Standard",Business Standard,2026-10-19,live,positive,0.9399527907371521,0.013311343267560005,0.046735890209674835,0.9266414474695921
+TMCV,2026-10-18,India-New Zealand FTA expected to boost trade diversification strategy - Business Standard,Business Standard,2026-10-19,live,positive,0.9459951519966125,0.013595112599432468,0.040409717708826065,0.9324000393971801
+TMCV,2026-10-18,Indian business families look to future-proof their legacy: Report - Business Standard,Business Standard,2026-10-19,live,neutral,0.14446118474006653,0.009289122186601162,0.8462497591972351,0.13517206255346537
+TMCV,2026-10-18,Insurance reforms: Why claims matter more than distribution costs - Livemint,Livemint,2026-10-19,live,neutral,0.05614390969276428,0.02345406264066696,0.9204020500183105,0.03268984705209732
+TMCV,2026-10-18,"JLR India expands presence in Delhi, Gurugram, sees NCR as key market - Business Standard",Business Standard,2026-10-19,live,positive,0.5748661756515503,0.008106096647679806,0.4170277714729309,0.5667600790038705
+TMCV,2026-10-18,"Keralam DA, DR hike: Government raises rates from 35% to 37%; here's when the payments will begin - Livemint",Livemint,2026-10-19,live,neutral,0.21997161209583282,0.01216701790690422,0.7678613662719727,0.2078045941889286
+TMCV,2026-10-18,"Lenskart shrugs off SoftBank stake sale as FPIs, mutual funds buy in - Business Standard",Business Standard,2026-10-19,live,neutral,0.15789015591144562,0.03846559301018715,0.8036442399024963,0.11942456290125847
+TMCV,2026-10-18,Let the people hedge - Business Standard,Business Standard,2026-10-19,live,neutral,0.047801364213228226,0.019764864817261696,0.9324337840080261,0.02803649939596653
+TMCV,2026-10-18,MFIs may have to grin & bear for some time as funding pressures persist - Business Standard,Business Standard,2026-10-19,live,neutral,0.025025025010108948,0.2512109577655792,0.7237640619277954,-0.22618593275547028
+TMCV,2026-10-18,"Mcap of nine of top-10 most valued firms surges by ₹3.65 trn, TCS shines - Business Standard",Business Standard,2026-10-19,live,positive,0.9172311425209045,0.024971380829811096,0.057797424495220184,0.8922597616910934
+TMCV,2026-10-18,Microsoft exits Nscale data centre deal in UK amid power delays: Report - Business Standard,Business Standard,2026-10-19,live,negative,0.017046893015503883,0.7925782799720764,0.19037485122680664,-0.7755313869565725
+TMCV,2026-10-18,"Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint",Livemint,2026-10-19,live,positive,0.6336671710014343,0.028063256293535233,0.33826959133148193,0.6056039147078991
+TMCV,2026-10-18,"NRI's ₹3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT gives relief - Livemint",Livemint,2026-10-19,live,negative,0.06317933648824692,0.4893200993537903,0.4475005567073822,-0.42614076286554337
+TMCV,2026-10-18,NTPC to begin feasibility studies in more states for nuclear programme - Business Standard,Business Standard,2026-10-19,live,neutral,0.1874973475933075,0.007795046083629131,0.8047076463699341,0.17970230150967836
+TMCV,2026-10-18,"No ITR filed, but ITAT Jaipur still quashed the 200% income tax penalty: Here's what the taxpayer did to win the case - Livemint",Livemint,2026-10-19,live,neutral,0.09165000915527344,0.037385791540145874,0.8709641695022583,0.054264217615127563
+TMCV,2026-10-18,PSUs tap GIFT City for overseas mineral hunt amid critical supply push - Business Standard,Business Standard,2026-10-19,live,positive,0.841727077960968,0.020176120102405548,0.1380968540906906,0.8215509578585625
+TMCV,2026-10-18,Pharma haircare market in India finds its growth roots in young patients - Business Standard,Business Standard,2026-10-19,live,neutral,0.19232331216335297,0.008301585912704468,0.7993751168251038,0.1840217262506485
+TMCV,2026-10-18,Quarterly results of companies - Business Standard,Business Standard,2026-10-19,live,neutral,0.024120111018419266,0.05849451571702957,0.9173853993415833,-0.034374404698610306
+TMCV,2026-10-18,"RCom RP files curative petition, challenging February SC spectrum ruling - Business Standard",Business Standard,2026-10-19,live,negative,0.024062152951955795,0.9126107692718506,0.06332705169916153,-0.8885486163198948
+TMCV,2026-10-18,Samsung to tap TSMC technology for Nvidia's custom memory chips: Report - Business Standard,Business Standard,2026-10-19,live,neutral,0.1177106499671936,0.009292786940932274,0.8729965090751648,0.10841786302626133
+TMCV,2026-10-18,"Signaltron, Signalchip join Indonesia's BRIN to develop telecom solutions - Business Standard",Business Standard,2026-10-19,live,neutral,0.21125328540802002,0.006849420722573996,0.7818973064422607,0.20440386468544602
+TMCV,2026-10-18,"Stellantis targets sharp India turnaround, 6x export jump by 2029 - ET Auto",ET Auto,2026-10-19,live,positive,0.9152606129646301,0.01684524305164814,0.06789418309926987,0.898415369912982
+TMCV,2026-10-18,"Tata Trusts disbursed ₹1,556 crore in FY26, plans 40-50 nonprofit hospitals - Business Standard",Business Standard,2026-10-19,live,neutral,0.09426872432231903,0.011585056781768799,0.894146203994751,0.08268366754055023
+TMCV,2026-10-18,Trade to trust: India steps up neighbourhood play with economic support - Business Standard,Business Standard,2026-10-19,live,positive,0.683562159538269,0.010545393452048302,0.3058924674987793,0.6730167660862207
+TMCV,2026-10-18,"Train ticket insurance from October 27: Is it mandatory, what is the current premium, coverage and claim process? - Livemint",Livemint,2026-10-19,live,neutral,0.028706269338726997,0.02298029512166977,0.9483134150505066,0.005725974217057228
+TMCV,2026-10-18,"Ukraine launches over 1,000 drones at Russia, oil terminal catches fire - Business Standard",Business Standard,2026-10-19,live,neutral,0.16799892485141754,0.09123446047306061,0.7407665848731995,0.07676446437835693
+TMCV,2026-10-18,"Using Buying Now, Pay Later (BNPL) for Diwali, Dussehra, and Dhanteras online shopping? Are you aware of these 5 risks? - Livemint",Livemint,2026-10-19,live,neutral,0.057413555681705475,0.023272603750228882,0.9193137884140015,0.03414095193147659
+TMCV,2026-10-18,Vedanta invests $600 million to double South African zinc capacity - Business Standard,Business Standard,2026-10-19,live,positive,0.8928697109222412,0.007113595958799124,0.100016750395298,0.8857561149634421
+TMCV,2026-10-18,"Vishakha Renewables Ltd IPO 1970 Price, Date, Review and Key Insights - Business Standard",Business Standard,2026-10-19,live,neutral,0.023525891825556755,0.024404039606451988,0.9520699977874756,-0.0008781477808952332
+TMCV,2026-10-18,Waiving double standards - Business Standard,Business Standard,2026-10-19,live,neutral,0.05532059073448181,0.021088039502501488,0.9235913753509521,0.034232551231980324
+TMCV,2026-10-18,"Want to retire early? How to split ₹1 lakh in monthly investments between short-term goals and FIRE, expert explains - Livemint",Livemint,2026-10-19,live,neutral,0.07719823718070984,0.012526788748800755,0.9102749824523926,0.06467144843190908
+TMCV,2026-10-18,"₹50,000 in KVP vs ₹50,000 in NSC: Which post office scheme is better for a five-year goal? Check out the calculations - Livemint",Livemint,2026-10-19,live,neutral,0.1011575385928154,0.019315024837851524,0.8795274496078491,0.08184251375496387
+TMCV,2026-10-19,8th Pay Commission: What is dearness relief and how is it different from DA? Expert explains - Livemint,Livemint,2026-10-19,live,neutral,0.0475323423743248,0.02110881358385086,0.9313588738441467,0.026423528790473938
+TMCV,2026-10-19,A hedge-fund billionaire’s two bitter wars—against his wife and his business partner - Livemint,Livemint,2026-10-19,live,negative,0.09851834923028946,0.47844719886779785,0.4230344295501709,-0.3799288496375084
+TMCV,2026-10-19,Anthropic commits 5% of its stock to new 'public benefit' fund ahead of IPO - Business Standard,Business Standard,2026-10-19,live,neutral,0.05333502218127251,0.011578216217458248,0.935086727142334,0.04175680596381426
+TMCV,2026-10-19,Axis Bank shares fall 5% despite 39% rise in Q2 net profit; here's why - Business Standard,Business Standard,2026-10-19,live,negative,0.011159601621329784,0.9401952028274536,0.04864523932337761,-0.9290356012061238
+TMCV,2026-10-19,Best of Business Standard Opinion: What sits outside the frame also exists - Business Standard,Business Standard,2026-10-19,live,neutral,0.04462839290499687,0.01841146871447563,0.9369601607322693,0.02621692419052124
+TMCV,2026-10-19,"China's growth accelerates to 4.5% in third quarter, beats expectations - Business Standard",Business Standard,2026-10-19,live,positive,0.9476511478424072,0.01663234829902649,0.03571649640798569,0.9310187995433807
+TMCV,2026-10-19,"Claude AI tool triggered No Kings Instagram suspension, says Meta - Business Standard",Business Standard,2026-10-19,live,negative,0.03956082463264465,0.5692935585975647,0.39114558696746826,-0.52973273396492
+TMCV,2026-10-19,"Defence & capital goods stocks: L&T, Cummins, Bharat Electronics among 16 Buys for Motilal Oswal, Thermax a Sell - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.19623874127864838,0.017553796991705894,0.7862074375152588,0.17868494428694248
+TMCV,2026-10-19,French unrest raises alarm across Europe as protests turn violent - Business Standard,Business Standard,2026-10-19,live,negative,0.01912139169871807,0.8934885263442993,0.08739016950130463,-0.8743671346455812
+TMCV,2026-10-19,Gaurav Kumar - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.06938973814249039,0.033684298396110535,0.8969259858131409,0.03570543974637985
+TMCV,2026-10-19,"Gold, silver prices today, 19 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",Livemint,2026-10-19,live,neutral,0.07737727463245392,0.020036019384860992,0.9025866389274597,0.057341255247592926
+TMCV,2026-10-19,HD Kumaraswamy emerges as NDA’s combative face in Karnataka ahead of local body polls - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.2861316502094269,0.03223055973649025,0.6816377639770508,0.25390109047293663
+TMCV,2026-10-19,HDFC Bank falls 1.5% post Q2 show; analysts say worst over; eyes on new CEO - Business Standard,Business Standard,2026-10-19,live,negative,0.021088963374495506,0.9280719757080078,0.05083906278014183,-0.9069830123335123
+TMCV,2026-10-19,"Look at life beyond the labels of successes or failures, wins or losses: Anupam Kher finds a life lesson in Mother Nature - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.10327199101448059,0.023328280076384544,0.8733997344970703,0.07994371093809605
+TMCV,2026-10-19,"Nifty PSU Bank index surges 3%; PNB, PSB, Canara, Union Bank soar up to 8% - Business Standard",Business Standard,2026-10-19,live,positive,0.9393117427825928,0.022900300100445747,0.03778795152902603,0.916411442682147
+TMCV,2026-10-19,PSG suffer Nuno Mendes injury blow ahead of Champions League clash - Business Standard,Business Standard,2026-10-19,live,negative,0.04657111316919327,0.8093134760856628,0.1441154181957245,-0.7627423629164696
+TMCV,2026-10-19,Putin floats a summit with Trump and Xi to decide Ukraine’s fate - Livemint,Livemint,2026-10-19,live,neutral,0.10922819375991821,0.014458932913839817,0.8763128519058228,0.0947692608460784
+TMCV,2026-10-19,"Q2 results today: UltraTech Cement, Hindustan Zinc, and 33 more on Oct 19 - Business Standard",Business Standard,2026-10-19,live,neutral,0.10180200636386871,0.018423261120915413,0.8797747492790222,0.0833787452429533
+TMCV,2026-10-19,Rupee rises 9 paise to 94.80 against US dollar during early trade - Business Standard,Business Standard,2026-10-19,live,positive,0.8833019137382507,0.07363417744636536,0.04306380823254585,0.8096677362918854
+TMCV,2026-10-19,SA lose two wickets as rain washes out day one of 2nd Test vs AUS - Business Standard,Business Standard,2026-10-19,live,negative,0.016313767060637474,0.924908459186554,0.05877780541777611,-0.9085946921259165
+TMCV,2026-10-19,Shafali reveals focus on consistency after studying Australian batters - Business Standard,Business Standard,2026-10-19,live,neutral,0.14701154828071594,0.013790065422654152,0.8391983509063721,0.1332214828580618
+TMCV,2026-10-19,Shift in Junior Tech Hiring at Anthropic Amid AI Rise: A Concern for Entry-Level Jobs - The Economic Times,The Economic Times,2026-10-19,live,negative,0.04398154839873314,0.7937003374099731,0.1623181253671646,-0.74971878901124
+TMCV,2026-10-19,Smita Balram - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.06622927635908127,0.04004879295825958,0.8937219381332397,0.026180483400821686
+TMCV,2026-10-19,Tata Sons breaks from the past and drops Article 118 reference in Chandrasekaran’s third-term resolution - Livemint,Livemint,2026-10-19,live,neutral,0.026735791936516762,0.20174959301948547,0.7715146541595459,-0.1750138010829687
+TMCV,2026-10-19,The AI stock market wobble is a reminder: This time isn’t different - Livemint,Livemint,2026-10-19,live,neutral,0.043631553649902344,0.16439835727214813,0.7919700741767883,-0.12076680362224579
+TMCV,2026-10-19,The deadly 1.5-mile corridor that shows the fatal flaw in America’s road design - Livemint,Livemint,2026-10-19,live,neutral,0.09331399202346802,0.05143614113330841,0.8552498817443848,0.04187785089015961
+TMCV,2026-10-19,UBS capital rules have Swiss stuck between a rock and a hard place - Livemint,Livemint,2026-10-19,live,neutral,0.027763325721025467,0.43735167384147644,0.5348849892616272,-0.409588348120451
+TMCV,2026-10-19,Urban Company shares fall 10% as Q2 net loss widens despite revenue growth - Business Standard,Business Standard,2026-10-19,live,negative,0.008318895474076271,0.9728223085403442,0.01885870099067688,-0.964503413066268
+TMCV,2026-10-19,What is a ‘boss scam’? 5 ways to protect yourself from CEO fraud - Livemint,Livemint,2026-10-19,live,neutral,0.03134976327419281,0.06962459534406662,0.8990256786346436,-0.03827483206987381

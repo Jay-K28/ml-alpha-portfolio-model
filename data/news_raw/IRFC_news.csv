@@ -1,101 +1,176 @@
-ticker,date,headline,sentiment_score
-IRFC,2026-04-07,"IRFC sanctions Rs 1,000 crore term loan to MAHAGENCO - business-standard.com",-0.883880078792572
-IRFC,2026-04-04,"government selling 4 percent stake in irfc: Latest News & Videos, Photos about government selling 4 percent stake in irfc - The Economic Times",-0.9408711791038513
-IRFC,2026-04-07,"Stock Alert: Godrej Consumer Products, IRFC, Aurobindo Pharma, Titagarh Rail Systems, Globus Spirits - business-standard.com",-0.9494476318359375
-IRFC,2026-04-01,"irfc 4 percent divestment: Latest News & Videos, Photos about irfc 4 percent divestment - The Economic Times",-0.9405656456947327
-IRFC,2026-04-07,"Stocks to Watch today: Godrej Consumer, Aurobindo Pharma, IRFC, PC Jeweller - business-standard.com",-0.9450728893280029
-IRFC,2026-04-07,Board of BLUECLOUDS approves acquisition of Global Impx Inc. - business-standard.com,-0.9311233758926392
-IRFC,2026-04-07,INR stays supported following RBI initiatives - business-standard.com,0.6172307133674622
-IRFC,2026-04-06,Swiggy among 4 stocks that closed crossing above VWAP - The Economic Times,-0.7832708358764648
-IRFC,2026-04-06,"Persistent Systems - Mahindra, Billionbrains Garage among 6 stocks flashing bullish signals - The Economic Times",-0.8505887985229492
-IRFC,2026-04-07,"TCS Q4 preview: Profit may rise 14% YoY; AI, deal wins key monitorables - business-standard.com",0.7535569071769714
-IRFC,2026-04-07,Meta to release open source versions of its upcoming AI models - The Economic Times,-0.8942826986312866
-IRFC,2026-04-07,KSEAB KARNATAKA GOV IN AND KARRESULTS NIC IN - The Economic Times,-0.9283360838890076
-IRFC,2026-04-06,‘How did over $9B slip away so easily?’: GOP lawmakers demand answers on Minnesota Somali fraud - The Economic Times,-0.8426657915115356
-IRFC,2026-04-06,"puc result 2026: Latest News & Videos, Photos about puc result 2026 - The Economic Times",-0.936823308467865
-IRFC,2026-04-07,Brainbees Solutions Ltd leads gainers in 'A' group - business-standard.com,-0.5094839930534363
-IRFC,2026-04-06,West Asia crisis: Two Indian LPG vessels safely transit Strait of Hormuz - The Economic Times Video | ET Tv - The Economic Times,-0.9172311425209045
-IRFC,2026-04-06,‘Mad dog has bitten them’: Assam CM’s wife Riniki Bhuyan Sharma files FIR against Pawan Khera - The Economic Times,-0.6664263010025024
-IRFC,2026-04-06,'WILL GO TO JAIL': Trump goes NUCLEAR on 'leaker' who nearly doomed US Pilot rescue mission in Iran - The Economic Times,-0.494174599647522
-IRFC,2026-04-07,India auto retail hits record high in FY26 with strong March finish - business-standard.com,0.886315643787384
-IRFC,2026-04-07,PTC India edges higher after Crisil Ratings revises rating outlook to 'negative' - business-standard.com,-0.8032673597335815
-IRFC,2026-04-07,"Jubilant Food vs Devyani: This QSR stock can rebound upto 33%, says analyst - business-standard.com",0.9506679177284241
-IRFC,2026-04-06,Quarterly results of companies - business-standard.com,-0.8989714980125427
-IRFC,2026-04-07,"Upside for MCX Gold capped at ₹165,000; Silver may consolidate: Analysts - business-standard.com",-0.8395316004753113
-IRFC,2026-04-07,No evidence of generalized supply stress or inflationary transmission in essential food commodities - business-standard.com,-0.7699611186981201
-IRFC,2026-04-06,"FPI, MF positioning leaves HDFC Bank vulnerable to further downside - business-standard.com",-0.5289297103881836
-IRFC,2026-04-07,Markets set on favourable FY27 base; Iran war ceasefire key trigger: MOFSL - business-standard.com,-0.8726372718811035
-IRFC,2026-04-07,US Stocks Edge Up Amid Iran War Tensions and Oil Surge - business-standard.com,-0.4888584017753601
-IRFC,2026-04-07,Gold vs silver: Which metal offers better returns amid global uncertainty? - business-standard.com,-0.762077808380127
-IRFC,2026-04-07,"Government of India announces the sale of one dated security for a notified amount of ₹34,000 crore - business-standard.com",-0.9242982864379883
-IRFC,2026-04-07,Metal stocks up 22% from Mar lows; Analyst sees up to 18% upside in these 3 - business-standard.com,0.9528912901878357
-IRFC,2026-04-07,India's 10-year yield eases near 7% mark as RBI remains in focus - business-standard.com,-0.6340800523757935
-IRFC,2026-04-06,SEDEMAC Mechatronics jumps 11% to all-time high on record ECU sales growth - business-standard.com,0.9345356822013855
-IRFC,2026-04-06,CDs emerge as key Q4 funding source for banks despite elevated rates - business-standard.com,0.6337069869041443
-IRFC,2026-04-07,KPI Green Energy Ltd Slips 2.82% - business-standard.com,-0.9557231068611145
-IRFC,2026-04-07,Swan Defence jumps after securing green shipbuilding order - business-standard.com,0.7203810214996338
-IRFC,2026-04-07,Yen nears 160 as dollar strength and oil surge intensify pressure - business-standard.com,-0.7276647686958313
-IRFC,2026-04-06,RBI cancels Shirpur Merchants' Co-op Bank licence over poor finances - business-standard.com,-0.941153883934021
-IRFC,2026-04-07,India achieves highest-ever annual wind energy capacity addition of 6.05 GW in 2025-26 - business-standard.com,0.6716435551643372
-IRFC,2026-04-06,"India's food systems need a reset for Viksit Bharat, rethink policy focus - business-standard.com",-0.9183731079101562
-IRFC,2026-04-06,Bajaj Alternate Investment Management secures PMS licence from Sebi - business-standard.com,-0.6667142510414124
-IRFC,2026-04-07,B.R.Goyal Infra secures Rs 23-cr MPRDC order - business-standard.com,-0.9091683030128479
-IRFC,2026-04-06,"Mixed Q4 seen for top realty players amid launch delays, softer sentiment - business-standard.com",-0.8800351619720459
-IRFC,2026-04-07,Gujarat Pipavav Port sees container volumes dip 3.5% YoY in Q4 FY26 - business-standard.com,-0.934195339679718
-IRFC,2026-04-07,"QSR stocks under pressure; Jubilant FoodWorks slips 8%, hits 52-week low - business-standard.com",-0.9620224833488464
-IRFC,2026-04-07,"OpenAI, Anthropic, Google join hands to combat AI model copying in China - business-standard.com",-0.8652395009994507
-IRFC,2026-04-07,ACME Solar commissions Phase V of Rajasthan BESS project - business-standard.com,-0.9358214735984802
-IRFC,2026-04-06,"UAE's Valura.ai makes India debut, onboards 1,000 wealth advisors - business-standard.com",-0.8715636134147644
-IRFC,2026-04-06,DMart Q4 growth strong on store additions; margins remain under pressure - business-standard.com,0.8895084261894226
-IRFC,2026-04-06,Oracle names Schneider Electric's Maxson as CFO amid soaring AI spending - business-standard.com,-0.8685322999954224
-IRFC,2026-04-06,Jefferies initiates coverage on Titagarh Rail and Jupiter Wagons; check TP - business-standard.com,-0.9376532435417175
-IRFC,2026-04-06,"India Inc pay hikes pegged at 9.1% in FY26, says Deloitte report - business-standard.com",0.40521129965782166
-IRFC,2026-04-07,"ANSR Announces ANSR MedTech, a Global Capability Center for a High-Growth MedTech Company - business-standard.com",-0.805707573890686
-IRFC,2026-04-06,Max Estates FY26 pre-sales dip slightly despite strong Q4 demand - business-standard.com,-0.965914249420166
-IRFC,2026-04-06,Cross Identity Offers VISHWAAS AI at Zero Cost as DPDP Readiness Lags Across India Inc - business-standard.com,-0.8938349485397339
-IRFC,2026-04-07,Shyam Metalics up 8% on posting Q4 update; stainless steel sales up 59% YoY - business-standard.com,0.9474509954452515
-IRFC,2026-04-07,"Punjab Board Class 5, 8 Result 2026: When will PSEB release marksheet? - business-standard.com",-0.9533786177635193
-IRFC,2026-04-07,Iran war hits Uttarakhand industries as costs rise: Industry group chief - business-standard.com,-0.8973418474197388
-IRFC,2026-04-07,Mukul Agrawal portfolio stock: Lux Industries zooms 36% in 2 days - business-standard.com,0.7245875597000122
-IRFC,2026-04-06,3CITS and Cybernara Come Together to Build a Security-First Technology Business in India - business-standard.com,-0.5467494130134583
-IRFC,2026-04-06,Early wedding buying picks up on gold dip: Titan Company's Arun Narayan - business-standard.com,-0.8958830237388611
-IRFC,2026-04-06,Hyatt ties up with Brigade Group for Hyatt House Bengaluru Devanahalli - business-standard.com,-0.9068387150764465
-IRFC,2026-04-07,Fino Payments Bank gains after customer base rises to Rs 1.75 crore in Q4 FY26 - business-standard.com,0.9381052851676941
-IRFC,2026-04-06,BMW overtakes Mercedes in Q1 as luxury car market shows flat growth - business-standard.com,-0.44768190383911133
-IRFC,2026-04-06,Rajasthan govt set to achieve record mustard production this year - business-standard.com,-0.5408883094787598
-IRFC,2026-04-06,TDI Infratech to invest ₹750 crore in 150-acre township project in Ludhiana - business-standard.com,-0.8815344572067261
-IRFC,2026-04-07,"Apple's foldable iPhone faces engineering snags, potential delays: Report - business-standard.com",-0.6053621768951416
-IRFC,2026-04-06,The Conviction to Lead: How Aditya Jangid Scaled AdCounty Media into a Global Powerhouse - business-standard.com,-0.7691290378570557
-IRFC,2026-04-07,"Lodha Developers' pre-sales up 23% at ₹5,890 cr in Q4, misses annual target - business-standard.com",0.9346950054168701
-IRFC,2026-04-07,Biocon shares slip 4% amid heavy volumes; 9.58 mn shares traded on NSE - business-standard.com,-0.9721192121505737
-IRFC,2026-04-06,Vertex Securities Share Price Partly Paidup - business-standard.com,-0.9430538415908813
-IRFC,2026-04-06,Aristo Pharmaceuticals buys office space for ₹111 crore in Andheri West - business-standard.com,-0.9038516879081726
-IRFC,2026-04-06,Pune Police Commissioner Amitesh Kumar to Lead Anti-Drug Youth Dialogue at Dr. P. A. Inamdar University - business-standard.com,-0.9149764180183411
-IRFC,2026-04-06,BSE share price target hiked by HDFC Sec; stock surges 4% on heavy volumes - business-standard.com,0.7489810585975647
-IRFC,2026-04-07,"IPL 2026 Today's Match: RR vs MI playing 11, batters vs bowlers match-ups - business-standard.com",-0.9436272978782654
-IRFC,2026-04-06,Bisleri Partners with One of Mumbai's Most Anticipated Music Nights with Keinemusik - business-standard.com,-0.6457170248031616
-IRFC,2026-04-07,Buying insurance online? New rules aim to stop hidden charges and tricks - business-standard.com,-0.9359344244003296
-IRFC,2026-04-07,NSE SME Vivid Electromech powers onto bourses with muted gains - business-standard.com,-0.6847196817398071
-IRFC,2026-04-06,Great Eastern Shipping gains 4% on contract to sell Tanker 'Jag Prakash' - business-standard.com,0.9186360836029053
-IRFC,2026-04-07,"Precious metals: 3 factors to shape the course of gold, silver prices - business-standard.com",-0.937009334564209
-IRFC,2026-04-06,"Wipro bags $1 bn Olam deal in one of its largest wins, to also buy IT arm - business-standard.com",-0.8271191120147705
-IRFC,2026-04-07,Q4FY26 business update sends Gallantt Ispat shares flying 14% on bourses - business-standard.com,0.8424239754676819
-IRFC,2026-04-06,"RBI retains credit default swap cap at 5%, sets ₹3.3 trn limit for FY27 - business-standard.com",-0.9045677185058594
-IRFC,2026-04-06,ShowKeen by AstaGuru Returns to Mumbai with its third Landmark exhibition - business-standard.com,-0.6429044008255005
-IRFC,2026-04-06,RBI policy expectations: Safeguarding growth amid a supply shock - business-standard.com,-0.8878498673439026
-IRFC,2026-04-07,Deep Industries secures Rs 59-cr order from ONGC - business-standard.com,0.5946034789085388
-IRFC,2026-04-07,CreditAccess Grameen gains on strong Q4 business update - business-standard.com,0.8788933157920837
-IRFC,2026-04-07,"CreditAccess Grameen jumps 10% on strong Q4 update, asset quality recovery - business-standard.com",0.9258901476860046
-IRFC,2026-04-07,Odisha appoints 14 vice chancellors after 10-month delay in process - business-standard.com,-0.9052391052246094
-IRFC,2026-04-07,Titagarh Rail Systems share jump 13%; check what's fuelling investor demand - business-standard.com,-0.8779138326644897
-IRFC,2026-04-06,"Global corporate tax system needs radical rethink, not tweaks: Devereux - business-standard.com",-0.9366954565048218
-IRFC,2026-04-06,"IPL 2026: Mentally disturbing and painful, Ashwin on quitting IPL - business-standard.com",-0.5349432229995728
-IRFC,2026-04-07,Godrej Consumer gains on double-digit Q4 growth outlook - business-standard.com,-0.7434005737304688
-IRFC,2026-04-07,Deadline today! These 2 stocks go ex-date on April 8; check if you own them - business-standard.com,-0.9294689893722534
-IRFC,2026-04-06,"Trent Q4FY26 results: Revenue up 20% at ₹4,937 cr on high consumer spending - business-standard.com",0.9513106942176819
-IRFC,2026-04-07,Gallantt Ispat rallies as pellet production climbs 59% YoY in Q4 FY26 - business-standard.com,0.9220668077468872
-IRFC,2026-04-06,"Bonanza Enterprises Reports 27 Percent Plus Profitable Growth, Sets Sights on Leadership in India's Logistics Sector - business-standard.com",0.8519712090492249
-IRFC,2026-04-07,Royal Orchid Hotels launches Regenta Place Iris Park in Rishikesh - business-standard.com,-0.9402179718017578
-IRFC,2026-04-07,Why are gold and silver prices not rising despite the West Asia war? - business-standard.com,-0.900786280632019
-IRFC,2026-04-07,"Swan Defence hits 5% upper circuit on ₹1,500-3,000 crore bulk carrier order - business-standard.com",0.706193208694458
-IRFC,2026-04-06,VAZANEH by Prbhjiit Maniktala Debuts at Bombay Times Fashion Week with an Emotion-Driven Couture Narrative - business-standard.com,-0.8489850163459778
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+IRFC,2020-04-15,Tax-free bonds are lucrative but look at yields before investing - Livemint,Livemint,2026-10-19,live,neutral,0.054649677127599716,0.01680913008749485,0.9285411834716797,0.037840547040104866
+IRFC,2020-12-07,CARE ratings for Indian debt instruments-Dec 7 - Reuters,Reuters,2026-10-19,live,neutral,0.04013000801205635,0.027177270501852036,0.9326927661895752,0.012952737510204315
+IRFC,2021-01-13,IRFC Profit and Loss Reports - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.027024773880839348,0.34884142875671387,0.624133825302124,-0.3218166548758745
+IRFC,2021-01-13,"IRFC Target Share Price, IRFC Share Price Forecast - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.03802487999200821,0.0239383727312088,0.9380366802215576,0.014086507260799408
+IRFC,2021-01-13,Indian Railway Finance Corporation (IRFC) IPO opens next week. Key things to know - Livemint,Livemint,2026-10-19,live,neutral,0.048907842487096786,0.016814667731523514,0.9342775344848633,0.03209317475557327
+IRFC,2021-01-13,Indian Railway Finance Corporation Ltd. - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.04145120456814766,0.032463543117046356,0.9260852336883545,0.008987661451101303
+IRFC,2021-01-18,IRFC IPO: Three things that investors need to check - Livemint,Livemint,2026-10-19,live,neutral,0.041179075837135315,0.017449043691158295,0.9413718581199646,0.02373003214597702
+IRFC,2021-02-13,"We've had no NPAs, plan to keep it that way: Amitabh Banerjee, CMD, IRFC - Business Standard",Business Standard,2026-10-19,live,neutral,0.044162653386592865,0.016817348077893257,0.9390199780464172,0.027345305308699608
+IRFC,2021-05-19,"IRFC, UTI AMC likely to get added in FTSE indices during rebalancing - Business Standard",Business Standard,2026-10-19,live,positive,0.6961168646812439,0.011503417044878006,0.2923797070980072,0.6846134476363659
+IRFC,2021-06-29,"IRFC Q4 net profit rises 126% to ₹1,482.5 crore - Livemint",Livemint,2026-10-19,live,positive,0.9456032514572144,0.022748876363039017,0.031647879630327225,0.9228543750941753
+IRFC,2021-08-14,"Indian railway finance corporation - Latest indian railway finance corporation , Information & Updates - Infra - ET Infra",ET Infra,2026-10-19,live,neutral,0.03300784155726433,0.023347413167357445,0.9436447024345398,0.009660428389906883
+IRFC,2022-10-13,IRFC partners with IIFCL for financing railway infrastructure - ET Government,ET Government,2026-10-19,live,neutral,0.4657549560070038,0.00773965148255229,0.5265053510665894,0.4580153045244515
+IRFC,2022-10-18,IRFC profits nearly doubled under outgoing CMD Amitabh Banerjee - Business Standard,Business Standard,2026-10-19,live,positive,0.8276457786560059,0.016616567969322205,0.15573765337467194,0.8110292106866837
+IRFC,2022-11-17,IRFC shares rally to hit record high; trade above IPO issue price - Livemint,Livemint,2026-10-19,live,positive,0.9276815056800842,0.020012566819787025,0.05230596661567688,0.9076689388602972
+IRFC,2022-11-29,"From IRFC, RVNL to Ircon: Why railways stocks have been rallying? - Livemint",Livemint,2026-10-19,live,neutral,0.2238028645515442,0.01505893561989069,0.7611382603645325,0.2087439289316535
+IRFC,2022-12-01,RVNL to IRFC: why are railway stocks on the rise? - Livemint,Livemint,2026-10-19,live,neutral,0.07944779098033905,0.07929370552301407,0.8412585258483887,0.0001540854573249817
+IRFC,2023-04-24,"Railway stocks IRFC, RVNL, Ircon rally up to 11%, here's why - Livemint",Livemint,2026-10-19,live,positive,0.9222651124000549,0.01828135922551155,0.05945347622036934,0.9039837531745434
+IRFC,2023-07-28,"RITES, IRFC ink pact to work in transport infrastructure sector - ET Infra",ET Infra,2026-10-19,live,positive,0.6106399893760681,0.008966602385044098,0.3803933560848236,0.601673386991024
+IRFC,2023-08-04,Stock market today: Why IRFC share price is skyrocketing — explained - Livemint,Livemint,2026-10-19,live,neutral,0.03078833781182766,0.12900380790233612,0.8402078151702881,-0.09821547009050846
+IRFC,2023-08-11,"IRFC Q1 Results: Net profit falls 6.3% on year to ₹1,556.6 crore - Livemint",Livemint,2026-10-19,live,negative,0.008176399394869804,0.9741137623786926,0.017709864303469658,-0.9659373629838228
+IRFC,2023-08-16,Govt planning to sell 11.36% shares in Indian Railway Finance Corp via OFS - Business Standard,Business Standard,2026-10-19,live,neutral,0.04283528029918671,0.013365126214921474,0.943799614906311,0.029470154084265232
+IRFC,2023-09-05,CBI registers FIR against former CMD of IRFC over irregularities - ET Infra,ET Infra,2026-10-19,live,negative,0.01771542802453041,0.8968778848648071,0.08540665358304977,-0.8791624568402767
+IRFC,2023-09-05,"IRCTC, IRFC, RVNL to Ircon: Why railway stocks are in bull trend today — explained - Livemint",Livemint,2026-10-19,live,neutral,0.03780728206038475,0.3155309557914734,0.6466617584228516,-0.27772367373108864
+IRFC,2023-09-11,"Ircon zooms 15%, IRFC m-cap hits Rs 1 trn: Why are railway stocks buzzing? - Business Standard",Business Standard,2026-10-19,live,neutral,0.09131857752799988,0.11366488039493561,0.7950165271759033,-0.02234630286693573
+IRFC,2023-09-12,"IRFC, RVNL to Ircon: These five multibagger railway stocks give up to 190% return in YTD. Is more sheen left? - Livemint",Livemint,2026-10-19,live,neutral,0.06591074913740158,0.019431043416261673,0.91465824842453,0.04647970572113991
+IRFC,2023-11-17,"Rail stocks in demand: Titagarh, IRCON, RailTel, RVNL rally up to 19% - Business Standard",Business Standard,2026-10-19,live,positive,0.9491990208625793,0.02407660335302353,0.026724301278591156,0.9251224175095558
+IRFC,2024-01-15,"This railways related stock surpasses Tata Steel, Jio Fin, VBL in m-cap - Business Standard",Business Standard,2026-10-19,live,positive,0.740485668182373,0.007491320837289095,0.25202301144599915,0.732994347345084
+IRFC,2024-01-17,"IRFC, Mazagon Dock, Cochin Shipyard, CPCL jump 200-330% in last one year; is the rally in PSU space overdone? - Livemint",Livemint,2026-10-19,live,positive,0.4959174394607544,0.0486527644097805,0.4554298520088196,0.4472646750509739
+IRFC,2024-01-19,"IRFC stock surges nearly 500% in 10 months, market cap reaches ₹2 lakh crore; here's why - Livemint",Livemint,2026-10-19,live,positive,0.6112619638442993,0.03280796483159065,0.3559301197528839,0.5784539990127087
+IRFC,2024-02-10,IRFC share price: Will bull trend continue in multibagger stock after Q3 results 2024? - Livemint,Livemint,2026-10-19,live,neutral,0.052710749208927155,0.05431175231933594,0.8929774761199951,-0.001601003110408783
+IRFC,2024-02-12,"Multibagger railway stocks IRFC, RVNL and 3 others fall up to 13.5%. Here's why - Livemint",Livemint,2026-10-19,live,negative,0.010983392596244812,0.9642391800880432,0.024777421727776527,-0.9532557874917984
+IRFC,2024-02-29,Shriram Finance to replace UPL in Nifty 50 from Mar 28 - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.04719453305006027,0.029547832906246185,0.9232576489448547,0.017646700143814087
+IRFC,2024-03-14,"Rail stocks: IRFC, IRCON, Texmaco Rail rally up to 15% on heavy volumes - Business Standard",Business Standard,2026-10-19,live,positive,0.9474256634712219,0.02644651010632515,0.026127830147743225,0.9209791533648968
+IRFC,2024-06-24,Budget 2024: High allocation expected for railways despite capex pressure - Business Standard,Business Standard,2026-10-19,live,positive,0.9449717998504639,0.014255032874643803,0.0407731868326664,0.9307167669758201
+IRFC,2024-07-05,"Multibagger railway stocks RVNL, IRCON and 3 others surge up to 18% – here's why - Livemint",Livemint,2026-10-19,live,positive,0.9158710837364197,0.015265789814293385,0.06886307895183563,0.9006052939221263
+IRFC,2024-07-08,"Rail stocks rally: RVNL, IRFC, TexRail surge up to 15% on July 08; check why - Business Standard",Business Standard,2026-10-19,live,positive,0.9410081505775452,0.017837267369031906,0.04115462303161621,0.9231708832085133
+IRFC,2024-07-15,"Nifty 50 trends remain positive; Indian Bank, IRFC among top technical picks by Rupak De of LKP Securities - Livemint",Livemint,2026-10-19,live,positive,0.9370372891426086,0.015850907191634178,0.04711175337433815,0.9211863819509745
+IRFC,2024-07-23,"Budget 2024: Multibagger railway stocks IRFC, RVNL, IRCTC and others dip up to 8% – here's why - Livemint",Livemint,2026-10-19,live,negative,0.02671620436012745,0.9589555859565735,0.014328144490718842,-0.932239381596446
+IRFC,2024-10-11,CONCOR appoints Harish Chandra as CFO - cfo.economictimes.indiatimes.com,cfo.economictimes.indiatimes.com,2026-10-19,live,neutral,0.02309078350663185,0.029585108160972595,0.9473240971565247,-0.006494324654340744
+IRFC,2025-01-03,"REMC, IRFC sign MoU to finance power projects for Indian Railways - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,positive,0.8665326833724976,0.01121506467461586,0.12225231528282166,0.8553176186978817
+IRFC,2025-03-03,"Centre grants Navratna status to IRCTC, IRFC - cfo.economictimes.indiatimes.com",cfo.economictimes.indiatimes.com,2026-10-19,live,neutral,0.10114724934101105,0.010142045095562935,0.8887107372283936,0.09100520424544811
+IRFC,2025-03-04,IRCTC and IRFC achieve Navratna status - ET Infra,ET Infra,2026-10-19,live,positive,0.9269490242004395,0.011336092837154865,0.06171489134430885,0.9156129313632846
+IRFC,2025-03-04,"With IRCTC, IRFC status upgradation, all 7 listed railway PSUs become Navratna: Ministry - ET TravelWorld",ET TravelWorld,2026-10-19,live,neutral,0.06283554434776306,0.010451517067849636,0.9267129302024841,0.052384027279913425
+IRFC,2025-03-05,"IRFC to now venture into metro projects, says CMD & CEO Manoj Dubey - Business Standard",Business Standard,2026-10-19,live,neutral,0.47809115052223206,0.009252996183931828,0.5126559138298035,0.46883815433830023
+IRFC,2025-03-05,"With a revenue of over Rs 26,600 crore IRFC becomes India's third-largest government NBFC - cfo.economictimes.indiatimes.com",cfo.economictimes.indiatimes.com,2026-10-19,live,neutral,0.10496199131011963,0.011662941426038742,0.8833750486373901,0.09329904988408089
+IRFC,2025-03-05,"With a revenue of over Rs 26,600 crore, IRFC becomes India's third-largest government NBFC - ET Infra",ET Infra,2026-10-19,live,positive,0.6917811632156372,0.0075305309146642685,0.30068832635879517,0.6842506323009729
+IRFC,2025-04-22,Delhi Court discharges ex-CMD of Indian Railway Finance Corporation in misappropriation case - ETLegalWorld.com,ETLegalWorld.com,2026-10-19,live,negative,0.018652068451046944,0.6508666276931763,0.33048129081726074,-0.6322145592421293
+IRFC,2025-04-28,Indian Railway Finance Corporation standalone net profit declines 2.06% in the March 2025 quarter - Business Standard,Business Standard,2026-10-19,live,negative,0.0077617778442800045,0.9745668768882751,0.017671260982751846,-0.9668050990439951
+IRFC,2025-06-03,Driving India's Rail Future: IRFC CMD Manoj Dubey on Financing Innovation | ET Infra Rail Show 2025 - ET Infra,ET Infra,2026-10-19,live,neutral,0.15010029077529907,0.009987292811274529,0.8399123549461365,0.14011299796402454
+IRFC,2025-06-17,IRFC to soon undertake financing of rolling stock for metro project - ET Government,ET Government,2026-10-19,live,neutral,0.1685757339000702,0.0070264157839119434,0.8243978023529053,0.16154931811615825
+IRFC,2025-06-17,IRFC to soon undertake financing of rolling stock for metro project - ET Infra,ET Infra,2026-10-19,live,neutral,0.328631728887558,0.007404996082186699,0.663963258266449,0.3212267328053713
+IRFC,2025-06-23,Refinancing of rail-linked projects emerging as new opportunity for IRFC: CMD Dubey - ET Infra,ET Infra,2026-10-19,live,positive,0.8920629024505615,0.009194680489599705,0.09874247014522552,0.8828682219609618
+IRFC,2025-12-02,IRFC raises $300 million in overseas loan from Japan’s SMBC - ET Infra,ET Infra,2026-10-19,live,positive,0.9152904748916626,0.011846139095723629,0.07286342233419418,0.903444335795939
+IRFC,2025-12-25,"IRFC refinances ₹9,821 crore World Bank loan for Dedicated Freight Corridor project; saves ₹2,700 crore .. - ET Infra",ET Infra,2026-10-19,live,positive,0.9430046081542969,0.013515932485461235,0.043479349464178085,0.9294886756688356
+IRFC,2026-01-14,"Eyeing cofinancing with multilateral agencies, says IRFC CMD Dubey - Business Standard",Business Standard,2026-10-19,live,positive,0.877975583076477,0.00800639484077692,0.1140180304646492,0.8699691882357001
+IRFC,2026-02-25,IRFC raises ECB loan of JPY-equivalent USD 400 million - Business Standard,Business Standard,2026-10-19,live,positive,0.7305117845535278,0.019997285678982735,0.2494909018278122,0.7105144988745451
+IRFC,2026-02-25,IRFC raises JPY-equivalent $400 million overseas loan - ET Infra,ET Infra,2026-10-19,live,positive,0.9300318956375122,0.021191541105508804,0.04877656698226929,0.9088403545320034
+IRFC,2026-02-28,IRFC holds Japan roadshow to tap external commercial borrowing market - ET Infra,ET Infra,2026-10-19,live,neutral,0.49161672592163086,0.011477791704237461,0.49690547585487366,0.4801389342173934
+IRFC,2026-03-12,"IRFC engages with Asia-Pacific investors in Taipei, Hong Kong roadshows in bid to diversify funding sources - ET Infra",ET Infra,2026-10-19,live,positive,0.7795466780662537,0.007137095555663109,0.21331633627414703,0.7724095825105906
+IRFC,2026-05-14,Indian Railway Finance Corporation standalone net profit rises 0.15% in the March 2026 quarter - Business Standard,Business Standard,2026-10-19,live,positive,0.9426619410514832,0.030373847112059593,0.026964299380779266,0.9122880939394236
+IRFC,2026-05-17,"Indian Railway Finance Corp. plans ₹28k cr ECB round in FY27, says CMD Manoj Kumar Dubey - Livemint",Livemint,2026-10-19,live,neutral,0.25740939378738403,0.012995107099413872,0.7295954823493958,0.24441428668797016
+IRFC,2026-05-23,"IRFC raises $1.1 billion equivalent ECB led by SBI, HDFC Bank and DBS - ET Infra",ET Infra,2026-10-19,live,positive,0.8933701515197754,0.011625413782894611,0.09500447660684586,0.8817447377368808
+IRFC,2026-05-24,IRFC to raise ECB loan worth $2 billion to finance large infra projects - bfsi.economictimes.indiatimes.com,bfsi.economictimes.indiatimes.com,2026-10-19,live,positive,0.6569165587425232,0.0094015933573246,0.3336818516254425,0.6475149653851986
+IRFC,2026-05-25,"Govt shortlists Coal India, LIC, Indian Overseas Bank, IRFC for share sale offers - bfsi.economictimes.indiatimes.com",bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.03934032469987869,0.017339417710900307,0.9433202147483826,0.022000906988978386
+IRFC,2026-05-26,"Telangana government secures ₹13,600 crore refinancing from IRFC for Hyderabad Metro Rail - ET Realty",ET Realty,2026-10-19,live,positive,0.8662067651748657,0.011678439565002918,0.12211468815803528,0.8545283256098628
+IRFC,2026-06-30,IRFC appoints Ranjay Choudhary as Director of Finance and Deepa Kotnis as the CFO - cfo.economictimes.indiatimes.com,cfo.economictimes.indiatimes.com,2026-10-19,live,neutral,0.024382498115301132,0.02758021652698517,0.9480372667312622,-0.0031977184116840363
+IRFC,2026-06-30,IRFC board appoints director - Business Standard,Business Standard,2026-10-19,live,neutral,0.02013695053756237,0.04271051660180092,0.9371525645256042,-0.02257356606423855
+IRFC,2026-07-15,India Inc's overseas fundraise picks up pace in May to $4.7 bn: RBI data - cfo.economictimes.indiatimes.com,cfo.economictimes.indiatimes.com,2026-10-19,live,positive,0.5686044692993164,0.02676578052341938,0.4046297073364258,0.541838688775897
+IRFC,2026-07-28,"Govt raises over Rs 26,639 crore via disinvestment, asset monetisation in FY27 so far - cfo.economictimes.indiatimes.com",cfo.economictimes.indiatimes.com,2026-10-19,live,neutral,0.15702325105667114,0.01772998459637165,0.8252468109130859,0.1392932664602995
+IRFC,2026-07-30,"IRFC Q1 FY27 profit up 10% to ₹1,927 crore - ET Infra",ET Infra,2026-10-19,live,positive,0.9517030119895935,0.024272657930850983,0.02402430959045887,0.9274303540587425
+IRFC,2026-07-30,IRFC gets Madras High Court relief as ₹353-crore GST demand set aside - ETLegalWorld.com,ETLegalWorld.com,2026-10-19,live,neutral,0.08961594104766846,0.06688649952411652,0.8434975147247314,0.02272944152355194
+IRFC,2026-09-02,Baroda BNP Paribas Ultra Short to Short Term Fund Returns - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.04969222843647003,0.02512984536588192,0.9251779317855835,0.024562383070588112
+IRFC,2026-09-25,Indian Corporate Bonds dealt-Sep 25 - Reuters,Reuters,2026-10-19,live,neutral,0.034121498465538025,0.0414176881313324,0.924460768699646,-0.0072961896657943726
+IRFC,2026-09-28,"IRFC signs ₹4,200 crore loan pact with Damodar Valley for renewable energy projects - ET Infra",ET Infra,2026-10-19,live,positive,0.9013032913208008,0.009623881429433823,0.08907290548086166,0.891679409891367
+IRFC,2026-10-08,"IRFC's Rs 4,600-crore IPO subscribed 1.22 times on the second day - Business Standard",,2026-10-18,legacy,neutral,0.09108501672744751,0.020550426095724106,0.8883645534515381,0.0705345906317234
+IRFC,2026-10-08,"Panchatv Bharat Nine Monthly Results, Nine Monthly Earnings for Panchatv Bharat - The Economic Times",,2026-10-18,legacy,neutral,0.041238415986299515,0.03232076019048691,0.9264408946037292,0.008917655795812607
+IRFC,2026-10-12,63 Moons Tech shares surge 12% after subsidiary raises FY27 guidance - Business Standard,,2026-10-18,legacy,positive,0.8900567889213562,0.05984456464648247,0.05009862035512924,0.8302122242748737
+IRFC,2026-10-12,IRFC to announce interim dividend in Q2 results on Oct 15; stock rises 4% - Business Standard,,2026-10-18,legacy,positive,0.8318182826042175,0.0830773413181305,0.08510442078113556,0.748740941286087
+IRFC,2026-10-12,Reliance Industries hits 18-month low; stock down 28% from January high - Business Standard,,2026-10-18,legacy,negative,0.008603994734585285,0.9740208983421326,0.01737501472234726,-0.9654169036075473
+IRFC,2026-10-12,"Swaraj Engines shares zoom 15% as Q2 net profit rises 22%, revenue up 26% - Business Standard",,2026-10-18,legacy,positive,0.9520224928855896,0.01904207281768322,0.028935516253113747,0.9329804200679064
+IRFC,2026-10-13,"IRFC Interim Dividend 2026: Record date out; check amount announcement date, history, yield, returns of Railways stock - Livemint",Livemint,2026-10-19,live,neutral,0.029986420646309853,0.01949593983590603,0.9505176544189453,0.010490480810403824
+IRFC,2026-10-13,"Share Market Today | Latest Stock Market News, Sensex Today and Nifty Live Updates - Business Standard",,2026-10-18,legacy,neutral,0.04168953001499176,0.023459510877728462,0.9348509311676025,0.018230019137263298
+IRFC,2026-10-15,Datanomics: Delhi Metro's restrictions hit a 10-year high in 2026 - Business Standard,,2026-10-18,legacy,positive,0.8881701231002808,0.01684577204287052,0.09498409181833267,0.8713243510574102
+IRFC,2026-10-15,IDBI Bank stake sale price a surprise; no rub-off on PSU stocks: Analysts - Business Standard,Business Standard,2026-10-19,live,neutral,0.07596361637115479,0.03637990355491638,0.8876565098762512,0.0395837128162384
+IRFC,2026-10-15,"IRFC Q2 FY27 profit rises 10% to ₹1,958 crore - ET Infra",,2026-10-18,legacy,positive,0.9470413327217102,0.025593994185328484,0.02736467681825161,0.9214473385363817
+IRFC,2026-10-15,Nestle India share price crashes 9% in intraday trade post Q2 results - Business Standard,,2026-10-18,legacy,positive,0.6219006776809692,0.33814737200737,0.039951931685209274,0.28375330567359924
+IRFC,2026-10-15,"Q2 results today: Wipro, Nestle India, 47 others to announce earnings - Business Standard",Business Standard,2026-10-19,live,neutral,0.15970927476882935,0.018504837527871132,0.8217858672142029,0.1412044372409582
+IRFC,2026-10-15,RBI clarifies banks must maintain 20% FERR over and above CRR balance - Business Standard,,2026-10-18,legacy,neutral,0.058929476886987686,0.019978327676653862,0.9210922122001648,0.038951149210333824
+IRFC,2026-10-15,"Reliance Industries, BSE lead mutual fund buys in September, shows data - Business Standard",,2026-10-18,legacy,neutral,0.16714957356452942,0.012785542756319046,0.820064902305603,0.15436403080821037
+IRFC,2026-10-16,"3 children, teacher killed in Oregon school shooting; shooter dead - Business Standard",,2026-10-18,legacy,negative,0.014750523492693901,0.902773380279541,0.08247621357440948,-0.8880228567868471
+IRFC,2026-10-16,AI drives 75% of orders on ecom platform Meesho via personalised ranking - Business Standard,,2026-10-18,legacy,neutral,0.10227276384830475,0.008703989908099174,0.8890232443809509,0.09356877394020557
+IRFC,2026-10-16,"Abhijeet Dipke, Neha Bora detained on way to 'Lehra Do Tiranga' protest - Business Standard",,2026-10-18,legacy,negative,0.01553288847208023,0.8378743529319763,0.14659275114536285,-0.8223414644598961
+IRFC,2026-10-16,Bandhan Medium to Long Term Fund - Business Standard,Business Standard,2026-10-19,live,neutral,0.034605104476213455,0.017527472227811813,0.9478674530982971,0.017077632248401642
+IRFC,2026-10-16,Beyond the sell-off: What an MSCI downgrade threat could mean for Indonesia - Business Standard,,2026-10-18,legacy,negative,0.03683808818459511,0.6936967372894287,0.2694651484489441,-0.6568586491048336
+IRFC,2026-10-16,Bringing India's best and brightest home - Business Standard,,2026-10-18,legacy,neutral,0.33407947421073914,0.009488566778600216,0.6564319133758545,0.3245909074321389
+IRFC,2026-10-16,Cert-In advisory on AI calls for tighter cybersecurity controls: Experts - Business Standard,,2026-10-18,legacy,neutral,0.12212511897087097,0.015894202515482903,0.861980676651001,0.10623091645538807
+IRFC,2026-10-16,China's trade barriers remain a hurdle to closer bilateral ties: Sitharaman - Business Standard,,2026-10-18,legacy,neutral,0.17991729080677032,0.01581634022295475,0.8042663335800171,0.16410095058381557
+IRFC,2026-10-16,"Climate, floods, war: Why sweets are getting costlier this festival season - Business Standard",,2026-10-18,legacy,neutral,0.052003487944602966,0.08797713369131088,0.860019326210022,-0.035973645746707916
+IRFC,2026-10-16,Cyient DLM tanks 19% on huge volumes post Q2 results; here's why - Business Standard,,2026-10-18,legacy,positive,0.5045562386512756,0.060168683528900146,0.4352751076221466,0.4443875551223755
+IRFC,2026-10-16,DMart share price hits over 3-year low; down 28% from April high - Business Standard,,2026-10-18,legacy,negative,0.01157261710613966,0.9753772020339966,0.01305009052157402,-0.9638045849278569
+IRFC,2026-10-16,Datanomics: India's capital productivity has declined in recent years - Business Standard,,2026-10-18,legacy,negative,0.007144629489630461,0.9676705002784729,0.025184815749526024,-0.9605258707888424
+IRFC,2026-10-16,"FM Sitharaman, JBIC governor discuss clean energy and critical minerals - Business Standard",,2026-10-18,legacy,neutral,0.0735384076833725,0.012024898082017899,0.9144366979598999,0.0615135096013546
+IRFC,2026-10-16,"FSSAI acts against Radisson Blu, e-commerce platforms over safety lapses - Business Standard",,2026-10-18,legacy,neutral,0.07126124948263168,0.3056161403656006,0.6231226325035095,-0.2343548908829689
+IRFC,2026-10-16,FSSAI issues notice to Radisson Blu Delhi operator over hygiene lapses - Business Standard,,2026-10-18,legacy,negative,0.015692532062530518,0.8035024404525757,0.18080498278141022,-0.7878099083900452
+IRFC,2026-10-16,"Federal Bank net profit surges 45% to record ₹1,386 crore on higher NII - Business Standard",,2026-10-18,legacy,positive,0.9399955868721008,0.031898412853479385,0.028106018900871277,0.9080971740186214
+IRFC,2026-10-16,Festival demand already picking up: Canara Bank CEO Brajesh Kumar Singh - Business Standard,,2026-10-18,legacy,neutral,0.4721798002719879,0.015554209239780903,0.5122660398483276,0.456625591032207
+IRFC,2026-10-16,Global investors firm India BFSI bets with over $20 bn in deals since 2025 - Business Standard,,2026-10-18,legacy,neutral,0.49007219076156616,0.01506791077554226,0.494859904050827,0.4750042799860239
+IRFC,2026-10-16,"Gold ETFs hold firm, gain up to 1% despite mutual fund investment curbs - Business Standard",,2026-10-18,legacy,positive,0.9480840563774109,0.021888315677642822,0.030027568340301514,0.9261957406997681
+IRFC,2026-10-16,Govt should act as 'landlord' in port JVs: DP World CEO Yuvraj Narayan - Business Standard,,2026-10-18,legacy,neutral,0.11940060555934906,0.009315992705523968,0.8712833523750305,0.11008461285382509
+IRFC,2026-10-16,HDFC Bank Q2 preview: Single-digit PAT growth likely; margin pressure seen - Business Standard,,2026-10-18,legacy,positive,0.9337934255599976,0.02956746332347393,0.036639124155044556,0.9042259622365236
+IRFC,2026-10-16,HDFC Life Insurance sheds 3% post Q2 results; brokerages remain upbeat - Business Standard,,2026-10-18,legacy,negative,0.03769543021917343,0.9470597505569458,0.015244829468429089,-0.9093643203377724
+IRFC,2026-10-16,"Hyundai to recall over 94,600 US vehicles over seat motor fire risk: NHTSA - Business Standard",,2026-10-18,legacy,neutral,0.032222211360931396,0.4837195575237274,0.4840582311153412,-0.451497346162796
+IRFC,2026-10-16,India Inc's FY27 profit growth estimates dip 700 bps since February - Business Standard,,2026-10-18,legacy,negative,0.02132328227162361,0.965565025806427,0.013111623004078865,-0.9442417435348034
+IRFC,2026-10-16,India wants to push rupee trade to help forex-starved nations: Sitharaman - Business Standard,,2026-10-18,legacy,neutral,0.25905996561050415,0.011629036627709866,0.7293109893798828,0.24743092898279428
+IRFC,2026-10-16,India's forex reserves fall for fifth straight week to $726 billion: RBI - Business Standard,,2026-10-18,legacy,negative,0.007939978502690792,0.9678979516029358,0.02416209690272808,-0.959957973100245
+IRFC,2026-10-16,"Indian Hotels, Oriental Hotels rally up to 6%; what's driving hotel stocks? - Business Standard",,2026-10-18,legacy,positive,0.6385455131530762,0.025501428171992302,0.3359530568122864,0.6130440849810839
+IRFC,2026-10-16,Indian IT stocks post best weekly gain in 18 years amid global AI sell-off - Business Standard,,2026-10-18,legacy,positive,0.8766186237335205,0.09557468444108963,0.027806676924228668,0.7810439392924309
+IRFC,2026-10-16,InvoiceCloud Strengthens Global Innovation Hub in India with INR 350 Crore Three-Year Growth Plan - Business Standard,,2026-10-18,legacy,positive,0.9339391589164734,0.008434556424617767,0.05762631073594093,0.9255046024918556
+IRFC,2026-10-16,Jio Financial shares drop 2.5% as Q2 PAT halves; MOFSL cuts FY27 estimates - Business Standard,,2026-10-18,legacy,negative,0.007981020957231522,0.9674938321113586,0.024525176733732224,-0.9595128111541271
+IRFC,2026-10-16,Katie Zacharia is out after 5 days as White House Press Secretary - Business Standard,,2026-10-18,legacy,neutral,0.029237978160381317,0.31682145595550537,0.6539406180381775,-0.28758347779512405
+IRFC,2026-10-16,"Nifty IT soars 14% in 6 days on Q2 earnings boost; TechM, Wipro, TCS shine - Business Standard",,2026-10-18,legacy,positive,0.7249203324317932,0.02047399990260601,0.25460565090179443,0.7044463325291872
+IRFC,2026-10-16,"Nifty conquers 20-DMA, now eyes 50-DMA breakout at 23,500: Tech analysts - Business Standard",,2026-10-18,legacy,neutral,0.10767415165901184,0.017222611233592033,0.8751031756401062,0.09045154042541981
+IRFC,2026-10-16,"Of bots, watts, and water - Business Standard",,2026-10-18,legacy,neutral,0.033416882157325745,0.017227856442332268,0.9493551850318909,0.016189025714993477
+IRFC,2026-10-16,OfBusiness's AI-powered BidAssist expands reach beyond India's big cities - Business Standard,,2026-10-18,legacy,positive,0.6435827612876892,0.007879284210503101,0.34853804111480713,0.6357034770771861
+IRFC,2026-10-16,"Punjab National Bank Q2 results: Net profit rises 13% to ₹5,532 crore - Business Standard",,2026-10-18,legacy,positive,0.9487924575805664,0.025322388857603073,0.02588515169918537,0.9234700687229633
+IRFC,2026-10-16,"Q2 impact: TechM shares gain 8% as analysts raise earnings estimate, target - Business Standard",,2026-10-18,legacy,positive,0.9422962069511414,0.0244922935962677,0.033211540430784225,0.9178039133548737
+IRFC,2026-10-16,RBI approves amalgamation of Emirates NBD's Indian branches with RBL Bank - Business Standard,,2026-10-18,legacy,neutral,0.09568162262439728,0.011423102580010891,0.8928952217102051,0.08425852004438639
+IRFC,2026-10-16,"Retirement planning surges 50%, 80% opt for monthly contributions: Report - Business Standard",,2026-10-18,legacy,neutral,0.08908872306346893,0.01672484166920185,0.8941864371299744,0.07236388139426708
+IRFC,2026-10-16,Sebi's CAS changes may revive participation on expiry days: Analysts - Business Standard,,2026-10-18,legacy,neutral,0.04662884399294853,0.01744701713323593,0.9359241724014282,0.0291818268597126
+IRFC,2026-10-16,"Sebi's IPO nod to Cult.fit, Eswari Global Metal, Sohan Lal Commodity - Business Standard",,2026-10-18,legacy,neutral,0.21448880434036255,0.009365786798298359,0.7761453986167908,0.2051230175420642
+IRFC,2026-10-16,"Senco, PC Jeweller zoom up to 17%; why are gold-related stocks dazzling? - Business Standard",,2026-10-18,legacy,positive,0.7999709844589233,0.01431821845471859,0.18571074306964874,0.7856527660042048
+IRFC,2026-10-16,"Shubhra Saxena Launches 'It Matters A Lot', a Reflective Journey Towards Conscious Living - Business Standard",,2026-10-18,legacy,neutral,0.15849190950393677,0.013116929680109024,0.8283911943435669,0.14537497982382774
+IRFC,2026-10-16,Silver outlook bearish; may fall to $48 if $54.50 support breaks: Analyst - Business Standard,,2026-10-18,legacy,negative,0.013317572884261608,0.910409152507782,0.07627329975366592,-0.8970915796235204
+IRFC,2026-10-16,Some parts of India facing overlap of floods and droughts: IIT study - Business Standard,,2026-10-18,legacy,neutral,0.04002395272254944,0.035600125789642334,0.9243759512901306,0.0044238269329071045
+IRFC,2026-10-16,South Indian Bank aims 16% loan growth in FY27 amid West Asia war risks - Business Standard,,2026-10-18,legacy,positive,0.944010853767395,0.018733566626906395,0.03725559264421463,0.9252772871404886
+IRFC,2026-10-16,Tamil Nadu to Assam: 5 states on govt radar for new university townships - Business Standard,,2026-10-18,legacy,neutral,0.07780592888593674,0.01378314197063446,0.908410906791687,0.06402278691530228
+IRFC,2026-10-16,"UPI politics, SIR protests and India’s inflation squeeze | Delhi Police | CEC | Macro Matters Ep 10 - Business Standard",,2026-10-18,legacy,neutral,0.020913943648338318,0.08830523490905762,0.8907808661460876,-0.0673912912607193
+IRFC,2026-10-16,Wipro shares gain nearly 2% after Q2 results; brokerages remain bearish - Business Standard,,2026-10-18,legacy,positive,0.838028073310852,0.11880243569612503,0.04316946864128113,0.719225637614727
+IRFC,2026-10-17,"Abhinav Ranjan - Read all News, Stories, Videos and Photos from Abhinav Ranjan - Business Standard",,2026-10-18,legacy,neutral,0.027420733124017715,0.025141853839159012,0.9474374055862427,0.0022788792848587036
+IRFC,2026-10-17,Apple appoints Meta veteran Scott Tucker to lead global litigation - Business Standard,,2026-10-18,legacy,neutral,0.08197320997714996,0.01701175980269909,0.901015043258667,0.06496145017445087
+IRFC,2026-10-17,BabyOrgano 2.0: Ayurveda Brand Reinvents Its Identity to Speak to India's New-Age Parents - Business Standard,,2026-10-18,legacy,positive,0.6318756937980652,0.010126534849405289,0.3579977750778198,0.6217491589486599
+IRFC,2026-10-17,"Best of Opinion: India must bring its brightest minds home, like China did - Business Standard",,2026-10-18,legacy,positive,0.50538170337677,0.010715983808040619,0.4839022755622864,0.4946657195687294
+IRFC,2026-10-17,"Drone-hit tanker reaches Romania port, all 9 Indian seafarers safe - Business Standard",,2026-10-18,legacy,neutral,0.3276614546775818,0.22978749871253967,0.44255104660987854,0.09787395596504211
+IRFC,2026-10-17,"FSSAI acts against Priyagold maker for cattle bran in biscuits, 5 others - Business Standard",,2026-10-18,legacy,neutral,0.04359755665063858,0.45960304141044617,0.4967994689941406,-0.4160054847598076
+IRFC,2026-10-17,"FSSAI issues notices to Nestle, HUL over misleading food product claims - Business Standard",,2026-10-18,legacy,negative,0.01186427753418684,0.854842483997345,0.13329318165779114,-0.8429782064631581
+IRFC,2026-10-17,"FSSAI proposes curbs on added sugar in infant food, pesticide limits in tea - Business Standard",,2026-10-18,legacy,neutral,0.05186612159013748,0.04590526223182678,0.9022286534309387,0.0059608593583106995
+IRFC,2026-10-17,From Four Decades of Manufacturing to the Future of Sleep: How Homescapes Is Building a Complete Sleep Ecosystem - Business Standard,,2026-10-18,legacy,neutral,0.09968726336956024,0.01344651822000742,0.8868661522865295,0.08624074514955282
+IRFC,2026-10-17,"From Karmayogi to the World Stage: Dr. Hemant Garg Wins ""Excellence in AI for Public Policy"", Charts India's Path to the AI Big League - Business Standard",,2026-10-18,legacy,positive,0.6210764646530151,0.01082423236221075,0.3680993318557739,0.6102522322908044
+IRFC,2026-10-17,"Hawa Mahal-themed pandal, Shiv Tandav show mark Siliguri Durga Puja celebration - The Economic Times",,2026-10-18,legacy,neutral,0.08661356568336487,0.01934838853776455,0.8940380811691284,0.06726517714560032
+IRFC,2026-10-17,IPO-bound Sathya Agencies plans to strengthen presence in Karnataka - Business Standard,,2026-10-18,legacy,positive,0.9010261297225952,0.006737010553479195,0.09223692864179611,0.894289119169116
+IRFC,2026-10-17,India's internal security landscape changed irrevocably: Home Secretary - Business Standard,,2026-10-18,legacy,neutral,0.1127549484372139,0.1485462784767151,0.7386987805366516,-0.03579133003950119
+IRFC,2026-10-17,InvoiceCloud strengthens global innovation hub in India with ₹350 cr - Business Standard,,2026-10-18,legacy,positive,0.9424165487289429,0.010065033100545406,0.047518324106931686,0.9323515156283975
+IRFC,2026-10-17,Kaizad Bharucha to exit HDFC Bank at end of December after three decades - Business Standard,,2026-10-18,legacy,neutral,0.01894816942512989,0.09667888283729553,0.8843729496002197,-0.07773071341216564
+IRFC,2026-10-17,"Maha FDA names Blinkit's Dhindsa, Reliance officials in expired food probe - Business Standard",,2026-10-18,legacy,neutral,0.021969597786664963,0.341219037771225,0.636811375617981,-0.31924943998456
+IRFC,2026-10-17,"Neha Bora released, Dipke to be produced before SEM court: Delhi Police - Business Standard",,2026-10-18,legacy,neutral,0.03176861256361008,0.03379962220788002,0.934431791305542,-0.0020310096442699432
+IRFC,2026-10-17,Onward Technologies Delivers its Strongest-Ever Quarter; Total Revenue up 22.2% and EBITDA up 33.7% YoY; Raises FY27 Outlook - Business Standard,,2026-10-18,legacy,positive,0.9538275599479675,0.02122514136135578,0.024947304278612137,0.9326024185866117
+IRFC,2026-10-17,Quarterly results of companies - Business Standard,,2026-10-18,legacy,neutral,0.024120111018419266,0.05849451571702957,0.9173853993415833,-0.034374404698610306
+IRFC,2026-10-17,"Rajasthan BJP makes local poll gains, Congress fails to contain infighting - The Economic Times",,2026-10-18,legacy,negative,0.17148183286190033,0.7361075282096863,0.09241055697202682,-0.564625695347786
+IRFC,2026-10-17,"Rohit Sharma Joins Freyr Energy as its First Brand Ambassador; Launches 'Solar Ho, Toh Freyr Ho!' Campaign - Business Standard",,2026-10-18,legacy,neutral,0.17454899847507477,0.011288243345916271,0.8141627907752991,0.1632607551291585
+IRFC,2026-10-17,Unlocking the massive opportunities in real estate expansion - Business Standard,,2026-10-18,legacy,neutral,0.27081233263015747,0.009061967954039574,0.720125675201416,0.2617503646761179
+IRFC,2026-10-17,‘He was once my intern’: Jensen Huang’s introduction of Black Forest Labs CEO goes viral - WATCH - The Economic Times,,2026-10-18,legacy,neutral,0.07625135034322739,0.015173251740634441,0.9085754156112671,0.061078098602592945
+IRFC,2026-10-18,'Regime Change is forceful and undemocratic': BJP spokesperson Pradeep Bhandari - The Economic Times,,2026-10-18,legacy,neutral,0.07308683544397354,0.05206233263015747,0.874850869178772,0.02102450281381607
+IRFC,2026-10-18,China proposes export controls on solar-manufacturing technologies - The Economic Times,,2026-10-18,legacy,neutral,0.1290760189294815,0.015876758843660355,0.8550471663475037,0.11319926008582115
+IRFC,2026-10-18,"County councilor ordered to repay $5,700 to her tenant after nearly doubling monthly rent from $727 to $1, - The Economic Times",,2026-10-18,legacy,negative,0.1823231428861618,0.6844083070755005,0.13326852023601532,-0.5020851641893387
+IRFC,2026-10-18,Crypto devices built to foil hackers may have come with spies inside - Business Standard,,2026-10-18,legacy,neutral,0.03140408173203468,0.19374169409275055,0.774854302406311,-0.16233761236071587
+IRFC,2026-10-18,"Earnings, crude oil, Jio IPO key monitorables for investors next week - Business Standard",,2026-10-18,legacy,neutral,0.03347872570157051,0.025387031957507133,0.9411342144012451,0.008091693744063377
+IRFC,2026-10-18,"Fragmented rules, missing incentives hold back India's green finance growth - Business Standard",,2026-10-18,legacy,negative,0.07024265080690384,0.7962819933891296,0.13347530364990234,-0.7260393425822258
+IRFC,2026-10-18,Heavy rain to continue in South India till Oct 23; Delhi to stay dry - Business Standard,,2026-10-18,legacy,negative,0.31567978858947754,0.3988417088985443,0.28547853231430054,-0.08316192030906677
+IRFC,2026-10-18,How geopolitical stigma associated with Putin is affecting Russians - Business Standard,,2026-10-18,legacy,neutral,0.025027364492416382,0.29853129386901855,0.6764413714408875,-0.2735039293766022
+IRFC,2026-10-18,Indian refiners' fuel exports to West rise 43% amid Russian crude use - Business Standard,,2026-10-18,legacy,positive,0.9383888840675354,0.0321073904633522,0.029503725469112396,0.9062814936041832
+IRFC,2026-10-18,"Kolkata Durga Puja pandal stampede: Death toll rises to 19, CM Suvendu Adhikari forms high-level panel to - The Economic Times",,2026-10-18,legacy,neutral,0.1733761727809906,0.38937053084373474,0.43725332617759705,-0.21599435806274414
+IRFC,2026-10-18,Serious incident caused major fire at military base in Alberta: Canada's PM - Business Standard,,2026-10-18,legacy,neutral,0.03377583250403404,0.15078949928283691,0.8154346942901611,-0.11701366677880287
+IRFC,2026-10-18,"Stock split, bonus, dividend, buyback record date in 19-25Oct week: Angel One, JSW, IRFC, Tech Mahindra, Modison, others - Livemint",Livemint,2026-10-19,live,neutral,0.11055761575698853,0.013497443869709969,0.875944972038269,0.09706017188727856
+IRFC,2026-10-18,What Does Infosys Today Look for When Hiring People? Infosys CTO Rafee Tarafdar - The Economic Times,,2026-10-18,legacy,neutral,0.03408211097121239,0.03952363505959511,0.9263942241668701,-0.005441524088382721
+IRFC,2026-10-18,What is holding up the US-India trade deal? - The Economic Times,,2026-10-18,legacy,neutral,0.041444435715675354,0.03599106892943382,0.9225645065307617,0.005453366786241531

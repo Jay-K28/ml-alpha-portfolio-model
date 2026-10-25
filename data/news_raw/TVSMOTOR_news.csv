@@ -1,101 +1,167 @@
-ticker,date,headline,sentiment_score
-TVSMOTOR,2026-04-06,"q1 fy27: Latest News & Videos, Photos about q1 fy27 - economictimes.indiatimes.com",-0.936492383480072
-TVSMOTOR,2026-04-07,Positive Breakout: These 9 stocks cross above their 200 DMAs - economictimes.indiatimes.com,-0.4946514070034027
-TVSMOTOR,2026-04-03,"Two-wheeler sales March '26: Record sales, how brands performed - ET BrandEquity",-0.887596607208252
-TVSMOTOR,2026-04-06,Negative Breakout: These 10 stocks cross below their 200 DMAs - economictimes.indiatimes.com,-0.8941656351089478
-TVSMOTOR,2026-04-02,"TVS family rift spills into Sundaram Clayton boardroom: Venu Srinivasan takes governance charge, tells Laksh.. - cfo.economictimes.indiatimes.com",-0.9404032826423645
-TVSMOTOR,2026-04-01,"q4 revenue growth: Latest News & Videos, Photos about q4 revenue growth - economictimes.indiatimes.com",-0.938123345375061
-TVSMOTOR,2026-04-02,"q3fy25: Latest News & Videos, Photos about q3fy25 - economictimes.indiatimes.com",-0.9389449954032898
-TVSMOTOR,2026-04-07,"nifty 50 net profit q4 2026: Latest News & Videos, Photos about nifty 50 net profit q4 2026 - economictimes.indiatimes.com",-0.9378843903541565
-TVSMOTOR,2026-04-02,"TVS family rift spills into Sundaram Clayton boardroom: Venu Srinivasan takes governance charge, tells Laksh.. - ET BrandEquity",-0.9393530488014221
-TVSMOTOR,2026-04-03,"foxconn q4 sales: Latest News & Videos, Photos about foxconn q4 sales - economictimes.indiatimes.com",-0.9416071772575378
-TVSMOTOR,2026-04-03,"Tata Trust row: Mehli Mistry challenges eligibility of Venu Srinivasan, Vijay Singh as trustees of Bai Hirab.. - ETLegalWorld.com",-0.6694784760475159
-TVSMOTOR,2026-04-02,Auto sector set for strong growth despite export headwinds: Nuvama - ET Auto,0.9474315047264099
-TVSMOTOR,2026-04-06,IPL 2026 ad volumes rise 10% despite advertiser pool shrinkages: TAM adex - ET BrandEquity,0.9449320435523987
-TVSMOTOR,2026-04-06,7 Sattu breakfasts for energetic office mornings - economictimes.indiatimes.com,-0.9358727931976318
-TVSMOTOR,2026-03-31,"Electric 2W sales jump nearly 36% in March on fuel shortage fears, discounts - ET Auto",0.779630184173584
-TVSMOTOR,2025-07-31,"India's TVS Motor beats quarterly profit view, seeks rare-earth alternatives - Reuters",-0.7081232666969299
-TVSMOTOR,2024-10-23,India's TVS Motor misses Q2 profit view on higher costs - Reuters,-0.9065982103347778
-TVSMOTOR,2025-10-28,"India's TVS Motor profit jumps on exports, tax-cut fueled demand - Reuters",0.46858468651771545
-TVSMOTOR,2024-08-06,"India's TVS Motor beats Q1 profit view on strong demand, margins - Reuters",0.8558977246284485
-TVSMOTOR,2026-01-28,India's TVS Motor misses quarterly profit view on labour-code charge despite demand surge - Reuters,-0.955561101436615
-TVSMOTOR,2017-04-14,TVS Motor Company Ltd. - economictimes.indiatimes.com,-0.9395147562026978
-TVSMOTOR,2022-12-06,"Tvs motor shares - Latest tvs motor shares , Information & Updates - Auto - ET Auto",-0.9482340216636658
-TVSMOTOR,2019-04-30,"Tvs motor share price - Latest tvs motor share price , Information & Updates - Auto - ET Auto",-0.9509410858154297
-TVSMOTOR,2025-10-28,TVS Motor Q2 net profit soars 37% to ₹906 crore - ET Auto,0.9465175271034241
-TVSMOTOR,2026-01-01,TVS Motor Company sales soar 50% in December 2025 - ET Auto,0.9129769802093506
-TVSMOTOR,2021-07-01,TVS Motor Company Ltd - Reuters,-0.9416351914405823
-TVSMOTOR,2017-04-14,"TVS Motor Balance Sheets, Financial Statements - economictimes.indiatimes.com",-0.9287006855010986
-TVSMOTOR,2017-08-06,Check out TVS Motor Company Ltd's stock price (TVSMOTOR-IN) in real time - CNBC,-0.9467448592185974
-TVSMOTOR,2017-04-14,The Economic Times - economictimes.indiatimes.com,-0.9232728481292725
-TVSMOTOR,2017-11-02,TVS Motor Company posts revenue growth of 18% in Q2 of FY18 - ET Auto,0.9399198293685913
-TVSMOTOR,2019-10-16,TVS Motor Q2 profit may drop 27-36% YoY on slowdown in auto sector - ET Auto,-0.9711867570877075
-TVSMOTOR,2019-10-17,TVS Motor Q2 PAT rises 21% at Rs 255 crore on exceptional gains - ET Auto,0.9220815896987915
-TVSMOTOR,2017-02-17,Royal Enfield unseats TVS Motor as 4th largest motorcycle seller in last 3 months - ET Auto,0.8554679751396179
-TVSMOTOR,2025-10-01,TVS Motor September sales up 12% to 5.41 lakh units - ET Auto,0.9562286734580994
-TVSMOTOR,2015-03-03,TVSL: TVS Motor Co Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.947507917881012
-TVSMOTOR,2022-06-07,About TVS Motor Company Ltd (TVSM.NS) - Reuters,-0.9483916163444519
-TVSMOTOR,2021-10-21,TVS Motor Q2 net profit grows 35% to INR 242 crore - ET Auto,0.9549824595451355
-TVSMOTOR,2022-08-01,"TVS Motor Company sales grow by 13% to 314,639 units in July 2022 - ET Auto",0.9418213963508606
-TVSMOTOR,2025-11-01,"TVS Motor's October sales rise 11% to 543,557 units - ET Auto",0.9520102739334106
-TVSMOTOR,2025-02-03,TVS Motor names Gaurav Gupta as President for India 2-wheeler biz - ETHRWorld.com,-0.9338040947914124
-TVSMOTOR,2025-03-21,TVS Motor Company names Peyman Kargar as head of international business - ET Auto,-0.9455113410949707
-TVSMOTOR,2024-05-13,"TVS Motor launches new iQube ST with 3.4 and 5.1 kWh battery, price starts at INR 94,999 - ET Auto",-0.8563255667686462
-TVSMOTOR,2025-12-01,TVS Motor posts strong November as sales jump 20.7% - ET Auto,0.9517900347709656
-TVSMOTOR,2025-07-07,TVS Motor Company’s Ananya Agrawal calls it quits - ET BrandEquity,-0.5348189473152161
-TVSMOTOR,2024-05-01,"TVS Motor sales increases 25% to 383,615 units in April 2024 - ET Auto",0.9516209363937378
-TVSMOTOR,2020-02-27,"TVS Motor Company expands business to Honduras, partners with Motomundo - ET Auto",0.8636161088943481
-TVSMOTOR,2020-07-01,"TVS Motor June sales drop 33% to 198,387 units - ET Auto",-0.9732424020767212
-TVSMOTOR,2023-06-27,Domestic electric two wheeler industry to keep growing at fast clip: TVS Motor - ET Auto,0.8046132922172546
-TVSMOTOR,2025-04-29,TVS Motor strategically times product rollout to match market dynamics - ET Auto,-0.6000936031341553
-TVSMOTOR,2025-07-31,TVS Motor Q1 net profit jumps 35% to ₹779 crore - ET Auto,0.9329010248184204
-TVSMOTOR,2024-04-17,TVS Motor secures top position in JD Power 2024 India 2W IQS and APEAL Study - ET Auto,0.9078565239906311
-TVSMOTOR,2022-12-09,"TVS Motor to acquire EV-related technology, assets in Germany - ET Auto",-0.882985532283783
-TVSMOTOR,2023-07-03,"TVS Motor Company June 2023 2W domestic sales grow 22% to 235,833 units - ET Auto",0.952375054359436
-TVSMOTOR,2024-03-20,TVS Motor appoints 2 new independent directors to its Board - ET Auto,-0.9377082586288452
-TVSMOTOR,2020-05-25,TVS Motor Company adopts salary cuts for employees - ET Auto,-0.8627990484237671
-TVSMOTOR,2019-04-01,TVS Motor sales up 12% in FY19 - ET Auto,0.9570603370666504
-TVSMOTOR,2017-10-25,"Page 5 - Tvs motor company limited - Latest tvs motor company limited , Information & Updates - Auto - ET Auto",-0.9515012502670288
-TVSMOTOR,2022-06-04,TVS Motor aims to build sustained dominant play in EV segment - ET Auto,0.9213274121284485
-TVSMOTOR,2020-04-17,TVS Motor acquires UK-based Norton Motorcycles - ET Auto,-0.899135410785675
-TVSMOTOR,2020-07-12,Business environment may remain challenging this fiscal due to Covid-19: TVS Motor - ET Auto,-0.5569050908088684
-TVSMOTOR,2023-02-03,TVS Motor invests in Singapore-based ION Mobility to drive E2W growth in the region - ET Auto,0.6696378588676453
-TVSMOTOR,2023-11-24,TVS Motor launches range of 2Ws in Vietnam - ET Auto,-0.6676496267318726
-TVSMOTOR,2016-03-29,TVS Motor Company rolls out all new Victor in Uttar Pradesh - ET Auto,-0.8432740569114685
-TVSMOTOR,2025-11-10,TVS Motor Co gearing up for bigger ride in European markets: Chairman Sudarshan Venu - ET BrandEquity,0.6616597175598145
-TVSMOTOR,2024-09-02,TVS Motor Company's Sales Grow By 13 per cent in August 2024 - ET BrandEquity,0.9042341113090515
-TVSMOTOR,2020-07-03,"Work from Home is here to stay: R AnandaKrishnan, TVS Motor - ET Auto",-0.9181796908378601
-TVSMOTOR,2022-01-13,TVS Motor MoU with Swiggy to deploy its EVs for food delivery - ET Auto,0.8103836178779602
-TVSMOTOR,2023-03-27,"TVS Motor Company launches 7 new products in Ghana, Africa - ET Auto",0.7805742025375366
-TVSMOTOR,2020-06-01,"TVS Motor May sales down 81% at 58,906 units - ET Auto",-0.9735088348388672
-TVSMOTOR,2025-11-27,TVS Motor–BMW Motorrad cross 2 lakh production milestone in global partnership - ET Auto,0.8602235913276672
-TVSMOTOR,2021-02-16,Kinnect bags the digital media mandate for TVS Motor Company - ET BrandEquity,-0.8654274940490723
-TVSMOTOR,2019-09-28,"cesc q1 result: Latest News & Videos, Photos about cesc q1 result - economictimes.indiatimes.com",-0.9400442242622375
-TVSMOTOR,2023-08-17,Partnership between TVS Motor and BMW Motorrad completes 10 years - ET Auto,0.8427864909172058
-TVSMOTOR,2025-03-13,TVS Motor and Petronas Lubricants enhance partnership to boost Indian motorsport - ET Auto,0.9456458687782288
-TVSMOTOR,2026-02-01,"TVS Motor Company sales up 30% to 383,262 units in January 2026 - ET Auto",0.9558573365211487
-TVSMOTOR,2020-03-28,TVS Motor Company extends free service and warranty till June 2020 - ET Auto,-0.9001134037971497
-TVSMOTOR,2024-05-16,TVS Motor launches operations in Italy - ET Auto,-0.8420414328575134
-TVSMOTOR,2021-11-11,"TVS Motor-owned Norton Motorcycles opens new HQ in UK, to produce 8,000 units a year - ET Auto",0.5927422642707825
-TVSMOTOR,2022-11-09,Amazon India and TVS Motor Company sign MoU to scale EV use for last-mile deliveries - ET Auto,-0.5617377161979675
-TVSMOTOR,2017-10-22,"Page 2 - Tvs motor company - Latest tvs motor company , Information & Updates - Auto - ET Auto",-0.9518218636512756
-TVSMOTOR,2020-02-28,TVS Motor Company opens flagship showroom in El Salvador - ET Auto,-0.7897018790245056
-TVSMOTOR,2023-07-02,TVS Motor expects growth momentum to continue this fiscal - ET Auto,0.9503040909767151
-TVSMOTOR,2023-08-24,How TVS Motor synergizes AI and traditional customer interactions: Mahesh Calavai - ET CIO,-0.9017613530158997
-TVSMOTOR,2021-12-15,How TVS Motor Company is preparing for a high performing workforce through D&I - ETHRWorld.com,-0.8734632134437561
-TVSMOTOR,2013-09-03,Morgan Stanley cuts TVS Motor to 'underweight' - Reuters,-0.926245391368866
-TVSMOTOR,2018-01-18,"Tvs motor company - Latest tvs motor company , Information & Updates - Marketing & Advertising - ET BrandEquity",-0.9516063332557678
-TVSMOTOR,2021-05-31,TVS Motor Company expands presence in Iraq - ET Auto,0.8877795934677124
-TVSMOTOR,2025-08-26,"TVS Motor launches Raider Super Squad Edition at ₹99,465 - ET Auto",-0.9139949083328247
-TVSMOTOR,2020-09-18,"TVS Motor expands presence in Colombia, appoints new distributor - ET Auto",0.6616812348365784
-TVSMOTOR,2017-01-03,"Tvs motor - Latest tvs motor , Information & Updates - CIO - ET CIO",-0.9515562653541565
-TVSMOTOR,2021-02-16,TVS Motor opens new dealership in UAE with Public Motors - ET Auto,0.5023770928382874
-TVSMOTOR,2023-10-27,TVS Motor Company launches Ronin Special Edition at INR1.73 lakh - ET Auto,-0.9216360449790955
-TVSMOTOR,2025-07-02,"TVS Motor June sales soar 20% in June to 4,02,001 units - ET Auto",0.9421412348747253
-TVSMOTOR,2025-03-21,TVS Motor appoints Peyman Kargar as head of international biz - ETHRWorld.com,-0.9318574666976929
-TVSMOTOR,2022-12-16,"TVS Motor launches RR 310, RTR 200 at Expo Moto in Mexico - ET Auto",0.6359160542488098
-TVSMOTOR,2020-12-16,17% of BMW motorcycles made by TVS Motor - ET Auto,-0.9276906847953796
-TVSMOTOR,2025-05-23,"TVS Motor, OOR cabs join hands to deploy 500 EVs in TN - ET Auto",0.8255993723869324
-TVSMOTOR,2021-12-15,India's TVS Motor and BMW Motorrad tie up to make electric vehicles - Reuters,-0.852118730545044
-TVSMOTOR,2022-04-21,TVS Motor to make additional investment of Euro 100mn in Norton Motorcycles - ET Auto,-0.8291025161743164
-TVSMOTOR,2023-10-07,"Why BMW ups its bets on TVS Motor Partnership, and India - ET Auto",-0.8206990361213684
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+TVSMOTOR,2020-02-10,TVS Motor Company to launch new bike on BMW platform in 2021 - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.10821700096130371,0.009176208637654781,0.8826067447662354,0.09904079232364893
+TVSMOTOR,2020-02-27,"TVS Motor Company expands business to Honduras, partners with Motomundo - ET Auto",,2026-10-18,legacy,positive,0.8636161088943481,0.008237012661993504,0.12814690172672272,0.8553790962323546
+TVSMOTOR,2020-02-28,TVS Motor Company opens flagship showroom in El Salvador - ET Auto,,2026-10-18,legacy,neutral,0.19985339045524597,0.010444864630699158,0.7897017002105713,0.18940852582454681
+TVSMOTOR,2020-03-19,TVS Motor announces measures to contain the spread of coronavirus - ET Auto,,2026-10-18,legacy,neutral,0.4175261855125427,0.014795406721532345,0.5676784515380859,0.4027307787910104
+TVSMOTOR,2020-03-28,TVS Motor Company extends free service and warranty till June 2020 - ET Auto,,2026-10-18,legacy,neutral,0.08851739019155502,0.011369127780199051,0.9001135230064392,0.07714826241135597
+TVSMOTOR,2020-04-17,TVS Motor acquires UK-based Norton Motorcycles - ET Auto,,2026-10-18,legacy,neutral,0.08966037631034851,0.01120417658239603,0.899135410785675,0.07845619972795248
+TVSMOTOR,2020-05-14,"Tvs motor company - Latest tvs motor company , Information & Updates - HR -ETHRWorld - ETHRWorld.com",,2026-10-18,legacy,neutral,0.025270938873291016,0.02500796690583229,0.949721097946167,0.000262971967458725
+TVSMOTOR,2020-05-26,TVS Motor to cut staff salaries for six months - Livemint,Livemint,2026-10-19,live,negative,0.00924341008067131,0.958159863948822,0.03259677439928055,-0.9489164538681507
+TVSMOTOR,2020-06-01,"TVS Motor May sales down 81% at 58,906 units - ET Auto",,2026-10-18,legacy,negative,0.006976441480219364,0.9735088348388672,0.019514761865139008,-0.9665323933586478
+TVSMOTOR,2020-07-01,"TVS Motor June sales drop 33% to 198,387 units - ET Auto",,2026-10-18,legacy,negative,0.0066289883106946945,0.9732424020767212,0.02012859657406807,-0.9666134137660265
+TVSMOTOR,2020-07-03,"Work from Home is here to stay: R AnandaKrishnan, TVS Motor - ET Auto",,2026-10-18,legacy,neutral,0.06541867554187775,0.016401682049036026,0.9181796908378601,0.04901699349284172
+TVSMOTOR,2020-07-29,TVS Motor Company launches new corporate campaign - ET BrandEquity,,2026-10-18,legacy,neutral,0.1827462613582611,0.010870317928493023,0.8063833713531494,0.17187594342976809
+TVSMOTOR,2020-09-18,"TVS Motor expands presence in Colombia, appoints new distributor - ET Auto",,2026-10-18,legacy,positive,0.6616812348365784,0.012973279692232609,0.3253454864025116,0.6487079551443458
+TVSMOTOR,2020-10-30,BE Exclusive: For TVS Motor consumers are the real superheroes - ET BrandEquity,,2026-10-18,legacy,neutral,0.03796301782131195,0.017086314037442207,0.9449506998062134,0.020876703783869743
+TVSMOTOR,2020-10-30,TVS Motor shares jump 5% after Q2 earnings; Prabhudas Lilladher maintains sell - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.7606544494628906,0.022885160520672798,0.2164604514837265,0.7377692889422178
+TVSMOTOR,2021-01-02,TVS Motor Company sales in December 2020 grows by 17.5% - Livemint,Livemint,2026-10-19,live,positive,0.8841937780380249,0.011129475198686123,0.10467671602964401,0.8730643028393388
+TVSMOTOR,2021-01-29,"TVS Motor Q3 revenue soars to INR 5,404 crore - ET Auto",,2026-10-18,legacy,positive,0.9462507963180542,0.019200725480914116,0.0345485545694828,0.9270500708371401
+TVSMOTOR,2021-02-16,Kinnect bags the digital media mandate for TVS Motor Company - ET BrandEquity,,2026-10-18,legacy,neutral,0.12656627595424652,0.008006216026842594,0.8654274940490723,0.11856005992740393
+TVSMOTOR,2021-03-01,TVS Motor sales in February 2021 grow by 18% compared to last year - Livemint,Livemint,2026-10-19,live,positive,0.9572708010673523,0.013763300143182278,0.028965996578335762,0.94350750092417
+TVSMOTOR,2021-03-10,TVS Motor Company launches 2021 TVS Apache RTR 160 4V motorcycle - Business Standard,Business Standard,2026-10-19,live,neutral,0.24976631999015808,0.010169613175094128,0.7400640249252319,0.23959670681506395
+TVSMOTOR,2021-05-07,TVS Motor lines up ₹40 cr to support fight against COVID-19 - Livemint,Livemint,2026-10-19,live,positive,0.9277403950691223,0.016300588846206665,0.05595903471112251,0.9114398062229156
+TVSMOTOR,2021-05-31,TVS Motor Company expands presence in Iraq - ET Auto,,2026-10-18,legacy,positive,0.8877796530723572,0.010069036856293678,0.1021512895822525,0.8777106162160635
+TVSMOTOR,2021-07-01,TVS Motor Company Ltd - Reuters,,2026-10-18,legacy,neutral,0.030375851318240166,0.027988990768790245,0.9416351914405823,0.0023868605494499207
+TVSMOTOR,2021-09-16,TVS Motor Company launches new motorcycle 'TVS Raider' in 125cc segment - Business Standard,Business Standard,2026-10-19,live,neutral,0.4542716145515442,0.009217211045324802,0.5365111231803894,0.4450544035062194
+TVSMOTOR,2021-09-22,"TVS Motor Company releases 'A Silent Revolution', a book to mark 25 years of Srinivasan Services Trust's work in rural development - Business Standard",Business Standard,2026-10-19,live,neutral,0.24020767211914062,0.009013419039547443,0.7507789134979248,0.23119425307959318
+TVSMOTOR,2021-10-05,TVS Motor signs MoU with Tata Power for e-2W charging infrastructure - ET Auto,,2026-10-18,legacy,positive,0.8741340041160583,0.010028032585978508,0.11583788692951202,0.8641059715300798
+TVSMOTOR,2021-10-21,TVS Motor Q2 net profit grows 35% to INR 242 crore - ET Auto,,2026-10-18,legacy,positive,0.9549824595451355,0.020655255764722824,0.024362271651625633,0.9343272037804127
+TVSMOTOR,2021-10-25,TVS Motor Company to partner with Bahwan International Group to strengthen its presence in Iraq - Business Standard,Business Standard,2026-10-19,live,positive,0.9404072761535645,0.009834596887230873,0.049758147448301315,0.9305726792663336
+TVSMOTOR,2021-11-09,"After Tata Motors, TVS Motor Company also exploring PE investors route for EV arm - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.0826539397239685,0.00932680256664753,0.9080192446708679,0.07332713715732098
+TVSMOTOR,2021-11-11,"TVS Motor owned British brand eyes 8,000 luxury motorcycles a year. Read more - mint",mint,2026-10-19,live,neutral,0.043761931359767914,0.016845282167196274,0.9393928647041321,0.02691664919257164
+TVSMOTOR,2021-11-11,"TVS Motor-owned Norton Motorcycles opens new HQ in UK, to produce 8,000 units a year - ET Auto",,2026-10-18,legacy,positive,0.5927424430847168,0.010554146952927113,0.39670342206954956,0.5821882961317897
+TVSMOTOR,2021-12-13,TVS Motor Company makes fresh investment in Ultraviolette Automotive - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.1492937207221985,0.009429163299500942,0.8412771224975586,0.13986455742269754
+TVSMOTOR,2021-12-15,India's TVS Motor and BMW Motorrad tie up to make electric vehicles - Reuters,,2026-10-18,legacy,neutral,0.14010260999202728,0.007778644561767578,0.852118730545044,0.1323239654302597
+TVSMOTOR,2021-12-20,TVS Motor partners with what3words for accurate ride to destinations - ET Auto,,2026-10-18,legacy,neutral,0.12090424448251724,0.010083905421197414,0.8690118789672852,0.11082033906131983
+TVSMOTOR,2022-01-27,TVS Motor Company acquires Swiss E Mobility Group AG - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.04893685132265091,0.016871130093932152,0.9341920018196106,0.03206572122871876
+TVSMOTOR,2022-01-28,TVS Motor acquires majority stake in Swiss E-Mobility - ET BrandEquity,,2026-10-18,legacy,neutral,0.08202953636646271,0.012445003725588322,0.9055255055427551,0.06958453264087439
+TVSMOTOR,2022-02-01,"TVS Motor Company registers sales of 266,788 units in January 2022 - Business Standard",Business Standard,2026-10-19,live,neutral,0.05200789123773575,0.018976811319589615,0.9290153384208679,0.03303107991814613
+TVSMOTOR,2022-04-02,"TVS Motor Company registers sales of 307,954 units in March 2022 - Business Standard",Business Standard,2026-10-19,live,neutral,0.05509107932448387,0.016178041696548462,0.9287309646606445,0.03891303762793541
+TVSMOTOR,2022-05-05,Sudarshan Venu takes over as Managing Director of TVS Motor Company - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.02562561072409153,0.0319097563624382,0.9424645900726318,-0.006284145638346672
+TVSMOTOR,2022-05-06,Sudarshan Venu elevated as Managing Director of TVS Motor Company - ETHRWorld.com,,2026-10-18,legacy,neutral,0.04426652193069458,0.01902979053556919,0.9367037415504456,0.02523673139512539
+TVSMOTOR,2022-05-06,Sudarshan Venu elevated as managing director of TVS Motor Company - Business Standard,Business Standard,2026-10-19,live,neutral,0.049299612641334534,0.018868030980229378,0.9318323135375977,0.030431581661105156
+TVSMOTOR,2022-06-04,TVS Motor aims to build sustained dominant play in EV segment - ET Auto,,2026-10-18,legacy,positive,0.9213274121284485,0.007402402814477682,0.0712701752781868,0.9139250093139708
+TVSMOTOR,2022-06-07,About TVS Motor Company Limited (TVSM.NS) - Reuters,,2026-10-18,legacy,neutral,0.028189511969685555,0.022341350093483925,0.9494690895080566,0.00584816187620163
+TVSMOTOR,2022-06-08,TVS Motor Co launches $300-350 million fund raise process for EV arm; Citi tapped as advisor - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.09411836415529251,0.010467225685715675,0.8954143524169922,0.08365113846957684
+TVSMOTOR,2022-06-28,TVS Motor shares rally 10% in 5 trading sessions. Here's why - Livemint,Livemint,2026-10-19,live,neutral,0.15211258828639984,0.034783266484737396,0.8131041526794434,0.11732932180166245
+TVSMOTOR,2022-07-04,TVS Motor shares slam into reverse despite June sales jump - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.07478213310241699,0.2977960705757141,0.6274217963218689,-0.22301393747329712
+TVSMOTOR,2022-07-28,"TVS Motor Q1 Result | Auto firm back in black, posts net profit of Rs 306 crore - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.2006136029958725,0.0803970992565155,0.7189893126487732,0.120216503739357
+TVSMOTOR,2022-07-28,TVS Motor Q1 results: PAT rises by 506% to ₹321 cr; board approves bonds issue - Livemint,Livemint,2026-10-19,live,positive,0.9383522272109985,0.018014686182141304,0.04363314434885979,0.9203375410288572
+TVSMOTOR,2022-08-01,"TVS Motor Company sales grow by 13% to 314,639 units in July 2022 - ET Auto",,2026-10-18,legacy,positive,0.9418213963508606,0.0116958636790514,0.04648275673389435,0.9301255326718092
+TVSMOTOR,2022-10-12,TVS Motor Company roars past Hero MotoCorp in market capitalisation - Business Standard,Business Standard,2026-10-19,live,positive,0.846141517162323,0.009881637990474701,0.1439768671989441,0.8362598791718483
+TVSMOTOR,2022-10-12,TVS Motor vrooms past Hero MotoCorp to be 6th most-valued auto company - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.6033251285552979,0.013142977841198444,0.38353192806243896,0.5901821507140994
+TVSMOTOR,2022-11-01,TVS Motor Company Sales Grows by 2% in October 2022 - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.6027796864509583,0.01988382078707218,0.3773365020751953,0.5828958656638861
+TVSMOTOR,2022-11-09,Amazon India and TVS Motor Company sign MoU to scale EV use for last-mile deliveries - ET Auto,,2026-10-18,legacy,neutral,0.4259096384048462,0.012352079153060913,0.5617382526397705,0.4135575592517853
+TVSMOTOR,2022-11-24,TVS Motor Company launches first TVS Experience Centre in Singapore - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.14388330280780792,0.009968912228941917,0.8461478352546692,0.133914390578866
+TVSMOTOR,2022-12-05,TVS Motor Company promoter entity sells 2.56 million for Rs 262 cr - Business Standard,Business Standard,2026-10-19,live,neutral,0.0457158237695694,0.015134352259337902,0.939149796962738,0.030581471510231495
+TVSMOTOR,2022-12-09,"TVS Motor to acquire EV-related technology, assets in Germany - ET Auto",,2026-10-18,legacy,neutral,0.10928548872470856,0.0077289086766541,0.8829856514930725,0.10155658004805446
+TVSMOTOR,2022-12-16,"TVS Motor launches RR 310, RTR 200 at Expo Moto in Mexico - ET Auto",,2026-10-18,legacy,positive,0.6359162926673889,0.01598074473440647,0.34810295701026917,0.6199355479329824
+TVSMOTOR,2022-12-20,What TVS Motor Company looks for in candidates when hiring - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.026263736188411713,0.03651352971792221,0.9372227191925049,-0.010249793529510498
+TVSMOTOR,2023-01-02,"TVS Motor Company Registers Sales of 242,012 Units in December 2022 - ET Auto",,2026-10-18,legacy,neutral,0.05253320932388306,0.020062904804944992,0.9274038672447205,0.032470304518938065
+TVSMOTOR,2023-01-24,TVS Motor beats third-quarter profit estimates on price increases; ₹5 dividend declared - Livemint,Livemint,2026-10-19,live,positive,0.9327849745750427,0.02195490524172783,0.04526010528206825,0.9108300693333149
+TVSMOTOR,2023-01-24,TVS Motor spends Rs 65 crore on property in Bengaluru’s ‘Billionaire Street’ - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.06651145219802856,0.01676967181265354,0.9167188405990601,0.04974178038537502
+TVSMOTOR,2023-02-01,"Exclusive: TVS Motor appoints former JLR, Ford engineer as CTO - ET Auto",,2026-10-18,legacy,neutral,0.05437764897942543,0.02306785248219967,0.9225544929504395,0.03130979649722576
+TVSMOTOR,2023-02-03,TVS Motor invests in Singapore-based ION Mobility to drive E2W growth in the region - ET Auto,,2026-10-18,legacy,positive,0.6696381568908691,0.006544401403516531,0.3238174319267273,0.6630937554873526
+TVSMOTOR,2023-03-27,"TVS Motor Company launches 7 new products in Ghana, Africa - ET Auto",,2026-10-18,legacy,positive,0.780574381351471,0.00943432655185461,0.20999129116535187,0.7711400547996163
+TVSMOTOR,2023-04-04,TVS Motor Company's Singapore arm to buy 25% stake in Killwatt GmbH - Business Standard,Business Standard,2026-10-19,live,neutral,0.10154927521944046,0.008479326963424683,0.8899714350700378,0.09306994825601578
+TVSMOTOR,2023-06-02,"TVS Motor Company registers sales growth of 9% to 330,609 units in May 2023 - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.5018777847290039,0.015758570283651352,0.48236361145973206,0.48611921444535255
+TVSMOTOR,2023-07-02,TVS Motor expects growth momentum to continue this fiscal - ET Auto,,2026-10-18,legacy,positive,0.9503040909767151,0.015600098296999931,0.03409576043486595,0.9347039926797152
+TVSMOTOR,2023-07-03,TVS Motor Company reports 3% jump in its total vehicle sales in June - Business Standard,Business Standard,2026-10-19,live,positive,0.9519585371017456,0.022111400961875916,0.025930160656571388,0.9298471361398697
+TVSMOTOR,2023-07-29,"S Devarajan, Sr VP, TVS Motor, elected as president of Bangalore Chamber of Industry and Commerce - ET Auto",,2026-10-18,legacy,neutral,0.1663983166217804,0.010319084860384464,0.8232825398445129,0.15607923176139593
+TVSMOTOR,2023-08-01,TVS Motor Company sales rise 4% in July - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.7903923392295837,0.02306041680276394,0.18654727935791016,0.7673319224268198
+TVSMOTOR,2023-08-07,"Page 5 - Tvs motor company - Latest tvs motor company , Information & Updates - Auto - ET Auto",,2026-10-18,legacy,neutral,0.028387712314724922,0.01976240985095501,0.9518498778343201,0.008625302463769913
+TVSMOTOR,2023-08-16,A decade of Triumph: TVS Motor Company and BMW Motorrad celebrates 10 years of strategic partnership - Livemint,Livemint,2026-10-19,live,positive,0.752959132194519,0.008723313920199871,0.2383175641298294,0.7442358182743192
+TVSMOTOR,2023-08-17,Partnership between TVS Motor and BMW Motorrad completes 10 years - ET Auto,,2026-10-18,legacy,positive,0.8427864909172058,0.008737743832170963,0.14847582578659058,0.8340487470850348
+TVSMOTOR,2023-08-19,"Indian Family Business Award 2022: Sudarshan Venu, the Next-Gen Leader for TVS Motor Company - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.5903829336166382,0.010333752259612083,0.39928334951400757,0.5800491813570261
+TVSMOTOR,2023-08-24,How TVS Motor synergizes AI and traditional customer interactions: Mahesh Calavai - ET CIO,,2026-10-18,legacy,neutral,0.08684630692005157,0.01139229815453291,0.9017613530158997,0.07545400876551867
+TVSMOTOR,2023-08-24,"TVS Motor invests Rs 250 crore in its newly launched EV TVS X, to focus on global market expansion - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.4003802537918091,0.009486239403486252,0.5901334881782532,0.39089401438832283
+TVSMOTOR,2023-10-06,"TVS Motor, BMW commence production of first electric bike CE 02 at TN plant - Business Standard",Business Standard,2026-10-19,live,neutral,0.13546235859394073,0.009005277417600155,0.8555324077606201,0.12645708117634058
+TVSMOTOR,2023-10-25,TVS Motor extends ties with Singapore-based ION Mobility for entry in sports scooter segment in Indonesia - ET Auto,,2026-10-18,legacy,positive,0.9366697072982788,0.009907799772918224,0.053422506898641586,0.9267619075253606
+TVSMOTOR,2023-10-27,TVS Motor Company launches Ronin Special Edition at INR1.73 lakh - ET Auto,,2026-10-18,legacy,neutral,0.06292187422513962,0.015441995114088058,0.921636164188385,0.04747987911105156
+TVSMOTOR,2023-10-31,"India's TVS Motor beats Q2 profit view led by entry-level motorbikes, EVs - ET EnergyWorld",,2026-10-18,legacy,positive,0.942396342754364,0.021156983450055122,0.03644668683409691,0.9212393593043089
+TVSMOTOR,2023-11-16,India's TVS Motor ties up with Switzerland's Emil Frey for Europe expansion - Reuters,Reuters,2026-10-19,live,positive,0.5340967774391174,0.008708721958100796,0.4571945369243622,0.5253880554810166
+TVSMOTOR,2023-11-16,TVS Motor partners with Emil Frey to enter key European markets - ET Auto,,2026-10-18,legacy,positive,0.7805614471435547,0.006595471408218145,0.21284309029579163,0.7739659757353365
+TVSMOTOR,2023-11-21,"TVS Motor: Born ICE, now ready for electric - Livemint",Livemint,2026-10-19,live,neutral,0.1382349580526352,0.011269019916653633,0.8504959940910339,0.12696593813598156
+TVSMOTOR,2023-11-24,TVS Motor launches range of 2Ws in Vietnam - ET Auto,,2026-10-18,legacy,neutral,0.32250261306762695,0.009847946465015411,0.6676494479179382,0.31265466660261154
+TVSMOTOR,2023-12-01,TVS Motor drives enhanced customer connections with Salesforce - ET CIO,,2026-10-18,legacy,positive,0.835204005241394,0.006830255035310984,0.15796567499637604,0.8283737502060831
+TVSMOTOR,2024-03-01,"TVS Motor Company sales increase by 33% to 368,424 units in February - Business Standard",Business Standard,2026-10-19,live,positive,0.9537270069122314,0.018645919859409332,0.027627089992165565,0.9350810870528221
+TVSMOTOR,2024-03-20,Board of TVS Motor Company approves issue of bonus preference shares - Business Standard,Business Standard,2026-10-19,live,neutral,0.06702304631471634,0.012112410739064217,0.9208645224571228,0.05491063557565212
+TVSMOTOR,2024-05-08,TVS MOTOR COMPANY TVS~ - Business Standard,Business Standard,2026-10-19,live,neutral,0.06678032875061035,0.01176369283348322,0.921455979347229,0.05501663591712713
+TVSMOTOR,2024-05-08,"TVS Motor Q4 result: Net profit up 15% to Rs 387 cr, revenue jumps 25% - Business Standard",Business Standard,2026-10-19,live,positive,0.9531655311584473,0.02295210398733616,0.0238823052495718,0.9302134271711111
+TVSMOTOR,2024-05-13,"TVS Motor launches new iQube ST with 3.4 and 5.1 kWh battery, price starts at INR 94,999 - ET Auto",,2026-10-18,legacy,neutral,0.13377955555915833,0.009894818998873234,0.856325626373291,0.12388473656028509
+TVSMOTOR,2024-05-16,TVS Motor launches operations in Italy - ET Auto,,2026-10-18,legacy,neutral,0.14557036757469177,0.012388166040182114,0.8420414328575134,0.13318220153450966
+TVSMOTOR,2024-05-16,TVS Motor launches operations in Italy - ET Manufacturing,,2026-10-18,legacy,neutral,0.16455118358135223,0.013123733922839165,0.8223250508308411,0.15142744965851307
+TVSMOTOR,2024-06-22,TVS Motor Company to Partner With CSC Grameen eStores for its Commercial Vehicle Range - Business Standard,Business Standard,2026-10-19,live,positive,0.5037466287612915,0.007423856295645237,0.48882952332496643,0.49632277246564627
+TVSMOTOR,2024-06-22,TVS Motor to join hands with CSC Grameen eSTores - ET BrandEquity,,2026-10-18,legacy,neutral,0.48382568359375,0.008433232083916664,0.5077410936355591,0.47539245150983334
+TVSMOTOR,2024-06-26,TVS Motor vs Bajaj Auto: Which auto stock should you pick for long term? - Livemint,Livemint,2026-10-19,live,neutral,0.043289318680763245,0.01636420004069805,0.9403464794158936,0.026925118640065193
+TVSMOTOR,2024-06-28,TVS Motor incorporates WOS in Dubai - Business Standard,Business Standard,2026-10-19,live,neutral,0.05969124287366867,0.010462445206940174,0.9298462271690369,0.0492287976667285
+TVSMOTOR,2024-08-06,"India's TVS Motor beats Q1 profit view on strong demand, margins - Reuters",,2026-10-18,legacy,positive,0.8558977246284485,0.031981341540813446,0.11212101578712463,0.823916383087635
+TVSMOTOR,2024-09-02,TVS Motor Company's Sales Grow By 13 per cent in August 2024 - ET BrandEquity,,2026-10-18,legacy,positive,0.9042341113090515,0.00892296340316534,0.086842842400074,0.8953111479058862
+TVSMOTOR,2024-10-23,India's TVS Motor misses Q2 profit view on higher costs - Reuters,,2026-10-18,legacy,negative,0.04985371232032776,0.9065985083580017,0.04354780167341232,-0.856744796037674
+TVSMOTOR,2025-02-03,TVS Motor names Gaurav Gupta as President for India 2-wheeler biz - ETHRWorld.com,,2026-10-18,legacy,neutral,0.05058281123638153,0.015613017603754997,0.9338042140007019,0.034969793632626534
+TVSMOTOR,2025-02-11,"TVS Motor Company to invest Rs 2,000 crore in Karnataka, set up GCC centre - Business Standard",Business Standard,2026-10-19,live,neutral,0.1525307148694992,0.007867740467190742,0.8396015763282776,0.14466297440230846
+TVSMOTOR,2025-03-13,TVS Motor and Petronas Lubricants enhance partnership to boost Indian motorsport - ET Auto,,2026-10-18,legacy,positive,0.9456459879875183,0.01436855923384428,0.039985522627830505,0.931277428753674
+TVSMOTOR,2025-03-21,TVS Motor Company names Peyman Kargar as head of international business - ET Auto,,2026-10-18,legacy,neutral,0.03088224306702614,0.023606369271874428,0.9455113410949707,0.0072758737951517105
+TVSMOTOR,2025-04-29,TVS Motor strategically times product rollout to match market dynamics - ET Auto,,2026-10-18,legacy,neutral,0.3918299973011017,0.008075815625488758,0.6000941395759583,0.3837541816756129
+TVSMOTOR,2025-06-06,"TVS Motor names Sudarshan Venu as Chairman, effective August 25 - ETHRWorld.com",,2026-10-18,legacy,neutral,0.022690461948513985,0.029407884925603867,0.9479016065597534,-0.006717422977089882
+TVSMOTOR,2025-07-02,"TVS Motor June sales soar 20% in June to 4,02,001 units - ET Auto",,2026-10-18,legacy,positive,0.9421412348747253,0.01747237704694271,0.04038632661104202,0.9246688578277826
+TVSMOTOR,2025-07-31,"India's TVS Motor beats quarterly profit view, seeks rare-earth alternatives - Reuters",,2026-10-18,legacy,neutral,0.25566366314888,0.03621310740709305,0.7081232070922852,0.21945055574178696
+TVSMOTOR,2025-07-31,TVS Motor Q1 net profit jumps 35% to ₹779 crore - ET Auto,,2026-10-18,legacy,positive,0.93290114402771,0.04310678318142891,0.023992061614990234,0.889794360846281
+TVSMOTOR,2025-08-01,TVS Motor explores alternative sourcing to tide over rare-earth magnet crisis - ET Auto,,2026-10-18,legacy,neutral,0.19679954648017883,0.009115904569625854,0.7940844893455505,0.18768364191055298
+TVSMOTOR,2025-09-26,TVS Motor Company establishes global CoE for design & engineering - ET CIO,,2026-10-18,legacy,neutral,0.2062271535396576,0.007903714664280415,0.7858691215515137,0.19832343887537718
+TVSMOTOR,2025-10-01,TVS Motor September sales up 12% to 5.41 lakh units - ET Auto,,2026-10-18,legacy,positive,0.9562286734580994,0.021673917770385742,0.022097384557127953,0.9345547556877136
+TVSMOTOR,2025-10-04,TVS Motor completes acquisition of Engines Engineering - ET Auto,ET Auto,2026-10-19,live,neutral,0.1985563188791275,0.011220430955290794,0.7902231812477112,0.1873358879238367
+TVSMOTOR,2025-10-28,"India's TVS Motor profit jumps on exports, tax-cut fueled demand - Reuters",,2026-10-18,legacy,positive,0.4685848653316498,0.46052423119544983,0.07089100033044815,0.008060634136199951
+TVSMOTOR,2025-10-28,TVS Motor Q2 net profit soars 37% to ₹906 crore - ET Auto,,2026-10-18,legacy,positive,0.9465175271034241,0.0268595851957798,0.026622911915183067,0.9196579419076443
+TVSMOTOR,2025-11-01,"TVS Motor's October sales rise 11% to 543,557 units - ET Auto",,2026-10-18,legacy,positive,0.9520102739334106,0.021023407578468323,0.0269662793725729,0.9309868663549423
+TVSMOTOR,2025-11-09,TVS Motor Co gearing up for bigger ride in European markets: Chairman Sudarshan Venu - ET Auto,ET Auto,2026-10-19,live,positive,0.7771954536437988,0.012976502068340778,0.20982800424098969,0.764218951575458
+TVSMOTOR,2025-11-22,TVS Motor launches upgraded TVS King three-wheeler range in Ghana - ET Auto,ET Auto,2026-10-19,live,positive,0.9123610854148865,0.011731360107660294,0.07590751349925995,0.9006297253072262
+TVSMOTOR,2025-11-27,TVS Motor–BMW Motorrad cross 2 lakh production milestone in global partnership - ET Auto,,2026-10-18,legacy,positive,0.8602235317230225,0.009825511835515499,0.12995100021362305,0.850398019887507
+TVSMOTOR,2025-12-01,TVS Motor posts strong November as sales jump 20.7% - ET Auto,,2026-10-18,legacy,positive,0.9517900347709656,0.025804875418543816,0.0224051084369421,0.9259851593524218
+TVSMOTOR,2025-12-30,TVS Motor Company ties up with Manba Finance to offer retail financing for commercial mobility vehicles - ET Auto,ET Auto,2026-10-19,live,positive,0.7506030201911926,0.006514476612210274,0.24288249015808105,0.7440885435789824
+TVSMOTOR,2026-01-01,TVS Motor Company sales soar 50% in December 2025 - ET Auto,,2026-10-18,legacy,positive,0.9129770994186401,0.015489778481423855,0.07153315097093582,0.8974873209372163
+TVSMOTOR,2026-01-28,India's TVS Motor misses quarterly profit view on labour-code charge despite demand surge - Reuters,,2026-10-18,legacy,negative,0.01755136251449585,0.955561101436615,0.026887550950050354,-0.9380097389221191
+TVSMOTOR,2026-02-01,"TVS Motor Company sales up 30% to 383,262 units in January 2026 - ET Auto",,2026-10-18,legacy,positive,0.9558573365211487,0.019353067502379417,0.02478956989943981,0.9365042690187693
+TVSMOTOR,2026-02-02,TVS Motor company sales grows 29% in January 2026 - ET Auto,ET Auto,2026-10-19,live,positive,0.9495778679847717,0.015792984515428543,0.03462909907102585,0.9337848834693432
+TVSMOTOR,2026-02-06,TVS Motor rolls out King Kargo HD CNG at ₹2.7 lakh - ET Auto,ET Auto,2026-10-19,live,positive,0.6486596465110779,0.012051601894199848,0.33928874135017395,0.636608044616878
+TVSMOTOR,2026-02-14,TVS Motor accelerates experiential tourism vision with second year at Rann Utsav - ET Auto,ET Auto,2026-10-19,live,positive,0.9198604822158813,0.008458685129880905,0.07168087363243103,0.9114017970860004
+TVSMOTOR,2026-02-18,TVS Motor Company reaches 1 million production milestone in Indonesia - ET Auto,ET Auto,2026-10-19,live,positive,0.9178832173347473,0.013063646852970123,0.06905316561460495,0.9048195704817772
+TVSMOTOR,2026-02-28,TVS Motor Company rides ahead of peers to gain market share in FY26 - ET Auto,ET Auto,2026-10-19,live,positive,0.949816882610321,0.016257207840681076,0.033925898373126984,0.93355967476964
+TVSMOTOR,2026-03-01,TVS Motor’s February sales soar 31% to 5.29 lakh units - ET Auto,ET Auto,2026-10-19,live,positive,0.9531577825546265,0.020689034834504128,0.0261532049626112,0.9324687477201223
+TVSMOTOR,2026-03-24,"TVS gains as Hero, Bajaj lose share in India’s 2W market since 2022 - ET Auto",ET Auto,2026-10-19,live,negative,0.10070156306028366,0.8001784086227417,0.09912000596523285,-0.699476845562458
+TVSMOTOR,2026-04-01,TVS Motor Company sells 58.89 lakh units in FY2026 - Business Standard,Business Standard,2026-10-19,live,neutral,0.05043887346982956,0.01311445888131857,0.9364466667175293,0.03732441458851099
+TVSMOTOR,2026-04-07,"Electric two-wheeler share rises to 6.5% in FY26, TVS Motor leads segment: FADA - ET Auto",,2026-10-18,legacy,positive,0.7983238101005554,0.013733359053730965,0.18794286251068115,0.7845904510468245
+TVSMOTOR,2026-04-20,"Hyundai Motor, TVS Motor partner to develop electric three-wheelers - ET Auto",ET Auto,2026-10-19,live,neutral,0.34290358424186707,0.007323816418647766,0.649772584438324,0.3355797678232193
+TVSMOTOR,2026-05-02,TVS Motor Company sales rise 8% to 3.48 lakh units in April 2026 - ET Auto,,2026-10-18,legacy,positive,0.9451138973236084,0.016825128346681595,0.03806096687912941,0.9282887689769268
+TVSMOTOR,2026-05-06,TVS Motor Company launches iQube S 4.7 kWh variant at ₹1.37 lakh - ET Auto,ET Auto,2026-10-19,live,neutral,0.16970163583755493,0.013514287769794464,0.8167840838432312,0.15618734806776047
+TVSMOTOR,2026-05-13,India's TVS Motor sees slower sales growth as Middle East tensions weigh - Reuters,,2026-10-18,legacy,negative,0.023576747626066208,0.8831468224525452,0.09327641874551773,-0.859570074826479
+TVSMOTOR,2026-05-13,TVS Motor Company - Business Standard,Business Standard,2026-10-19,live,neutral,0.06134479492902756,0.012691074050962925,0.9259641170501709,0.04865372087806463
+TVSMOTOR,2026-05-13,"TVS Motor to invest ₹3,500 crore in FY27 to expand capacity, boost R&D - ET Auto",,2026-10-18,legacy,positive,0.949031412601471,0.014513956382870674,0.03645464777946472,0.9345174562186003
+TVSMOTOR,2026-05-18,TVS Motor Company to acquire 4.9% stake in Jana Small Finance Bank for ₹193 crore - ET Auto,ET Auto,2026-10-19,live,neutral,0.0700550228357315,0.011029154993593693,0.9189158082008362,0.059025867842137814
+TVSMOTOR,2026-06-06,TVS Motor unveils ‘TVS Paddock’ premium retail network for high-end motorcycles - ET Auto,ET Auto,2026-10-19,live,neutral,0.1343809962272644,0.007829546928405762,0.8577894568443298,0.12655144929885864
+TVSMOTOR,2026-06-29,TVS Motor Company looking ahead with 'measured optimism': CMD Sudarshan Venu - ET Auto,,2026-10-18,legacy,positive,0.7603758573532104,0.008573363535106182,0.2310507893562317,0.7518024938181043
+TVSMOTOR,2026-07-02,TVS Motor domestic sales jump 47% in June to 5.90 lakh units - ET Auto,,2026-10-18,legacy,positive,0.9508016109466553,0.02613670937716961,0.023061584681272507,0.9246649015694857
+TVSMOTOR,2026-07-08,"TVS Motor, IndianOil join hands to electrify last-mile LPG cylinder deliveries - ET Auto",ET Auto,2026-10-19,live,positive,0.6950545907020569,0.009324965998530388,0.2956204116344452,0.6857296247035265
+TVSMOTOR,2026-07-21,India's TVS Motor quarterly profit jumps 51.4% on strong demand for premium brands - Reuters,,2026-10-18,legacy,positive,0.9330856800079346,0.03104563057422638,0.03586874157190323,0.9020400494337082
+TVSMOTOR,2026-07-22,"TVS sees double-digit two-wheeler industry growth in FY27 on EV adoption, exports push - ET Auto",,2026-10-18,legacy,positive,0.9334843754768372,0.009569919668138027,0.05694562941789627,0.9239144558086991
+TVSMOTOR,2026-08-27,India's TVS Motor names insider Peyman Kargar as next CEO - Reuters,,2026-10-18,legacy,neutral,0.031000010669231415,0.024829884991049767,0.9441701173782349,0.006170125678181648
+TVSMOTOR,2026-09-01,TVS Motor August sales rise 18% to 4.33 lakh units - ET Auto,ET Auto,2026-10-19,live,positive,0.9542588591575623,0.021010244265198708,0.024730896577239037,0.9332486148923635
+TVSMOTOR,2026-09-30,Daily Morning Newsletter - ET Realty,,2026-10-18,legacy,neutral,0.030223965644836426,0.023814920336008072,0.9459611177444458,0.006409045308828354
+TVSMOTOR,2026-10-01,TVS Motor Company Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.037290409207344055,0.03466203063726425,0.9280475378036499,0.0026283785700798035
+TVSMOTOR,2026-10-02,TVS Motor’s two-wheeler sales rise 17% to 4.82 lakh units in September - ET Auto,ET Auto,2026-10-19,live,positive,0.9519851207733154,0.019215159118175507,0.02879973128437996,0.9327699616551399
+TVSMOTOR,2026-10-05,The Economic Times - The Economic Times,,2026-10-18,legacy,neutral,0.03021029755473137,0.05379044637084007,0.9159992933273315,-0.023580148816108704
+TVSMOTOR,2026-10-09,"Differences among daughter, son emerge in the TVS family - Livemint",Livemint,2026-10-19,live,neutral,0.03145461156964302,0.3221248388290405,0.6464205980300903,-0.2906702272593975
+TVSMOTOR,2026-10-12,"'Why only cancer drugs?': SC questions Centre on trade margin cap, seeks wider price regulation - Livemint",Livemint,2026-10-19,live,neutral,0.07252214103937149,0.022948840633034706,0.9045289754867554,0.049573300406336784
+TVSMOTOR,2026-10-12,AI agents are a threat to travel businesses. Airbnb could still be a winner. - Livemint,Livemint,2026-10-19,live,neutral,0.17222771048545837,0.019711405038833618,0.808060884475708,0.15251630544662476
+TVSMOTOR,2026-10-12,GCCs gain share of India's office leasing as demand mix shifts - The Economic Times,,2026-10-18,legacy,positive,0.6068700551986694,0.016628555953502655,0.3765014111995697,0.5902414992451668
+TVSMOTOR,2026-10-12,India’s scooter market hits EV tipping point as 1 in 3 sales turns electric - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.6940956711769104,0.015032281167805195,0.2908720076084137,0.6790633900091052
+TVSMOTOR,2026-10-12,"Top 2 stocks to buy for tomorrow: PNB Housing Finance, TVS Motor Company by Chandan Taparia - Check stop-loss, targets - Livemint",Livemint,2026-10-19,live,neutral,0.08882400393486023,0.014901280403137207,0.896274745464325,0.07392272353172302
+TVSMOTOR,2026-10-13,"Mehli Mistry rules out reinstatement as Tata Trusts trustee, seeks final order on complaints: Report - Livemint",Livemint,2026-10-19,live,neutral,0.04187687858939171,0.056619033217430115,0.9015040397644043,-0.014742154628038406
+TVSMOTOR,2026-10-13,"TVS family feud: Unlisted assets, tax hurdles complicate division of wealth between Lakshmi and Sudarshan - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.017013534903526306,0.18034042418003082,0.8026460409164429,-0.16332688927650452
+TVSMOTOR,2026-10-13,TVS family feud: What is the dispute over ownership and wealth division? - Business Standard,Business Standard,2026-10-19,live,neutral,0.02217569574713707,0.1311952769756317,0.8466290235519409,-0.10901958122849464
+TVSMOTOR,2026-10-13,Who is Lakshmi Venu and what is Venu Srinivasan's daughter's role in the TVS family succession row? - Livemint,Livemint,2026-10-19,live,neutral,0.0240201186388731,0.07078126072883606,0.9051986336708069,-0.04676114208996296
+TVSMOTOR,2026-10-14,"Hyundai, TVS ready electric mini-truck to rival Tata Ace in 2027 - Livemint",Livemint,2026-10-19,live,positive,0.5947445034980774,0.009481633082032204,0.39577385783195496,0.5852628704160452
+TVSMOTOR,2026-10-16,Karnataka to retrofit older diesel vehicles with emission-control devices to curb pollution - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.3058978319168091,0.012298141606152058,0.6818040609359741,0.293599690310657
+TVSMOTOR,2026-10-16,Mutual funds bar fresh investments in Gold ETF FoFs. What are the rules for existing SIP investors? - The Economic Times,,2026-10-18,legacy,neutral,0.02376706339418888,0.0390021912753582,0.9372307658195496,-0.01523512788116932
+TVSMOTOR,2026-10-17,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.03676547110080719,0.024498071521520615,0.9387364387512207,0.012267399579286575
+TVSMOTOR,2026-10-17,"Chartist Talk: Can Nifty 50 extend gains towards 23,500 next week? Sudeep Shah's top picks are TVS Motor,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.1537674516439438,0.0112483911216259,0.8349841237068176,0.1425190605223179

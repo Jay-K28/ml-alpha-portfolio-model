@@ -1,35 +1,18 @@
-ticker,date,headline,sentiment_score
-MAZDOCK,2020-09-25,"Mazagon Dock Ship Share Price Today, Mazagon Dock Ship Stock Price Live NSE/BSE Updates - The Economic Times",-0.9391072988510132
-MAZDOCK,2020-09-25,Mazagon Dock Shipbuilders Ltd. - The Economic Times,-0.9212594628334045
-MAZDOCK,2020-10-07,MAZDOCKS: Mazagon Dock Shipbuilders Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9453717470169067
-MAZDOCK,2020-09-25,The Economic Times - The Economic Times,-0.9159992933273315
-MAZDOCK,2024-09-05,HIEANT 31 RHfiesd Rifes - bsmedia.business-standard.com,-0.9489046931266785
-MAZDOCK,2025-05-29,"Amfi rejig: Indian Hotels, Mazdock set for largecap tag; Swiggy to bow out - business-standard.com",-0.8926334977149963
-MAZDOCK,2024-03-28,Mazagon Dock Shipbuilders Share Price - business-standard.com,-0.9461888074874878
-MAZDOCK,2025-02-07,Mazagon Dock Shipbuilders Q3FY25: Net profit rises 30% to Rs 768 crore - business-standard.com,0.9450408816337585
-MAZDOCK,2025-05-16,"Mazagaon Dock overtakes Britannia, PFC, Tata Power, BPCL in m-cap ranking - business-standard.com",-0.9246371984481812
-MAZDOCK,2026-01-09,"Defence stocks in focus; MTAR, Mazagon Dock, GRSE soar up to 9%; here's why - business-standard.com",0.7711819410324097
-MAZDOCK,2025-05-30,Mazagon Dock profit falls 51% in Q4 despite annual growth - ET Infra,-0.9743781685829163
-MAZDOCK,2025-09-22,"Mazagon Dock, Cochin Shipyard, GRSE: Why did shipping stocks rise up to 8%? - business-standard.com",0.5955355763435364
-MAZDOCK,2025-04-29,"Shipbuilding stocks rally up to 14%, MDL hits record high; here's why - business-standard.com",0.7745497822761536
-MAZDOCK,2026-04-02,Bharat Electronics Ltd. - The Economic Times,-0.9190561771392822
-MAZDOCK,2025-04-04,Mazagon Dock shares slide 6% as govt opens OFS for non-retail investors - business-standard.com,-0.9507390260696411
-MAZDOCK,2025-02-10,Mazagon Dock Shipbuilders shares surge 9% on solid Q3; healthy order book - business-standard.com,0.9466599225997925
-MAZDOCK,2025-07-21,"Mazagon Dock Shipbuilders Ltd Quarterly Results, 02 Apr 2026 - NSE 2,264.60, BSE 2,264.10 - business-standard.com",-0.942987322807312
-MAZDOCK,2025-05-29,"Retail ownership in India Inc. cools in Q4 amid market slowdown, shows data - business-standard.com",-0.8235265016555786
-MAZDOCK,2025-05-14,"Shipbuilding stocks in focus: GRSE, CSL, MDL soar up to 14%; here's why - business-standard.com",0.8242172002792358
-MAZDOCK,2025-04-28,"HAL, Mazagon Dock: Defence stocks rally on India-Pak conflict, Rafale deal - business-standard.com",-0.8070529103279114
-MAZDOCK,2025-04-22,Mazagon Dock Shipbuilders appoints Capt (retd) Jagmohan as chairman & MD - business-standard.com,-0.9413771629333496
-MAZDOCK,2026-01-08,"MSDL, German company likely to sign mega submarine deal this year - business-standard.com",-0.8735330104827881
-MAZDOCK,2024-10-21,Jigar S Patel of Anand Rathi recommends buying these three stocks on Oct 21 - business-standard.com,-0.9314488768577576
-MAZDOCK,2025-05-29,"Here's why Natco Pharma share price is buzzing in trade on Thursday, May 29 - business-standard.com",-0.927243709564209
-MAZDOCK,2025-05-29,"MMTC, IFCI, Sigachi Ind: Penny stocks under ₹100 surge up to 15% today - business-standard.com",0.9400069713592529
-MAZDOCK,2025-07-03,IHCL unveils Taj Damdama resort as it eyes double-digit growth in FY26 - business-standard.com,-0.5226260423660278
-MAZDOCK,2025-03-24,Rajesh Bhosale of Angel One recommends buying these 3 stocks on March 24 - business-standard.com,-0.9212700724601746
-MAZDOCK,2024-12-20,"Dividend, Bonus: Vedanta, Mazagon Dock, 4 others to trade ex-date next week - business-standard.com",-0.945337176322937
-MAZDOCK,2026-03-18,Shipping Corp gains after signing shipbuilding pact with Mazagon Dock for methanol dual-fuel PSV - business-standard.com,0.9425826072692871
-MAZDOCK,2025-05-30,Instamart appoints Ankit Jain as senior vice president of operations - business-standard.com,-0.9357504844665527
-MAZDOCK,2022-10-11,Smooth sailing for shipbuilders in choppy markets; up to 27% upside likely - business-standard.com,0.840194582939148
-MAZDOCK,2018-06-20,"Mazagon Dock Shipbuilders : Latest News Headlines, Videos and Photo Galleries on Mazagon Dock Shipbuilders - business-standard.com",-0.9376785159111023
-MAZDOCK,2016-09-14,Mazagon Dock Shipbuilders Limited looking for engineers as executive trainees - business-standard.com,-0.9236564040184021
-MAZDOCK,2024-07-16,"Castrol, IRFC, Oil India rally up to 50% so far in July; trading guide here - business-standard.com",0.848298192024231
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+MAZDOCK,2020-09-25,"Mazagon Dock Ship Cash Flow, Financial Statements - The Economic Times",,2026-10-18,legacy,neutral,0.030214712023735046,0.049789171665906906,0.9199960827827454,-0.01957445964217186
+MAZDOCK,2020-10-07,MAZDOCKS: Mazagon Dock Shipbuilders Ltd Stock Price Quote - Natl India - Bloomberg,,2026-10-18,legacy,neutral,0.0355297327041626,0.01901710405945778,0.9454531669616699,0.01651262864470482
+MAZDOCK,2021-03-04,Nifty crash: Why Nifty is crashing today? Reasons for Nifty crash - The Economic Times,,2026-10-18,legacy,neutral,0.026432281360030174,0.070161834359169,0.9034059047698975,-0.04372955299913883
+MAZDOCK,2022-10-11,Smooth sailing for shipbuilders in choppy markets; up to 27% upside likely - Business Standard,,2026-10-18,legacy,positive,0.9352413415908813,0.012476575560867786,0.052282098680734634,0.9227647660300136
+MAZDOCK,2024-03-28,Mazagon Dock Shipbuilders Ltd - Business Standard,,2026-10-18,legacy,neutral,0.08085058629512787,0.01119596790522337,0.9079534411430359,0.0696546183899045
+MAZDOCK,2024-10-08,Page 4 - Avdhut Bagkar/workspace/business Standard Web/undefined - Business Standard,Business Standard,2026-10-19,live,neutral,0.027348410338163376,0.024197731167078018,0.9484539031982422,0.0031506791710853577
+MAZDOCK,2025-05-14,"Shipbuilding stocks in focus: GRSE, CSL, MDL soar up to 14%; here's why - Business Standard",,2026-10-18,legacy,positive,0.832667887210846,0.013517717830836773,0.15381427109241486,0.8191501693800092
+MAZDOCK,2025-05-29,"Here's why Natco Pharma share price is buzzing in trade on Thursday, May 29 - Business Standard",,2026-10-18,legacy,neutral,0.024813422933220863,0.03625357151031494,0.9389330148696899,-0.011440148577094078
+MAZDOCK,2025-07-03,IHCL unveils Taj Damdama resort as it eyes double-digit growth in FY26 - Business Standard,,2026-10-18,legacy,positive,0.8489777445793152,0.009765282273292542,0.14125704765319824,0.8392124623060226
+MAZDOCK,2025-08-23,"INDIGO, Max Healthcare to become part of Nifty 50 index - Business Standard",Business Standard,2026-10-19,live,neutral,0.25199654698371887,0.006796589586883783,0.7412068843841553,0.2451999573968351
+MAZDOCK,2026-01-08,"MSDL, German company likely to sign mega submarine deal this year - Business Standard",,2026-10-18,legacy,neutral,0.39089226722717285,0.009896280243992805,0.5992114543914795,0.38099598698318005
+MAZDOCK,2026-01-09,"Defence stocks in focus; MTAR, Mazagon Dock, GRSE soar up to 9%; here's why - Business Standard",,2026-10-18,legacy,positive,0.5759890675544739,0.016459543257951736,0.40755143761634827,0.5595295242965221
+MAZDOCK,2026-05-02,Mazagon Dock Shipbuilders consolidated net profit rises 108.79% in the March 2026 quarter - Business Standard,,2026-10-18,legacy,positive,0.9347285032272339,0.03777973726391792,0.027491753920912743,0.896948765963316
+MAZDOCK,2026-07-13,"Defence on structural upcycle; Kotak starts coverage on HAL, Mazagon Dock - Business Standard",,2026-10-18,legacy,neutral,0.22389568388462067,0.008321864530444145,0.76778244972229,0.21557381935417652
+MAZDOCK,2026-07-31,Mazagon Dock Shipbuilders consolidated net profit rises 21.51% in the June 2026 quarter - Business Standard,,2026-10-18,legacy,positive,0.9350499510765076,0.03961838781833649,0.025331668555736542,0.8954315632581711
+MAZDOCK,2026-08-06,"Defence shares in demand: HAL, Midhani, BDL, Mazagon Dock rally up to 6% - Business Standard",,2026-10-18,legacy,positive,0.9515634179115295,0.022325271740555763,0.026111280545592308,0.9292381461709738
+MAZDOCK,2026-10-16,Mazagon Dock Shipbuilders Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.046634916216135025,0.03210565447807312,0.9212594628334045,0.014529261738061905

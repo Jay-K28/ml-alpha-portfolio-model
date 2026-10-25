@@ -1,100 +1,151 @@
-ticker,date,headline,sentiment_score
-DMART,2026-04-06,DMart Q4 growth strong on store additions; margins remain under pressure - business-standard.com,0.8895084261894226
-DMART,2026-04-06,"Goldman Sachs upgrades DMart to overweight, says juggernaut is rolling! Here's why - cfo.economictimes.indiatimes.com",-0.9134091734886169
-DMART,2026-04-01,DMart shares rally 8% after firm's store count hits 500: Should you buy? - ET Retail,-0.683057963848114
-DMART,2026-04-05,DMART IN Equity - bsmedia.business-standard.com,-0.9520323872566223
-DMART,2026-04-06,Dmart gains on reporting healthy Q4 business update; store count reaches 500 - business-standard.com,0.9164861440658569
-DMART,2026-04-01,"DMart Opens Its Largest NCR Store at Omaxe Connaught Place, Greater Noida - business-standard.com",-0.8613627552986145
-DMART,2026-04-06,Avenue Supermarts shares rise 3% on Q4 update; here's what analysts suggest - business-standard.com,0.6126046776771545
-DMART,2026-04-01,"DMart opens over 50,000 sq ft store at Omaxe Connaught Place, Greater Noida - ET Realty",-0.8362849354743958
-DMART,2026-04-05,"eternal ltd q1 results: Latest News & Videos, Photos about eternal ltd q1 results - The Economic Times",-0.9367406368255615
-DMART,2026-04-06,"q1fy25 earnings review: Latest News & Videos, Photos about q1fy25 earnings review - The Economic Times",-0.9279910922050476
-DMART,2026-04-02,"eternal ltd q3 results: Latest News & Videos, Photos about eternal ltd q3 results - The Economic Times",-0.9363206624984741
-DMART,2026-04-06,"dmart golman sachs: Latest News & Videos, Photos about dmart golman sachs - The Economic Times",-0.9344499111175537
-DMART,2026-04-06,"keystone realtors q4 results: Latest News & Videos, Photos about keystone realtors q4 results - The Economic Times",-0.9329561591148376
-DMART,2026-04-06,"premium plast ltd q3 results: Latest News & Videos, Photos about premium plast ltd q3 results - The Economic Times",-0.9391435980796814
-DMART,2026-04-06,"indef manufacturing ltd q3 results: Latest News & Videos, Photos about indef manufacturing ltd q3 results - The Economic Times",-0.9353316426277161
-DMART,2026-04-06,"rbl q4 update: Latest News & Videos, Photos about rbl q4 update - The Economic Times",-0.9328991770744324
-DMART,2026-04-06,"sundrop brands ltd q1 results: Latest News & Videos, Photos about sundrop brands ltd q1 results - The Economic Times",-0.9376053810119629
-DMART,2026-04-06,"quarterly financial update: Latest News & Videos, Photos about quarterly financial update - The Economic Times",-0.929594099521637
-DMART,2026-04-06,"q1 fy27: Latest News & Videos, Photos about q1 fy27 - The Economic Times",-0.9329856038093567
-DMART,2026-04-01,"financial report q2 2024: Latest News & Videos, Photos about financial report q2 2024 - The Economic Times",-0.9377197027206421
-DMART,2026-04-06,"larsen toubro q3 results: Latest News & Videos, Photos about larsen toubro q3 results - The Economic Times",-0.9353894591331482
-DMART,2026-04-05,"affle 3i ltd q4 results: Latest News & Videos, Photos about affle 3i ltd q4 results - The Economic Times",-0.9358450174331665
-DMART,2026-04-06,"physicswallah ltd q2 results: Latest News & Videos, Photos about physicswallah ltd q2 results - The Economic Times",-0.9388903379440308
-DMART,2026-04-06,"trent q4 revenue growth: Latest News & Videos, Photos about trent q4 revenue growth - The Economic Times",-0.9330011010169983
-DMART,2026-04-06,"nord 6 expected price: Latest News & Videos, Photos about nord 6 expected price - The Economic Times",-0.9439803957939148
-DMART,2026-04-05,"technichem organics ltd q2 results: Latest News & Videos, Photos about technichem organics ltd q2 results - The Economic Times",-0.9343671202659607
-DMART,2026-04-06,"pre sales growth fy26: Latest News & Videos, Photos about pre sales growth fy26 - The Economic Times",-0.931847870349884
-DMART,2026-04-06,"tamil cinema updates 2026: Latest News & Videos, Photos about tamil cinema updates 2026 - The Economic Times",-0.9395265579223633
-DMART,2026-04-06,Consumer goods cos upbeat as GST tailwinds lift volumes in March quarter - ET Retail,-0.6187184453010559
-DMART,2026-04-07,Consumer Goods Cos Upbeat as GST Tailwinds Lift Volumes in March Qtr - ET BrandEquity,-0.7229326963424683
-DMART,2026-04-07,"apple product update: Latest News & Videos, Photos about apple product update - The Economic Times",-0.9356501698493958
-DMART,2026-04-06,"fy27 earnings downgrade: Latest News & Videos, Photos about fy27 earnings downgrade - The Economic Times",-0.7864440083503723
-DMART,2026-04-06,IT firms may post muted Q4; weak INR to cushion earnings; FY27 guidance key - business-standard.com,-0.9572206735610962
-DMART,2026-04-06,Mkts rise over 1% on truce hopes; bank stocks lead rally as oil prices ease - business-standard.com,0.60830157995224
-DMART,2026-04-02,"paytm q3 fy26 results: Latest News & Videos, Photos about paytm q3 fy26 results - The Economic Times",-0.9365586638450623
-DMART,2026-04-07,"Lodha Developers' pre-sales up 23% at ₹5,890 cr in Q4, misses annual target - business-standard.com",0.9346950054168701
-DMART,2026-04-07,"TCS Q4 preview: Profit may rise 14% YoY; AI, deal wins key monitorables - business-standard.com",0.7535569071769714
-DMART,2026-04-03,"q3fy2025 26 performance: Latest News & Videos, Photos about q3fy2025 26 performance - The Economic Times",-0.9375510811805725
-DMART,2017-03-24,"Avenue Supermart Share Price Today, Avenue Supermart Stock Price Live NSE/BSE Updates - The Economic Times",-0.9409158229827881
-DMART,2026-04-06,Equirus ropes in Aletheia's Jim Walker; Bajaj Alts gets Sebi nod for PMS - business-standard.com,-0.8059300184249878
-DMART,2026-03-31,"TRUMP LIVE | POTUS signs executive order amid DHS shutdown, Iran war - The Economic Times Video | ET Tv - The Economic Times",-0.8630914092063904
-DMART,2026-04-06,UCO Bank reports strong Q4 FY26 business growth - business-standard.com,0.8677099943161011
-DMART,2026-04-06,Krebs Biochemicals & Industries Ltd leads gainers in 'B' group - business-standard.com,0.8276706337928772
-DMART,2026-04-06,HDFC Bank gains as average deposits climb 13% YoY in Q4 FY26 - business-standard.com,0.9299106001853943
-DMART,2026-04-06,TVS Motor jumps on bullish brokerage call - business-standard.com,-0.9017472267150879
-DMART,2026-04-06,Every $10 rise in oil above $90/bbl may hit Nifty earnings by 3%: Bernstein - business-standard.com,-0.8500698208808899
-DMART,2026-04-06,"Bank stocks mixed after Q4 update: BoB, BoM jump; HDFC Bank, IndusInd slip - business-standard.com",-0.7013976573944092
-DMART,2026-04-06,"Suryoday SFB rallies after Q4 deposits rises 32% YoY to Rs 13,958 crore - business-standard.com",0.9006823897361755
-DMART,2026-04-01,"Ganesha Ecosphere, Uflex zoom up to 20% on huge volumes; here's why - business-standard.com",0.7163393497467041
-DMART,2026-04-01,"RPSG Ventures shares soar 17%, rebound 70% from 52-week low; here's why - business-standard.com",0.7589796185493469
-DMART,2026-04-01,Cipla tanks 20% so far in CY 2026; hits over 2-year low in firm market - business-standard.com,-0.855993926525116
-DMART,2026-04-06,"Stocks to Watch today: Banks, Bajaj Auto, Tata Motors PV, Vedanta, Emami - business-standard.com",-0.9437267780303955
-DMART,2026-04-06,Ola Electric soars 34% in 3 days; hits 7-wk high on huge volume; here's why - business-standard.com,0.8763629198074341
-DMART,2026-04-06,"Anchor lock-in expiry to unlock $3,769-cr worth shares in April 2026 - business-standard.com",-0.945425271987915
-DMART,2026-04-06,"Gainers & Losers: Trent, RIL & DMart among 8 big movers on Monday - The Economic Times",-0.5674387216567993
-DMART,2025-07-11,"Indian supermarket chain DMart's Q1 profit falls as competition, higher costs bite - Reuters",-0.9674876928329468
-DMART,2025-10-12,DMART IN Equity 11Oct25 RU - bsmedia.business-standard.com,-0.9476235508918762
-DMART,2017-08-06,Check out Avenue Supermarts Ltd's stock price (DMART-IN) in real time - CNBC,-0.9450739622116089
-DMART,2025-03-24,Avenue Supermarts - bsmedia.business-standard.com,-0.9506560564041138
-DMART,2025-07-13,DMART IN 13Jul25 - bsmedia.business-standard.com,-0.9468708038330078
-DMART,2023-03-21,Avenue Supermarts21Mar23 - bsmedia.business-standard.com,-0.9487302899360657
-DMART,2024-06-19,DMART IN 19Jun24 - bsmedia.business-standard.com,-0.9484607577323914
-DMART,2017-03-21,DMART: Avenue Supermarts Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9482293725013733
-DMART,2021-06-02,Stock Research Report for Avenue Supermarts Ltd - The Economic Times,-0.9268738627433777
-DMART,2025-07-12,DMART IN Equity 12Jul25 RU - bsmedia.business-standard.com,-0.9471765160560608
-DMART,2017-03-30,Avenue Supermarts Ltd. - The Economic Times,-0.9275007247924805
-DMART,2022-07-25,Avenue Supermarts limited - bsmedia.business-standard.com,-0.9528959393501282
-DMART,2019-07-23,A£~¥L-- - bsmedia.business-standard.com,-0.9481431245803833
-DMART,2026-01-05,"D-Mart's December quarter revenue rises 13% to Rs 17,612 crore - ET BrandEquity",0.9489073157310486
-DMART,2025-10-13,D-Mart's Q2 profit up 3.8% to Rs 685 cr - ET BrandEquity,0.9518113136291504
-DMART,2025-01-11,DMart Parent Taps Unilever’s Asawa to Take Over as CEO in 2026 - bloomberg.com,-0.9506478905677795
-DMART,2018-08-01,"d mart: Latest News & Videos, Photos about d mart - The Economic Times",-0.9328178763389587
-DMART,2025-07-19,Ashu Gupta - bsmedia.business-standard.com,-0.9437187314033508
-DMART,2025-01-11,D-Mart Q3 net profit rises 4.8% to Rs 723.5 crore - ET Retail,0.9437479972839355
-DMART,2025-05-03,DMart Q4 profit dips marginally to Rs 551 crore despite strong revenue growth - ET Retail,-0.9692729711532593
-DMART,2025-05-04,DMart profit margins hit lowest in 3 years - ET Retail,-0.9595091938972473
-DMART,2025-10-12,D-Mart's Q2 profit up 3.8% to Rs 685 cr - ET Retail,0.9528211355209351
-DMART,2025-07-12,"DMart Q1 Results: Revenue up 16%, profit flat as cost headwinds persist - ET Retail",0.9239903688430786
-DMART,2024-10-13,Dmart Shares Fall on Concern Online Competitors Hurting Sales - bloomberg.com,-0.9626132249832153
-DMART,2026-01-12,"D-Mart's Q3 profit jumps 18% to Rs 855.8 cr, sales rise 13% to Rs 18,100.9 cr - ET BrandEquity",0.9387980103492737
-DMART,2025-12-29,"DMart prioritises store expansion to drive long-term cash flow, as JioMart and Blinkit lead weekly active user growth: Report - ET Retail",-0.6027330756187439
-DMART,2019-04-15,AVENUE SUPERMARTS - bsmedia.business-standard.com,-0.9506560564041138
-DMART,2024-07-13,DMart's net profit rises 17.5% to Rs 774 crore in Q1 FY25; apparel and general merchandise shows growth - ET Retail,0.9552326798439026
-DMART,2025-01-13,"DMart Slips on Profit Miss as Discounts, Rapid Deliveries Hurt - bloomberg.com",-0.9562423229217529
-DMART,2023-10-15,India's DMart slides after posting first profit drop in three years - Reuters,-0.9685618877410889
-DMART,2017-01-07,"Dmart - Latest dmart , Information & Updates - Retail - ET Retail",-0.9502245783805847
-DMART,2024-05-04,DMart's net profit surges 22.3% to Rs 563 crore in Q4 FY24; sees continued uptick in general merchandise and apparel contribution - ET Retail,0.9531065225601196
-DMART,2023-07-19,"Dmart's online business crosses Rs 2000 crore sales mark, losses widened to Rs 194 crore - ET Retail",0.9465228319168091
-DMART,2026-01-12,"D-Mart's Q3 profit jumps 18% to Rs 855.8 cr, sales rise 13% to Rs 18,100.9 cr - ET Retail",0.9391323328018188
-DMART,2017-11-01,AVENUE SUPERMARTS - ET Retail,-0.940329909324646
-DMART,2024-01-13,Dmart: Avenue Supermarts' net profit rises 17% to Rs 690.41 crore in Q3 FY24 - ET Retail,0.9513050317764282
-DMART,2025-01-11,End of an era: DMart CEO Neville Noronha to step down; Ex-Unilever Anshul Asawa to take over - ET Retail,-0.8671641945838928
-DMART,2022-07-26,Avenue Supermarts' online business more than doubled during FY22 but loss widened too - ET Retail,0.9512730240821838
-DMART,2023-10-14,"Avenue Supermarts' Q2 total revenue crosses Rs 12,624 cr; added 9 DMart stores in Q2 FY24 - ET Retail",0.8885817527770996
-DMART,2022-08-17,India Budget Grocery Chain Eyes Fivefold Growth in Heated Market - bloomberg.com,0.6893231868743896
-DMART,2017-10-09,D MART - ET Retail,-0.9393749237060547
-DMART,2017-01-07,RADHAKISHAN DAMANI - ET Retail,-0.9331779479980469
-DMART,2022-08-18,Dmart: Radhakishan Damani eyes fivefold growth in a market Mukesh Ambani wants to dominate - ET Retail,0.8155388236045837
-DMART,2016-10-19,What makes DMart public offer so special - ET Retail,-0.932866096496582
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+DMART,2020-01-13,Avenue Supermarts’ Q3FY20 doesn’t disappoint; sustainability crucial - Livemint,Livemint,2026-10-19,live,positive,0.563960611820221,0.011869175359606743,0.42417022585868835,0.5520914364606142
+DMART,2020-01-28,"Manjri Chandak, Avenue Supermarts Ltd: Profile and Biography - Bloomberg.com",Bloomberg.com,2026-10-19,live,neutral,0.025462884455919266,0.02917403168976307,0.9453631639480591,-0.0037111472338438034
+DMART,2020-01-30,"Avenue Supermarts hits fresh all-time high, gains 5% in two days - Business Standard",Business Standard,2026-10-19,live,positive,0.9372549653053284,0.025844499468803406,0.0369005985558033,0.911410465836525
+DMART,2020-02-05,"Avenue Supermarts pips Wipro, HDFC Life to enter top 20 most valued co club - Business Standard",Business Standard,2026-10-19,live,positive,0.734218955039978,0.009032855741679668,0.256748229265213,0.7251860992982984
+DMART,2020-02-05,DMart owner Avenue Supermarts launches mega QIP to trim promoter stake - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.06215757504105568,0.10277963429689407,0.8350627422332764,-0.040622059255838394
+DMART,2020-02-07,"DMart operator Avenue Supermarts' promoters may approve OFS worth Rs 3,500cr - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.06457175314426422,0.012136594392359257,0.9232916831970215,0.052435158751904964
+DMART,2020-02-13,DMart promoters to sell shares via OFS - Livemint,Livemint,2026-10-19,live,neutral,0.059110596776008606,0.009897283278405666,0.9309921264648438,0.04921331349760294
+DMART,2020-02-18,"India's richest CEO: Avenue Supermarts' Ignatius Navil Noronha has net worth of Rs 3,128cr - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.04257209971547127,0.018100924789905548,0.9393270015716553,0.02447117492556572
+DMART,2020-02-20,Cyril Amarchand Mangaldas advises Avenue Supermarts Ltd on its Rs 4098 cr QIP - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03598470613360405,0.0235581174492836,0.9404571652412415,0.01242658868432045
+DMART,2020-04-05,Avenue Supermarts: D-Mart promoter Radhakishan Damani donates Rs 155 crore to PM Cares Fund - ETRetail.com,ETRetail.com,2026-10-19,live,neutral,0.19856901466846466,0.009666267782449722,0.7917647361755371,0.18890274688601494
+DMART,2020-04-07,Supermarket Billionaire’s Wealth Surges Amid India Lockdown - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.08739973604679108,0.050371553748846054,0.8622287511825562,0.03702818229794502
+DMART,2020-04-08,"Radhakishan Damani, the only Indian tycoon to get richer under lockdown - ET Retail",ET Retail,2026-10-19,live,neutral,0.3846440017223358,0.01655752956867218,0.5987985134124756,0.36808647215366364
+DMART,2020-04-13,Avenue Supermarts tanks 5% after update on Covid-19 lockdown impact - Business Standard,Business Standard,2026-10-19,live,positive,0.5704483389854431,0.37395983934402466,0.055591825395822525,0.19648849964141846
+DMART,2020-05-21,Avenue Supermarts becomes 11th most valued Indian firm by market cap - ET Retail,ET Retail,2026-10-19,live,positive,0.8832861185073853,0.011252766475081444,0.10546114295721054,0.8720333520323038
+DMART,2020-07-12,Stores recover 80% per cent of pre-COVID sales: D-Mart - ET Retail,ET Retail,2026-10-19,live,positive,0.5120726227760315,0.3727288842201233,0.11519846320152283,0.1393437385559082
+DMART,2021-01-11,"Avenue Supermarts shares jump 4%. Should you buy, sell, or hold after Q1 results? - The Economic Times",,2026-10-18,legacy,neutral,0.05680372193455696,0.028885861858725548,0.9143104553222656,0.027917860075831413
+DMART,2021-03-20,"Avenue Supermarts buys 39,000 sq. ft retail space in Chembur for Rs 113 crore: Report - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.0653388649225235,0.012523283250629902,0.9221378564834595,0.0528155816718936
+DMART,2021-03-31,"Avenue Supermarts fancied as strong, long-term wealth creator - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.12674352526664734,0.011343150399625301,0.86191326379776,0.11540037486702204
+DMART,2021-07-03,"D-Mart posts 31% rise in revenue to Rs 5,032 crore in Q1 - ET Retail",ET Retail,2026-10-19,live,positive,0.9519532322883606,0.018766552209854126,0.029280180111527443,0.9331866800785065
+DMART,2021-07-10,Avenue Supermarts Q1 preview: D-Mart operator likely to see significant earnings growth on low base - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9197964668273926,0.0170365571975708,0.06316696107387543,0.9027599096298218
+DMART,2021-10-04,"D-Mart's Q2 revenue up 46.6% at Rs 7,649.64 crore - ET Retail",ET Retail,2026-10-19,live,positive,0.951682984828949,0.02364286780357361,0.024674156680703163,0.9280401170253754
+DMART,2021-10-18,India's DMart owner's stock tumbles on valuation worries - Reuters,,2026-10-18,legacy,negative,0.008618779480457306,0.94707190990448,0.044309306889772415,-0.9384531304240227
+DMART,2022-02-23,Avenue Supermarts to open store in GIFT City - ET Retail,ET Retail,2026-10-19,live,neutral,0.08248631656169891,0.01453420240432024,0.9029794931411743,0.06795211415737867
+DMART,2022-06-09,AVEU.NS - Reuters,Reuters,2026-10-19,live,neutral,0.02247779816389084,0.03195725008845329,0.9455649852752686,-0.009479451924562454
+DMART,2022-07-02,"D-Mart Q1 reports almost two-fold rise in revenue to Rs 9,806.89 crore - Business Standard",Business Standard,2026-10-19,live,positive,0.9500096440315247,0.021562952548265457,0.028427468612790108,0.9284466914832592
+DMART,2022-07-03,"D-Mart Q1 revenue jumps almost 2-fold to Rs 9,806.89 crore - ET Retail",,2026-10-18,legacy,positive,0.9009965062141418,0.06949690729379654,0.0295066200196743,0.8314995989203453
+DMART,2022-07-09,"D-Mart Q1 profit jumps multifold to Rs 642.89 crore, sales almost double - ET Retail",ET Retail,2026-10-19,live,positive,0.9339961409568787,0.04257994145154953,0.023423872888088226,0.8914161995053291
+DMART,2022-07-26,Avenue Supermarts' online business more than doubled during FY22 but loss widened too - ET Retail,ET Retail,2026-10-19,live,positive,0.9512730240821838,0.019552059471607208,0.02917494997382164,0.9317209646105766
+DMART,2022-10-15,"Avenue Supermarts Q2 profit rises 64%, revenue 36% on FMCG, staples demand - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.8785494565963745,0.016645874828100204,0.10480464994907379,0.8619035817682743
+DMART,2023-01-17,D-Mart's thinning profit margins indicate new pain point for investors - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.014602095820009708,0.9579674005508423,0.027430543676018715,-0.9433653047308326
+DMART,2023-05-13,Avenue Supermarts posts 7.8% rise in profit at Rs 460 crore in Q4 FY23 - ET Retail,ET Retail,2026-10-19,live,positive,0.9487808346748352,0.02452738955616951,0.02669168822467327,0.9242534451186657
+DMART,2023-05-15,"India's DMart slumps nearly 5% on profit miss, margin drop - Reuters",,2026-10-18,legacy,negative,0.008360113948583603,0.9702245593070984,0.021415354683995247,-0.9618644453585148
+DMART,2023-05-30,Avenue Supermarts Profit Loss: Check Avenue Supermarts Profit & Loss Account Annual Statement - Livemint,Livemint,2026-10-19,live,negative,0.01806783676147461,0.5249923467636108,0.45693981647491455,-0.5069245100021362
+DMART,2023-06-05,"Avenue Supermarts News: Find Avenue Supermarts News Today, Latest News Avenue Supermarts - Livemint",Livemint,2026-10-19,live,neutral,0.03429581597447395,0.02195255644619465,0.9437516331672668,0.012343259528279305
+DMART,2023-07-17,Avenue Supermarts - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.022298330441117287,0.03716548532247543,0.9405361413955688,-0.014867154881358147
+DMART,2023-07-19,"Avenue E-Commerce losses widen, revenue surges past Rs 2,000 crore - Business Standard",Business Standard,2026-10-19,live,positive,0.9403889775276184,0.030582528561353683,0.029028529301285744,0.9098064489662647
+DMART,2023-07-19,"Dmart's online business crosses Rs 2000 crore sales mark, losses widened to Rs 194 crore - ET Retail",,2026-10-18,legacy,positive,0.9465228319168091,0.023197608068585396,0.030279530212283134,0.9233252238482237
+DMART,2023-07-23,Avenue Supermarts Q1 Results 2026 - Find Avenue Supermarts Q1 Earnings Result | DMART Q1 results - Livemint,Livemint,2026-10-19,live,neutral,0.03675292432308197,0.07194243371486664,0.891304612159729,-0.03518950939178467
+DMART,2023-07-24,Avenue Supermarts Q3 Results 2026 - Find Avenue Supermarts Q3 Earnings Result | DMART Q3 results - Livemint,Livemint,2026-10-19,live,neutral,0.03379371389746666,0.07993364334106445,0.886272668838501,-0.046139929443597794
+DMART,2023-09-08,D'Mart operator Avenue Supermarts' Rs 88 Crore Mumbai property purchase fails to incite investor interest - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.02606363594532013,0.6828897595405579,0.2910466492176056,-0.6568261235952377
+DMART,2023-10-04,"DMart's revenue rises 18.51% to Rs 12,307.72 crore in Q2 - ET Retail",ET Retail,2026-10-19,live,positive,0.9492562413215637,0.02127479761838913,0.029468988999724388,0.9279814437031746
+DMART,2023-10-14,"Avenue Supermarts' Q2 total revenue crosses Rs 12,624 cr; added 9 DMart stores in Q2 FY24 - ET Retail",,2026-10-18,legacy,positive,0.8885816335678101,0.009970222599804401,0.10144814848899841,0.8786114109680057
+DMART,2024-01-13,"Avenue Supermarts Q3: D-Mart operator's net profit rises 17% to Rs 690 crore, revenue up 17.3% - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9507010579109192,0.020671050995588303,0.02862786501646042,0.9300300069153309
+DMART,2024-01-13,Avenue Supermarts' net profit rises 17% to Rs 690.41 crore in Q3 FY24 - ET Retail,ET Retail,2026-10-19,live,positive,0.9496124982833862,0.023818276822566986,0.026569224894046783,0.9257942214608192
+DMART,2024-02-28,"avenue supermarts Forum Discussion on Market View, Business sectors,Stocks, Commodity, Personal Finance & More - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.02755245938897133,0.026752550154924393,0.9456950426101685,0.000799909234046936
+DMART,2024-03-13,Avenue Supermarts rises on store additions; Morgan Stanley remains bullish - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.6503466367721558,0.30985167622566223,0.03980173170566559,0.34049496054649353
+DMART,2024-04-04,"D-Mart's Q4 revenue from operation rises nearly 20% to Rs 12,393.46 cr - Business Standard",Business Standard,2026-10-19,live,positive,0.9483348727226257,0.019974110648036003,0.031691037118434906,0.9283607620745897
+DMART,2024-05-04,"DMart Q4 results: Net profit rises 22% to Rs 563 crore, revenue up 20% - Business Standard",,2026-10-18,legacy,positive,0.9528040885925293,0.022357331588864326,0.024838590994477272,0.930446757003665
+DMART,2024-05-04,DMart's net profit surges 22.3% to Rs 563 crore in Q4 FY24; sees continued uptick in general merchandise and.. - ET Retail,,2026-10-18,legacy,positive,0.9540190100669861,0.021749667823314667,0.02423134259879589,0.9322693422436714
+DMART,2024-05-16,"Quick commerce a 'smarter format' than digital platforms, says Avenue Supermarts CEO Neville Noronha - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.5585187077522278,0.009296698495745659,0.4321845769882202,0.5492220092564821
+DMART,2024-06-19,DMART IN 19Jun24 - Business Standard,,2026-10-18,legacy,neutral,0.03988039121031761,0.02044566348195076,0.939673900604248,0.019434727728366852
+DMART,2024-07-13,Avenue Supermarts adds 6 stores in Q1 FY25 and 2 more in July to a total of 373 stores - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.10426060855388641,0.01371517963707447,0.8820242285728455,0.09054542891681194
+DMART,2025-02-25,AVENUE SUPERMARTS LIMITED - LEI: 335800B2ZPJKOU2ZM776 - Bloomberg LEI,Bloomberg LEI,2026-10-19,live,neutral,0.05148506537079811,0.01699661836028099,0.9315182566642761,0.03448844701051712
+DMART,2025-03-24,Avenue Supermarts - Business Standard,,2026-10-18,legacy,neutral,0.046906616538763046,0.016704199835658073,0.9363892078399658,0.030202416703104973
+DMART,2025-07-11,"Indian supermarket chain DMart's Q1 profit falls as competition, higher costs bite - Reuters",,2026-10-18,legacy,negative,0.008265604265034199,0.9674876928329468,0.024246664717793465,-0.9592220885679126
+DMART,2025-07-13,DMART IN 13Jul25 - Business Standard,,2026-10-18,legacy,neutral,0.055688388645648956,0.015005499124526978,0.9293060898780823,0.04068288952112198
+DMART,2026-04-11,DMART IN Equity 11Apr26 - Business Standard,,2026-10-18,legacy,neutral,0.06472297757863998,0.01351101789623499,0.9217659831047058,0.051211959682404995
+DMART,2026-05-03,DMART IN 03May26 - Business Standard,,2026-10-18,legacy,neutral,0.032715748995542526,0.021623043343424797,0.9456612467765808,0.01109270565211773
+DMART,2026-07-12,DMart Recasts Strategy as Rapid Delivery Competition Intensifies - Bloomberg.com,,2026-10-18,legacy,neutral,0.09661038964986801,0.016794642433524132,0.8865950107574463,0.07981574721634388
+DMART,2026-09-09,Avenue Supermarts raises Rs 300 cr via commercial paper - ET Retail,ET Retail,2026-10-19,live,neutral,0.18223421275615692,0.00891812052577734,0.8088477253913879,0.17331609223037958
+DMART,2026-09-18,Daily Morning Newsletter - ET Retail,ET Retail,2026-10-19,live,neutral,0.03402218967676163,0.02314242161810398,0.9428353905677795,0.010879768058657646
+DMART,2026-10-05,Avenue Supermarts Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.038991548120975494,0.033507704734802246,0.9275007247924805,0.005483843386173248
+DMART,2026-10-10,"Stocks in news: DMart, IREDA, TCS, ZEE, HUL, Glenmark Pharma - The Economic Times",,2026-10-18,legacy,neutral,0.04345431923866272,0.020747868344187737,0.9357978701591492,0.022706450894474983
+DMART,2026-10-11,Cadence pitches homegrown EDA industry for India's chip design push - Business Standard,,2026-10-18,legacy,neutral,0.2845609784126282,0.007349926047027111,0.7080891132354736,0.27721105236560106
+DMART,2026-10-11,"Delhi Traffic Police issues advisory, warns of disruptions on October 12 - Business Standard",,2026-10-18,legacy,negative,0.015235178172588348,0.9307631254196167,0.05400167033076286,-0.9155279472470284
+DMART,2026-10-11,Ecomm sell goods worth ₹24k cr in first two days of festive sales: Redseer - Business Standard,,2026-10-18,legacy,neutral,0.05965645611286163,0.013654546812176704,0.9266890287399292,0.04600190930068493
+DMART,2026-10-12,Amazon eyes Decart acquisition at $7 billion as AI chip race intensifies - Business Standard,,2026-10-18,legacy,neutral,0.0723109096288681,0.037530120462179184,0.8901589512825012,0.03478078916668892
+DMART,2026-10-12,Amazon in talks to acquire AI startup Decart for around $7 billion - Business Standard,,2026-10-18,legacy,neutral,0.11695054173469543,0.009834346361458302,0.8732150793075562,0.10711619537323713
+DMART,2026-10-12,"Asian shares cautious as earnings loom, oil prices slip on easing fears - Business Standard",,2026-10-18,legacy,negative,0.038956016302108765,0.9372960925102234,0.023747943341732025,-0.8983400762081146
+DMART,2026-10-12,"Avenue Supermarts share price target after Q2 results: What's next for DMart? Motilal Oswal, ICICI Securities say this - Livemint",Livemint,2026-10-19,live,neutral,0.04847223684191704,0.018588148057460785,0.9329396486282349,0.029884088784456253
+DMART,2026-10-12,Avenue Supermarts’ Q2 earnings-revenue growth mismatch is a problem - Livemint,Livemint,2026-10-19,live,negative,0.017498519271612167,0.9254193305969238,0.0570821687579155,-0.9079208113253117
+DMART,2026-10-12,CJI turns down Congress's meeting request; Opposition march to SC today - Business Standard,,2026-10-18,legacy,neutral,0.05125148221850395,0.22590850293636322,0.7228400111198425,-0.17465702071785927
+DMART,2026-10-12,DMart stock down 3%: Why brokerages are mixed on RK Damani co after Q2 show - Business Standard,,2026-10-18,legacy,negative,0.010501445271074772,0.9483014345169067,0.041197095066308975,-0.937799989245832
+DMART,2026-10-12,"DMart's margin recovery may take time amid rising costs, store expansion - Business Standard",,2026-10-18,legacy,positive,0.8063147068023682,0.11777889728546143,0.07590638101100922,0.6885358095169067
+DMART,2026-10-12,Defence startup Tonbo Imaging fixes IPO price band at ₹665-700 a share - Business Standard,,2026-10-18,legacy,neutral,0.04747133329510689,0.07898740470409393,0.8735412359237671,-0.031516071408987045
+DMART,2026-10-12,Don't see US acting against tech companies based on their domicile: TCS - Business Standard,,2026-10-18,legacy,neutral,0.027434416115283966,0.031502723693847656,0.941062867641449,-0.00406830757856369
+DMART,2026-10-12,"Equity mutual fund inflows hit 5-month high on small, midcap rush - Business Standard",,2026-10-18,legacy,positive,0.9435182213783264,0.024412397295236588,0.0320693664252758,0.9191058240830898
+DMART,2026-10-12,FII ownership hits 17-year low of 15.1% but holdings rise 3.6x to $783 bn - Business Standard,,2026-10-18,legacy,negative,0.27784964442253113,0.6921557188034058,0.029994597658514977,-0.41430607438087463
+DMART,2026-10-12,Global Market: Goldman Sachs raises December Brent oil price forecast to $90 on supply risks - The Economic Times,,2026-10-18,legacy,positive,0.7286944389343262,0.1278064101934433,0.14349918067455292,0.6008880287408829
+DMART,2026-10-12,Goldman ups Dec'26 oil forecast to $90/bbl; 2027 worst-case pegged at $125 - Business Standard,,2026-10-18,legacy,positive,0.7458147406578064,0.04976794496178627,0.20441733300685883,0.6960467956960201
+DMART,2026-10-12,HCL Tech Q2 preview: 6 key things to watch out for in IT major's earnings - Business Standard,,2026-10-18,legacy,neutral,0.08644293993711472,0.013101938180625439,0.9004550576210022,0.07334100175648928
+DMART,2026-10-12,Hamilton apologises to Ferrari after illness following Singapore Grand Prix - Business Standard,,2026-10-18,legacy,negative,0.01706162840127945,0.9165307283401489,0.06640765070915222,-0.8994690999388695
+DMART,2026-10-12,Hold Avenue Supermarts; target of Rs 3700: ICICI Securities - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.028863241896033287,0.01990577019751072,0.9512309432029724,0.008957471698522568
+DMART,2026-10-12,"IT, telecom stocks decline as market selloff resumes amid FII outflows - Business Standard",,2026-10-18,legacy,negative,0.008332477882504463,0.9702758193016052,0.021391736343503,-0.9619433414191008
+DMART,2026-10-12,India benchmark shares fall as inflation woes overshadow RBI support measures - Reuters,,2026-10-18,legacy,negative,0.008322447538375854,0.9588415026664734,0.03283604606986046,-0.9505190551280975
+DMART,2026-10-12,Lenskart slips 5% on huge block deals; Alpha Wave Venture likely seller - Business Standard,,2026-10-18,legacy,negative,0.03382256254553795,0.927884578704834,0.03829297423362732,-0.894062016159296
+DMART,2026-10-12,Man City deliver statement victory with 3-0 win over Liverpool at Anfield - Business Standard,,2026-10-18,legacy,positive,0.8350125551223755,0.02132376655936241,0.14366376399993896,0.8136887885630131
+DMART,2026-10-12,Medical devices maker SMT in talks for ₹200 crore pre-IPO round - Livemint,Livemint,2026-10-19,live,neutral,0.18918269872665405,0.01031466480344534,0.8005026578903198,0.1788680339232087
+DMART,2026-10-12,"Meesho share price rallies 5%, nears record high in weak market; here's why - Business Standard",,2026-10-18,legacy,positive,0.7684698104858398,0.059226322919130325,0.17230382561683655,0.7092434875667095
+DMART,2026-10-12,"Mutual fund SIP inflows hit record ₹32,490 crore in September; equity inflows rise 31% - Livemint",Livemint,2026-10-19,live,positive,0.9401032328605652,0.021030569449067116,0.03886619210243225,0.9190726634114981
+DMART,2026-10-12,Pakistan edge past Sri Lanka by 82 runs to clinch series with 2-0 lead - Business Standard,,2026-10-18,legacy,positive,0.7936025261878967,0.031032728031277657,0.17536477744579315,0.7625697981566191
+DMART,2026-10-12,Poonawalla Fincorp shares surge 8% as Q2 profit jumps nearly 5-fold - Business Standard,,2026-10-18,legacy,positive,0.9281026721000671,0.03930729627609253,0.03258998692035675,0.8887953758239746
+DMART,2026-10-12,"Q2 results today: HCLTech, ICICI Pru among 18 firms to report earnings - Business Standard",,2026-10-18,legacy,positive,0.5380606651306152,0.016261495649814606,0.44567787647247314,0.5217991694808006
+DMART,2026-10-12,"RBI measures to support rupee weigh on govt bonds, domestic equities - Business Standard",,2026-10-18,legacy,neutral,0.27150028944015503,0.01175316795706749,0.7167465686798096,0.25974712148308754
+DMART,2026-10-12,RBL Bank Q2FY27 results: Net profit rises 2.7-fold to ₹482 crore - Business Standard,,2026-10-18,legacy,positive,0.9498711824417114,0.025804055854678154,0.024324752390384674,0.9240671265870333
+DMART,2026-10-12,Rupee opens over 1% higher at 95.73 on RBI measures to curb dollar demand - Business Standard,,2026-10-18,legacy,positive,0.8597728610038757,0.10002829879522324,0.04019880294799805,0.7597445622086525
+DMART,2026-10-12,Rupee posts biggest gain in 6 months after RBI measures to support currency - Business Standard,,2026-10-18,legacy,positive,0.9179707169532776,0.031396884471178055,0.050632450729608536,0.8865738324820995
+DMART,2026-10-12,"Sebi notifies common ad code, allows celebrity endorsements for brands - Business Standard",,2026-10-18,legacy,neutral,0.044136933982372284,0.013095456175506115,0.9427676796913147,0.03104147780686617
+DMART,2026-10-12,Sebi nudges brokerage firms to join return verification platform - Business Standard,,2026-10-18,legacy,neutral,0.15882356464862823,0.009205077774822712,0.8319713473320007,0.14961848687380552
+DMART,2026-10-12,"Stocks in news: HCL Technologies, DMart, Adani Green Energy, PTC Industries and Anand Rathi Wealth - The Economic Times",,2026-10-18,legacy,neutral,0.048323363065719604,0.02066742442548275,0.9310092329978943,0.027655938640236855
+DMART,2026-10-12,"Stocks to watch: HCLTech, DMart, M&M, Adani Green, KEC Int'l, ICICI Pru - Business Standard",,2026-10-18,legacy,neutral,0.04542894288897514,0.014763463288545609,0.9398075938224792,0.030665479600429535
+DMART,2026-10-12,Suzlon jumps 5% on ₹550 cr investment plan; MOFSL says valuation attractive - Business Standard,,2026-10-18,legacy,positive,0.9450476765632629,0.01759704202413559,0.03735533356666565,0.9274506345391273
+DMART,2026-10-12,"Taking Stock: Bears back in action; Nifty below 22,400, Sensex slumps 548 pts as IT, FMCG drag - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.04344000294804573,0.7068697214126587,0.24969027936458588,-0.663429718464613
+DMART,2026-10-12,"Tata Motors PV, Stellantis expand tie-up for global vehicle development - Business Standard",,2026-10-18,legacy,positive,0.7751585841178894,0.00767306424677372,0.21716834604740143,0.7674855198711157
+DMART,2026-10-12,Why Nomura prefers Airtel in telecom sector even as Jio gears up to list - Business Standard,,2026-10-18,legacy,neutral,0.11129619181156158,0.012290495447814465,0.8764133453369141,0.09900569636374712
+DMART,2026-10-12,Why flexible office space providers are grabbing centre stage - Livemint,Livemint,2026-10-19,live,neutral,0.05990033596754074,0.02853165753185749,0.9115679860115051,0.03136867843568325
+DMART,2026-10-12,Zetwerk IPO eyes big returns; Flipkart alumni seek Esop buyback - The Economic Times,,2026-10-18,legacy,neutral,0.23487941920757294,0.011608472093939781,0.7535120844841003,0.22327094711363316
+DMART,2026-10-12,"Zetwerk, Bonfiglioli Transmissions, Tonbo, SMT announce IPO price bands - Business Standard",,2026-10-18,legacy,neutral,0.03403265029191971,0.017456281930208206,0.9485110640525818,0.016576368361711502
+DMART,2026-10-13,"DMart extends slide, hits new 52-week low; stock down 12% in October - Business Standard",,2026-10-18,legacy,negative,0.011243866756558418,0.9702779650688171,0.0184781476855278,-0.9590340983122587
+DMART,2026-10-13,F&O alert: Polycab to exit NSE's Futures & Options segment; stock dips 5% - Business Standard,,2026-10-18,legacy,negative,0.015421825461089611,0.9609509706497192,0.02362719550728798,-0.9455291451886296
+DMART,2026-10-13,ICICI Life Insurance's profit up 25% at ₹374 cr on higher premium income - Business Standard,,2026-10-18,legacy,positive,0.953873872756958,0.02110428735613823,0.025021959096193314,0.9327695854008198
+DMART,2026-10-13,"Kotak Neo's Shrikant Chouhan bullish on BEL, Greenply; check targets - Business Standard",,2026-10-18,legacy,neutral,0.16415341198444366,0.05389240384101868,0.7819541692733765,0.11026100814342499
+DMART,2026-10-13,"MOFSL sees telecom sector re-rating ahead of Jio IPO; RIL, Airtel in focus - Business Standard",,2026-10-18,legacy,positive,0.6963074207305908,0.018635574728250504,0.2850569188594818,0.6776718460023403
+DMART,2026-10-13,Nestle India Q2 preview: Strong volumes to drive growth; PAT may top ₹1k cr - Business Standard,,2026-10-18,legacy,positive,0.9504172801971436,0.016964498907327652,0.03261818364262581,0.9334527812898159
+DMART,2026-10-13,"Nifty at 26,500 in 4-5 months: What's behind Monarch Capital's bull call? - Business Standard",,2026-10-18,legacy,neutral,0.03642376512289047,0.06042667105793953,0.9031494855880737,-0.024002905935049057
+DMART,2026-10-13,"Nifty weekly expiry in focus; Analysts decode charts, derivatives positions - Business Standard",,2026-10-18,legacy,neutral,0.040302716195583344,0.038347214460372925,0.9213501214981079,0.0019555017352104187
+DMART,2026-10-13,"Paytm, Mobikwik, Pine Labs rebound even as NPCI defers MDR on UPI; read why - Business Standard",,2026-10-18,legacy,positive,0.8997323513031006,0.027033085003495216,0.07323449105024338,0.8726992662996054
+DMART,2026-10-13,Price Action: RBL Bank shares shed 6% after Q2 earnings; IT stocks trade higher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.010190588422119617,0.9621104001998901,0.027698999270796776,-0.9519198117777705
+DMART,2026-10-13,"Q2 results today: Hero Motors, Tata Elxsi, 20 others to report earnings - Business Standard",,2026-10-18,legacy,neutral,0.09496274590492249,0.019885554909706116,0.8851516842842102,0.07507719099521637
+DMART,2026-10-13,"Record FPI outflows top ₹3 trillion in CY26, nearly double 2025 tally - Business Standard",,2026-10-18,legacy,positive,0.814744770526886,0.03130120784044266,0.15395405888557434,0.7834435626864433
+DMART,2026-10-13,SMIDs rally heats up bets in IPO & secondary market; raises bar on earnings - Business Standard,,2026-10-18,legacy,positive,0.7215666174888611,0.16433531045913696,0.11409810930490494,0.5572313070297241
+DMART,2026-10-13,"Stocks to watch: HCLTech, RBL Bank, IRCON, TMPV, Hero Motors, Nazara Tech - Business Standard",,2026-10-18,legacy,neutral,0.042975522577762604,0.015685781836509705,0.9413387179374695,0.0272897407412529
+DMART,2026-10-13,"Taking Stock: FM's LTCG remark lifts market; Nifty reclaims 22,700, Sensex jumps 1,100 pts - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.2525039315223694,0.0314856618642807,0.7160103917121887,0.22101826965808868
+DMART,2026-10-14,How to check the performance of a mutual fund - The Economic Times,,2026-10-18,legacy,neutral,0.042175401002168655,0.038820430636405945,0.9190042018890381,0.0033549703657627106
+DMART,2026-10-14,"Q2 results today: BHEL, Canara Bank, Groww, 24 others to report earnings - Business Standard",,2026-10-18,legacy,neutral,0.07811221480369568,0.017004186287522316,0.904883623123169,0.06110802851617336
+DMART,2026-10-14,Quick-commerce platforms see mixed user trends; Blinkit’s iOS share rises to 46 per cent: CLSA - ET Retail,,2026-10-18,legacy,positive,0.6240731477737427,0.32083702087402344,0.05508978292346001,0.30323612689971924
+DMART,2026-10-15,Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times,,2026-10-18,legacy,neutral,0.03271380066871643,0.03316112980246544,0.9341251254081726,-0.0004473291337490082
+DMART,2026-10-15,CANARA BANK SHARE TARGET PRICE - The Economic Times,,2026-10-18,legacy,neutral,0.03557570278644562,0.0259683970361948,0.9384559392929077,0.009607305750250816
+DMART,2026-10-15,India's alternative accommodation market expected to reach $4.7 billion in GBV by FY29: Report - The Economic Times,,2026-10-18,legacy,neutral,0.1803230494260788,0.010923914611339569,0.8087530136108398,0.16939913481473923
+DMART,2026-10-15,"SBI achieves record Rs 25,000 crore institutional share sale with strong investor demand - The Economic Times",,2026-10-18,legacy,positive,0.9334800243377686,0.012290576472878456,0.05422935262322426,0.9211894478648901
+DMART,2026-10-16,AIR CONDITIONER BUSINESS GROWTH - The Economic Times,,2026-10-18,legacy,neutral,0.10788827389478683,0.01885237731039524,0.8732593655586243,0.0890358965843916
+DMART,2026-10-16,Cult.fit receives Sebi approval for proposed IPO - The Economic Times,,2026-10-18,legacy,neutral,0.134641632437706,0.011145109310746193,0.8542132377624512,0.1234965231269598
+DMART,2026-10-16,DMart share price hits over 3-year low; down 28% from April high - Business Standard,,2026-10-18,legacy,negative,0.011572620831429958,0.9753772020339966,0.013050097040832043,-0.9638045812025666
+DMART,2026-10-16,"Federal Bank net profit surges 45% to record ₹1,386 crore on higher NII - Business Standard",,2026-10-18,legacy,positive,0.9399955868721008,0.031898412853479385,0.028106018900871277,0.9080971740186214
+DMART,2026-10-16,"Global Market: Yuan holds steady, set for third weekly gain on robust Chinese exports - The Economic Times",,2026-10-18,legacy,positive,0.9184713363647461,0.03164316713809967,0.049885496497154236,0.8868281692266464
+DMART,2026-10-16,Gold FoFs halt fresh investments before Diwali: What investors can do - Business Standard,,2026-10-18,legacy,neutral,0.03462257608771324,0.05260065943002701,0.9127767086029053,-0.017978083342313766
+DMART,2026-10-16,"Indian Hotels, Oriental Hotels rally up to 6%; what's driving hotel stocks? - Business Standard",,2026-10-18,legacy,positive,0.6385455131530762,0.025501420721411705,0.3359529972076416,0.6130440924316645
+DMART,2026-10-16,Jio IPO GMP at 20%: Grey market signals Rs 220 premium as brokerages say subscribe - The Economic Times,,2026-10-18,legacy,positive,0.6058214902877808,0.04833555221557617,0.34584298729896545,0.5574859380722046
+DMART,2026-10-16,L&T Finance Q2 net profit rises 33% to Rs 975 crore - The Economic Times,,2026-10-18,legacy,positive,0.9240450263023376,0.03130463510751724,0.044650401920080185,0.8927403911948204
+DMART,2026-10-16,"Momentum Stocks: Blue Coast, Sunrest Lifescience, Quick Heal Technologies gain on sheer momentum - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.534050464630127,0.026022426784038544,0.4399271607398987,0.5080280378460884
+DMART,2026-10-16,"NSE, BSE, Groww, other capital market stocks rise up to 3% as Sebi revises CAS framework. What traders must know - The Economic Times",,2026-10-18,legacy,neutral,0.3417629897594452,0.01791217550635338,0.6403248906135559,0.3238508142530918
+DMART,2026-10-16,Nestle better insulated from cost inflation than rural-heavy rivals: ICICI Sec's Manoj Menon - Livemint,Livemint,2026-10-19,live,positive,0.7553080320358276,0.01081374753266573,0.2338782548904419,0.7444942845031619
+DMART,2026-10-16,"TIPS Music zooms 10% to hit 52-wk high after Q2 nos, ₹6.50/share dividend - Business Standard",,2026-10-18,legacy,positive,0.9160937070846558,0.015577001497149467,0.06832918524742126,0.9005167055875063
+DMART,2026-10-16,"Taking Stock: Nifty above 23,100, Sensex rises 414 pts, led by IT, auto, metal stocks - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.8076083660125732,0.026264971122145653,0.16612660884857178,0.7813433948904276
+DMART,2026-10-16,World Bank has a $19 billion gameplan to expand its critical minerals business in five years - The Economic Times,,2026-10-18,legacy,positive,0.8620216846466064,0.007838873192667961,0.13013938069343567,0.8541828114539385
+DMART,2026-10-17,"AI debt, municipal bonds offer opportunities amid market volatility: Goldman Sachs - The Economic Times",,2026-10-18,legacy,neutral,0.13717441260814667,0.012467646971344948,0.8503580093383789,0.12470676563680172
+DMART,2026-10-17,"Axis Bank Q2FY27 result: Profit rises 38% to ₹7,003 crore, misses estimates - Business Standard",,2026-10-18,legacy,positive,0.9470106363296509,0.0276299100369215,0.02535947784781456,0.9193807262927294
+DMART,2026-10-17,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.036765482276678085,0.024498067796230316,0.9387364387512207,0.01226741448044777
+DMART,2026-10-17,GOLDMAN SACHS MARKET INSIGHTS - The Economic Times,,2026-10-18,legacy,neutral,0.050483740866184235,0.029554789885878563,0.9199614524841309,0.02092895098030567
+DMART,2026-10-17,"LTM Q2 Results: PAT remains flat at Rs 1,380 crore; revenue rises 14% YoY; co declares Rs 25 per share dividend - The Economic Times",,2026-10-18,legacy,positive,0.8945468664169312,0.08246222883462906,0.022990848869085312,0.8120846375823021

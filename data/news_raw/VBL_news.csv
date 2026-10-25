@@ -1,97 +1,132 @@
-ticker,date,headline,sentiment_score
-VBL,2026-03-30,Varun Beverages - bsmedia.business-standard.com,-0.9505180716514587
-VBL,2026-03-31,"Si Reporter/undefined - Read all News, Stories, Videos and Photos from Si Reporter/undefined - business-standard.com",-0.9473554491996765
-VBL,2025-10-29,VBL IN EQUITY 29Oct25 RU - bsmedia.business-standard.com,-0.9463242292404175
-VBL,2021-09-07,VBL IN EQUITY 04Sep21 IC - bsmedia.business-standard.com,-0.9482098817825317
-VBL,2021-01-11,"Varun Beverages Q1 results: Net profit rises 69% YoY to Rs 429 crore, stock split announced. - economictimes.indiatimes.com",0.8386265635490417
-VBL,2016-11-10,Varun Beverages Ltd - bloomberg.com,-0.9480891823768616
-VBL,2017-03-24,"Varun Beverages Share Price Today, Varun Beverages Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9428577423095703
-VBL,2017-08-05,Check out 's stock price (VBL-IN) in real time - CNBC,-0.9456310272216797
-VBL,2025-12-21,Varun Beverages| BUY - bsmedia.business-standard.com,-0.9512889981269836
-VBL,2021-06-02,Stock Research Report for Varun Beverages Ltd - economictimes.indiatimes.com,-0.9348998665809631
-VBL,2017-03-27,Varun Beverages Ltd. - economictimes.indiatimes.com,-0.939725399017334
-VBL,2025-01-03,Varun Beverages to invest Rs 412 cr in South African subsidiary - ET Retail,-0.8944038152694702
-VBL,2023-03-14,"Indian soft drink market expected to see significant growth, says PepsiCo bottler Varun Beverages - ET BrandEquity",0.9493466019630432
-VBL,2018-05-31,"Varun Beverages : Latest News Headlines, Videos and Photo Galleries on Varun Beverages - business-standard.com",-0.9401430487632751
-VBL,2025-02-11,Varun Beverages Dec qtr profit up 36% - ET BrandEquity,0.943091869354248
-VBL,2019-09-30,Untitled - bsmedia.business-standard.com,-0.947187066078186
-VBL,2023-03-12,"Indian soft drink market expected to see significant growth, says PepsiCo bottler Varun Beverages - ET Retail",0.9504241347312927
-VBL,2025-06-19,"Varun Beverages slips 5%, stock tanks 30% thus far in CY25; here's why - business-standard.com",-0.8204092383384705
-VBL,2025-05-20,Varun Beverages to acquire 50% stake of Sri Lankan visi-cooler maker - ET BrandEquity,-0.8955135941505432
-VBL,2024-04-14,Varun Beverages starts commercial production of carbonated drinks at Gorakhpur facility - ET Retail,-0.9098880290985107
-VBL,2022-06-22,Varun Beverages' Jaipuria settles case with Sebi after paying Rs 56 lakh - business-standard.com,-0.8513966798782349
-VBL,2024-03-28,Varun Beverages completes acquisition of South African bottler BevCo - ET BrandEquity,0.5735397338867188
-VBL,2017-01-05,VARUN BEVERAGES - ET Retail,-0.9486773014068604
-VBL,2025-06-06,"Trent, NTPC, JSW Energy, VBL among 7 top stock ideas by Axis Securities - business-standard.com",-0.9273579120635986
-VBL,2024-10-09,"Varun Beverages to raise Rs 7,500 cr through QIP to fund expansion plans - business-standard.com",-0.7784353494644165
-VBL,2024-09-12,"Varun Beverages rallies 6%, nears record high; trades ex-date for 2:5 split - business-standard.com",-0.7435352802276611
-VBL,2026-02-03,"Varun Beverages slips into red, stock down 6% from day's high post Q4 nos - business-standard.com",-0.9676992297172546
-VBL,2025-02-11,"Varun Beverages down 6%, at 52-wk low after Q4: Should you buy, sell, hold? - business-standard.com",-0.9435802698135376
-VBL,2025-10-30,Varun Beverages to distribute 'Carlsberg' in Africa: Analysts decode impact - business-standard.com,-0.9289252161979675
-VBL,2024-03-28,Varun Beverages Share Price - business-standard.com,-0.945587694644928
-VBL,2025-04-04,"VBL, ICICI Bank: 5 stocks to buy and keep in your portfolio this April - business-standard.com",-0.934381902217865
-VBL,2025-07-30,"Varun Beverages Q2 results: Profit up 5% to ₹1,325.4 cr, revenue down 2.32% - business-standard.com",-0.9706000685691833
-VBL,2026-02-04,Varun Beverages shares drop 3% as analysts flag competition as key risk - business-standard.com,-0.9634811282157898
-VBL,2025-10-29,Varun Beverages up 10% as Q3 PAT zooms 19%; announces pact with Carlsberg - business-standard.com,0.9464684724807739
-VBL,2025-07-29,Varun Beverages shares rise 3% after Q1 earnings; results breakdown here - business-standard.com,-0.5515965223312378
-VBL,2025-01-02,Varun Beverages announces Rs 412 cr investment in South African subsidiary - business-standard.com,-0.9133628010749817
-VBL,2025-02-20,"ITC trades below this monthly avg after 4 years, VBL first-time; what next? - business-standard.com",-0.8032712340354919
-VBL,2026-02-17,"Britannia sees 'Darvas Box'; VBL, Marico show reversal signs, says analyst - business-standard.com",0.47631266713142395
-VBL,2025-07-30,Varun Beverages shares rise 10% in 2 days post Q2 results; upside left? - business-standard.com,-0.4932027757167816
-VBL,2025-04-30,"Varun Beverages posts 33% rise in Q1CY25 PAT, announces dividend; details - business-standard.com",-0.5649944543838501
-VBL,2025-08-15,Varun Beverages' growth hinges on recovery; outlook stays positive - business-standard.com,-0.5136870741844177
-VBL,2019-01-14,"Varun beverages ltd - Latest varun beverages ltd , Information & Updates - Marketing & Advertising - ET BrandEquity",-0.9503018260002136
-VBL,2025-12-23,"Stocks to buy today: Shriram Finance, Varun Beverages; check target price - business-standard.com",-0.9424737095832825
-VBL,2025-12-23,"Varun Beverages to acquire South African beverage firm Twizza at enterprise value of Rs 1,118.7cr - ET BrandEquity",-0.9185317754745483
-VBL,2025-07-21,"Varun Beverages Ltd Quarterly Results, 02 Apr 2026 - NSE 403.70, BSE 403.90 - business-standard.com",-0.9487983584403992
-VBL,2025-10-03,Beaten-down stocks Part 10: Correction in Varun Beverages opens entry way - business-standard.com,-0.7496753931045532
-VBL,2025-03-31,"Fizz is back in Varun Beverages stock as launches, summer boost outlook - business-standard.com",-0.8669789433479309
-VBL,2024-12-11,Varun Beverages' growth strategy could prove beneficial for investors - business-standard.com,0.7919903993606567
-VBL,2023-01-16,"jefferies buy call on varun beverages: Latest News & Videos, Photos about jefferies buy call on varun beverages - economictimes.indiatimes.com",-0.942093014717102
-VBL,2017-01-02,"Varun beverages - Latest varun beverages , Information & Updates - Marketing & Advertising - ET BrandEquity",-0.9515171051025391
-VBL,2025-05-01,Varun Beverages ready to bottle in gains on robust volume growth - business-standard.com,0.7285438776016235
-VBL,2024-10-22,Varun Beverages share price gains post Q3 results; profit jumps 22% - business-standard.com,0.8155812621116638
-VBL,2025-02-25,Varun Beverages extends deadline for acquisition of SBC Beverages to Mar 31 - business-standard.com,-0.939065158367157
-VBL,2017-10-19,VARUN BEVERAGES LTD - ET Retail,-0.9491698145866394
-VBL,2025-10-29,Varun Beverages forays into alco-bev sector with Carlsberg tie-up in Africa - business-standard.com,-0.8588473796844482
-VBL,2025-03-10,"PepsiCo to double India revenue in 5 yrs, invest in capacity building in key market - ET Hospitality",0.9016438126564026
-VBL,2025-12-22,Why Varun Beverages' Twizza acquisition could be a game changer in Africa - business-standard.com,-0.9207813143730164
-VBL,2025-05-26,"Chhattisgarh in talks with Medanta Hospital, Varun Beverages for investment - business-standard.com",-0.8821539282798767
-VBL,2023-10-07,"India a priority market for Costa Coffee, to add around 50 stores every year: Global CEO Philippe Schaillee - ET Retail",-0.5531695485115051
-VBL,2026-03-19,"Stock Alert: HDFC Bank, Infosys, Vedanta, Varun Beverages, TVS Motor Company, NHPC - business-standard.com",-0.9511752128601074
-VBL,2025-03-10,"PepsiCo to double India revenue in 5 yrs, invest in capacity building in key market - ET Retail",0.9000596404075623
-VBL,2017-03-24,"Vaibhav Global Share Price Today, Vaibhav Global Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9389225244522095
-VBL,2026-02-03,"Varun Beverages posts quarterly profit rise on higher volumes, lower costs - business-standard.com",0.9535121321678162
-VBL,2017-03-23,"KNR Constructions Share Price Today, KNR Constructions Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.940367579460144
-VBL,2024-11-19,"HBL Power Share Price Today, HBL Power Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9429667592048645
-VBL,2023-09-15,"JSW Infrastructure Share Price Today, JSW Infrastructure Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9427005648612976
-VBL,2017-04-10,"Diamond Power Share Price Today, Diamond Power Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9424052238464355
-VBL,2025-07-29,Pepsico Bottler Varun Beverages appoints Pankaj Madan as CFO - cfo.economictimes.indiatimes.com,-0.9400270581245422
-VBL,2024-02-08,"Vibhor Steel Tubes Share Price Today, Vibhor Steel Tubes Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9422562718391418
-VBL,2026-03-09,"Well positioned for strong recovery this year, says Varun Beverages - business-standard.com",0.9375625252723694
-VBL,2022-06-22,Varun Beverages' Jaipuria settles insider trading case with Sebi; pays Rs 56 lakh - ET Retail,-0.8762546181678772
-VBL,2017-04-22,Visa Steel Ltd. - economictimes.indiatimes.com,-0.9412732124328613
-VBL,2026-03-13,Varun Beverages Ltd down for fifth straight session - business-standard.com,-0.958229124546051
-VBL,2025-03-10,"PepsiCo to double India revenue in 5 yrs, invest in capacity building in key market - ET BrandEquity",0.9032760262489319
-VBL,2024-08-09,VARUN BEVERAGES - ET BrandEquity,-0.933107852935791
-VBL,2025-04-03,"Dividend, bonus, rights issue: Varun Beverages, 5 others to remain in focus - business-standard.com",-0.9418387413024902
-VBL,2025-07-29,Wcorp VRRUR - bsmedia.business-standard.com,-0.9514147639274597
-VBL,2025-08-26,German Court Goes Against UK Restructuring in Berlin Project - bloomberg.com,-0.5977202653884888
-VBL,2025-10-29,VRRUH BEVERAGES LimiCED © - bsmedia.business-standard.com,-0.9505901336669922
-VBL,2023-01-18,Bloomberg Billionaires Index - Ravi Jaipuria - bloomberg.com,-0.9410166144371033
-VBL,2017-11-19,"pepsi: Latest News & Videos, Photos about pepsi - economictimes.indiatimes.com",-0.9417561292648315
-VBL,2018-03-30,PepsiCo India repositions Tropicana; Katrina Kaif to endorse brand - ET BrandEquity,-0.6265243887901306
-VBL,2026-02-26,Soft drink’s Jio moment? RIL’s Campa tests Coke-Pepsi duopoly of 30 years - ET BrandEquity,-0.8556625247001648
-VBL,2017-03-29,Hindustan Unilever Ltd. - economictimes.indiatimes.com,-0.9367347955703735
-VBL,2025-04-30,News & Stories by Snehal Mergu - ET BrandEquity,-0.9372303485870361
-VBL,2026-03-26,LIGT3.SA - | Stock Price & Latest News - Reuters,-0.9263458251953125
-VBL,2016-11-11,BZ/H: Benz Mining Corp Stock Price Quote - - Bloomberg - bloomberg.com,-0.9463517665863037
-VBL,2017-03-30,"Power Grid Target Share Price, Power Grid Share Price Forecast - economictimes.indiatimes.com",-0.9434583187103271
-VBL,2025-03-05,AWLTD IN EQUITY 05Mar25 CU - bsmedia.business-standard.com,-0.9462642669677734
-VBL,2022-10-19,[Kotak] 19Oct2022_Indigo Paints - bsmedia.business-standard.com,-0.9420339465141296
-VBL,2023-11-28,Rohit Vishal Gupta joins Varun Beverages as CHRO - ETHRWorld.com,-0.944181501865387
-VBL,2025-01-16,"Societe Generale plans partial return to gold trading, sources say - Reuters",-0.7990885376930237
-VBL,2024-11-26,HUVR IN Equity 26Nov24 CU - bsmedia.business-standard.com,-0.9462213516235352
-VBL,2025-10-14,"Indian regulator open to Emirates NBD purchasing a stake in RBL Bank, sources say - Reuters",-0.9282748103141785
-VBL,2025-12-10,Samsung SDI unit signs $1.36 billion US battery supply deal for energy storage - ET EnergyWorld,0.8071195483207703
-VBL,2021-06-28,PARAS PETROFILS LIMITED - bsmedia.business-standard.com,-0.9493658542633057
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+VBL,2020-01-06,Buy Varun Beverages with target of Rs 862: AnandRathi - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03903427720069885,0.01788211427628994,0.9430835843086243,0.021152162924408913
+VBL,2020-03-31,"Coal India Q4 Results: Profit rises 46% YoY to Rs 6,693 crore, beats estimates - The Economic Times",,2026-10-18,legacy,positive,0.9371398687362671,0.026971198618412018,0.03588895499706268,0.9101686701178551
+VBL,2021-01-11,"Varun Beverages Q1 results: Net profit rises 69% YoY to Rs 429 crore, stock split announced. - The Economic Times",,2026-10-18,legacy,positive,0.889362096786499,0.03467726334929466,0.07596061378717422,0.8546848334372044
+VBL,2021-02-16,Varun Beverages share price declines 5% post Q4 numbers - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.021797312423586845,0.5794711709022522,0.398731529712677,-0.5576738584786654
+VBL,2021-05-04,"Varun Beverages share price gains 5% on robust Q1 numbers, bonus share approval - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.7890071272850037,0.017794543877243996,0.1931983232498169,0.7712125834077597
+VBL,2021-08-02,Varun Beverages Q1 profit up two folds at Rs 319 crore - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9154848456382751,0.026559991762042046,0.057955075055360794,0.8889248538762331
+VBL,2022-03-01,Varun Beverages to manufacture Kurkure Puffcorn - Business Standard,,2026-10-18,legacy,neutral,0.060076065361499786,0.011210537515580654,0.9287133812904358,0.04886552784591913
+VBL,2022-04-20,Luxmi Group to focus on digital and logistics to enhance its reach - ET HospitalityWorld,,2026-10-18,legacy,positive,0.8058186769485474,0.005893156863749027,0.18828818202018738,0.7999255200847983
+VBL,2022-06-06,Varun Beverages shares in focus as stock trades ex-bonus - Livemint,Livemint,2026-10-19,live,neutral,0.07295303046703339,0.03040544129908085,0.8966415524482727,0.04254758916795254
+VBL,2022-06-22,Varun Beverages' Jaipuria settles case with Sebi after paying Rs 56 lakh - Business Standard,,2026-10-18,legacy,neutral,0.096530020236969,0.22401516139507294,0.6794548034667969,-0.12748514115810394
+VBL,2022-06-22,Varun Beverages' Jaipuria settles insider trading case with Sebi; pays Rs 56 lakh - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.048649001866579056,0.056197237223386765,0.895153820514679,-0.007548235356807709
+VBL,2022-11-03,"Expansion, product mix to fizz up Varun Beverages' volumes and margins - Business Standard",Business Standard,2026-10-19,live,positive,0.7145543098449707,0.009317109361290932,0.2761286497116089,0.7052372004836798
+VBL,2022-11-03,Varun Beverages: Energy drink Sting adds zing to earnings growth - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.08738202601671219,0.017646608874201775,0.8949713706970215,0.06973541714251041
+VBL,2023-02-05,"Pepsi India bottler beats profit view on higher soda demand, price hikes - Reuters",Reuters,2026-10-19,live,positive,0.7244253158569336,0.15214578807353973,0.12342897057533264,0.5722795277833939
+VBL,2023-02-09,Varun Beverages promoters likely to sell shares worth Rs 850 crore via block deal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.051189351826906204,0.01674065925180912,0.9320700168609619,0.034448692575097084
+VBL,2023-03-14,"Indian soft drink market expected to see significant growth, says PepsiCo bottler Varun Beverages - ET BrandEquity",,2026-10-18,legacy,positive,0.9493466019630432,0.01706075854599476,0.03359266743063927,0.9322858434170485
+VBL,2023-05-02,Pepsi bottler Varun Beverages posts Q1 profit jump; announces stock split - Reuters,Reuters,2026-10-19,live,positive,0.536211371421814,0.3176862299442291,0.14610238373279572,0.21852514147758484
+VBL,2023-05-02,"Varun Beverages' Q1 profit surges 69% on healthy topline, margin improvement - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9219192862510681,0.01659517176449299,0.061485495418310165,0.9053241144865751
+VBL,2023-05-26,Varun Beverages briefly becomes 4th largest FMCG by market capitalisation - Business Standard,Business Standard,2026-10-19,live,positive,0.5656329989433289,0.014418363571166992,0.41994866728782654,0.5512146353721619
+VBL,2023-05-30,Varun Beverages Dividend - Livemint,Livemint,2026-10-19,live,neutral,0.0488198958337307,0.013247477822005749,0.9379326701164246,0.03557241801172495
+VBL,2023-05-31,"Varun Beverages AGM: Check Annual General Meeting details, AGM Updates, Varun Beverages AGM News - Livemint",Livemint,2026-10-19,live,neutral,0.026262687519192696,0.02545352466404438,0.9482837319374084,0.0008091628551483154
+VBL,2023-05-31,"Varun Beverages Key Metrics: Find Key Metrics, Varun Beverages Financial Ratios and Highlights - Livemint",Livemint,2026-10-19,live,neutral,0.0621061846613884,0.012966867536306381,0.9249269366264343,0.049139317125082016
+VBL,2023-06-01,"Varun Beverages Splits: Splits, Split History, Stock Split History - Livemint",Livemint,2026-10-19,live,neutral,0.019523698836565018,0.06876532733440399,0.9117109775543213,-0.049241628497838974
+VBL,2023-06-15,Varun Beverages spurts 4% after stock split - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03848873823881149,0.07109556347131729,0.8904156684875488,-0.0326068252325058
+VBL,2023-06-15,"Varun Beverages trades ex-date for 1:1 stock split, soars 7% in muted mkt - Business Standard",,2026-10-18,legacy,positive,0.8176131844520569,0.10390981286764145,0.07847700268030167,0.7137033715844154
+VBL,2023-07-11,"Varun Beverages turns to dairy, sports drinks, juices to power growth. What makes Motilal bullish? - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03129422664642334,0.03040972724556923,0.9382960796356201,0.0008844994008541107
+VBL,2023-07-13,"Varun Beverages may keep rallying after almost 1,000% surge - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.6852816343307495,0.01874702423810959,0.2959713935852051,0.6665346100926399
+VBL,2023-08-03,Pepsi India bottler Varun Beverages posts profit growth on steady volumes - Business Standard,Business Standard,2026-10-19,live,positive,0.9521902799606323,0.016626697033643723,0.031182996928691864,0.9355635829269886
+VBL,2023-08-03,Pepsi India bottler Varun Beverages posts profit growth on steady volumes - Reuters,Reuters,2026-10-19,live,positive,0.929058313369751,0.021501189097762108,0.04944051802158356,0.9075571242719889
+VBL,2023-09-26,Varun Beverages hits 52-week high on BofA Securities ‘buy’ call - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.14242646098136902,0.01575234904885292,0.8418211340904236,0.1266741119325161
+VBL,2023-10-07,"India a priority market for Costa Coffee, to add around 50 stores every year: Global CEO Philippe Schaillee - ET Retail",,2026-10-18,legacy,neutral,0.4382835924625397,0.008546525612473488,0.553169846534729,0.4297370668500662
+VBL,2023-10-20,Varun Beverages Q1 Results 2026 - Find Varun Beverages Q1 Earnings Result | VBL Q1 results - Livemint,Livemint,2026-10-19,live,neutral,0.03423912823200226,0.02626209147274494,0.939498782157898,0.007977036759257317
+VBL,2023-11-07,Varun Beverages shares rise 4% on healthy Q2 profit; should you buy the stock? - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.47540363669395447,0.014771932736039162,0.5098244547843933,0.4606317039579153
+VBL,2023-11-29,Varun Beverages rises 1% after Pepsi bottler launches Mozambique subsidiary - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.8947521448135376,0.025207839906215668,0.0800400972366333,0.8695443049073219
+VBL,2023-12-18,"Rural penetration, capacity gains to drive Varun Beverages' growth - Business Standard",Business Standard,2026-10-19,live,positive,0.9275900721549988,0.008327758871018887,0.06408210098743439,0.9192623132839799
+VBL,2023-12-19,India's Varun Beverages hits record high on S.Africa foray - Reuters,Reuters,2026-10-19,live,positive,0.7211635708808899,0.015224330127239227,0.2636120617389679,0.7059392407536507
+VBL,2023-12-19,India's Varun Beverages to enter S. Africa with $159 mln deal - Reuters,Reuters,2026-10-19,live,neutral,0.20042607188224792,0.009268430061638355,0.7903055548667908,0.19115764182060957
+VBL,2023-12-19,"PepsiCo bottler Varun Beverages to acquire South Africa's BevCo for ₹1,320 cr - Livemint",Livemint,2026-10-19,live,neutral,0.13103199005126953,0.008767307735979557,0.8602006435394287,0.12226468231528997
+VBL,2023-12-19,"Varun Beverages Ltd to acquire The Beverage Company for Rs 1,320 cr - Business Standard",Business Standard,2026-10-19,live,neutral,0.0453331358730793,0.013788064941763878,0.9408788084983826,0.03154507093131542
+VBL,2023-12-19,"Varun Beverages to acquire Pepsico's South Africa bottler Bevco for Rs 1,320 crore - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.053883735090494156,0.013731250539422035,0.9323849678039551,0.04015248455107212
+VBL,2023-12-20,Varun Beverages zooms 15% to hit 52-week high on South African acquisition - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9260802268981934,0.01561333891004324,0.05830634757876396,0.9104668879881501
+VBL,2023-12-23,"Lupin to acquire established products in Europe, Canada from Sanofi for Rs 91 cr - ET BrandEquity",,2026-10-18,legacy,neutral,0.4732312262058258,0.008052939549088478,0.5187157988548279,0.4651782866567373
+VBL,2024-01-05,Carrefour to not sell PepsiCo goods due to price hikes - ET BrandEquity,,2026-10-18,legacy,neutral,0.035325951874256134,0.3432641625404358,0.6214098930358887,-0.30793821066617966
+VBL,2024-01-15,"HDFC Bank Q3 preview: In a steady quarter, analysts expect NIM to expand - Business Standard",,2026-10-18,legacy,positive,0.9541639685630798,0.020633269101381302,0.025202788412570953,0.9335306994616985
+VBL,2024-01-15,"This railways related stock surpasses Tata Steel, Jio Fin, VBL in m-cap - Business Standard",,2026-10-18,legacy,positive,0.7404853701591492,0.0074913217686116695,0.25202327966690063,0.7329940483905375
+VBL,2024-02-20,Varun Beverages signs appointment agreement for manufacturing Cheetos in Morocco - Business Standard,Business Standard,2026-10-19,live,positive,0.9170834422111511,0.010315746068954468,0.0726008266210556,0.9067676961421967
+VBL,2024-02-21,Varun Beverages rises after securing exclusive 'Cheetos' production deal in Morocco - Business Standard,Business Standard,2026-10-19,live,positive,0.9504511952400208,0.017242293804883957,0.03230654075741768,0.9332089014351368
+VBL,2024-03-08,"Varun Beverages to expand capacities of juices, value-added dairy items - Business Standard",,2026-10-18,legacy,positive,0.5422170758247375,0.007754972670227289,0.4500279426574707,0.5344621031545103
+VBL,2024-03-08,"Varun Beverages to expand capacities of juices, value-added dairy items in 2024 - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.5326452255249023,0.009097441099584103,0.45825740694999695,0.5235477844253182
+VBL,2024-03-27,Varun Beverages completes acquisition of South African bottler BevCo - Business Standard,,2026-10-18,legacy,neutral,0.2891939580440521,0.012500452809035778,0.6983055472373962,0.27669350523501635
+VBL,2024-03-28,Varun Beverages Ltd News - Business Standard,,2026-10-18,legacy,neutral,0.031688373535871506,0.028103481978178024,0.9402081966400146,0.0035848915576934814
+VBL,2024-03-28,Varun Beverages completes acquisition of South African bottler BevCo - ET BrandEquity,,2026-10-18,legacy,positive,0.5735400319099426,0.01453898474574089,0.41192102432250977,0.5590010471642017
+VBL,2024-04-02,"PepsiCo India to invest Rs 1,266 crore to set up flavour facility in MP - Business Standard",Business Standard,2026-10-19,live,positive,0.5207542777061462,0.008358905091881752,0.47088679671287537,0.5123953726142645
+VBL,2024-04-13,Varun Beverages starts production of soft drinks at Gorakhpur facility - Business Standard,,2026-10-18,legacy,neutral,0.09879883378744125,0.010010402649641037,0.8911907076835632,0.08878843113780022
+VBL,2024-04-14,Varun Beverages starts commercial production of carbonated drinks at Gorakhpur facility - ET Retail,,2026-10-18,legacy,neutral,0.08093934506177902,0.009172587655484676,0.9098880290985107,0.07176675740629435
+VBL,2024-04-23,"RJ Corp succession: Jaipuria's son gets food, daughter education and health - Business Standard",,2026-10-18,legacy,neutral,0.08308151364326477,0.012368559837341309,0.9045499563217163,0.07071295380592346
+VBL,2024-04-23,"Ravi Jaipuria puts RJ Corp succession plan in place. Son Varun gets F&B, daughter Devyani healthcare,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.05529686063528061,0.012598511762917042,0.9321046471595764,0.04269834887236357
+VBL,2024-05-06,"Nestle, Britannia, ITC: Winners, losers from plastic waste management norms - Business Standard",,2026-10-18,legacy,neutral,0.1633847951889038,0.029009759426116943,0.8076054453849792,0.13437503576278687
+VBL,2024-05-13,Pepsi India bottler Varun Beverages beats quarterly profit view on strong demand - Reuters,Reuters,2026-10-19,live,negative,0.3003171980381012,0.5419315099716187,0.15775126218795776,-0.24161431193351746
+VBL,2024-05-15,Varun Beverages appoints Rajesh Chawla as new CFO - cfo.economictimes.indiatimes.com,cfo.economictimes.indiatimes.com,2026-10-19,live,neutral,0.025300508365035057,0.03114440105855465,0.9435551166534424,-0.005843892693519592
+VBL,2024-06-28,"Consumer spending on ITC's goods increase 12% to Rs 32,500 cr in FY24 - Business Standard",,2026-10-18,legacy,positive,0.9511538147926331,0.019729748368263245,0.029116325080394745,0.9314240664243698
+VBL,2024-07-15,"Varun Beverages stock rises as it expands snack portfolio in Zimbabwe, Zambia - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.8723830580711365,0.03603101149201393,0.09158587455749512,0.8363520465791225
+VBL,2024-07-15,"Varun Beverages to set up production units for PepsiCo in Zimbabwe, Zambia - Business Standard",,2026-10-18,legacy,neutral,0.11501511186361313,0.008446378633379936,0.8765385746955872,0.10656873323023319
+VBL,2024-07-15,"Varun Beverages to set up production units for PepsiCo's snacks brand in Zimbabwe, Zambia - ET Retail",ET Retail,2026-10-19,live,neutral,0.13890430331230164,0.008229863829910755,0.8528658747673035,0.13067443948239088
+VBL,2024-07-16,Here's why RVNL shares are falling in trade today; Details here - Business Standard,,2026-10-18,legacy,negative,0.010408319532871246,0.8922014236450195,0.09739018231630325,-0.8817931041121483
+VBL,2024-07-16,"Varun Beverages to set up production units for PepsiCo's snacks brand in Zimbabwe, Zambia - ET Manufacturing",ET Manufacturing,2026-10-19,live,neutral,0.14601732790470123,0.00831803772598505,0.8456646203994751,0.13769929017871618
+VBL,2024-07-16,"Varun Beverages to set up units in Zimbabwe, Zambia - ET BrandEquity",,2026-10-18,legacy,neutral,0.1290990710258484,0.008053787052631378,0.8628471493721008,0.12104528397321701
+VBL,2024-07-17,"Asian Paints Q1 results: Net profit falls 24.5% on weak demand, price cuts - Business Standard",,2026-10-18,legacy,negative,0.007543076295405626,0.9732451438903809,0.01921180449426174,-0.9657020675949752
+VBL,2024-07-17,"Leadership rejig may be on cards for Bajaj Auto, hints MD Rajiv Bajaj - Business Standard",,2026-10-18,legacy,neutral,0.1396971046924591,0.010259407572448254,0.8500434756278992,0.12943769712001085
+VBL,2024-07-30,Colgate shares settle 5% higher after hitting all-time high on Q1 earnings - Business Standard,,2026-10-18,legacy,positive,0.9391044974327087,0.03146633505821228,0.029429202899336815,0.9076381623744965
+VBL,2024-07-30,Foreign investors unhappy after India restores curbs on some bond purchases - Business Standard,,2026-10-18,legacy,negative,0.04487058147788048,0.9197292923927307,0.03540012985467911,-0.8748587109148502
+VBL,2024-07-30,Pepsi India bottler Varun Beverages misses Q2 view on higher expenses - Reuters,Reuters,2026-10-19,live,negative,0.017706699669361115,0.9318341016769409,0.05045926198363304,-0.9141274020075798
+VBL,2024-07-30,Tata Motors soars 5%; gains for 5th straight day after Nomura's 'buy' call - Business Standard,,2026-10-18,legacy,positive,0.9317916631698608,0.032108694314956665,0.036099620163440704,0.8996829688549042
+VBL,2024-07-30,"Top cola, snack makers plan manufacturing plants in J&K - ET Retail",ET Retail,2026-10-19,live,neutral,0.07700914889574051,0.013337290845811367,0.9096536040306091,0.06367185804992914
+VBL,2024-07-30,"Varun Beverages Q2 results: Net profit rises 26% to Rs 1,253 crore - Business Standard",,2026-10-18,legacy,positive,0.947674572467804,0.027323078364133835,0.025002269074320793,0.9203514941036701
+VBL,2024-07-31,Q1 preview: What to expect from Bank of Baroda results on July 31? Details - Business Standard,,2026-10-18,legacy,neutral,0.03163011744618416,0.025299426168203354,0.9430704712867737,0.0063306912779808044
+VBL,2024-09-03,RCL Foods targets affordability amid weak consumer demand - ET BrandEquity,,2026-10-18,legacy,negative,0.1795927882194519,0.6993923187255859,0.12101490795612335,-0.519799530506134
+VBL,2024-09-12,"Varun Beverages rallies 6%, nears record high; trades ex-date for 2:5 split - Business Standard",,2026-10-18,legacy,positive,0.8830629587173462,0.035521250218153,0.0814158022403717,0.8475417084991932
+VBL,2024-10-09,"Varun Beverages to raise Rs 7,500 cr for expansion; board approves QIP - ET Retail",,2026-10-18,legacy,positive,0.8306418657302856,0.009362654760479927,0.15999546647071838,0.8212792109698057
+VBL,2024-10-09,"Varun Beverages to raise Rs 7,500 cr through QIP to fund expansion plans - Business Standard",,2026-10-18,legacy,neutral,0.395281583070755,0.009667779318988323,0.595050573348999,0.3856138037517667
+VBL,2024-10-22,Pepsi India bottler Varun Beverages tops Q3 profit view on healthy international demand - Reuters,Reuters,2026-10-19,live,positive,0.9252098798751831,0.0236746184527874,0.051115408539772034,0.9015352614223957
+VBL,2024-12-11,Varun Beverages' growth strategy could prove beneficial for investors - Business Standard,,2026-10-18,legacy,positive,0.9178574681282043,0.007771456614136696,0.07437101006507874,0.9100860115140676
+VBL,2025-01-03,Campa-brand: Soft Drink Players Uncork Big Expansion Plans - ET Manufacturing,,2026-10-18,legacy,neutral,0.47134456038475037,0.013758533634245396,0.5148969292640686,0.45758602675050497
+VBL,2025-01-03,Varun Beverages to invest Rs 412 cr in South African subsidiary - ET Retail,,2026-10-18,legacy,neutral,0.09634841978549957,0.009247818030416965,0.8944038152694702,0.08710060175508261
+VBL,2025-02-10,Pepsi India bottler Varun Beverages misses profit view as costs bite - ET Retail,ET Retail,2026-10-19,live,negative,0.010520565323531628,0.9664720296859741,0.0230074655264616,-0.9559514643624425
+VBL,2025-02-11,Varun Beverages Dec qtr profit up 36% - ET BrandEquity,,2026-10-18,legacy,positive,0.9430919885635376,0.026418333873152733,0.030489688739180565,0.9166736546903849
+VBL,2025-02-25,Varun Beverages extends deadline for acquisition of SBC Beverages to Mar 31 - Business Standard,,2026-10-18,legacy,neutral,0.068696029484272,0.03332984447479248,0.8979741930961609,0.03536618500947952
+VBL,2025-03-05,AWLTD IN EQUITY 05Mar25 CU - Business Standard,,2026-10-18,legacy,neutral,0.06162755936384201,0.015388659201562405,0.9229837656021118,0.046238900162279606
+VBL,2025-03-10,"PepsiCo to double India revenue in 5 yrs, invest in capacity building in key market - ET HospitalityWorld",,2026-10-18,legacy,positive,0.8901675939559937,0.006990556605160236,0.10284196585416794,0.8831770373508334
+VBL,2025-03-10,"PepsiCo to double India revenue in 5 yrs, invest in capacity building in key market - cfo.economictimes.indiatimes.com",,2026-10-18,legacy,positive,0.7272792458534241,0.008528466336429119,0.2641923129558563,0.718750779516995
+VBL,2025-04-01,VARUN BEVERAGES LIMITED - Bloomberg LEI,Bloomberg LEI,2026-10-19,live,neutral,0.04696200042963028,0.0146796191111207,0.9383584260940552,0.03228238131850958
+VBL,2025-04-30,India's Varun Beverages beats profit estimates on robust domestic volumes - Reuters,Reuters,2026-10-19,live,positive,0.6990711688995361,0.18850772082805634,0.11242115497589111,0.5105634480714798
+VBL,2025-05-01,Varun Beverages - Business Standard,,2026-10-18,legacy,neutral,0.06531834602355957,0.012991981580853462,0.9216896295547485,0.05232636444270611
+VBL,2025-05-18,VARUN BEVERAGES (ZIMBABWE) (PRIVATE) LIMITED - Bloomberg LEI,Bloomberg LEI,2026-10-19,live,neutral,0.04171712324023247,0.0178348608314991,0.940447986125946,0.023882262408733368
+VBL,2025-05-20,Varun Beverages to acquire 50% stake of Sri Lankan visi-cooler maker - ET BrandEquity,,2026-10-18,legacy,neutral,0.09458193928003311,0.009904528968036175,0.8955134749412537,0.08467741031199694
+VBL,2025-05-25,Proposal for establishment of Medanta Hospital and Varun Beverages plant in Chhattisgarh; Investors meet Chi.. - ET HealthWorld,ET HealthWorld,2026-10-19,live,neutral,0.1744304895401001,0.008595917373895645,0.8169735670089722,0.16583457216620445
+VBL,2025-07-05,Devyani International Limited - Business Standard,,2026-10-18,legacy,neutral,0.05623845010995865,0.013115232810378075,0.9306463599205017,0.043123217299580574
+VBL,2025-07-06,Badshah launches Badboy Pizza; targeting 50 outlets and Rs 150 crore ARR in three years - ET HospitalityWorld,,2026-10-18,legacy,neutral,0.39872536063194275,0.009928461164236069,0.5913462042808533,0.3887968994677067
+VBL,2025-07-21,"Varun Beverages Ltd Quarterly Results, 13 Oct 2026 - NSE 442.00, BSE 441.70 - Business Standard",,2026-10-18,legacy,neutral,0.026833368465304375,0.032332371920347214,0.9408342242240906,-0.005499003455042839
+VBL,2025-07-29,India's Varun Beverages beat quarterly profit view as cost control cushions damp sales - Reuters,Reuters,2026-10-19,live,positive,0.813284158706665,0.13833953440189362,0.04837632179260254,0.6749446243047714
+VBL,2025-07-29,Pepsico Bottler Varun Beverages appoints Pankaj Madan as CFO - cfo.economictimes.indiatimes.com,cfo.economictimes.indiatimes.com,2026-10-19,live,neutral,0.022169865667819977,0.03780309483408928,0.9400270581245422,-0.015633229166269302
+VBL,2025-07-30,"Varun Beverages Q2 results: Profit up 5% to ₹1,325.4 cr, revenue down 2.32% - Business Standard",,2026-10-18,legacy,negative,0.048871882259845734,0.9402123093605042,0.010915742255747318,-0.8913404271006584
+VBL,2025-10-31,ITC IN Equity 30Oct25 RU - Business Standard,,2026-10-18,legacy,neutral,0.0990174189209938,0.011730141937732697,0.8892524242401123,0.08728727698326111
+VBL,2025-12-23,"Varun Beverages to acquire South African beverage firm Twizza at enterprise value of Rs 1,118.7cr - ET BrandEquity",,2026-10-18,legacy,neutral,0.07094889134168625,0.010519294068217278,0.9185318946838379,0.06042959727346897
+VBL,2026-02-02,PepsiCo India bottler Varun Beverages posts quarterly profit rise on stronger volumes - Reuters,Reuters,2026-10-19,live,positive,0.9348725080490112,0.03950077295303345,0.025626754388213158,0.8953717350959778
+VBL,2026-02-17,"Britannia sees 'Darvas Box'; VBL, Marico show reversal signs, says analyst - Business Standard",,2026-10-18,legacy,positive,0.6533325910568237,0.2694021761417389,0.07726521790027618,0.38393041491508484
+VBL,2026-03-10,"Indian soft drinks industry well-positioned for healthy recovery, non-fizz drinks gain traction: VBL - ET Retail",,2026-10-18,legacy,positive,0.9459014534950256,0.016878250986337662,0.03722022846341133,0.929023202508688
+VBL,2026-04-27,India's Varun Beverages quarterly profit rises on robust demand - Reuters,Reuters,2026-10-19,live,positive,0.880858302116394,0.06739909946918488,0.05174265429377556,0.8134592026472092
+VBL,2026-04-27,Varun Beverages rises after Q1 PAT climbs 20% YoY to Rs 872 cr - Business Standard,,2026-10-18,legacy,positive,0.9408044815063477,0.025367163121700287,0.03382841870188713,0.9154373183846474
+VBL,2026-05-22,"Varun Beverages hits 52-week high, gains 3% on PepsiCo deal extension - Business Standard",,2026-10-18,legacy,positive,0.9447152018547058,0.021292366087436676,0.03399241343140602,0.9234228357672691
+VBL,2026-05-22,Varun Beverages rises after extending bottling pact with PepsiCo till 2049 - Business Standard,,2026-10-18,legacy,positive,0.9189626574516296,0.025207094848155975,0.055830251425504684,0.8937555626034737
+VBL,2026-07-02,Danish brewer Carlsberg files for India unit IPO - Reuters,,2026-10-18,legacy,neutral,0.029829446226358414,0.03771216422319412,0.9324583411216736,-0.007882717996835709
+VBL,2026-07-28,India's Varun Beverages misses quarterly profit view as competition bites - Reuters,Reuters,2026-10-19,live,negative,0.010767736472189426,0.9464613199234009,0.04277084767818451,-0.9356935834512115
+VBL,2026-07-28,Varun Beverages falls 8% post Q2 results; margin contraction hits sentiment - Business Standard,,2026-10-18,legacy,negative,0.022204210981726646,0.9687997102737427,0.008996098302304745,-0.946595499292016
+VBL,2026-07-29,Varun Beverages - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.02247297763824463,0.028847387060523033,0.9486796855926514,-0.006374409422278404
+VBL,2026-08-11,Premium products drive FMCG growth in June quarter - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.10989456623792648,0.015171068720519543,0.8749343156814575,0.09472349751740694
+VBL,2026-08-11,Stock Research Report for Varun Beverages Limited - The Economic Times,,2026-10-18,legacy,neutral,0.0344538688659668,0.033002473413944244,0.9325436949729919,0.0014513954520225525
+VBL,2026-08-26,"Stocks to Watch Today: Gaja Capital, Groww, Welspun Corp, Honasa Consumer, Cipla, ARSS Infra Projects,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.037001240998506546,0.018510600551962852,0.9444882273674011,0.018490640446543694
+VBL,2026-09-02,Varun Beverages makes first alcobev move with KIVA Spirits and ex-Diageo hire - food.economictimes.indiatimes.com,food.economictimes.indiatimes.com,2026-10-19,live,neutral,0.12847885489463806,0.010932529345154762,0.8605886101722717,0.1175463255494833
+VBL,2026-10-01,"Bharti Airtel News - Bharti Airtel Announcement, Latest News on Bharti Airtel - The Economic Times",,2026-10-18,legacy,neutral,0.04112660884857178,0.02594936080276966,0.9329239726066589,0.015177248045802116
+VBL,2026-10-05,Hindustan Unilever Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.046883754432201385,0.0317484550178051,0.9213678240776062,0.015135299414396286
+VBL,2026-10-09,"Diageo India enters ready-to-drink alcohol market, takes on Bacardi in nascent segment with Smirnoff Ice - The Economic Times",,2026-10-18,legacy,neutral,0.4160754382610321,0.013722090050578117,0.5702024698257446,0.402353348210454
+VBL,2026-10-14,"FNO Top Losers by Open Interest in Percentage Change, Ascending Order - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.02613706886768341,0.039035338908433914,0.9348275661468506,-0.012898270040750504
+VBL,2026-10-14,Indian consumer firms face margin squeeze despite strong quarterly sales - ET BrandEquity,ET BrandEquity,2026-10-19,live,negative,0.020534446462988853,0.9591530561447144,0.020312456414103508,-0.9386186096817255
+VBL,2026-10-14,Indian consumer firms face margin squeeze despite strong quarterly sales - Reuters,Reuters,2026-10-19,live,negative,0.025090303272008896,0.9138572216033936,0.06105256453156471,-0.8887669183313847
+VBL,2026-10-14,"Top stocks to buy for short term: Bajaj Broking's expert suggests Axis Bank, VBL and 3 others - Target price, stop loss - Livemint",Livemint,2026-10-19,live,neutral,0.12270550429821014,0.01095663383603096,0.8663378357887268,0.11174887046217918
+VBL,2026-10-14,Varun Beverages Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.04518746957182884,0.03278103470802307,0.9220314621925354,0.012406434863805771
+VBL,2026-10-15,Coca-Cola plans to pop the cap on $1 billion HCCB IPO this year - The Economic Times,,2026-10-18,legacy,neutral,0.4122134745121002,0.04436050355434418,0.5434260368347168,0.36785297095775604
+VBL,2026-10-15,Consumption stocks: Bet now or wait for festive sales to show recovery? - Business Standard,Business Standard,2026-10-19,live,neutral,0.10945148020982742,0.01717301458120346,0.8733754754066467,0.09227846562862396
+VBL,2026-10-15,"Inflation puts FMCG firms' margins at risk; analysts back Marico, Nestle - Business Standard",Business Standard,2026-10-19,live,negative,0.023811636492609978,0.9438499212265015,0.03233849257230759,-0.9200382847338915
+VBL,2026-10-15,"PepsiCo, Monster challenge India 'energy drink' label ban citing business impact - The Economic Times",The Economic Times,2026-10-19,live,negative,0.02522522397339344,0.6841945648193359,0.29058021306991577,-0.6589693408459425

@@ -1,101 +1,189 @@
-ticker,date,headline,sentiment_score
-JSWSTEEL,2009-04-06,JSW Steel's fourth quarter production up 11% - The Economic Times,0.9485961198806763
-JSWSTEEL,2025-01-24,"JSW Steel misses Q3 profit estimates on lower prices, cooling demand - Reuters",-0.9662783145904541
-JSWSTEEL,2022-10-21,India's JSW Steel posts surprise quarterly loss on price slump - Reuters,-0.9690685272216797
-JSWSTEEL,2025-10-17,"India's JSW Steel posts fourfold quarterly profit rise, expects steel prices to improve - Reuters",0.9546413421630859
-JSWSTEEL,2026-01-23,India's JSW Steel beats quarterly profit view on stronger volume - Reuters,0.5503014326095581
-JSWSTEEL,2025-05-23,India's JSW Steel expects improved earnings in current quarter after profit miss - Reuters,0.9029285311698914
-JSWSTEEL,2025-07-18,India's JSW Steel says low priced imports a concern after profit beats estimates - Reuters,-0.5370160341262817
-JSWSTEEL,2017-03-23,"JSW Steel Share Price Today, JSW Steel Stock Price Live NSE/BSE Updates - The Economic Times",-0.9365823268890381
-JSWSTEEL,2025-01-24,JSW Steel Posts 70% Plunge in Quarterly Profit on Weaker Prices - bloomberg.com,-0.9581393599510193
-JSWSTEEL,2014-03-15,JSW Steel Ltd - bloomberg.com,-0.9424727559089661
-JSWSTEEL,2025-07-18,JSW Steel Q1 results: Strong bottomline surge likely despite muted volumes - ET Infra,0.806628406047821
-JSWSTEEL,2017-10-20,"Jsw steel - Latest jsw steel , Information & Updates - Energy - ET EnergyWorld",-0.9451561570167542
-JSWSTEEL,2021-06-16,JSW Steel Ltd - Reuters,-0.9411019086837769
-JSWSTEEL,2017-03-30,"JSW Steel Target Share Price, JSW Steel Share Price Forecast - The Economic Times",-0.9338186979293823
-JSWSTEEL,2017-03-24,JSW Steel Ltd. - The Economic Times,-0.9161775708198547
-JSWSTEEL,2025-07-18,JSW Steel Q1 profit rises 158% on higher steel prices and cost control - ET Infra,0.9473737478256226
-JSWSTEEL,2020-10-06,"JSW Steel Q4 Results: PAT rises 16% YoY to Rs 1,503 crore, revenue falls 3% - The Economic Times",-0.9660033583641052
-JSWSTEEL,2025-10-17,"JSW Steel Q2 FY26 net profit surges four-fold to ₹1,646 crore - ET Infra",0.9413654208183289
-JSWSTEEL,2020-07-17,"JSW Steel Q1 Results: PAT surges 189% YoY to Rs 2,428 crore; revenue up 11% - The Economic Times",0.9476590752601624
-JSWSTEEL,2017-07-27,Check out JSW Steel Ltd's stock price (JSWSTEEL-IN) in real time - CNBC,-0.9443371295928955
-JSWSTEEL,2016-12-31,"Jsw steel ltd - Latest jsw steel ltd , Information & Updates - Auto - ET Auto",-0.9479685425758362
-JSWSTEEL,2022-06-11,JSTL.NS - Reuters,-0.9360504746437073
-JSWSTEEL,2024-05-17,"JSW Steel sees higher sales, spending in FY25 even as Q4 profit slumps - Reuters",0.9108473658561707
-JSWSTEEL,2026-03-24,The Economic Times - The Economic Times,-0.9159992933273315
-JSWSTEEL,2021-12-20,JSW Steel Q3 Results: Profit slumps 70% to Rs 719 crore on weak prices of steel - The Economic Times,-0.9716339111328125
-JSWSTEEL,2025-10-03,Moody's upgrades outlook on JSW Steel to positive from stable - ET Infra,0.9402698278427124
-JSWSTEEL,2024-10-18,India's JSW Steel to acquire thyssenkrupp Electrical Steel India via JV - Reuters,-0.926842212677002
-JSWSTEEL,2021-10-19,JSW Steel (salav) Limited News - The Economic Times,-0.9235865473747253
-JSWSTEEL,2026-01-06,"Exclusive: India probe finds Tata Steel, JSW Steel, SAIL breached antitrust law, regulatory order shows - Reuters",-0.7788134813308716
-JSWSTEEL,2024-02-20,India's JSW Steel in talks with Australia's Whitehaven for coal mine stake - Reuters,-0.8913035988807678
-JSWSTEEL,2021-10-19,"Jsw steel - Latest jsw steel , Information & Updates - Infra - ET Infra",-0.9458072185516357
-JSWSTEEL,2025-04-16,"JSW Steel announces ₹50,000 crore investment for green steel capacity expansion - The Economic Times B2B",0.64581298828125
-JSWSTEEL,2022-06-14,"JSW Steel Q2 Results: PAT plunges 84% YoY to Rs 439 crore, revenue drops 11% - The Economic Times",-0.9710773229598999
-JSWSTEEL,2026-01-28,EU-India trade deal provides much-needed stability: JSW Steel CFO - CNBC,-0.7642462253570557
-JSWSTEEL,2025-12-03,India's JSW Steel to move Bhushan Power's steel business to JV with JFE Steel - Reuters,-0.9105284810066223
-JSWSTEEL,2025-05-24,JSW Steel evaluating legal options for troubled BPSL assets - ET Infra,-0.9148507714271545
-JSWSTEEL,2026-01-09,JSW Steel Q3 FY26 crude steel production up 6% at 7.48 million tonnes - ET Infra,0.9480985403060913
-JSWSTEEL,2025-07-17,"India's iron ore imports to rise on JSW steel demand, falling prices - Reuters",-0.7098188400268555
-JSWSTEEL,2018-09-14,JSW STEEL COATED PRODUCTS LIMITED - The Economic Times,-0.923252522945404
-JSWSTEEL,2018-09-07,"Bhushan power amp steel - Latest bhushan power amp steel , Information & Updates - Energy - ET EnergyWorld",-0.9443641304969788
-JSWSTEEL,2023-08-11,"Monnet Ispat Share Price Today, Monnet Ispat Stock Price Live NSE/BSE Updates - The Economic Times",-0.9414701461791992
-JSWSTEEL,2025-05-27,"JSW Steel doubles down on domestic growth, says ‘focus is primarily on India’ - CNBC",-0.9197719693183899
-JSWSTEEL,2024-10-19,JSW Steel to acquire thyssenkrupp Electrical Steel India via JV - ET EnergyWorld,-0.9152535200119019
-JSWSTEEL,2025-07-17,India’s iron ore imports set to rise as JSW Steel expands capacity - ET Infra,0.9409648776054382
-JSWSTEEL,2025-12-03,JSW Steel to merge Piombino Steel for direct control of BPSL holding - ET Infra,-0.9294039011001587
-JSWSTEEL,2025-01-10,JSW Steel reports record production at 7.03 mn tonnes in Q3 FY25 - ET Infra,0.6841562390327454
-JSWSTEEL,2025-05-02,"Top Indian court scraps JSW Steel's bid to acquire Bhushan Power, case lawyers say - Reuters",-0.7697674632072449
-JSWSTEEL,2025-12-03,JSW Steel to form 50:50 JV with Japan's JFE Steel for BPSL unit - ET Infra,-0.8967915773391724
-JSWSTEEL,2024-06-17,JSW Steel appoints Tarun Jha as head of marketing - ET BrandEquity,-0.9165937304496765
-JSWSTEEL,2010-07-27,JFE invests $1 billion for India's JSW Steel stake - Reuters,-0.9016262292861938
-JSWSTEEL,2026-01-23,"JSW Steel Q3 net profit jumps over 3-fold to ₹2,410 crore on tax asset recognition, higher volumes - ET Infra",0.9426290988922119
-JSWSTEEL,2025-07-16,MIDC begins land acquisition for JSW’s steel plant in Gadchiroli - ET Infra,-0.8853652477264404
-JSWSTEEL,2025-10-24,"US tariffs are a tailwind to our US business, says JSW Steel CEO - CNBC",-0.9484572410583496
-JSWSTEEL,2023-01-22,India's JSW Steel sees exports at more than 10% of 2022/23 sales - Reuters,0.5531919598579407
-JSWSTEEL,2024-11-05,"India's JSW Steel, POSCO to invest $7.7 billion in Odisha steel plant, sources say - Reuters",-0.8808529376983643
-JSWSTEEL,2023-09-21,"Exclusive: India's JSW Steel slows process to buy stake in Canada Teck coal unit, source says - Reuters",-0.9203071594238281
-JSWSTEEL,2024-05-17,"Jsw steel - Latest jsw steel , Information & Updates - Manufacturing - ET Manufacturing",-0.9460265040397644
-JSWSTEEL,2026-01-26,"JSW Steel to invest ₹2 lakh crore over 5-6 years, boost capacity by 50% - ET Infra",0.9428016543388367
-JSWSTEEL,2025-05-24,JSW Steel evaluating legal options for troubled BPSL assets - ETLegalWorld.com,-0.9377560019493103
-JSWSTEEL,2021-07-30,There is a structural shift in demand dynamics for steel: JSW Steel - CNBC,-0.7918288707733154
-JSWSTEEL,2024-02-12,"JSW Steel, Japan's JFE Steel to invest $663 mln in India JV - Reuters",-0.8373149633407593
-JSWSTEEL,2025-12-09,JSW Steel’s crude steel output rises 5% to 24.39 lakh tonnes in November - ET Infra,0.9468494653701782
-JSWSTEEL,2025-12-02,"India's January-October iron ore imports at six-year high, JSW Steel top buyer - Reuters",0.7640691995620728
-JSWSTEEL,2011-09-30,India's JSW Steel to get 0.4 mln T iron ore from NMDC - Reuters,0.7429691553115845
-JSWSTEEL,2025-08-03,"India's JSW Steel, Japan's JFE to invest $669 million to boost electrical steel output - Reuters",0.8396063446998596
-JSWSTEEL,2025-07-31,India's top court to revisit order scrapping JSW Steel's $2.3 billion Bhushan Power deal - Reuters,-0.500270426273346
-JSWSTEEL,2017-12-13,"Jsw steel ltd - Latest jsw steel ltd , Information & Updates - Energy - ET EnergyWorld",-0.9470770359039307
-JSWSTEEL,2022-10-25,Don't see further price correction: JSW Steel - ET Infra,-0.5821651816368103
-JSWSTEEL,2019-04-21,"vasind: Latest News & Videos, Photos about vasind - The Economic Times",-0.9360247850418091
-JSWSTEEL,2020-12-23,"Jsw steel - Latest jsw steel , Information & Updates - Legal -ET LegalWorld - ETLegalWorld.com",-0.9473812580108643
-JSWSTEEL,2025-05-01,"India's JSW Steel faces challenges importing coking coal from Mongolia, sources say - Reuters",-0.8368418216705322
-JSWSTEEL,2025-07-21,"JSW Steel to spend ₹20,000 crore on Dolvi expansion in FY26 - ET Infra",0.6129626035690308
-JSWSTEEL,2025-01-10,JSW Steel reports record production at 7.03 mn tonnes in Q3 FY25 - ET Manufacturing,0.607357919216156
-JSWSTEEL,2025-09-26,India's top court approves JSW Steel's takeover of Bhushan Power and Steel - Reuters,-0.9038539528846741
-JSWSTEEL,2025-05-02,India Court Rejects JSW Steel’s Plan to Acquire Bhushan Power - bloomberg.com,-0.6505969762802124
-JSWSTEEL,2025-09-26,SC upholds JSW Steel's resolution plan for debt-ridden Bhushan Power and Steel Ltd - ET BFSI,-0.7768761515617371
-JSWSTEEL,2023-07-21,JSW Steel appoints Swayam Saurabh as CFO designate - cfo.economictimes.indiatimes.com,-0.9425570368766785
-JSWSTEEL,2025-05-06,"JSW Steel-BPSL SC order unprecedented, takes IBC into uncharted territory: Experts - cfo.economictimes.indiatimes.com",-0.886722981929779
-JSWSTEEL,2021-05-22,India’s JSW Steel examining bid for Gupta’s British business -sources - Reuters,-0.9311097264289856
-JSWSTEEL,2024-08-12,India's JSW Steel to buy $120 mln stake in Australian firm to expand coal reserves - Reuters,0.5281097888946533
-JSWSTEEL,2025-07-23,JSW Steel CEO: Watching potential Chinese steel export dumping in India - CNBC,-0.7229427695274353
-JSWSTEEL,2024-12-11,"Jsw steel limited - Latest jsw steel limited , Information & Updates - Legal -ET LegalWorld - ETLegalWorld.com",-0.9484227895736694
-JSWSTEEL,2025-10-08,SC refuses to interfere with ED proceedings against JSW - ETLegalWorld.com,-0.5390211343765259
-JSWSTEEL,2025-01-23,India’s JSW Steel Seeks Syndicated Loan of Up to $900 Million - bloomberg.com,-0.8087396025657654
-JSWSTEEL,2026-03-13,JSW Steel Wins Rights to Develop Coking Coal Mine in Mozambique - bloomberg.com,-0.5560064911842346
-JSWSTEEL,2024-11-26,"India's JSW Steel, SAIL in talks with Mongolia for coking coal shipments, sources say - Reuters",-0.6295385956764221
-JSWSTEEL,2026-01-09,JSW Steel Q3 FY26 crude steel production up 6% at 7.48 million tonnes - ET Manufacturing,0.9508673548698425
-JSWSTEEL,2026-03-16,"Mounting gas shortages disrupt some steel plants at India's JSW, one unit may face shutdown - Reuters",-0.9559286236763
-JSWSTEEL,2025-09-26,SC upholds JSW Steel resolution plan for Bhushan Power and Steel - ET Infra,-0.7088702321052551
-JSWSTEEL,2020-02-05,JSW Steel signs Indian cricketer Rishabh Pant as brand ambassador - ET BrandEquity,-0.8408895134925842
-JSWSTEEL,2023-09-17,"Page 2 - Jsw steel - Latest jsw steel , Information & Updates - Legal -ET LegalWorld - ETLegalWorld.com",-0.9491439461708069
-JSWSTEEL,2018-07-19,NCLT approves JSW Steel-Aion resolution plan for Monnet Ispat - cfo.economictimes.indiatimes.com,-0.8287124633789062
-JSWSTEEL,2024-06-10,JSW Steel production declines in May due to maintenance shutdown - ET Auto,-0.9721451997756958
-JSWSTEEL,2025-07-22,JSW Steel flags risk of steel dumping amid rising Chinese imports - ET Infra,-0.9614878296852112
-JSWSTEEL,2022-06-09,JSW Steel rolls out a new campaign ‘Always Around’ - ET BrandEquity,-0.8068352341651917
-JSWSTEEL,2025-01-15,Coal scam: Delhi court discharges JSW Steel Ltd in corruption case - ET EnergyWorld,-0.9046146869659424
-JSWSTEEL,2022-12-13,"Andhra gives green signal to JSW's steel plant, Adani's 1,600 MW hydro storage project - ET EnergyWorld",0.7275620698928833
-JSWSTEEL,2025-03-29,"India court rejects JSW Steel, Trafigura request to clear certain met coke imports - Reuters",-0.48663395643234253
-JSWSTEEL,2024-06-10,JSW Steel production declines in May due to maintenance shutdown - ET Infra,-0.9737017154693604
-JSWSTEEL,2025-12-04,JSW Steel to form 50:50 JV with Japan's JFE Steel for BPSL unit - ET Manufacturing,-0.9069526195526123
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+JSWSTEEL,2020-02-05,JSW Steel signs Indian cricketer Rishabh Pant as brand ambassador - ET BrandEquity,,2026-10-18,legacy,neutral,0.14943715929985046,0.009673290885984898,0.8408895134925842,0.13976386841386557
+JSWSTEEL,2020-07-17,"JSW Steel Q1 Results: PAT surges 189% YoY to Rs 2,428 crore; revenue up 11% - The Economic Times",,2026-10-18,legacy,positive,0.9476590752601624,0.027285968884825706,0.025055041536688805,0.9203731063753366
+JSWSTEEL,2020-07-31,India-NZ trade deal kicks in: What gets cheaper? - The Economic Times,,2026-10-18,legacy,neutral,0.225917786359787,0.014071268029510975,0.7600108981132507,0.211846518330276
+JSWSTEEL,2020-10-06,"JSW Steel Q4 Results: PAT rises 16% YoY to Rs 1,503 crore, revenue falls 3% - The Economic Times",,2026-10-18,legacy,negative,0.02179369516670704,0.9660033583641052,0.012202967889606953,-0.9442096631973982
+JSWSTEEL,2020-12-23,"Jsw steel - Latest jsw steel , Information & Updates - Legal -ET LegalWorld - ETLegalWorld.com",,2026-10-18,legacy,neutral,0.02896879054605961,0.023649951443076134,0.9473812580108643,0.005318839102983475
+JSWSTEEL,2021-03-27,"Jsw steel - Latest jsw steel , Information & Updates - HR -ETHRWorld - ETHRWorld.com",,2026-10-18,legacy,neutral,0.03219274803996086,0.02237781696021557,0.9454294443130493,0.009814931079745293
+JSWSTEEL,2021-05-22,EXCLUSIVE: India’s JSW Steel examining bid for Gupta’s British business -sources - Reuters,,2026-10-18,legacy,neutral,0.053142525255680084,0.016705714166164398,0.9301517605781555,0.036436811089515686
+JSWSTEEL,2021-05-24,Jindal's JSW Steel Denies Liberty Asset Bid as Mill Plans India Expansion - Bloomberg.com,,2026-10-18,legacy,neutral,0.08163097500801086,0.012518305331468582,0.9058507084846497,0.06911266967654228
+JSWSTEEL,2021-06-16,JSW Steel Ltd - Reuters,,2026-10-18,legacy,neutral,0.02905723825097084,0.029840776696801186,0.9411020278930664,-0.0007835384458303452
+JSWSTEEL,2021-07-30,There is a structural shift in demand dynamics for steel: JSW Steel - CNBC,,2026-10-18,legacy,neutral,0.10726968944072723,0.10090170055627823,0.7918286323547363,0.006367988884449005
+JSWSTEEL,2021-10-25,India's JSW Steel to set up $20 mln plant in Kashmir - Reuters,,2026-10-18,legacy,neutral,0.17341800034046173,0.009306544438004494,0.8172754645347595,0.16411145590245724
+JSWSTEEL,2021-11-01,JSW Steel USA begins Phase II upgrade of Texas plant - ET Infra,,2026-10-18,legacy,positive,0.5773288607597351,0.015745067968964577,0.40692612528800964,0.5615837927907705
+JSWSTEEL,2021-12-20,JSW Steel Q3 Results: Profit slumps 70% to Rs 719 crore on weak prices of steel - The Economic Times,,2026-10-18,legacy,negative,0.010466895066201687,0.9716339111328125,0.017899183556437492,-0.9611670160666108
+JSWSTEEL,2022-01-21,Tycoon Jindal’s JSW Steel’s Profits Miss Estimates as Costs Jump - Bloomberg.com,,2026-10-18,legacy,negative,0.06385331600904465,0.6676971912384033,0.26844945549964905,-0.6038438752293587
+JSWSTEEL,2022-04-19,Priya Ranjan Kumar joins JSW Steel as VP - HR - ETHRWorld.com,,2026-10-18,legacy,neutral,0.029584981501102448,0.02964163012802601,0.9407733678817749,-5.6648626923561096e-05
+JSWSTEEL,2022-06-09,JSW Steel rolls out a new campaign ‘Always Around’ - ET BrandEquity,,2026-10-18,legacy,neutral,0.17992046475410461,0.013244091533124447,0.806835412979126,0.16667637322098017
+JSWSTEEL,2022-06-11,JSTL.NS - Reuters,,2026-10-18,legacy,neutral,0.02008502557873726,0.04386450722813606,0.9360504746437073,-0.023779481649398804
+JSWSTEEL,2022-06-14,"JSW Steel Q2 Results: PAT plunges 84% YoY to Rs 439 crore, revenue drops 11% - The Economic Times",,2026-10-18,legacy,negative,0.0079702939838171,0.9710773229598999,0.020952343940734863,-0.9631070289760828
+JSWSTEEL,2022-07-04,"JSW Steel to invest Rs 10K cr to increase use of renewable energy, reduce emissions: Sajjan Jindal - cfo.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.19624629616737366,0.009183548390865326,0.7945702075958252,0.18706274777650833
+JSWSTEEL,2022-10-26,India's JSW Steel says U.S. unit secures $182 mln financing - Reuters,,2026-10-18,legacy,positive,0.4932152032852173,0.016991063952445984,0.48979371786117554,0.4762241393327713
+JSWSTEEL,2022-12-09,Mark Bush steps down as CEO of JSW Steel USA - ETHRWorld.com,,2026-10-18,legacy,neutral,0.016535401344299316,0.42348846793174744,0.5599761605262756,-0.4069530665874481
+JSWSTEEL,2023-01-22,India's JSW Steel sees exports at more than 10% of 2022/23 sales - Reuters,,2026-10-18,legacy,positive,0.5531923174858093,0.016887951642274857,0.4299197793006897,0.5363043658435345
+JSWSTEEL,2023-04-19,India's JSW Steel plans to sell specialty steel to Russia -company source - Reuters,,2026-10-18,legacy,neutral,0.06096677854657173,0.015454151667654514,0.9235790371894836,0.04551262687891722
+JSWSTEEL,2023-05-19,India's JSW Steel posts contraction in fourth-quarter margin - Reuters,,2026-10-18,legacy,negative,0.014549323357641697,0.9703565239906311,0.01509420108050108,-0.9558072006329894
+JSWSTEEL,2023-05-23,"JSW Steel, Japan's JFE Steel ink pact to mfg electrical steel in India - ET Infra",,2026-10-18,legacy,positive,0.737151563167572,0.015099546872079372,0.24774888157844543,0.7220520162954926
+JSWSTEEL,2023-07-12,"Page 2 - Jsw steel ltd - Latest jsw steel ltd , Information & Updates - Auto - ET Auto",,2026-10-18,legacy,neutral,0.034457482397556305,0.017866479232907295,0.9476760029792786,0.01659100316464901
+JSWSTEEL,2023-07-21,India's JSW Steel says Q1 profit nearly triples on demand surge - Reuters,,2026-10-18,legacy,positive,0.5965977311134338,0.21686455607414246,0.1865376979112625,0.3797331750392914
+JSWSTEEL,2023-09-21,"EXCLUSIVE: India's JSW Steel slows process to buy stake in Canada Teck coal unit, source says - Reuters",,2026-10-18,legacy,neutral,0.055934228003025055,0.02375864051282406,0.9203071594238281,0.032175587490200996
+JSWSTEEL,2024-02-12,"JSW Steel, Japan's JFE Steel to invest $663 mln in India JV - Reuters",,2026-10-18,legacy,neutral,0.15355579555034637,0.009129318408668041,0.8373148441314697,0.14442647714167833
+JSWSTEEL,2024-02-20,India's JSW Steel in talks with Australia's Whitehaven for coal mine stake - Reuters,,2026-10-18,legacy,neutral,0.09338774532079697,0.015308763831853867,0.8913034796714783,0.0780789814889431
+JSWSTEEL,2024-02-21,"Tata Steel, JSW Steel among bidders for mines under commercial coal block auction - ET Auto",,2026-10-18,legacy,neutral,0.18227897584438324,0.007647101301699877,0.8100739121437073,0.17463187454268336
+JSWSTEEL,2024-02-21,Tycoon Jindal’s JSW Steel Sounds Out Banks for $750 Million Loan - Bloomberg.com,,2026-10-18,legacy,neutral,0.0739654153585434,0.016968080773949623,0.9090665578842163,0.05699733458459377
+JSWSTEEL,2024-06-10,JSW Steel production declines in May due to maintenance shutdown - ET Auto,,2026-10-18,legacy,negative,0.008058144710958004,0.9721451997756958,0.01979668252170086,-0.9640870550647378
+JSWSTEEL,2024-06-10,JSW Steel production declines in May due to maintenance shutdown - ET Infra,,2026-10-18,legacy,negative,0.00874350219964981,0.9737017154693604,0.017554691061377525,-0.9649582132697105
+JSWSTEEL,2024-06-10,JSW Steel production declines in May due to maintenance shutdown - ET Manufacturing,,2026-10-18,legacy,negative,0.007946689613163471,0.9727818369865417,0.01927141472697258,-0.9648351473733783
+JSWSTEEL,2024-06-17,JSW Steel appoints Tarun Jha as head of marketing - ET BrandEquity,,2026-10-18,legacy,neutral,0.048473309725522995,0.03493298217654228,0.9165937304496765,0.013540327548980713
+JSWSTEEL,2024-08-12,India's JSW Steel to buy $120 mln stake in Australian firm to expand coal reserves - Reuters,,2026-10-18,legacy,positive,0.5281092524528503,0.011710085906088352,0.4601806700229645,0.516399166546762
+JSWSTEEL,2024-10-18,India's JSW Steel to acquire thyssenkrupp Electrical Steel India via JV - Reuters,,2026-10-18,legacy,neutral,0.06187665835022926,0.011281087063252926,0.926842212677002,0.05059557128697634
+JSWSTEEL,2024-10-28,India's JSW Steel inks pact with S. Korea's POSCO to set up steel plant - Reuters,,2026-10-18,legacy,neutral,0.4543328285217285,0.01297390554100275,0.5326932668685913,0.44135892298072577
+JSWSTEEL,2024-11-05,"India's JSW Steel, POSCO to invest $7.7 billion in Odisha steel plant, sources say - Reuters",,2026-10-18,legacy,neutral,0.10949046909809113,0.0096566341817379,0.8808529376983643,0.09983383491635323
+JSWSTEEL,2025-01-10,JSW Steel reports record production at 7.03 mn tonnes in Q3 FY25 - ET Infra,,2026-10-18,legacy,positive,0.6841557025909424,0.043816640973091125,0.27202773094177246,0.6403390616178513
+JSWSTEEL,2025-01-10,JSW Steel reports record production at 7.03 mn tonnes in Q3 FY25 - ET Manufacturing,,2026-10-18,legacy,positive,0.6073575019836426,0.051775991916656494,0.3408665060997009,0.5555815100669861
+JSWSTEEL,2025-01-24,JSW Steel Posts 70% Plunge in Quarterly Profit on Weaker Prices - Bloomberg.com,,2026-10-18,legacy,negative,0.02800934575498104,0.9581392407417297,0.01385133620351553,-0.9301298949867487
+JSWSTEEL,2025-01-24,JSW Steel net profit declines 70 pc to Rs 719 crore in Q3 - ET Infra,,2026-10-18,legacy,negative,0.012466419488191605,0.9738327264785767,0.013700832612812519,-0.9613663069903851
+JSWSTEEL,2025-04-16,"JSW Steel announces ₹50,000 crore investment for green steel capacity expansion - ET Infra",,2026-10-18,legacy,positive,0.5914688110351562,0.012729285284876823,0.39580196142196655,0.5787395257502794
+JSWSTEEL,2025-04-16,"JSW Steel announces ₹50,000 crore investment for green steel capacity expansion - The Economic Times B2B",,2026-10-18,legacy,positive,0.6458126902580261,0.012187269516289234,0.3420001268386841,0.6336254207417369
+JSWSTEEL,2025-05-02,Bhushan Power & Steel Ltd - Reuters,,2026-10-18,legacy,neutral,0.03454343229532242,0.025274228304624557,0.9401823878288269,0.00926920399069786
+JSWSTEEL,2025-05-02,"Top Indian court scraps JSW Steel's bid to acquire Bhushan Power, case lawyers say - Reuters",,2026-10-18,legacy,negative,0.030818501487374306,0.7697678208351135,0.1994137316942215,-0.7389493193477392
+JSWSTEEL,2025-05-06,"JSW Steel-BPSL SC order unprecedented, takes IBC into uncharted territory: Experts - cfo.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.040870897471904755,0.07240608334541321,0.886722981929779,-0.03153518587350845
+JSWSTEEL,2025-05-06,SC ruling against BPSL's resolution plan likely have adverse bearings on JSW Steel financials - ET Manufacturing,,2026-10-18,legacy,negative,0.012281986884772778,0.9278262257575989,0.05989181250333786,-0.9155442388728261
+JSWSTEEL,2025-05-23,India's JSW Steel expects improved earnings in current quarter after profit miss - Reuters,,2026-10-18,legacy,positive,0.902928352355957,0.07848414033651352,0.018587462604045868,0.8244442120194435
+JSWSTEEL,2025-05-24,JSW Steel evaluating legal options for troubled BPSL assets - ET Infra,,2026-10-18,legacy,neutral,0.0691942647099495,0.01595499739050865,0.9148507714271545,0.05323926731944084
+JSWSTEEL,2025-05-27,"JSW Steel doubles down on domestic growth, says ‘focus is primarily on India’ - CNBC",,2026-10-18,legacy,negative,0.014660806395113468,0.9197719693183899,0.06556723266839981,-0.9051111629232764
+JSWSTEEL,2025-06-25,JSW Steel files review petition before India's top court on Bhushan Power deal collapse (June 25) - Reuters,,2026-10-18,legacy,neutral,0.0499531626701355,0.47106462717056274,0.478982150554657,-0.42111146450042725
+JSWSTEEL,2025-07-17,"India's iron ore imports to rise on JSW steel demand, falling prices - Reuters",,2026-10-18,legacy,negative,0.22423788905143738,0.7098200917243958,0.06594198942184448,-0.4855822026729584
+JSWSTEEL,2025-07-18,India's JSW Steel says low priced imports a concern after profit beats estimates - Reuters,,2026-10-18,legacy,negative,0.2513214647769928,0.5370157361030579,0.21166284382343292,-0.28569427132606506
+JSWSTEEL,2025-07-23,JSW Steel CEO: Watching potential Chinese steel export dumping in India - CNBC,,2026-10-18,legacy,neutral,0.06393106281757355,0.21312597393989563,0.7229429483413696,-0.14919491112232208
+JSWSTEEL,2025-07-31,India's top court to revisit order scrapping JSW Steel's $2.3 billion Bhushan Power deal - Reuters,,2026-10-18,legacy,neutral,0.0364021398127079,0.4633271396160126,0.5002707242965698,-0.42692499980330467
+JSWSTEEL,2025-08-03,"India's JSW Steel, Japan's JFE to invest $669 million to boost electrical steel output - Reuters",,2026-10-18,legacy,positive,0.8396062850952148,0.008100440725684166,0.1522933542728424,0.8315058443695307
+JSWSTEEL,2025-08-17,"JSW Steel, POSCO to explore setting up steel plant in India - Reuters",,2026-10-18,legacy,neutral,0.0942184180021286,0.01331412699073553,0.8924674987792969,0.08090429101139307
+JSWSTEEL,2025-08-18,"JSW Steel, POSCO sign agreement to explore 6 MTPA steel plant in India - ET Infra",,2026-10-18,legacy,positive,0.9060479998588562,0.011384677141904831,0.08256729692220688,0.8946633227169514
+JSWSTEEL,2025-09-26,India's top court approves JSW Steel's takeover of Bhushan Power and Steel - Reuters,,2026-10-18,legacy,neutral,0.06944359838962555,0.0267024002969265,0.9038540720939636,0.04274119809269905
+JSWSTEEL,2025-10-03,Moody's upgrades outlook on JSW Steel to positive from stable - ET Infra,,2026-10-18,legacy,positive,0.9402698278427124,0.025308452546596527,0.034421712160110474,0.9149613752961159
+JSWSTEEL,2025-10-08,SC refuses to interfere with ED proceedings against JSW - ETLegalWorld.com,,2026-10-18,legacy,negative,0.02407137118279934,0.539021372795105,0.43690723180770874,-0.5149500016123056
+JSWSTEEL,2025-10-17,"India's JSW Steel posts fourfold quarterly profit rise, expects steel prices to improve - Reuters",,2026-10-18,legacy,positive,0.9546413421630859,0.02287181094288826,0.02248682826757431,0.9317695312201977
+JSWSTEEL,2025-10-24,"US tariffs are a tailwind to our US business, says JSW Steel CEO - CNBC",,2026-10-18,legacy,negative,0.014255370944738388,0.9484572410583496,0.037287432700395584,-0.9342018701136112
+JSWSTEEL,2025-12-02,"India's January-October iron ore imports at six-year high, JSW Steel top buyer - Reuters",,2026-10-18,legacy,positive,0.7640693783760071,0.018966427072882652,0.21696418523788452,0.7451029513031244
+JSWSTEEL,2025-12-03,India's JSW Steel to move Bhushan Power's steel business to JV with JFE Steel - Reuters,,2026-10-18,legacy,neutral,0.07960648089647293,0.009865010157227516,0.9105284810066223,0.06974147073924541
+JSWSTEEL,2026-01-06,"EXCLUSIVE: India probe finds Tata Steel, JSW Steel, SAIL breached antitrust law, regulatory order shows - Reuters",,2026-10-18,legacy,negative,0.021955477073788643,0.7788134217262268,0.19923105835914612,-0.7568579446524382
+JSWSTEEL,2026-01-09,JSW Steel Q3 FY26 crude steel production up 6% at 7.48 million tonnes - ET Infra,,2026-10-18,legacy,positive,0.9480985403060913,0.025551682338118553,0.02634974755346775,0.9225468579679728
+JSWSTEEL,2026-01-23,"EXCLUSIVE: India antitrust probe links Tata, JSW to steel cartel via WhatsApp chats, production data - Reuters",,2026-10-18,legacy,neutral,0.03454064950346947,0.02445824444293976,0.9410011172294617,0.010082405060529709
+JSWSTEEL,2026-01-23,India's JSW Steel beats quarterly profit view on stronger volume - Reuters,,2026-10-18,legacy,positive,0.5503015518188477,0.3437406122684479,0.10595786571502686,0.20656093955039978
+JSWSTEEL,2026-01-28,EU-India trade deal provides much-needed stability: JSW Steel CFO - CNBC,,2026-10-18,legacy,neutral,0.2189103662967682,0.016843168064951897,0.76424640417099,0.2020671982318163
+JSWSTEEL,2026-03-16,"Mounting gas shortages disrupt some steel plants at India's JSW, one unit may face shutdown - Reuters",,2026-10-18,legacy,negative,0.007972318679094315,0.9559286236763,0.03609909117221832,-0.9479563049972057
+JSWSTEEL,2026-04-24,"JSW Steel, JFE unveil 50:50 JV JSW JFE Steel in Odisha - ET Manufacturing",,2026-10-18,legacy,neutral,0.07479498535394669,0.011654715053737164,0.9135503172874451,0.06314027030020952
+JSWSTEEL,2026-05-14,India's JSW Steel posts twofold quarterly profit rise on price recovery - Reuters,,2026-10-18,legacy,positive,0.9066601395606995,0.05462934076786041,0.03871053084731102,0.852030798792839
+JSWSTEEL,2026-05-18,"JSW Energy divests partial stake in JSW Steel, raises ₹3,150 crore - ET EnergyWorld",,2026-10-18,legacy,neutral,0.4211488664150238,0.023976575583219528,0.5548745393753052,0.3971722908318043
+JSWSTEEL,2026-05-18,"JSW Energy sells 2.5 crore JSW Steel shares for ₹3,150 cr via bulk deal - ET Manufacturing",,2026-10-18,legacy,neutral,0.06478305160999298,0.012373394332826138,0.9228435158729553,0.05240965727716684
+JSWSTEEL,2026-05-18,Watch Why JSW Steel is Boosting Capacity - Bloomberg.com,,2026-10-18,legacy,neutral,0.49000364542007446,0.011604364961385727,0.4983920454978943,0.47839928045868874
+JSWSTEEL,2026-05-25,"CAM, TT&A act on JSW Energy’s share offload in JSW Steel worth INR 3,150 cr - ETLegalWorld.com",,2026-10-18,legacy,neutral,0.029238877817988396,0.043500564992427826,0.9272605180740356,-0.01426168717443943
+JSWSTEEL,2026-06-09,JSW Steel crude output rises 15% to 22.93 lakh tonnes in May - ET Manufacturing,,2026-10-18,legacy,positive,0.9505872130393982,0.023933636024594307,0.025479190051555634,0.9266535770148039
+JSWSTEEL,2026-07-07,"Fitch upgrades JSW Steel to 'BB+' with Positive Outlook on deleveraging, JV proceeds - ET Infra",,2026-10-18,legacy,positive,0.9222960472106934,0.015829235315322876,0.06187481805682182,0.9064668118953705
+JSWSTEEL,2026-07-17,India's JSW Steel beats profit view on higher prices - Reuters,,2026-10-18,legacy,positive,0.5577789545059204,0.24097326397895813,0.20124778151512146,0.3168056905269623
+JSWSTEEL,2026-07-17,"JSW Steel approves over ₹33,000 crore of fresh capex in Q1; total investment pipeline crosses ₹1.30 lakh.. - ET Manufacturing",,2026-10-18,legacy,positive,0.8723869919776917,0.013038113713264465,0.11457490921020508,0.8593488782644272
+JSWSTEEL,2026-07-17,"JSW Steel's Q1 FY27 profit more than doubles to ₹4,651 crore - ET Manufacturing",,2026-10-18,legacy,positive,0.9327576160430908,0.020980725064873695,0.04626172035932541,0.9117768909782171
+JSWSTEEL,2026-07-17,"JSW Steel’s Profit Doubles on Strong Domestic Demand, Prices - Bloomberg.com",,2026-10-18,legacy,positive,0.8680980205535889,0.051351819187402725,0.0805501788854599,0.8167462013661861
+JSWSTEEL,2026-08-16,Stock Research Report for JSW Steel Limited - The Economic Times,,2026-10-18,legacy,neutral,0.031353916972875595,0.04172438383102417,0.9269217252731323,-0.010370466858148575
+JSWSTEEL,2026-10-14,Jsw+steel - ET Sustainability,ET Sustainability,2026-10-19,live,neutral,0.11545535176992416,0.01022688951343298,0.8743177056312561,0.10522846225649118
+JSWSTEEL,2026-10-14,"Nomura remains bullish on steel stocks as HRC hits four-year high; retains 'Buy' on Tata Steel, JSW Steel,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.8785834908485413,0.04595129191875458,0.07546526193618774,0.8326321989297867
+JSWSTEEL,2026-10-15,Page 194 of 15 - Page 194 of 250 - Page 194 - News from ET-Bureau - ET Infra,,2026-10-18,legacy,neutral,0.022128485143184662,0.03718486800789833,0.9406866431236267,-0.015056382864713669
+JSWSTEEL,2026-10-16,"Abakkus Flexi Cap Fund September portfolio: 35 stocks, including Groww and NTPC, see higher holdings - Livemint",Livemint,2026-10-19,live,neutral,0.044995881617069244,0.021412553265690804,0.9335916042327881,0.02358332835137844
+JSWSTEEL,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.7371003031730652,0.07562079280614853,0.18727897107601166,0.6614795103669167
+JSWSTEEL,2026-10-17,"8th Pay Commission: What central government employees need to know about OPS, NPS and UPS - Livemint",Livemint,2026-10-19,live,neutral,0.028637442737817764,0.03546883910894394,0.935893714427948,-0.006831396371126175
+JSWSTEEL,2026-10-17,AI fears are rocking markets. The brave should buy the dips. - Livemint,Livemint,2026-10-19,live,neutral,0.056585490703582764,0.08270009607076645,0.8607144355773926,-0.026114605367183685
+JSWSTEEL,2026-10-17,Benjamin Satterley’s cause of death revealed after AEW star Pac passes away at 40 - Livemint,Livemint,2026-10-19,live,neutral,0.01855195313692093,0.19873753190040588,0.7827105522155762,-0.18018557876348495
+JSWSTEEL,2026-10-17,"Centre caps trade margins on 137 cancer drugs, prices likely to fall by up to 70% - Livemint",Livemint,2026-10-19,live,negative,0.025702763348817825,0.9414757490158081,0.03282156586647034,-0.9157729856669903
+JSWSTEEL,2026-10-17,Cyber fraud alert: SBI warns about AI voice-cloning scams — 5 ways to protect your money - Livemint,Livemint,2026-10-19,live,neutral,0.04095199331641197,0.107304647564888,0.8517433404922485,-0.06635265424847603
+JSWSTEEL,2026-10-17,DA hike after Dussehra: Will central government employees get good news in October? - What we know so far - Livemint,Livemint,2026-10-19,live,neutral,0.14323613047599792,0.01869295723736286,0.8380709290504456,0.12454317323863506
+JSWSTEEL,2026-10-17,"DA news: Key salary components explained — We breakdown the differences between your DA, DR and HRA - Livemint",Livemint,2026-10-19,live,neutral,0.06268566846847534,0.022850219160318375,0.9144641160964966,0.03983544930815697
+JSWSTEEL,2026-10-17,Dearness Allowance hike 2026: Will the Centre announce the July DA revision before Diwali? What history suggests - Livemint,Livemint,2026-10-19,live,neutral,0.04557699337601662,0.02012808993458748,0.9342949390411377,0.025448903441429138
+JSWSTEEL,2026-10-17,Dubai-bound Emirates flight delayed at Delhi airport after a bird strike | Watch video - Livemint,Livemint,2026-10-19,live,negative,0.016832366585731506,0.8495619893074036,0.13360567390918732,-0.8327296227216721
+JSWSTEEL,2026-10-17,EPFO VISHWAS 2026 explained: How employers can settle pending Section 14B penal damages - Livemint,Livemint,2026-10-19,live,neutral,0.023532157763838768,0.10424035042524338,0.8722274899482727,-0.08070819266140461
+JSWSTEEL,2026-10-17,"EPFO explains new rules for EPF advances: Check withdrawal limits, conditions and forms - Livemint",Livemint,2026-10-19,live,neutral,0.03077017515897751,0.019985830411314964,0.9492440223693848,0.010784344747662544
+JSWSTEEL,2026-10-17,FSSAI initiates prosecution against Surya Food & Agro for using cattle feed bran in Priyagold biscuits production - Livemint,Livemint,2026-10-19,live,neutral,0.050936296582221985,0.4716894030570984,0.4773743450641632,-0.4207531064748764
+JSWSTEEL,2026-10-17,FSSAI proposes ban on added sugar in baby food for infants aged up to six months - Livemint,Livemint,2026-10-19,live,neutral,0.032795250415802,0.12267257273197174,0.8445321917533875,-0.08987732231616974
+JSWSTEEL,2026-10-17,"Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint",Livemint,2026-10-19,live,neutral,0.035794131457805634,0.10830545425415039,0.8559004068374634,-0.07251132279634476
+JSWSTEEL,2026-10-17,Government employees await July 2026 Dearness Allowance hike: Check DA and DR announcement dates for the last 5 years - Livemint,Livemint,2026-10-19,live,neutral,0.02553291991353035,0.040387824177742004,0.9340792298316956,-0.014854904264211655
+JSWSTEEL,2026-10-17,"Home loan alert: SBI, PNB and 4 other banks revise lending rates — how borrowers may be affected - Livemint",Livemint,2026-10-19,live,neutral,0.024810785427689552,0.06156347319483757,0.9136257171630859,-0.03675268776714802
+JSWSTEEL,2026-10-17,How SBI’s failure to inform a retired scientist about FD maturity cost it ₹15.35 lakh; details of the case here - Livemint,Livemint,2026-10-19,live,neutral,0.021422121673822403,0.2577233910560608,0.7208544611930847,-0.2363012693822384
+JSWSTEEL,2026-10-17,"India Post sanctions 60 days’ Productivity Linked Bonus: Check employee eligibility, salary limits and calculation rules - Livemint",Livemint,2026-10-19,live,neutral,0.022283008322119713,0.055121708661317825,0.9225952625274658,-0.03283870033919811
+JSWSTEEL,2026-10-17,Looking to purchase gold this festive season? Here's how to directly avail Tyohar BharatPe Gold Offer - Livemint,Livemint,2026-10-19,live,neutral,0.06310613453388214,0.012558693066239357,0.9243351817131042,0.050547441467642784
+JSWSTEEL,2026-10-17,Parag Parikh Flexi Cap Fund cash falls to 9.77% after Rajeev Thakkar's ‘single-digit’ outlook: Where is the money going? - Livemint,Livemint,2026-10-19,live,negative,0.009131036698818207,0.9584717750549316,0.03239724040031433,-0.9493407383561134
+JSWSTEEL,2026-10-17,"Regular vs step-up SIPs: Do ₹1,000 and 10% annual top-ups give you higher XIRR returns or just create a larger corpus? - Livemint",Livemint,2026-10-19,live,neutral,0.12621665000915527,0.011480691842734814,0.8623026609420776,0.11473595816642046
+JSWSTEEL,2026-10-17,"SC says internet access is a fundamental right, rejects blanket ban for children: ‘Safety and freedom are not at odds’ - Livemint",Livemint,2026-10-19,live,neutral,0.09607412666082382,0.01820235513150692,0.8857235312461853,0.0778717715293169
+JSWSTEEL,2026-10-17,SGB 2020-21 Series VII: Investors to pocket 192% gains on premature redemption; RBI fixes October 19 date - Livemint,Livemint,2026-10-19,live,positive,0.5543224811553955,0.026561208069324493,0.4191162884235382,0.527761273086071
+JSWSTEEL,2026-10-17,Using two health insurance policies for one hospital bill? Are you aware of these claim rejection traps? - Livemint,Livemint,2026-10-19,live,neutral,0.02995999902486801,0.09158152341842651,0.8784584403038025,-0.0616215243935585
+JSWSTEEL,2026-10-17,Why Facundo Bernal's headbutt on Lamine Yamal earned a red card and sparked debate in Real Betis vs Barcelona - Livemint,Livemint,2026-10-19,live,negative,0.03874144330620766,0.8442487716674805,0.11700979620218277,-0.8055073283612728
+JSWSTEEL,2026-10-17,₹9 lakh in Post Office MIS vs ₹9 lakh in bank FD: Which gives a higher monthly income? - Livemint,Livemint,2026-10-19,live,neutral,0.1295734941959381,0.02618788182735443,0.8442385792732239,0.10338561236858368
+JSWSTEEL,2026-10-18,"'Why should the US bear the burden?': Treasury chief Bessent says Europe refused tariffs on India, China over Russia - Livemint",Livemint,2026-10-19,live,neutral,0.3408164381980896,0.047806061804294586,0.611377477645874,0.293010376393795
+JSWSTEEL,2026-10-18,7th Pay Commission: BSNL employees seek wage revision; management assures festival advance in 2 months - Livemint,Livemint,2026-10-19,live,negative,0.07229253649711609,0.7610014081001282,0.1667061150074005,-0.6887088716030121
+JSWSTEEL,2026-10-18,"8th Pay Commission: How salaries change at fitment factors of 4, 3.833 and 3.80; Check complete calculations - Livemint",Livemint,2026-10-19,live,neutral,0.026975730434060097,0.03878628462553024,0.9342380166053772,-0.011810554191470146
+JSWSTEEL,2026-10-18,"8th pay commission: Official state visit to Mumbai planned this week — Here's all we know about meetings, agenda - Livemint",Livemint,2026-10-19,live,neutral,0.024871855974197388,0.031042130663990974,0.944085955619812,-0.006170274689793587
+JSWSTEEL,2026-10-18,AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks - Livemint,Livemint,2026-10-19,live,neutral,0.15265363454818726,0.020505521446466446,0.826840877532959,0.1321481131017208
+JSWSTEEL,2026-10-18,"Aadhaar update: Want to change your name, address or date of birth? Check UIDAI's list of accepted documents - Livemint",Livemint,2026-10-19,live,neutral,0.018043559044599533,0.045676589012145996,0.9362798929214478,-0.027633029967546463
+JSWSTEEL,2026-10-18,"Affordable and versatile, Vietnam's basa gets Indians hooked - Livemint",Livemint,2026-10-19,live,neutral,0.3886326253414154,0.01012316346168518,0.6012442708015442,0.3785094618797302
+JSWSTEEL,2026-10-18,Autumn skincare: How to protect your skin from dryness and pollution - Livemint,Livemint,2026-10-19,live,neutral,0.06275562196969986,0.01641876995563507,0.9208256006240845,0.04633685201406479
+JSWSTEEL,2026-10-18,Best-performing SIFs: Quant leads hybrid long-short funds with 25.5% returns in 6 months; check how peers performed - Livemint,Livemint,2026-10-19,live,neutral,0.3179176449775696,0.009293559938669205,0.6727887988090515,0.3086240850389004
+JSWSTEEL,2026-10-18,Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - Livemint,Livemint,2026-10-19,live,positive,0.8305220007896423,0.01205634418874979,0.15742166340351105,0.8184656566008925
+JSWSTEEL,2026-10-18,DA hike before Diwali 2026: How much extra salary could central government employees get if DA rises to 63%? - Livemint,Livemint,2026-10-19,live,neutral,0.2325534224510193,0.02355491742491722,0.7438916563987732,0.20899850502610207
+JSWSTEEL,2026-10-18,"Dalal Street Week Ahead: Jio IPO, Q2 earnings, China GDP, oil prices, PMI flash numbers among 10 key... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03906309977173805,0.04107813164591789,0.9198587536811829,-0.00201503187417984
+JSWSTEEL,2026-10-18,"EPFO scheme offers up to ₹15,000 to first-time employees: Check eligibility, salary limit and payment rules - Livemint",Livemint,2026-10-19,live,neutral,0.06295184791088104,0.011000827886164188,0.9260473251342773,0.051951020024716854
+JSWSTEEL,2026-10-18,"EPFO: How to check status, EPF account passbook on official portal, Umang app, SMS, Missed Call, WhatsApp—Stepwise guide - Livemint",Livemint,2026-10-19,live,neutral,0.05301091447472572,0.01584567315876484,0.9311434626579285,0.037165241315960884
+JSWSTEEL,2026-10-18,"Eating out with family for Diwali, Dussehra? Here's why your restaurant bills may go up by 10-15% this festive season - Livemint",Livemint,2026-10-19,live,positive,0.7849933505058289,0.03552398830652237,0.17948266863822937,0.7494693621993065
+JSWSTEEL,2026-10-18,FD maturity mistake: Fixed deposit matured but you forgot to withdraw money? What happens to your amount? Renew or not? - Livemint,Livemint,2026-10-19,live,neutral,0.02800249308347702,0.04324764013290405,0.9287498593330383,-0.015245147049427032
+JSWSTEEL,2026-10-18,Film scores that soared in 2026 - Livemint,Livemint,2026-10-19,live,neutral,0.19223900139331818,0.014117050915956497,0.7936439514160156,0.17812195047736168
+JSWSTEEL,2026-10-18,"Firing at Tiger Shroff in Mumbai's Juhu; actor safe, two including his driver injured - Livemint",Livemint,2026-10-19,live,negative,0.024865658953785896,0.8805730938911438,0.09456118941307068,-0.8557074349373579
+JSWSTEEL,2026-10-18,"France protests: Thousands on streets over rising living costs, poor services - Mini French Revolution? What went wrong? - Livemint",Livemint,2026-10-19,live,negative,0.017506493255496025,0.7613745927810669,0.22111889719963074,-0.7438680995255709
+JSWSTEEL,2026-10-18,Got refund for online shopping after cancelling order but your credit card bill still shows due amount? Should you pay? - Livemint,Livemint,2026-10-19,live,neutral,0.0644732341170311,0.05030616745352745,0.8852205872535706,0.014167066663503647
+JSWSTEEL,2026-10-18,"Income Tax New TDS Form 141: How it simplifies tax deduction at source compliance for property transactions, rent, etc - Livemint",Livemint,2026-10-19,live,neutral,0.05907714366912842,0.013225287199020386,0.9276975989341736,0.04585185647010803
+JSWSTEEL,2026-10-18,Income tax audit last date: 21 Oct is deadline; last-minute checklist for taxpayers before submission | List from expert - Livemint,Livemint,2026-10-19,live,neutral,0.01718260534107685,0.050264280289411545,0.9325531125068665,-0.033081674948334694
+JSWSTEEL,2026-10-18,Income tax on property buying: Over ₹30 lakh deal? Experts suggest what to report in realty purchases to avoid taxmen - Livemint,Livemint,2026-10-19,live,neutral,0.03480640426278114,0.025284769013524055,0.9399088025093079,0.009521635249257088
+JSWSTEEL,2026-10-18,"India's exports to West Asia recover from US-Iran war shock in April-August; shipments to Africa, ASEAN rise - Livemint",Livemint,2026-10-19,live,positive,0.9410450458526611,0.02372382953763008,0.03523104637861252,0.917321216315031
+JSWSTEEL,2026-10-18,"India’s Revolut or Nubank will emerge from a bank, not a fintech: Slice CEO Rajan Bajaj - Livemint",Livemint,2026-10-19,live,neutral,0.10339673608541489,0.009098122827708721,0.8875051140785217,0.09429861325770617
+JSWSTEEL,2026-10-18,Insurance reforms: Why claims matter more than distribution costs - Livemint,Livemint,2026-10-19,live,neutral,0.05614390969276428,0.02345406264066696,0.9204020500183105,0.03268984705209732
+JSWSTEEL,2026-10-18,"JSW Steel gets relief in ₹2,169 crore mining dispute: What was the case and what Orissa HC ruled - Livemint",Livemint,2026-10-19,live,neutral,0.17025406658649445,0.027125481516122818,0.8026204705238342,0.14312858507037163
+JSWSTEEL,2026-10-18,"Keralam DA, DR hike: Government raises rates from 35% to 37%; here's when the payments will begin - Livemint",Livemint,2026-10-19,live,neutral,0.21997161209583282,0.01216701790690422,0.7678613662719727,0.2078045941889286
+JSWSTEEL,2026-10-18,Manu Joseph: The poor have a right to fun—why don't the rich understand that? - Livemint,Livemint,2026-10-19,live,neutral,0.04929674044251442,0.02400415576994419,0.9266991019248962,0.02529258467257023
+JSWSTEEL,2026-10-18,Mint Explainer: What’s at stake for consumer companies this festive season? - Livemint,Livemint,2026-10-19,live,neutral,0.02961095981299877,0.03994834050536156,0.9304407238960266,-0.010337380692362785
+JSWSTEEL,2026-10-18,"Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint",Livemint,2026-10-19,live,positive,0.6336671710014343,0.028063256293535233,0.33826959133148193,0.6056039147078991
+JSWSTEEL,2026-10-18,NFL confirms Steelers vs Saints Paris game will go ahead on October 25 amid France protests - Livemint,Livemint,2026-10-19,live,neutral,0.04077370464801788,0.04086553305387497,0.918360710144043,-9.182840585708618e-05
+JSWSTEEL,2026-10-18,"NRI's ₹3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT gives relief - Livemint",Livemint,2026-10-19,live,negative,0.06317933648824692,0.4893200993537903,0.44750064611434937,-0.42614076286554337
+JSWSTEEL,2026-10-18,"No ITR filed, but ITAT Jaipur still quashed the 200% income tax penalty: Here's what the taxpayer did to win the case - Livemint",Livemint,2026-10-19,live,neutral,0.09165002405643463,0.037385810166597366,0.8709641695022583,0.054264213889837265
+JSWSTEEL,2026-10-18,"Reports of sale false and misleading, says Bhilai Steel Plant amid Congress alleging Adani visit - The Economic Times",The Economic Times,2026-10-19,live,negative,0.025530537590384483,0.7131152153015137,0.2613542675971985,-0.6875846777111292
+JSWSTEEL,2026-10-18,The Kolkata crush and mechanics of pandal safety: Why smart city sensors fail in high-density downpours | Explained - Livemint,Livemint,2026-10-19,live,neutral,0.061700236052274704,0.022613078355789185,0.9156867265701294,0.03908715769648552
+JSWSTEEL,2026-10-18,"The week ahead in numbers: Jio’s mega IPO, forex reserves, Q2 earnings report - Livemint",Livemint,2026-10-19,live,neutral,0.043143779039382935,0.025417283177375793,0.9314389228820801,0.01772649586200714
+JSWSTEEL,2026-10-18,"Train ticket insurance from October 27: Is it mandatory, what is the current premium, coverage and claim process? - Livemint",Livemint,2026-10-19,live,neutral,0.028706269338726997,0.02298029512166977,0.9483134150505066,0.005725974217057228
+JSWSTEEL,2026-10-18,Trump's approval is just 33% — but these 3 other poll numbers may worry Republicans more - Livemint,Livemint,2026-10-19,live,neutral,0.0417468287050724,0.24176983535289764,0.7164832949638367,-0.20002300664782524
+JSWSTEEL,2026-10-18,"Using Buying Now, Pay Later (BNPL) for Diwali, Dussehra, and Dhanteras online shopping? Are you aware of these 5 risks? - Livemint",Livemint,2026-10-19,live,neutral,0.057413555681705475,0.023272603750228882,0.9193137884140015,0.03414095193147659
+JSWSTEEL,2026-10-18,"Want to retire early? How to split ₹1 lakh in monthly investments between short-term goals and FIRE, expert explains - Livemint",Livemint,2026-10-19,live,neutral,0.07719823718070984,0.012526788748800755,0.9102749824523926,0.06467144843190908
+JSWSTEEL,2026-10-18,What remakes of Akira Kurosawa’s ‘High and Low’ gain and lose - Livemint,Livemint,2026-10-19,live,neutral,0.037200212478637695,0.03875992074608803,0.924039900302887,-0.0015597082674503326
+JSWSTEEL,2026-10-18,What's wrong with calling it an 'AI race'? A lot—and India should reject this notion outright - Livemint,Livemint,2026-10-19,live,neutral,0.035711269825696945,0.09112422168254852,0.8731644749641418,-0.05541295185685158
+JSWSTEEL,2026-10-18,Why India’s steelmakers are eyeing coal gasification despite high costs - Livemint,Livemint,2026-10-19,live,neutral,0.11546305567026138,0.014783495105803013,0.8697534799575806,0.10067956056445837
+JSWSTEEL,2026-10-18,"Why Trump’s 'dealmaker' image faces scrutiny as Iran, Ukraine wars test his negotiating skills - Livemint",Livemint,2026-10-19,live,neutral,0.048897482454776764,0.16670165956020355,0.7844008207321167,-0.11780417710542679
+JSWSTEEL,2026-10-18,Yes Bank AT-1 verdict: Does this instrument fulfil the purpose it was originally designed for? - Livemint,Livemint,2026-10-19,live,neutral,0.07283554971218109,0.012212816625833511,0.9149516820907593,0.06062273308634758
+JSWSTEEL,2026-10-18,"₹50,000 in KVP vs ₹50,000 in NSC: Which post office scheme is better for a five-year goal? Check out the calculations - Livemint",Livemint,2026-10-19,live,neutral,0.1011575385928154,0.019315024837851524,0.8795274496078491,0.08184251375496387
+JSWSTEEL,2026-10-19,8th Pay Commission: What is dearness relief and how is it different from DA? Expert explains - Livemint,Livemint,2026-10-19,live,neutral,0.047532349824905396,0.02110881172120571,0.931358814239502,0.026423538103699684
+JSWSTEEL,2026-10-19,A hedge-fund billionaire’s two bitter wars—against his wife and his business partner - Livemint,Livemint,2026-10-19,live,negative,0.09851834923028946,0.47844719886779785,0.4230344295501709,-0.3799288496375084
+JSWSTEEL,2026-10-19,Akasa’s 35% revenue growth fails to arrest losses as aviation’s cost squeeze deepens - Livemint,Livemint,2026-10-19,live,negative,0.14279387891292572,0.7872517704963684,0.06995424628257751,-0.6444578915834427
+JSWSTEEL,2026-10-19,Anthropics IPO Dreams May Be Eclipsed By the Cloud - Livemint,Livemint,2026-10-19,live,neutral,0.059470657259225845,0.061043377965688705,0.8794859051704407,-0.00157272070646286
+JSWSTEEL,2026-10-19,Can LTM’s pivot towards shorter-tenure AI deals accelerate revenue growth in H2? - Livemint,Livemint,2026-10-19,live,positive,0.658255398273468,0.009167712181806564,0.33257684111595154,0.6490876860916615
+JSWSTEEL,2026-10-19,FCNR inflows ease liquidity constraints but weigh on private banks’ margins - Livemint,Livemint,2026-10-19,live,negative,0.16623130440711975,0.49648648500442505,0.3372822403907776,-0.3302551805973053
+JSWSTEEL,2026-10-19,Frail Indonesian markets reel after MSCI shock warning - Livemint,Livemint,2026-10-19,live,negative,0.12009342014789581,0.7937777638435364,0.08612876385450363,-0.6736843436956406
+JSWSTEEL,2026-10-19,From Ambani to Delta: why Elon Musk has picked fights over Starlink - Livemint,Livemint,2026-10-19,live,neutral,0.04000360891222954,0.040800973773002625,0.9191954731941223,-0.0007973648607730865
+JSWSTEEL,2026-10-19,"Gold, silver prices today, 19 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",Livemint,2026-10-19,live,neutral,0.0773773193359375,0.02003602869808674,0.9025866389274597,0.05734129063785076
+JSWSTEEL,2026-10-19,Japan PM Takaichi’s Public Support Slips After Cabinet Scandal - Livemint,Livemint,2026-10-19,live,negative,0.018056446686387062,0.9463640451431274,0.03557952865958214,-0.9283075984567404
+JSWSTEEL,2026-10-19,Long-term capital gains and securities transaction taxation: Here’s how to reform them - Livemint,Livemint,2026-10-19,live,neutral,0.04655298590660095,0.018233798444271088,0.9352132081985474,0.028319187462329865
+JSWSTEEL,2026-10-19,Noise COO Utsav Malhotra: ‘Your career is not a sprint or marathon. It’s a test match’ - Livemint,Livemint,2026-10-19,live,neutral,0.05406563729047775,0.020867787301540375,0.9250665307044983,0.03319784998893738
+JSWSTEEL,2026-10-19,"PNB has comfortable capital buffer, targets 15% credit growth this year, says CEO Chandra - Livemint",Livemint,2026-10-19,live,positive,0.9346727132797241,0.010370835661888123,0.05495654046535492,0.924301877617836
+JSWSTEEL,2026-10-19,Putin floats a summit with Trump and Xi to decide Ukraine’s fate - Livemint,Livemint,2026-10-19,live,neutral,0.10922819375991821,0.01445893943309784,0.8763128519058228,0.09476925432682037
+JSWSTEEL,2026-10-19,"Quick commerce, uncertain demand push up festive borrowing for consumer brands - Livemint",Livemint,2026-10-19,live,positive,0.8684275150299072,0.012179131619632244,0.11939328908920288,0.856248383410275
+JSWSTEEL,2026-10-19,"Stocks to Watch Today: ICICI Bank, HDFC Bank, Axis Bank, GPT Infra, RailTel, ACME Solar, Yes Bank, Urban... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03557887300848961,0.019819283857941628,0.9446017742156982,0.01575958915054798
+JSWSTEEL,2026-10-19,Tata Sons breaks from the past and drops Article 118 reference in Chandrasekaran’s third-term resolution - Livemint,Livemint,2026-10-19,live,neutral,0.026735791936516762,0.20174959301948547,0.7715146541595459,-0.1750138010829687
+JSWSTEEL,2026-10-19,The AI stock market wobble is a reminder: This time isn’t different - Livemint,Livemint,2026-10-19,live,neutral,0.043631553649902344,0.16439835727214813,0.7919700741767883,-0.12076680362224579
+JSWSTEEL,2026-10-19,The deadly 1.5-mile corridor that shows the fatal flaw in America’s road design - Livemint,Livemint,2026-10-19,live,neutral,0.09331399202346802,0.05143614113330841,0.8552498817443848,0.04187785089015961
+JSWSTEEL,2026-10-19,UBS capital rules have Swiss stuck between a rock and a hard place - Livemint,Livemint,2026-10-19,live,neutral,0.027763325721025467,0.43735167384147644,0.5348849892616272,-0.409588348120451
+JSWSTEEL,2026-10-19,What is a ‘boss scam’? 5 ways to protect yourself from CEO fraud - Livemint,Livemint,2026-10-19,live,neutral,0.031349752098321915,0.06962459534406662,0.8990256786346436,-0.038274843245744705
+JSWSTEEL,2026-10-19,"Yogi, Akhilesh and the high-stakes battle for UP - Livemint",Livemint,2026-10-19,live,neutral,0.11235925555229187,0.013440897688269615,0.8741998076438904,0.09891835786402225
+JSWSTEEL,2026-10-19,Zerodha Nifty Next 100 Etf Technical Analysis - Livemint,Livemint,2026-10-19,live,neutral,0.17827622592449188,0.014811614528298378,0.8069121837615967,0.1634646113961935

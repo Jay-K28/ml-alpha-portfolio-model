@@ -1,100 +1,156 @@
-ticker,date,headline,sentiment_score
-POWERGRID,2026-04-01,Power Grid appoints Burra Vamsi Rama Mohan as CMD - ET EnergyWorld,-0.9335847496986389
-POWERGRID,2026-04-06,"VijayPD Ceutical Nine Monthly Results, Nine Monthly Earnings for VijayPD Ceutical - economictimes.indiatimes.com",-0.933479905128479
-POWERGRID,2026-04-06,"Sensex drops 300 points, Nifty below 22,650 as Trump's threats to Iran push oil above $110/barrel - ET BFSI",-0.947272777557373
-POWERGRID,2026-04-06,"Asia markets trade mixed as investors assess Trump's Iran war comments, extended deadline - CNBC",-0.4801706373691559
-POWERGRID,2026-04-01,The US Data Center Boom Is Hitting a Transformer Crunch - bloomberg.com,-0.7826563715934753
-POWERGRID,2026-04-06,"Indian IT firms face subdued fourth quarter as war, AI concerns persist; weak rupee helps earnings - Reuters",-0.956290066242218
-POWERGRID,2026-04-03,US Seeks to Streamline Offshore Management in Regulator Overhaul - bloomberg.com,-0.9271231293678284
-POWERGRID,2026-04-06,State Climate Laws Targeted Around US as Iran War Spikes Gas Prices - bloomberg.com,-0.8853944540023804
-POWERGRID,2026-04-02,"J&K power dues cross ₹3,747 cr; PHE, Irrigation, CRPF among top defaulters - ET EnergyWorld",-0.8735008835792542
-POWERGRID,2026-04-02,Macquarie: India could emerge as an ‘AI powerhouse' and names top stocks to watch - CNBC,-0.5589016079902649
-POWERGRID,2025-05-19,Power Grid Corp of India's quarterly profit falls as project delays hurt transmission business - Reuters,-0.9661813974380493
-POWERGRID,2021-06-19,Power Grid Corporation of India Ltd - Reuters,-0.9419368505477905
-POWERGRID,2017-03-24,"Power Grid Share Price Today, Power Grid Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.93947434425354
-POWERGRID,2017-08-06,Check out Power Grid Corporation of India Ltd's stock price (POWERGRID-IN) in real time - CNBC,-0.9478603005409241
-POWERGRID,2014-03-15,PWGR: Power Grid Corp of India Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9469515085220337
-POWERGRID,2017-03-30,"Power Grid Target Share Price, Power Grid Share Price Forecast - economictimes.indiatimes.com",-0.9434583187103271
-POWERGRID,2022-06-13,PGRD.NS - Reuters,-0.9462992548942566
-POWERGRID,2026-04-01,Power Grid Corporation of India Ltd. - economictimes.indiatimes.com,-0.9405081868171692
-POWERGRID,2017-03-29,The Economic Times - economictimes.indiatimes.com,-0.9232728481292725
-POWERGRID,2025-11-03,"India's Power Grid Corp posts profit decline due on higher expenses, delayed projects - Reuters",-0.9710114598274231
-POWERGRID,2025-02-03,Power Grid Corp of India misses Q3 profit view on sluggish demand - Reuters,-0.8337070941925049
-POWERGRID,2022-12-05,"Power Grid to separate telecom business, gets nod to foray into data centre biz - ET EnergyWorld",-0.5752953886985779
-POWERGRID,2024-05-23,"Power Grid's FY24 profits surge to ₹15,573 crore, declares final dividend of ₹2.75 per share - ETGovernment.com",0.8713667988777161
-POWERGRID,2026-02-26,"Engie announces UK power grid buy, boosts guidance after flat earnings - ET EnergyWorld",0.7329335808753967
-POWERGRID,2021-04-26,"powergrid infrastructure investment trust: Latest News & Videos, Photos about powergrid infrastructure investment trust - economictimes.indiatimes.com",-0.9444345235824585
-POWERGRID,2025-09-09,Spain’s Saturated Power Grid Threatens Data Center Ambitions - bloomberg.com,-0.7535016536712646
-POWERGRID,2023-06-20,"Page 2 - Pgcil - Latest pgcil , Information & Updates - Energy - ET EnergyWorld",-0.9532518982887268
-POWERGRID,2026-01-19,China Southern Power Grid Plans Record $26 Billion Spend in 2026 - bloomberg.com,-0.862326443195343
-POWERGRID,2022-06-06,About Power Grid Corporation of India Ltd (PGRD.BO) - Reuters,-0.9453296065330505
-POWERGRID,2025-02-20,Quanta beats fourth-quarter profit estimates on strong infrastructure demand - Reuters,0.6411077380180359
-POWERGRID,2026-03-21,PGCIL board nod to new merger plan for 28 subsidiaries - ET EnergyWorld,-0.7943580746650696
-POWERGRID,2026-02-03,"Power sector to step up spending, led by Power Grid - ET EnergyWorld",0.9131855964660645
-POWERGRID,2025-12-10,German regulator to allow higher power grid earnings from 2029 - Reuters,0.8910953998565674
-POWERGRID,2021-05-14,Check out Powergrid Infrastructure Investment Trust's stock price (PGINVIT-IN) in real time - CNBC,-0.9487205743789673
-POWERGRID,2025-02-06,"Europe needs more power grid interconnection, new output, Vattenfall CEO says - Reuters",-0.6005055904388428
-POWERGRID,2025-01-03,"EQT CEO on New England power grid, pipeline push and LNG imports - CNBC",-0.9377028346061707
-POWERGRID,2020-04-10,9 Minutes of Action – How the power grid was managed on April 5 - ET EnergyWorld,-0.9271512627601624
-POWERGRID,2026-04-01,EU Weighs Emergency Measures to Calm High Energy Prices - bloomberg.com,-0.8743702173233032
-POWERGRID,2026-03-16,"US Data Center Boom Slows Due to Power Grid Limits, WoodMac Says - bloomberg.com",-0.8126940131187439
-POWERGRID,2023-07-31,India's Power Grid's profit slips on subdued transmission demand - Reuters,-0.965052604675293
-POWERGRID,2026-02-14,Power Grid commissions 765 KV Ramgarh-Bhadla III transmission line for Rajasthan solar power evacuation - ET EnergyWorld,-0.913491427898407
-POWERGRID,2025-02-19,RECPDCL hands over 2 SPVs of transmission projects to Power Grid Corporation of India - ETGovernment.com,-0.9269875884056091
-POWERGRID,2026-02-26,France's Engie jumps 7% after $14 billion UK power grid deal; European markets close flat - CNBC,0.8133339285850525
-POWERGRID,2026-01-16,"Actis, China Power Grid Said Among Suitors for Energisa Assets - bloomberg.com",-0.9277306199073792
-POWERGRID,2017-03-24,"Powergrid Corporation commissions Rs 6,300 crore transmission project in Chhattisgarh - ET EnergyWorld",-0.84718257188797
-POWERGRID,2023-09-08,Dutch state invests $535 million in power-grid operator Stedin - Reuters,-0.8086016178131104
-POWERGRID,2025-12-01,We Need to Uberize the Power Grid for AI - bloomberg.com,-0.885106086730957
-POWERGRID,2025-11-13,India's power grid struggles to absorb soaring solar supply - ET EnergyWorld,-0.9238892793655396
-POWERGRID,2025-01-03,Polish power-grid operator plans $15.4-billion investment by 2034 - Indiatimes,-0.872486412525177
-POWERGRID,2025-07-29,The Boom in AI Is Stressing the Largest US Power Grid - bloomberg.com,-0.9485243558883667
-POWERGRID,2025-04-16,"UK power grid could face lowest ever demand this summer, operator says - ET EnergyWorld",-0.8920238018035889
-POWERGRID,2025-07-15,Evening peaks strain India’s power grid; coal dominates 73% of supply despite solar surge: IEEFA - ET EnergyWorld,-0.9093373417854309
-POWERGRID,2021-10-12,"Beset by coal shortages, India’s power grid struggles to meet demand: Kemp - Reuters",-0.6402856111526489
-POWERGRID,2022-05-19,"India's power grid creaks under hybrid work model, heatwave - Reuters",-0.6572940945625305
-POWERGRID,2024-12-11,Hacking Rooftop Solar Is a Way to Break Europe’s Power Grid - bloomberg.com,-0.7856196165084839
-POWERGRID,2024-12-31,RECPDCL hands over ₹5378 crore worth Rajasthan IV 4A power transmission project to Power Grid Corporation - ETGovernment.com,-0.8997226357460022
-POWERGRID,2026-01-26,Russian missiles hit Ukraine power grid - ET EnergyWorld,-0.5232095122337341
-POWERGRID,2026-01-07,German Authorities Investigate Another Power Grid Attack - bloomberg.com,-0.5879970788955688
-POWERGRID,2024-10-15,RECPDCL hands over Rajasthan-IV H-1 Power Transmission to Power Grid Corporation - ETGovernment.com,-0.9216985702514648
-POWERGRID,2025-01-20,"France’s 2024 Power Grid Was 95% Fossil Free as Nuclear, Renewables Jumped - bloomberg.com",-0.9170789122581482
-POWERGRID,2023-12-03,EV charging growth plans slowed by EU's power grid problems - Reuters,-0.9240090847015381
-POWERGRID,2025-03-25,"RECPDCL hands over 3 transmission SPVs to Power Grid Corporation, Ratle Kiru to IndiGrid 2 - ETGovernment.com",-0.9404351115226746
-POWERGRID,2025-12-22,Sandbrook Buys United Utility in $1 Billion Bet on Power Grid - bloomberg.com,-0.9128833413124084
-POWERGRID,2024-07-24,Global Grids: How to Upgrade the World’s Biggest Machine - bloomberg.com,-0.8711133599281311
-POWERGRID,2025-07-15,Hitachi Energy hands over India's first 400 kV synthetic ester fluid-filled transformer to Power Grid - ET EnergyWorld,-0.5262539386749268
-POWERGRID,2011-11-09,EMC wins 7.76 bln-rupee order from Power Grid - Reuters,0.9231062531471252
-POWERGRID,2025-12-15,Cybersecurity of power grid infrastructure draws policy attention amid ongoing parliament session - ET CISO,-0.804815948009491
-POWERGRID,2025-07-25,India moves to shield power grid from solar equipment malware - ET EnergyWorld,-0.8870480060577393
-POWERGRID,2025-05-06,EU power grid needs trillion-dollar upgrade to avert Spain-style blackouts - ET EnergyWorld,0.7969242334365845
-POWERGRID,2025-06-27,China’s Grid Looks Ready for Searing Heat After Heavy Investment - bloomberg.com,-0.8625786304473877
-POWERGRID,2024-12-31,"RECPDCL transfers ₹5,378 crore SPV to Power Grid for renewable energy evacuation - ET EnergyWorld",-0.8246679306030273
-POWERGRID,2026-02-22,"India’s data centre hub potential: Power, grid challenges and renewable integration, says Deloitte - ET EnergyWorld",0.7143186330795288
-POWERGRID,2019-08-04,A Deluge of Batteries Is About to Rewire the Power Grid - bloomberg.com,-0.9118920564651489
-POWERGRID,2024-11-20,RECPDCL hands over Khavda V-A Power Transmission to Power Grid Corporation - ETGovernment.com,-0.9334842562675476
-POWERGRID,2022-02-14,Smart charging may be key to saving power grid in world of EVs - ET EnergyWorld,-0.4965567886829376
-POWERGRID,2018-12-16,ABB and Hitachi close in on power grids deal - CNBC,-0.8078879117965698
-POWERGRID,2023-02-16,U.S. regulator OKs new power grid standards for extreme cold weather - Reuters,-0.8616986870765686
-POWERGRID,2024-08-21,CEA proposes stricter cyber security norms to shield India’s power grid - ET EnergyWorld,-0.802502453327179
-POWERGRID,2026-04-02,KEC International Ltd. - economictimes.indiatimes.com,-0.9384540319442749
-POWERGRID,2025-07-28,The Hidden Hurdles Behind Building Southeast Asia's $100 Billion Supergrid - bloomberg.com,-0.920861005783081
-POWERGRID,2024-08-26,Nvidia partner says it can cut data center energy use by 50% as AI boom strains power grid - CNBC,-0.5437049865722656
-POWERGRID,2021-06-08,"Shyam Metalics Share Price Today, Shyam Metalics Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9437624216079712
-POWERGRID,2026-04-07,Atlantic Council warns: Hitting Iran’s power grid risks humanitarian disaster - economictimes.indiatimes.com,-0.5712509155273438
-POWERGRID,2017-04-20,Elecon Engineering Company Ltd. - economictimes.indiatimes.com,-0.9400424361228943
-POWERGRID,2017-04-23,Shilchar Technologies Ltd. - economictimes.indiatimes.com,-0.9395822286605835
-POWERGRID,2021-12-21,"Cipla Q2 Results: Profit jumps 43% YoY to Rs 1,131 crore, revenue rises 15% - economictimes.indiatimes.com",0.8910349011421204
-POWERGRID,2017-07-28,"Gravity (India) Nine Monthly Results, Nine Monthly Earnings for Gravity (India) - economictimes.indiatimes.com",-0.929798424243927
-POWERGRID,2026-04-02,Announcement - economictimes.indiatimes.com,-0.9350109696388245
-POWERGRID,2017-03-29,"Simplex Infra Yearly Results, Financial summary, Simplex Infra Yearly Earnings - economictimes.indiatimes.com",-0.9380654692649841
-POWERGRID,2017-08-30,"Half Yearly Results, Half yearly Earnings for Pressure Sensitive Systems - economictimes.indiatimes.com",-0.9333093762397766
-POWERGRID,2017-03-27,Whirlpool of India Ltd. - economictimes.indiatimes.com,-0.9326937794685364
-POWERGRID,2017-08-30,"Pressure Sensitive Systems Yearly results, Financial Summary - economictimes.indiatimes.com",-0.9123124480247498
-POWERGRID,2019-05-17,"Stl - Latest stl , Information & Updates - Telecom - telecom.economictimes.indiatimes.com",-0.9470080733299255
-POWERGRID,2017-08-05,"Alfred Herbert Nine Monthly Results, Nine Monthly Earnings for Alfred Herbert - economictimes.indiatimes.com",-0.9226096868515015
-POWERGRID,2017-08-30,Pressure Sensitive Systems Nine Monthly results - economictimes.indiatimes.com,-0.889000415802002
-POWERGRID,2025-09-21,Solarworld Energy Solutions Ltd. - economictimes.indiatimes.com,-0.9445502161979675
-POWERGRID,2025-01-17,Advait Energy Transitions Ltd. - economictimes.indiatimes.com,-0.9409956336021423
-POWERGRID,2017-03-29,Graphite India Ltd. - economictimes.indiatimes.com,-0.9404651522636414
-POWERGRID,2017-04-03,Singer India Ltd. - economictimes.indiatimes.com,-0.940337061882019
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+POWERGRID,2020-01-25,Power Grid Corporation moves SC against DoT demand of Rs 22K Cr - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,negative,0.06991765648126602,0.8257668018341064,0.10431560128927231,-0.7558491453528404
+POWERGRID,2020-04-08,CCI approves Hitachi's stake-buy in ABB's power grid arm - ET EnergyWorld,,2026-10-18,legacy,neutral,0.36707615852355957,0.01046678051352501,0.6224570870399475,0.35660937801003456
+POWERGRID,2020-04-10,9 Minutes of Action – How the power grid was managed on April 5 - ET EnergyWorld,,2026-10-18,legacy,neutral,0.05341292917728424,0.019435813650488853,0.9271512627601624,0.03397711552679539
+POWERGRID,2020-06-18,Central transmission utility hived off from Power Grid Corporation - Business Standard,Business Standard,2026-10-19,live,neutral,0.042140305042266846,0.01431893277913332,0.9435408115386963,0.027821372263133526
+POWERGRID,2021-02-16,PGCIL wins two transmission projects under tariff-based competitive bidding - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.9212644100189209,0.009340887889266014,0.06939466297626495,0.9119235221296549
+POWERGRID,2021-02-18,How the Rich Can Escape America's Unreliable Power Grid - Bloomberg.com,,2026-10-18,legacy,neutral,0.03988496959209442,0.04609913378953934,0.9140159487724304,-0.006214164197444916
+POWERGRID,2021-02-19,Water crisis grows in Texas as power grid returns to normal - CNBC,,2026-10-18,legacy,neutral,0.058242011815309525,0.16500723361968994,0.7767507433891296,-0.10676522180438042
+POWERGRID,2021-03-20,Power Grid to buy Jaiprakash Power Ventures’ stake in transmission JV - Livemint,Livemint,2026-10-19,live,neutral,0.07966853678226471,0.010108372196555138,0.910223126411438,0.06956016458570957
+POWERGRID,2021-03-23,Power Grid to acquire Jaiprakash Power's 74 per cent stake in transmission JV - ET EnergyWorld,,2026-10-18,legacy,neutral,0.08903941512107849,0.009101811796426773,0.9018588066101074,0.07993760332465172
+POWERGRID,2021-03-26,Power Grid Corp acquires transmission company in Rajasthan - ET EnergyWorld,,2026-10-18,legacy,neutral,0.1876554787158966,0.008728333748877048,0.8036162257194519,0.17892714496701956
+POWERGRID,2021-04-23,"PowerGrid to offer Rs 10,384 crore worth of assets in InvIT next week - Business Standard",Business Standard,2026-10-19,live,neutral,0.07729438692331314,0.009873710572719574,0.9128319621086121,0.06742067635059357
+POWERGRID,2021-04-24,Power Grid to announce first InvIT public issue on Monday - Livemint,Livemint,2026-10-19,live,neutral,0.1161930114030838,0.008601415902376175,0.8752055764198303,0.10759159550070763
+POWERGRID,2021-04-26,"Power Grid launches PGInvIT, could offer 18 more assets in future - Business Standard",Business Standard,2026-10-19,live,neutral,0.1627843677997589,0.007494128774851561,0.8297215104103088,0.15529023902490735
+POWERGRID,2021-04-29,Haryana CSR Advisory Board with Power Grid Corporation of India - Undertakes Initiatives to Digitally Empower Schools in Haryana with Globus Infocom Smart Classrooms - Business Standard,Business Standard,2026-10-19,live,positive,0.6963009238243103,0.007181352935731411,0.29651767015457153,0.6891195708885789
+POWERGRID,2021-04-30,"Power Grid InvIT of Rs 7,735 crore subscribed 56%, closes on Monday - Business Standard",Business Standard,2026-10-19,live,neutral,0.03569640591740608,0.0239882692694664,0.9403153657913208,0.011708136647939682
+POWERGRID,2021-06-06,Power Grid Corporation takes over two new transmission SPVs - Livemint,Livemint,2026-10-19,live,neutral,0.09769944101572037,0.01030781026929617,0.8919926881790161,0.0873916307464242
+POWERGRID,2021-06-09,Power Grid Corporation acquires Sikar-II Aligarh Transmission - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.05856582522392273,0.011647399514913559,0.9297868013381958,0.04691842570900917
+POWERGRID,2021-06-19,Power Grid Corporation of India Ltd - Reuters,,2026-10-18,legacy,neutral,0.033839765936136246,0.02422337420284748,0.9419368505477905,0.009616391733288765
+POWERGRID,2021-06-19,"Power Grid posts 6% growth in FY21 PAT at Rs 12,036 cr; net income rises 9% - Business Standard",Business Standard,2026-10-19,live,positive,0.9426718950271606,0.017470326274633408,0.03985783830285072,0.9252015687525272
+POWERGRID,2021-08-10,"Powergrid Corporation net profit jumps to Rs 5,998 crore in June quarter - ET EnergyWorld",,2026-10-18,legacy,positive,0.688179612159729,0.26497882604599,0.04684155061841011,0.423200786113739
+POWERGRID,2021-08-11,PGCIL board approves Rs 425 crore fresh equity investment in EESL - Business Standard,Business Standard,2026-10-19,live,positive,0.7562892436981201,0.008663971908390522,0.23504683375358582,0.7476252717897296
+POWERGRID,2021-08-25,Power Grid commissions Vindhyachal Varanasi transmission line - Business Standard,Business Standard,2026-10-19,live,neutral,0.04210539162158966,0.013388366438448429,0.9445062875747681,0.02871702518314123
+POWERGRID,2021-10-12,"COMMENTARY: Beset by coal shortages, India’s power grid struggles to meet demand: Kemp - Reuters",,2026-10-18,legacy,negative,0.03366710618138313,0.5014241337776184,0.46490874886512756,-0.4677570275962353
+POWERGRID,2021-11-10,Power Grid Corp of India approves investment plans of Rs 552 crore - Business Standard,Business Standard,2026-10-19,live,positive,0.5686972737312317,0.01148261595517397,0.4198201298713684,0.5572146577760577
+POWERGRID,2021-12-30,PGCIL approves investment of Rs 322 crore to expand in data centre biz - Business Standard,Business Standard,2026-10-19,live,positive,0.8782846331596375,0.008393735624849796,0.11332160234451294,0.8698908975347877
+POWERGRID,2022-01-17,"Govt gets Rs 6,651 cr interim dividend from 12 PSUs, Power Grid tops table - Business Standard",Business Standard,2026-10-19,live,positive,0.5041033625602722,0.016777370125055313,0.47911930084228516,0.4873259924352169
+POWERGRID,2022-04-01,PGCIL transfers 26% stake in Powergrid Vizag Transmission for Rs 330 cr - Business Standard,Business Standard,2026-10-19,live,neutral,0.06512816250324249,0.01337993424385786,0.9214919209480286,0.05174822825938463
+POWERGRID,2022-05-12,PGCIL acquires Khetri-Narela Transmission - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.05788402631878853,0.013005252927541733,0.9291107058525085,0.044878773391246796
+POWERGRID,2022-07-09,PGCIL bags transmission project to evacuate power from Neemuch SEZ in Madhya Pradesh - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.19356711208820343,0.007274277973920107,0.7991585731506348,0.18629283411428332
+POWERGRID,2022-08-12,Power distribution PSU Power Grid names RK Tyagi as new Director Operations - ET Government,ET Government,2026-10-19,live,neutral,0.033036645501852036,0.027319056913256645,0.9396443367004395,0.00571758858859539
+POWERGRID,2022-08-25,Power Grid acquires project SPV Neemuch Transmission - ET EnergyWorld,,2026-10-18,legacy,neutral,0.06808535009622574,0.010732480324804783,0.9211821556091309,0.057352869771420956
+POWERGRID,2022-08-29,"Power Grid pitches for obsolete tech in smart electricity meters, can hamper 5G dream - ET EnergyWorld",,2026-10-18,legacy,negative,0.010171704925596714,0.9353176951408386,0.054510604590177536,-0.9251459902152419
+POWERGRID,2022-10-12,Power Grid acquires SPV to build transmission project - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.11459299176931381,0.008414543233811855,0.876992404460907,0.10617844853550196
+POWERGRID,2022-10-27,A Smarter Power Grid Can Help Create a More Sustainable World - Bloomberg Media,,2026-10-18,legacy,positive,0.5004788637161255,0.008902101777493954,0.49061906337738037,0.49157676193863153
+POWERGRID,2022-11-06,Power Grid net profit rises 8 pc in Q2; declares 50 pc dividend of Rs 5 per share - ET EnergyWorld,,2026-10-18,legacy,positive,0.9164934754371643,0.013035940937697887,0.07047058641910553,0.9034575344994664
+POWERGRID,2022-12-05,"Power Grid to separate telecom business, gets nod to foray into data centre biz - ET EnergyWorld",,2026-10-18,legacy,neutral,0.4161844551563263,0.008520050905644894,0.5752955079078674,0.4076644042506814
+POWERGRID,2023-01-07,Power Grid Corporation ranks first in services sector in DPE survey 2021-22 - ET Government,,2026-10-18,legacy,positive,0.7857689261436462,0.01024147029966116,0.20398962497711182,0.7755274558439851
+POWERGRID,2023-03-07,"Power Grid Corporation board approves investments of about Rs 4,071 crore - Business Standard",Business Standard,2026-10-19,live,neutral,0.2323472499847412,0.009976126253604889,0.7576766610145569,0.22237112373113632
+POWERGRID,2023-03-09,Power Grid Corporation board approves raising up to Rs 900 cr via bonds - Business Standard,Business Standard,2026-10-19,live,positive,0.6101381182670593,0.009122949093580246,0.38073888421058655,0.6010151691734791
+POWERGRID,2023-03-31,Power Grid commissions Rampur Sambhal transmission project - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.05741393193602562,0.010937485843896866,0.9316486120223999,0.046476446092128754
+POWERGRID,2023-05-31,Power Grid Corporation of India Agm - Livemint,Livemint,2026-10-19,live,neutral,0.07285735756158829,0.010785825550556183,0.9163568019866943,0.062071532011032104
+POWERGRID,2023-06-03,Power Grid Corporation of India Profit & Loss Annual - Livemint,Livemint,2026-10-19,live,negative,0.03106089122593403,0.4981508255004883,0.47078827023506165,-0.46708993427455425
+POWERGRID,2023-07-31,India's Power Grid's profit slips on subdued transmission demand - Reuters,,2026-10-18,legacy,negative,0.009375033900141716,0.965052604675293,0.025572381913661957,-0.9556775707751513
+POWERGRID,2023-07-31,"Power Grid Q1 Results: Net profit declines 5.9% to ₹3,542 crore; board approves bonus shares, fundraising - Livemint",Livemint,2026-10-19,live,negative,0.008919395506381989,0.9725973010063171,0.018483374267816544,-0.9636779054999352
+POWERGRID,2023-09-01,"Yatindra Dwivedi assumes charge as Director (Personnel), Powergrid - ET EnergyWorld",,2026-10-18,legacy,neutral,0.02262515388429165,0.0385524220764637,0.9388223886489868,-0.01592726819217205
+POWERGRID,2023-09-08,Dutch state invests $535 million in power-grid operator Stedin - Reuters,,2026-10-18,legacy,neutral,0.1834399402141571,0.007958527654409409,0.8086015582084656,0.1754814125597477
+POWERGRID,2023-09-27,Power Grid Corporation inks MoU with Aiims to provide medical equipment - Business Standard,Business Standard,2026-10-19,live,positive,0.7441801428794861,0.007654804736375809,0.2481650561094284,0.7365253381431103
+POWERGRID,2023-09-28,Power Grid Corporation inks MoU with AIIMS Raipur to provide medical equipment - ET HealthWorld,ET HealthWorld,2026-10-19,live,positive,0.7188671231269836,0.00817367434501648,0.2729592025279999,0.7106934487819672
+POWERGRID,2023-10-16,Germany’s Plan to Purchase Power Grid From Dutch Faces Delays - Bloomberg.com,,2026-10-18,legacy,neutral,0.04054683819413185,0.047942131757736206,0.9115110635757446,-0.007395293563604355
+POWERGRID,2023-10-28,RECPDCL hands over SPV to POWERGRID for evacuation of renewable energy from Rajasthan - ET Government,ET Government,2026-10-19,live,neutral,0.2090936154127121,0.007363229990005493,0.7835431098937988,0.2017303854227066
+POWERGRID,2023-11-01,GE T&D India wins Rs 500 cr orders from Power Grid Corporation - ET EnergyWorld,,2026-10-18,legacy,positive,0.9368632435798645,0.017027102410793304,0.046109698712825775,0.9198361411690712
+POWERGRID,2023-11-24,"NSE, BSE impose Rs 5,42,800 fine each on Power Grid Corp for non-compliance - Business Standard",Business Standard,2026-10-19,live,negative,0.01186014711856842,0.9191341996192932,0.06900572031736374,-0.9072740525007248
+POWERGRID,2023-12-07,Powergrid emerges as successful bidder for inter-state transmission project - ET EnergyWorld,,2026-10-18,legacy,positive,0.9501419067382812,0.013204616494476795,0.03665344789624214,0.9369372902438045
+POWERGRID,2024-01-02,Ravindra Kumar Tyagi takes charge as CMD of POWERGRID - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.032969433814287186,0.017644381150603294,0.9493861794471741,0.015325052663683891
+POWERGRID,2024-01-30,Bharti Airtel buys internet bandwidth from PowerGrid for Rs 320-crore - ET Telecom,,2026-10-18,legacy,neutral,0.15654559433460236,0.008211879059672356,0.835242509841919,0.14833371527493
+POWERGRID,2024-03-05,Over 1.50 crore informal micro enterprises registered on Udyam assist platform - ET Government,ET Government,2026-10-19,live,neutral,0.05911347642540932,0.010723967105150223,0.9301626086235046,0.048389509320259094
+POWERGRID,2024-03-15,Bajel Projects secures work order of Rs 92 cr from Power Grid - Business Standard,Business Standard,2026-10-19,live,positive,0.8931990265846252,0.012769361026585102,0.09403162449598312,0.8804296655580401
+POWERGRID,2024-05-01,GE T&D India gets order from Powergrid to set up transmission asset management centre in Odisha - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.4980088770389557,0.009596108458936214,0.49239498376846313,0.4884127685800195
+POWERGRID,2024-05-22,"Q4 results: PowerGrid’s net profit falls 4% at ₹4,166.33 crore, declares final dividend of ₹2.75 per share - Livemint",Livemint,2026-10-19,live,negative,0.00832162145525217,0.9748391509056091,0.016839195042848587,-0.966517529450357
+POWERGRID,2024-05-23,"Power Grid's FY24 profits surge to ₹15,573 crore, declares final dividend of ₹2.75 per share - ET Government",,2026-10-18,legacy,positive,0.932963490486145,0.028274357318878174,0.03876206651329994,0.9046891331672668
+POWERGRID,2024-05-29,Powergrid commissions Jam Khambhaliya transmission project in Gujarat - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.0968797579407692,0.010907171294093132,0.8922131061553955,0.08597258664667606
+POWERGRID,2024-06-11,Major electricity outage in parts of Delhi due to fire at UP power grid - Business Standard,Business Standard,2026-10-19,live,negative,0.01091924961656332,0.9575538039207458,0.03152691200375557,-0.9466345543041825
+POWERGRID,2024-07-29,"Power Grid planning Rs 40,000 cr undersea interconnection with Middle East - Business Standard",Business Standard,2026-10-19,live,neutral,0.16836154460906982,0.007789209485054016,0.8238492608070374,0.1605723351240158
+POWERGRID,2024-08-20,Power Grid Corp acquires Rajasthan IV E Power Transmission - ET EnergyWorld,,2026-10-18,legacy,neutral,0.07498414814472198,0.01012581679970026,0.9148899912834167,0.06485833134502172
+POWERGRID,2024-08-20,RECPDCL hands over 2 SPVs to Power Grid Corp for transmission from Rajasthan Renewable Energy Zone - ET Government,,2026-10-18,legacy,neutral,0.15223060548305511,0.007615739479660988,0.8401536345481873,0.14461486600339413
+POWERGRID,2024-08-21,CEA proposes stricter cyber security norms to shield India’s power grid - ET EnergyWorld,,2026-10-18,legacy,neutral,0.172945037484169,0.024552686139941216,0.8025023341178894,0.1483923513442278
+POWERGRID,2024-09-12,How one climate startup aims to use AI to protect the power grid - CNBC,,2026-10-18,legacy,neutral,0.06892756372690201,0.01634909212589264,0.9147233963012695,0.05257847160100937
+POWERGRID,2024-09-20,Power Grid bags transmission project in Gujarat - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.10920637100934982,0.009403364732861519,0.8813902735710144,0.0998030062764883
+POWERGRID,2024-10-15,RECPDCL hands over Rajasthan Power Transmission SPV to Power Grid Corporation - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.04666350036859512,0.01117872167378664,0.9421577453613281,0.03548477869480848
+POWERGRID,2024-10-16,"PowerGrid acquires three SPVs worth ₹8,769 crore for renewable energy transmission projects - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,neutral,0.2759782075881958,0.008281943388283253,0.7157398462295532,0.26769626419991255
+POWERGRID,2024-10-16,RECPDCL hands over Rajasthan-IV H-1 Power Transmission to Power Grid Corporation - ET Government,,2026-10-18,legacy,neutral,0.08507170528173447,0.007836121134459972,0.9070921540260315,0.0772355841472745
+POWERGRID,2024-11-06,"India in talks with Gulf, Asia nations for cross-border power grid links under OSOWOG - ET EnergyWorld",,2026-10-18,legacy,positive,0.7483872175216675,0.007348877843469381,0.2442639023065567,0.7410383396781981
+POWERGRID,2024-11-12,Power Grid acquires transmission project in Rajasthan - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.20764559507369995,0.00789663102477789,0.784457802772522,0.19974896404892206
+POWERGRID,2024-11-20,REC hands over HVDC transmission project SPV to Power Grid Corporation - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.04079195857048035,0.013247666880488396,0.9459603428840637,0.02754429168999195
+POWERGRID,2024-11-20,RECPDCL hands over Khavda V-A Power Transmission to Power Grid Corporation - ET Government,,2026-10-18,legacy,neutral,0.06278619170188904,0.009106174111366272,0.9281076192855835,0.053680017590522766
+POWERGRID,2024-12-11,Hacking Rooftop Solar Is a Way to Break Europe’s Power Grid - Bloomberg.com,,2026-10-18,legacy,neutral,0.205030620098114,0.009349929168820381,0.7856194376945496,0.19568069092929363
+POWERGRID,2024-12-31,RECPDCL hands over ₹5378 crore worth Rajasthan IV 4A power transmission project to Power Grid Corporation - ET Government,,2026-10-18,legacy,neutral,0.09348984807729721,0.008786464110016823,0.8977236151695251,0.08470338396728039
+POWERGRID,2025-01-01,Power Grid inks USD 200 mn green loan pact with SMBC - ET EnergyWorld,,2026-10-18,legacy,positive,0.893667459487915,0.009993139654397964,0.0963393971323967,0.8836743198335171
+POWERGRID,2025-01-03,"EQT CEO on New England power grid, pipeline push and LNG imports - CNBC",,2026-10-18,legacy,neutral,0.04064279422163963,0.021654320880770683,0.9377028346061707,0.01898847334086895
+POWERGRID,2025-01-20,"France’s 2024 Power Grid Was 95% Fossil Free as Nuclear, Renewables Jumped - Bloomberg.com",,2026-10-18,legacy,neutral,0.06893191486597061,0.013989236205816269,0.9170787930488586,0.05494267866015434
+POWERGRID,2025-02-03,Power Grid Corp of India misses Q3 profit view on sluggish demand - Reuters,Reuters,2026-10-19,live,negative,0.021717427298426628,0.833706796169281,0.14457570016384125,-0.8119893688708544
+POWERGRID,2025-02-06,"Europe needs more power grid interconnection, new output, Vattenfall CEO says - Reuters",,2026-10-18,legacy,neutral,0.38806435465812683,0.011429978534579277,0.6005057096481323,0.37663437612354755
+POWERGRID,2025-02-13,India’s Karnataka Seeks $4 Billion Private Funds to Expand Grid - Bloomberg.com,,2026-10-18,legacy,positive,0.5108973383903503,0.008899787440896034,0.480202853679657,0.5019975509494543
+POWERGRID,2025-02-19,RECPDCL hands over 2 SPVs of transmission projects to Power Grid Corporation of India - ET Government,,2026-10-18,legacy,neutral,0.0646006166934967,0.009466869756579399,0.9259325265884399,0.055133746936917305
+POWERGRID,2025-03-04,Power Grid wins bid for 3 transmission projects - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.8341519832611084,0.009941947646439075,0.15590596199035645,0.8242100356146693
+POWERGRID,2025-04-16,"UK power grid could face lowest ever demand this summer, operator says - ET EnergyWorld",,2026-10-18,legacy,negative,0.013975027948617935,0.8920239806175232,0.09400103986263275,-0.8780489526689053
+POWERGRID,2025-05-19,Power Grid Corp of India's quarterly profit falls as project delays hurt transmission business - Reuters,,2026-10-18,legacy,negative,0.007895367220044136,0.9661813974380493,0.02592325769364834,-0.9582860302180052
+POWERGRID,2025-06-16,Nepal begins first power exports to Bangladesh via India's grid - Reuters,Reuters,2026-10-19,live,neutral,0.11694560945034027,0.010511386208236217,0.8725430369377136,0.10643422324210405
+POWERGRID,2025-07-01,Iraq Power Grid Suffers Capacity Cut as Iran Gas Supply Slumps - Bloomberg.com,,2026-10-18,legacy,negative,0.010475517250597477,0.941032886505127,0.04849166423082352,-0.9305573692545295
+POWERGRID,2025-07-25,India moves to shield power grid from solar equipment malware - ET EnergyWorld,,2026-10-18,legacy,neutral,0.08950504660606384,0.023446960374712944,0.8870480060577393,0.0660580862313509
+POWERGRID,2025-07-29,The Boom in AI Is Stressing the Largest US Power Grid - Bloomberg.com,,2026-10-18,legacy,negative,0.015448189340531826,0.9485241174697876,0.03602757304906845,-0.9330759281292558
+POWERGRID,2025-08-12,Iraq Goes Dark After Searing Heat Wave Triggers Power Grid Failure - Bloomberg.com,,2026-10-18,legacy,neutral,0.025264080613851547,0.2621467709541321,0.7125891447067261,-0.23688269034028053
+POWERGRID,2025-09-09,Spain’s Saturated Power Grid Threatens Data Center Ambitions - Bloomberg.com,,2026-10-18,legacy,negative,0.018132954835891724,0.7535020112991333,0.22836510837078094,-0.7353690564632416
+POWERGRID,2025-09-20,Tech Pledges From Trump’s UK Visit Will Test Strained Power Grid - Bloomberg.com,,2026-10-18,legacy,neutral,0.32829177379608154,0.012710314244031906,0.6589978933334351,0.31558145955204964
+POWERGRID,2025-10-06,Indian power regulator takes up solar firms' plea on losses due to transmission delays - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.03396125137805939,0.3723454475402832,0.5936933159828186,-0.3383841961622238
+POWERGRID,2025-11-03,"India's Power Grid Corp posts profit decline due on higher expenses, delayed projects - Reuters",,2026-10-18,legacy,negative,0.00837461743503809,0.9710114598274231,0.02061384730041027,-0.962636842392385
+POWERGRID,2025-11-13,India's power grid struggles to absorb soaring solar supply - ET EnergyWorld,,2026-10-18,legacy,negative,0.025066010653972626,0.9238892793655396,0.051044680178165436,-0.8988232687115669
+POWERGRID,2025-11-22,"Power Grid, Nepal Electricity Authority formalise JV pacts for cross-border transmission links - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,neutral,0.3097343146800995,0.00829488318413496,0.6819708347320557,0.3014394314959645
+POWERGRID,2025-12-01,We Need to Uberize the Power Grid for AI - Bloomberg.com,,2026-10-18,legacy,neutral,0.10572785139083862,0.00916601624339819,0.885106086730957,0.09656183514744043
+POWERGRID,2025-12-15,Cybersecurity of power grid infrastructure draws policy attention amid ongoing parliament session - ET CISO,ET CISO,2026-10-19,live,neutral,0.11964146047830582,0.07554254680871964,0.804815948009491,0.04409891366958618
+POWERGRID,2025-12-15,"Kenya Awards Africa50, Power Grid India Deal for Lines - Bloomberg.com",,2026-10-18,legacy,neutral,0.1772957444190979,0.010734681971371174,0.8119695782661438,0.16656106244772673
+POWERGRID,2025-12-22,KEC International gets relief from Delhi HC on Power Grid's bidding ban - ET EnergyWorld,,2026-10-18,legacy,positive,0.8656294345855713,0.0748308002948761,0.059539783746004105,0.7907986342906952
+POWERGRID,2025-12-22,KEC International gets relief from Delhi HC on Power Grid's bidding ban - ETLegalWorld.com,ETLegalWorld.com,2026-10-19,live,neutral,0.4167216420173645,0.06452164053916931,0.5187566876411438,0.3522000014781952
+POWERGRID,2026-01-07,German Authorities Investigate Another Power Grid Attack - Bloomberg.com,,2026-10-18,legacy,neutral,0.024889187887310982,0.38711392879486084,0.5879969000816345,-0.36222474090754986
+POWERGRID,2026-01-19,China Southern Power Grid Plans Record $26 Billion Spend in 2026 - Bloomberg.com,,2026-10-18,legacy,neutral,0.127407044172287,0.01026653591543436,0.862326443195343,0.11714050825685263
+POWERGRID,2026-02-11,India’s power grid: Digitalisation at the heart of the energy transition - ET EnergyWorld,,2026-10-18,legacy,neutral,0.17658036947250366,0.008296642452478409,0.8151230216026306,0.16828372702002525
+POWERGRID,2026-02-14,Power Grid commissions 765 KV Ramgarh-Bhadla III transmission line for Rajasthan solar power evacuation - ET EnergyWorld,,2026-10-18,legacy,neutral,0.07669033110141754,0.00981820933520794,0.913491427898407,0.0668721217662096
+POWERGRID,2026-02-25,Power Grid arm commissions inter-state transmission project in Rajasthan - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.07297081500291824,0.009740454144775867,0.9172887206077576,0.06323036085814238
+POWERGRID,2026-02-26,France's Engie jumps 7% after $14 billion UK power grid deal; European markets close flat - CNBC,,2026-10-18,legacy,positive,0.813334047794342,0.10958094149827957,0.07708500325679779,0.7037531062960625
+POWERGRID,2026-03-21,PGCIL board nod to new merger plan for 28 subsidiaries - ET EnergyWorld,,2026-10-18,legacy,neutral,0.19523899257183075,0.010403061285614967,0.79435795545578,0.18483593128621578
+POWERGRID,2026-04-01,Power Grid appoints Burra Vamsi Rama Mohan as CMD - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.05044567584991455,0.015969565138220787,0.9335847496986389,0.034476110711693764
+POWERGRID,2026-04-02,Neoen to Build France’s Largest Battery Amid Strained Power Grid - Bloomberg.com,,2026-10-18,legacy,neutral,0.24549642205238342,0.04926221817731857,0.7052413821220398,0.19623420387506485
+POWERGRID,2026-04-27,Indian court pauses stricter power grid penalties for renewable firms - Reuters,,2026-10-18,legacy,negative,0.044513553380966187,0.4936198890209198,0.4618666172027588,-0.4491063356399536
+POWERGRID,2026-04-30,"Powergrid board approves proposal to raise ₹4,000 cr from SBI - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,positive,0.7998868823051453,0.009010761976242065,0.19110238552093506,0.7908761203289032
+POWERGRID,2026-05-01,India's heatwave exposes fragile power grid as energy crunch deepens - ET EnergyWorld,,2026-10-18,legacy,negative,0.023115351796150208,0.8716234564781189,0.10526119917631149,-0.8485081046819687
+POWERGRID,2026-05-01,India’s Heat Exposes a Fragile Grid as Energy Crunch Deepens - Bloomberg.com,,2026-10-18,legacy,negative,0.027953622862696648,0.734920859336853,0.2371254861354828,-0.7069672364741564
+POWERGRID,2026-05-16,Power Grid Corporation of India consolidated net profit rises 9.74% in the March 2026 quarter - Business Standard,Business Standard,2026-10-19,live,positive,0.9354429244995117,0.032054293900728226,0.03250269219279289,0.9033886305987835
+POWERGRID,2026-05-25,India’s Scorching Nights Strain Power Grid and Threaten Health - Bloomberg.com,,2026-10-18,legacy,negative,0.01927737519145012,0.7423349618911743,0.23838767409324646,-0.7230575866997242
+POWERGRID,2026-05-25,"Upgrade grid to realise AI dream, says AM Exec - ET EnergyWorld",,2026-10-18,legacy,positive,0.8898738622665405,0.007002254016697407,0.10312392562627792,0.8828716082498431
+POWERGRID,2026-05-26,India’s scorching nights strain power grid and threaten health - ET EnergyWorld,,2026-10-18,legacy,negative,0.013156086206436157,0.9202192425727844,0.0666247010231018,-0.9070631563663483
+POWERGRID,2026-05-29,​​Shutdown of power generation units disrupts UP power grid - ET EnergyWorld,,2026-10-18,legacy,negative,0.007502912078052759,0.9535290598869324,0.03896801918745041,-0.9460261478088796
+POWERGRID,2026-06-01,Toshiba delivers indigenous 132kV mobile GIS system to Power Grid - ET EnergyWorld,,2026-10-18,legacy,neutral,0.26338183879852295,0.0062740519642829895,0.7303440570831299,0.25710778683423996
+POWERGRID,2026-06-10,China’s AI Ambitions Depend on Massive Power-Grid Investments - Bloomberg,,2026-10-18,legacy,neutral,0.08636060357093811,0.017116164788603783,0.8965231776237488,0.06924443878233433
+POWERGRID,2026-06-11,Specialised supplier rides India's power grid boom with sharp growth and global ambitions - supplychain.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.12747639417648315,0.013309418223798275,0.859214186668396,0.11416697595268488
+POWERGRID,2026-06-13,"Venezuela, Argentina’s Impsa Sign Deal to Work on Power Grid - Bloomberg.com",,2026-10-18,legacy,neutral,0.3464933931827545,0.010321349836885929,0.6431853175163269,0.3361720433458686
+POWERGRID,2026-06-29,Solar Boom Poses World Cup Test for Brazil’s Power Grid - Bloomberg.com,,2026-10-18,legacy,neutral,0.13098298013210297,0.010129990987479687,0.8588870167732239,0.12085298914462328
+POWERGRID,2026-06-30,"TARIL bags over ₹1,000 crore Power Grid order for transformer supply - ET EnergyWorld",,2026-10-18,legacy,positive,0.6225237846374512,0.010070550255477428,0.36740565299987793,0.6124532343819737
+POWERGRID,2026-07-06,POWERGRID raises JPY 80 billion green loan from Japan’s JBIC - ET EnergyWorld,,2026-10-18,legacy,positive,0.865699291229248,0.0115019166842103,0.12279880791902542,0.8541973745450377
+POWERGRID,2026-07-16,US Power Grid Faces Defining Test for AI Boom - Bloomberg.com,,2026-10-18,legacy,neutral,0.15430741012096405,0.015757689252495766,0.82993483543396,0.13854972086846828
+POWERGRID,2026-07-17,"Energy storage the answer to solar boom stress on power grid, says new study - ET EnergyWorld",,2026-10-18,legacy,neutral,0.08863601088523865,0.01945551484823227,0.8919084668159485,0.06918049603700638
+POWERGRID,2026-08-04,Power Grid acquires Krishnagiri REZ Transmission - Business Standard,Business Standard,2026-10-19,live,neutral,0.06656607985496521,0.011230658739805222,0.9222032427787781,0.05533542111515999
+POWERGRID,2026-08-21,POWERGRID appoints Amol Babulal Taori as Director (Finance) and CFO - cfo.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.029306361451745033,0.021663052961230278,0.9490305185317993,0.007643308490514755
+POWERGRID,2026-09-02,German Power Grid Hit Twice in Latest Suspected Sabotage - Bloomberg.com,,2026-10-18,legacy,negative,0.01948918215930462,0.7956883311271667,0.18482249975204468,-0.7761991489678621
+POWERGRID,2026-09-02,Ukraine’s Power Grid Gets US Backing for Debt Restructuring Plan - Bloomberg.com,,2026-10-18,legacy,neutral,0.4526177644729614,0.011523215100169182,0.5358590483665466,0.44109454937279224
+POWERGRID,2026-09-05,German Police Secure Explosive Devices Targeting Power Grid - Bloomberg.com,,2026-10-18,legacy,neutral,0.02301810309290886,0.1721639633178711,0.8048179745674133,-0.14914586022496223
+POWERGRID,2026-09-05,"Power Grid wins ₹3,244 crore transmission project as stock gains - rajasthan.economictimes.indiatimes.com",rajasthan.economictimes.indiatimes.com,2026-10-19,live,positive,0.5404229164123535,0.01767612062394619,0.44190093874931335,0.5227467957884073
+POWERGRID,2026-09-08,Power Grid Corporation of India Limited - Reuters,,2026-10-18,legacy,neutral,0.033185869455337524,0.023629719391465187,0.9431844353675842,0.009556150063872337
+POWERGRID,2026-09-18,Power Grid holds edge over Adani Energy in FY28 transmission pipeline execution: PL Capital - ET EnergyWorld,,2026-10-18,legacy,neutral,0.25100019574165344,0.010120999068021774,0.7388788461685181,0.24087919667363167
+POWERGRID,2026-10-01,"Akhilesh Pathak assumes charge as Director (Projects), POWERGRID - ET EnergyWorld",,2026-10-18,legacy,neutral,0.022982412949204445,0.033207330852746964,0.943810224533081,-0.010224917903542519
+POWERGRID,2026-10-02,South Africa Delays Power-Grid Expansion Plan by Six Months - Bloomberg.com,,2026-10-18,legacy,neutral,0.03351778909564018,0.13729378581047058,0.8291884660720825,-0.1037759967148304
+POWERGRID,2026-10-08,The Economic Times - The Economic Times,,2026-10-18,legacy,neutral,0.03021029755473137,0.05379044637084007,0.9159992933273315,-0.023580148816108704
+POWERGRID,2026-10-09,Marsons to form JV with US-based Cleanhill Partners to tap North American market - The Economic Times,,2026-10-18,legacy,neutral,0.17841379344463348,0.007509087212383747,0.8140771389007568,0.17090470623224974
+POWERGRID,2026-10-13,"Vikran Engineering share price jumps 13%: How ₹2,941 crore IREDA loan boosts solar project prospects - Livemint",Livemint,2026-10-19,live,positive,0.8945813179016113,0.014103284105658531,0.09131544828414917,0.8804780337959528
+POWERGRID,2026-10-14,AirTrunk postpones US$1.5 billion Singapore REIT IPO - ET Datacenters,,2026-10-18,legacy,negative,0.01144446525722742,0.8204877972602844,0.1680677980184555,-0.809043332003057
+POWERGRID,2026-10-14,"India looks to AI to make power grid more reliable, secure and smart: MoS MNRE - ET EnergyWorld",,2026-10-18,legacy,positive,0.6885310411453247,0.00790222268551588,0.3035667836666107,0.6806288184598088
+POWERGRID,2026-10-14,"JSW Energy, Suzlon, IEX, Tata Power, NTPC, CIL: JM Financial maps risks post RBI’s rate hike - ET EnergyWorld",,2026-10-18,legacy,neutral,0.06917520612478256,0.05268397554755211,0.8781408071517944,0.016491230577230453
+POWERGRID,2026-10-14,"NTT Data, Anthropic plan US$6.3 billion Osaka data center - ET Datacenters",,2026-10-18,legacy,neutral,0.04308589920401573,0.017222004011273384,0.9396921396255493,0.025863895192742348
+POWERGRID,2026-10-15,"EU-backed east Mediterranean undersea cable project applies to resume seabed research, Greece says - Reuters",,2026-10-18,legacy,positive,0.7578864693641663,0.008679280988872051,0.23343424499034882,0.7492071883752942
+POWERGRID,2026-10-16,Centre approves ₹1914 crore for 40 road projects in Rajasthan - ET Government,ET Government,2026-10-19,live,positive,0.8477191925048828,0.011607130989432335,0.1406736969947815,0.8361120615154505
+POWERGRID,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.7371003031730652,0.07562079280614853,0.18727897107601166,0.6614795103669167
+POWERGRID,2026-10-16,"Grid connectivity, land and water challenge India's data center growth - ET Datacenters",,2026-10-18,legacy,neutral,0.09982180595397949,0.013565247878432274,0.8866129517555237,0.08625655807554722
+POWERGRID,2026-10-16,Power Grid Corporation of India Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.04655829444527626,0.028951440006494522,0.924490213394165,0.01760685443878174
+POWERGRID,2026-10-16,Power Grid Corporation of India Q1 Results - Livemint,Livemint,2026-10-19,live,neutral,0.08411126583814621,0.01677860878407955,0.8991100788116455,0.06733265705406666
+POWERGRID,2026-10-17,The UK Is Paying More Than Ever to Steady a Straining Power Grid - Bloomberg.com,,2026-10-18,legacy,neutral,0.4760890603065491,0.014438155107200146,0.5094727873802185,0.4616509051993489
+POWERGRID,2026-10-18,"Arunachal Pradesh CM Pema Khandu sees big market for Arunachal’s farm, fisheries produce - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.34432101249694824,0.010481677018105984,0.6451972723007202,0.33383933547884226

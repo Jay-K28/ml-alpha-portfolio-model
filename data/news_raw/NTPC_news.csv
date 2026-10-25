@@ -1,101 +1,182 @@
-ticker,date,headline,sentiment_score
-NTPC,2026-04-05,"ntpc green energy ltd q1 results: Latest News & Videos, Photos about ntpc green energy ltd q1 results - The Economic Times",-0.9377473592758179
-NTPC,2026-03-31,NTPC Green Energy arm signs Green Ammonia supply pact with SECI - business-standard.com,0.7409274578094482
-NTPC,2026-04-06,RRB NTPC ADMIT CARD 2026 DOWNLOAD OFFICIAL WEBSITE - The Economic Times,-0.9391695261001587
-NTPC,2026-04-05,"Ntpc power generation - Latest ntpc power generation , Information & Updates - Energy - ET EnergyWorld",-0.9476292133331299
-NTPC,2026-03-31,"ACME, NTPC, and Jakson Green sign green ammonia supply agreements - business-standard.com",-0.863044261932373
-NTPC,2026-04-07,KPI Green Energy Ltd Slips 2.82% - business-standard.com,-0.9557231068611145
-NTPC,2026-04-01,"India maintains high import duty, non-tariff barriers on American goods: US report - business-standard.com",-0.9348810315132141
-NTPC,2026-04-06,"India Inc pay hikes pegged at 9.1% in FY26, says Deloitte report - business-standard.com",0.40521129965782166
-NTPC,2026-04-01,Yen holds firm below 159 amid easing geopolitical tensions - business-standard.com,-0.5191079378128052
-NTPC,2026-03-31,Texmaco Rail bags Rs 357-cr order from JSW Group - business-standard.com,-0.9313824772834778
-NTPC,2026-04-03,"Outside China, India offers largest market for energy transition: Zaveri - business-standard.com",-0.8836562633514404
-NTPC,2026-03-31,"Mumbai records best March in 14 years with over 15,500 registrations - business-standard.com",-0.8178304433822632
-NTPC,2026-03-31,Vikram Yadav new DGCA chief; Faiz Ahmed Kidwai's turbulent tenure ends - business-standard.com,-0.9268358945846558
-NTPC,2026-04-01,"Stocks to Watch today: Bharti Airtel, Adani Ports, PhysicsWallah, IndiGo - business-standard.com",-0.9467412829399109
-NTPC,2026-03-31,"India ramps up PNG rollout, 270,000 new connections given in March - business-standard.com",-0.6959617733955383
-NTPC,2026-04-01,"Praggnanandhaa loses to Sindarov, slips to third in Candidates Tournament - business-standard.com",-0.7678552269935608
-NTPC,2026-04-01,Tiger Woods to undergo treatment after not guilty plea in DUI case - business-standard.com,-0.8865570425987244
-NTPC,2026-04-05,"An oil shock, a green opportunity for India's clean energy transition - business-standard.com",-0.6042400002479553
-NTPC,2026-04-06,Asian Coal Bonds Beat Peers as Iran War Triggers Energy Rethink - bloomberg.com,-0.5723538398742676
-NTPC,2025-05-21,"India's NTPC Green posts bigger quarterly profit on higher power sales, interest income - Reuters",0.9385995864868164
-NTPC,2014-03-15,NTPC: NTPC Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9479310512542725
-NTPC,2017-03-24,"NTPC Share Price Today, NTPC Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381704330444336
-NTPC,2024-11-13,"India's NTPC Green Energy targets $10.8 bln valuation in IPO, analysts flag concerns - Reuters",-0.9158586859703064
-NTPC,2024-11-14,NTPC Green Energy Ltd. - The Economic Times,-0.925265908241272
-NTPC,2020-10-05,"NTPC Q4 Results: Profit rises 12% YoY to Rs 5,200 crore - The Economic Times",0.932239294052124
-NTPC,2025-02-24,India's NTPC plans to invest more than $23 billion on renewable energy in Madhya Pradesh - Reuters,-0.5743680596351624
-NTPC,2009-11-19,NTPC LIMITED RESEARCH - bsmedia.business-standard.com,-0.9516363739967346
-NTPC,2024-11-14,"NTPC Green Energy Share Price Today, NTPC Green Energy Stock Price Live NSE/BSE Updates - The Economic Times",-0.9423392415046692
-NTPC,2025-10-30,India's NTPC posts quarterly profit rise on lower expenses - Reuters,0.77162104845047
-NTPC,2024-11-22,NTPC Green's IPO attracts bids worth $1.8 bln in India's third-biggest listing this year - Reuters,0.8537694215774536
-NTPC,2017-03-30,"NTPC Target Share Price, NTPC Share Price Forecast - The Economic Times",-0.9414936900138855
-NTPC,2022-06-11,(NTPC.NS) | Stock Price & Latest News - Reuters,-0.9089031219482422
-NTPC,2017-08-06,Check out NTPC Ltd's stock price (NTPC-IN) in real time - CNBC,-0.9438292384147644
-NTPC,2024-11-26,"India's NTPC Green Energy jumps 14% in trading debut, valuing company at $12 billion - Reuters",0.8549200296401978
-NTPC,2026-04-02,Announcement - The Economic Times,-0.9166386723518372
-NTPC,2025-10-29,NTPC Green Energy Q2 profit climbs to ₹86 crore - ET EnergyWorld,0.9285157918930054
-NTPC,2024-09-18,State-run NTPC's green energy arm files for $1.2 bln India IPO - Reuters,-0.9251450896263123
-NTPC,2023-04-13,NTPC Green Energy Ltd - Reuters,-0.9448392391204834
-NTPC,2024-10-24,India's NTPC posts Q2 profit decline on lower power generation - Reuters,-0.9722961783409119
-NTPC,2024-08-06,www.ntpc.co.in - bsmedia.business-standard.com,-0.9513311386108398
-NTPC,2025-07-30,"NTPC profit rises 11% to Rs 6,108.46 cr in April-June - ET EnergyWorld",0.9415620565414429
-NTPC,2025-05-24,India’s NTPC Reports Profit Growth on Boost in Power Generation - bloomberg.com,0.8887624740600586
-NTPC,2024-11-14,NTPC Green Energy Profit and Loss Reports - The Economic Times,-0.721924901008606
-NTPC,2017-03-29,The Economic Times - The Economic Times,-0.9159992933273315
-NTPC,2017-03-29,NTPC Profit and Loss Reports - The Economic Times,-0.7126889228820801
-NTPC,2026-01-30,India's NTPC posts higher Q3 profit on lower fuel costs - Reuters,0.946491003036499
-NTPC,2024-11-14,"JV of green arms of India's NTPC-ONGC is highest bidder for Ayana Renewable at $650 mln, sources say - Reuters",0.5877315998077393
-NTPC,2026-01-30,"NTPC net profit up 8% to ₹5,489 crore in Q3 FY26 - ET EnergyWorld",0.9536728858947754
-NTPC,2025-04-01,India's NTPC seeks global partners to build 15 GW nuclear reactors - Reuters,0.5232677459716797
-NTPC,2025-10-30,NTPC Limited - bsmedia.business-standard.com,-0.9523904323577881
-NTPC,2026-02-09,NTPC Green Energy adds 14.43 MW to Khavda-I solar project - ET EnergyWorld,-0.5108243227005005
-NTPC,2023-04-13,India's NTPC likely to divest 25% of green energy arm via public offer - source - Reuters,-0.9436298608779907
-NTPC,2025-04-07,India's NTPC aims to build small nuclear reactors to replace old coal plants - Reuters,-0.7154553532600403
-NTPC,2025-11-14,NTPC sets 9.8 GW capacity push for FY26; ₹35k crore capex lined up - ET EnergyWorld,0.5122383236885071
-NTPC,2018-05-31,"NTPC : Latest News Headlines, Videos and Photo Galleries on NTPC - business-standard.com",-0.9378752112388611
-NTPC,2019-09-12,"ntpc ltd q3 results: Latest News & Videos, Photos about ntpc ltd q3 results - The Economic Times",-0.9356091618537903
-NTPC,2025-08-07,"Ref. No.: 01:SEC:LA:1 Dated: 07.08.2025 General Manager Department of Corporate Services BSE Limited Floor 25, Phiroze Je - bsmedia.business-standard.com",-0.949604332447052
-NTPC,2022-12-14,Exclusive: Indian power producer NTPC to sell stake in green energy business- sources - Reuters,-0.93796306848526
-NTPC,2026-03-29,NTPC.BO - Reuters,-0.9290446639060974
-NTPC,2024-11-28,Check out Ntpc Green Energy Ltd's stock price (NTPCGREEN-IN) in real time - CNBC,-0.9472697377204895
-NTPC,2025-03-28,ONGC NTPC Green completes acquisition of Ayana Renewable Power - ET EnergyWorld,0.4997985064983368
-NTPC,2026-03-19,NTPC Renewable Energy commissions 165 MW capacity at 1200 MW Khavda-II solar project - ET EnergyWorld,-0.8983879685401917
-NTPC,2023-12-29,How NTPC is empowering women workforce and driving tech innovations - ETHRWorld.com,-0.8519327640533447
-NTPC,2026-04-06,Barings' private credit fund limits withdrawals after redemption requests surge - The Economic Times,-0.8950633406639099
-NTPC,2025-06-11,"NTPC raises $750 million via ECB loan to fund capacity expansion, green projects - ET EnergyWorld",0.8381659388542175
-NTPC,2024-11-19,NTPC Green Energy's ₹10000 cr IPO: Anchor investors pump ₹3960 cr at upper price band - ET EnergyWorld,-0.8785489201545715
-NTPC,2025-06-06,"NTPC Group installed capacity stands at 80,265 MW post commissioning of 110.25 MW solar supply - ET EnergyWorld",-0.9075331091880798
-NTPC,2026-01-08,India’s NTPC Scopes 30 Sites In Fresh Bid for Nuclear Expansion - bloomberg.com,-0.7368935942649841
-NTPC,2026-03-29,(NTPC.BO) | Stock Price & Latest News - Reuters,-0.9011819362640381
-NTPC,2026-02-21,NTPC Green declares commercial operation of 158.4 MW solar plant in Andhra Pradesh - ET EnergyWorld,-0.8177012205123901
-NTPC,2024-02-21,NTPC’s renewable energy arm signs land lease agreement with Andhra Pradesh for green hydrogen hub - ET EnergyWorld,0.8590811491012573
-NTPC,2025-11-11,NTPC Green begins land work for 25 GW solar parks in Rajasthan - ET EnergyWorld,-0.7117690443992615
-NTPC,2025-11-12,"India's power giant NTPC plans to enter coal gasification business, source says - Reuters",-0.9249467849731445
-NTPC,2023-09-17,India's NTPC mining arm to explore battery minerals overseas - sources - Reuters,-0.9310471415519714
-NTPC,2018-07-23,Delay in shutting down NTPC power plant led to deadly blast in Uttar Pradesh - probe - Reuters,-0.8687572479248047
-NTPC,2025-08-05,"NTPC Renewable Energy wins 70,000-MT green ammonia auction from SECI - ET EnergyWorld",0.892697811126709
-NTPC,2025-07-16,"Cabinet approves ₹20,000 crore investment plan for NTPC’s renewable energy expansion - ET EnergyWorld",0.6618627309799194
-NTPC,2017-05-29,"NTPC fourth quarter net profit falls 25 per cent to Rs 2,079 crore - ET EnergyWorld",-0.9729750156402588
-NTPC,2020-08-05,CISF takes over security of critical NTPC power plant in MP - ET EnergyWorld,-0.9128108024597168
-NTPC,2025-02-12,India’s ONGC-NTPC Green Energy joint venture to buy Ayana Renewable - Reuters,-0.690083384513855
-NTPC,2021-02-10,"NTPC JV NSPCL awarded routine maintenance work on nomination basis, ignoring CVC norms: CAG - ET EnergyWorld",-0.5246959924697876
-NTPC,2023-08-01,Another NTPC plant in Bihar begins commercial generation - ET EnergyWorld,-0.7704888582229614
-NTPC,2025-02-13,India's NTPC in talks with foreign nuclear firms for small reactors - Reuters,-0.8432989120483398
-NTPC,2018-07-26,"NTPC board to consider plan to raise Rs 12,000 crore via NCDs this week - ET EnergyWorld",-0.8770328760147095
-NTPC,2023-05-19,"NTPC Green Energy, HPCL Mittal Energy tie up to collaborate in RE, green hydrogen - ET EnergyWorld",0.6601000428199768
-NTPC,2025-07-01,NTPC REL adds 97.5 MW capacity at Khavda solar projects in Gujarat - ET EnergyWorld,0.5717503428459167
-NTPC,2014-11-10,K .K. Sharma Takes Over as Director Operations NTPC - ET EnergyWorld,-0.9407238960266113
-NTPC,2021-06-27,NTPC targets 60 GW renewable energy capacity by 2032 - business-standard.com,-0.901893675327301
-NTPC,2025-09-02,India’s NTPC flags risks to coal plant lifespan from reduced load - Reuters,-0.45150992274284363
-NTPC,2025-11-19,NTPC Green commissions 75.5 MW at Khavda-I solar project in Gujarat - ET EnergyWorld,-0.7825329899787903
-NTPC,2025-02-17,"Exclusive: India's NTPC plans to spend $62 billion on 30 GW of nuclear power, sources say - Reuters",-0.8251656293869019
-NTPC,2024-02-21,NTPC signs MoU for mega green hydrogen plant in AP - ET Auto,0.8224128484725952
-NTPC,2025-11-08,"NTPC celebrates 51st Raising Day, reaffirms 150 GW capacity goal by 2032 - ETGovernment.com",-0.537809431552887
-NTPC,2024-03-14,NTPC Group crosses 400 billion units of power generation in 2023-24 - ETGovernment.com,-0.9279771447181702
-NTPC,2019-08-30,NTPC commissions India’s first ultra-super critical plant in MP - ET EnergyWorld,-0.5055844783782959
-NTPC,2024-06-27,Jharkhand : CISF takes over security of NTPC-Coal Mining Project in Hazaribagh - ET EnergyWorld,-0.8953415155410767
-NTPC,2026-03-31,"NTPC eyes 149 GW by 2032, expands renewable and nuclear footprint in UP: Diwakar Kaushik - ETGovernment.com",0.5756815671920776
-NTPC,2025-12-30,"GREW Solar wins 1,464 MW module supply order from NTPC Renewable Energy - ET EnergyWorld",-0.5423344969749451
-NTPC,2024-02-14,From 73+ to 150 GW: Power minister's ambitious target for NTPC - ET EnergyWorld,-0.5134345293045044
-NTPC,2025-06-12,"NTPC Group installed capacity reaches 81,368 MW; completes trial of Unit 3 at Karanpura STPP - ET EnergyWorld",0.8479793071746826
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+NTPC,2020-03-06,Govt stake in NTPC dips by 3.12 pc after sale of shares under CPSE ETF scheme - ET EnergyWorld,,2026-10-18,legacy,negative,0.015641383826732635,0.9512374401092529,0.03312112018465996,-0.9355960562825203
+NTPC,2020-10-05,"NTPC Q4 Results: Profit rises 12% YoY to Rs 5,200 crore - The Economic Times",,2026-10-18,legacy,positive,0.9322394132614136,0.028799695894122124,0.03896095231175423,0.9034397173672915
+NTPC,2020-10-08,NTPC incorporates subsidiary for renewable energy biz - ET EnergyWorld,,2026-10-18,legacy,neutral,0.062037862837314606,0.009723409079015255,0.9282386898994446,0.05231445375829935
+NTPC,2020-12-25,Power PSU NTPC wins ‘Excellence’ award for Corporate Social Responsibility - ET Government,ET Government,2026-10-19,live,positive,0.9055749773979187,0.013533278368413448,0.08089170604944229,0.8920416990295053
+NTPC,2021-02-10,"NTPC JV NSPCL awarded routine maintenance work on nomination basis, ignoring CVC norms: CAG - ET EnergyWorld",,2026-10-18,legacy,neutral,0.08550246059894562,0.3898015320301056,0.5246959924697876,-0.30429907143116
+NTPC,2021-06-21,NTPC Ltd - Reuters,,2026-10-18,legacy,neutral,0.02483847737312317,0.03563889116048813,0.9395226836204529,-0.01080041378736496
+NTPC,2021-06-27,NTPC targets 60 GW renewable energy capacity by 2032 - Business Standard,,2026-10-18,legacy,neutral,0.16677136719226837,0.008257979527115822,0.8249706029891968,0.15851338766515255
+NTPC,2021-07-26,NTPC REL bags 325 MW solar projects at Shajapur Solar Park in Madhya Pradesh - ET EnergyWorld,,2026-10-18,legacy,neutral,0.16089138388633728,0.008053685538470745,0.8310549259185791,0.15283769834786654
+NTPC,2021-10-04,"NTPC to list 3 subsidiaries as part of Rs 15,000-crore asset monetisation - Business Standard",,2026-10-18,legacy,neutral,0.04329194873571396,0.013302851468324661,0.9434052109718323,0.029989097267389297
+NTPC,2022-06-11,(NTPC.NS) | Stock Price & Latest News - Reuters,,2026-10-18,legacy,neutral,0.025835897773504257,0.06526105105876923,0.9089030623435974,-0.03942515328526497
+NTPC,2022-12-13,"NTPC to allot 5 GW for green hydrogen, ammonia out of 60-GW RE target by 2032 - ET EnergyWorld",,2026-10-18,legacy,positive,0.6958063244819641,0.009129717946052551,0.2950640320777893,0.6866766065359116
+NTPC,2022-12-14,EXCLUSIVE: Indian power producer NTPC to sell stake in green energy business- sources - Reuters,,2026-10-18,legacy,neutral,0.03682175278663635,0.025215215981006622,0.93796306848526,0.01160653680562973
+NTPC,2023-03-01,NTPC transfers renewable energy assets to NTPC Green Energy Ltd - ET Government,,2026-10-18,legacy,neutral,0.047511011362075806,0.011794195510447025,0.9406947493553162,0.03571681585162878
+NTPC,2023-04-13,NTPC Green Energy Ltd - Reuters,,2026-10-18,legacy,neutral,0.03233031556010246,0.022830462083220482,0.9448392391204834,0.009499853476881981
+NTPC,2023-06-15,NTPC can acquire stranded thermal power plants rather investing in new projects: IEEFA - ET EnergyWorld,,2026-10-18,legacy,neutral,0.11082759499549866,0.007690046448260546,0.8814823031425476,0.10313754854723811
+NTPC,2023-12-15,"NTPC Mining logs 23.22 MMT coal output in FY24 so far, surpasses FY23 total - Business Standard",,2026-10-18,legacy,positive,0.9215788841247559,0.012381020002067089,0.06604016572237015,0.9091978641226888
+NTPC,2023-12-20,NTPC achieves its fastest-ever 300 Billion Units electricity generation - ET Government,ET Government,2026-10-19,live,positive,0.9331799149513245,0.01195250079035759,0.05486762896180153,0.9212274141609669
+NTPC,2023-12-29,How NTPC is empowering women workforce and driving tech innovations - ETHRWorld.com,,2026-10-18,legacy,neutral,0.13732029497623444,0.01074714120477438,0.8519325852394104,0.12657315377146006
+NTPC,2024-02-05,India's NTPC plans to take green energy arm public in FY 2024/25 - exec - Reuters,,2026-10-18,legacy,neutral,0.05825478583574295,0.010932779870927334,0.930812418460846,0.04732200596481562
+NTPC,2024-03-18,"NTPC Stocks Live Updates: NTPC Sees Slight Uptick in Price, Beta Indicates Moderate Volatility - The Economic Times",The Economic Times,2026-10-19,live,positive,0.8601732850074768,0.08555003255605698,0.05427665635943413,0.7746232524514198
+NTPC,2024-04-01,NTPC adds nearly 4GW capacity in FY24; total installed capacity at 76GW - Business Standard,,2026-10-18,legacy,positive,0.699698805809021,0.008195783942937851,0.29210540652275085,0.6915030218660831
+NTPC,2024-05-09,"NTPC Green Energy ties up with MAHAPREIT to develop renewable energy parks, projects in Maharashtra - ET Manufacturing",,2026-10-18,legacy,positive,0.696804404258728,0.00745428679510951,0.29574131965637207,0.6893501174636185
+NTPC,2024-06-19,Jakson Green bags NTPC bid for project to produce 4G ethanol from flue gas - Business Standard,,2026-10-18,legacy,positive,0.652316153049469,0.007727435324341059,0.3399563729763031,0.6445887177251279
+NTPC,2024-09-18,State-run NTPC's green energy arm files for $1.2 bln India IPO - Reuters,,2026-10-18,legacy,neutral,0.03947877511382103,0.035376131534576416,0.9251450896263123,0.004102643579244614
+NTPC,2024-10-24,India's NTPC posts Q2 profit decline on lower power generation - Reuters,,2026-10-18,legacy,negative,0.010810188949108124,0.9722961783409119,0.01689358800649643,-0.9614859893918037
+NTPC,2024-11-09,NTPC announces successful synthesis of CO2 captured from flue gas with hydrogen - ET Government,,2026-10-18,legacy,positive,0.6717939376831055,0.011139197275042534,0.31706687808036804,0.6606547404080629
+NTPC,2024-11-13,"India's NTPC Green Energy targets $10.8 bln valuation in IPO, analysts flag concerns - Reuters",,2026-10-18,legacy,neutral,0.06355076283216476,0.020590493455529213,0.9158586859703064,0.04296026937663555
+NTPC,2024-11-14,NTPC Green Energy Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.050219397991895676,0.02451469749212265,0.925265908241272,0.025704700499773026
+NTPC,2024-11-14,NTPC Green Energy Profit and Loss Reports - The Economic Times,,2026-10-18,legacy,neutral,0.02917039766907692,0.24890419840812683,0.7219254374504089,-0.2197338007390499
+NTPC,2024-11-19,NTPC Green Energy's ₹10000 cr IPO: Anchor investors pump ₹3960 cr at upper price band - ET EnergyWorld,,2026-10-18,legacy,neutral,0.11200031638145447,0.009450782090425491,0.8785489201545715,0.10254953429102898
+NTPC,2024-11-22,NTPC Green's IPO attracts bids worth $1.8 bln in India's third-biggest listing this year - Reuters,,2026-10-18,legacy,positive,0.8537694215774536,0.018990326672792435,0.12724027037620544,0.8347790949046612
+NTPC,2024-11-26,"India's NTPC Green Energy jumps 14% in trading debut, valuing company at $12 billion - Reuters",,2026-10-18,legacy,positive,0.854919970035553,0.029181472957134247,0.11589857190847397,0.8257384970784187
+NTPC,2024-11-27,NTPC Green Energy sets up JV with Maharashtra State Power Generation Company - ET EnergyWorld,,2026-10-18,legacy,neutral,0.08531857281923294,0.00812974851578474,0.9065516591072083,0.0771888243034482
+NTPC,2025-02-12,India’s ONGC-NTPC Green Energy joint venture to buy Ayana Renewable - Reuters,,2026-10-18,legacy,neutral,0.3019464910030365,0.007969378493726254,0.6900840997695923,0.29397711250931025
+NTPC,2025-02-24,India's NTPC plans to invest more than $23 billion on renewable energy in Madhya Pradesh - Reuters,,2026-10-18,legacy,neutral,0.4172670245170593,0.00836431048810482,0.5743686556816101,0.4089027140289545
+NTPC,2025-03-28,ONGC NTPC Green completes acquisition of Ayana Renewable Power - ET EnergyWorld,,2026-10-18,legacy,positive,0.49979808926582336,0.009777345694601536,0.49042460322380066,0.49002074357122183
+NTPC,2025-04-01,India's NTPC seeks global partners to build 15 GW nuclear reactors - Reuters,,2026-10-18,legacy,positive,0.5232665538787842,0.008952812291681767,0.46778059005737305,0.5143137415871024
+NTPC,2025-04-07,India's NTPC aims to build small nuclear reactors to replace old coal plants - Reuters,,2026-10-18,legacy,neutral,0.2768988609313965,0.007645859383046627,0.7154552936553955,0.26925300154834986
+NTPC,2025-05-21,"India's NTPC Green posts bigger quarterly profit on higher power sales, interest income - Reuters",,2026-10-18,legacy,positive,0.9385995864868164,0.029918979853391647,0.03148141875863075,0.9086806066334248
+NTPC,2025-05-24,"NTPC Q4 results: Profit rises nearly 22% to Rs 7,897 cr, declares dividend - Business Standard",,2026-10-18,legacy,positive,0.9443942904472351,0.022715752944350243,0.03288998082280159,0.9216785375028849
+NTPC,2025-06-06,"NTPC Group installed capacity stands at 80,265 MW post commissioning of 110.25 MW solar supply - ET EnergyWorld",,2026-10-18,legacy,neutral,0.08314752578735352,0.009319394826889038,0.9075331091880798,0.07382813096046448
+NTPC,2025-07-06,Global companies keen on partnering NTPC for mega nuclear project - Business Standard,,2026-10-18,legacy,positive,0.648297131061554,0.008101820014417171,0.3436010479927063,0.6401953110471368
+NTPC,2025-07-30,"NTPC profit rises 11% to Rs 6,108.46 cr in April-June - ET EnergyWorld",,2026-10-18,legacy,positive,0.9415621757507324,0.023552216589450836,0.03488568589091301,0.9180099591612816
+NTPC,2025-08-05,"India's two state-run firms to issue over $500 million of debt in August, sources say - Reuters",,2026-10-18,legacy,neutral,0.08927146345376968,0.014461098238825798,0.8962674736976624,0.07481036521494389
+NTPC,2025-08-12,Growing pains: NTPC expansion spawns companies and CEOs in equal measure - Business Standard,,2026-10-18,legacy,neutral,0.08924814313650131,0.013816757127642632,0.8969351053237915,0.07543138600885868
+NTPC,2025-10-29,NTPC Green Energy Q2 profit climbs to ₹86 crore - ET EnergyWorld,,2026-10-18,legacy,positive,0.9285158514976501,0.03345530480146408,0.03802892565727234,0.8950605466961861
+NTPC,2025-10-30,India's NTPC posts quarterly profit rise on lower expenses - Reuters,,2026-10-18,legacy,positive,0.7716206312179565,0.17011165618896484,0.058267753571271896,0.6015089750289917
+NTPC,2025-11-12,"India's power giant NTPC plans to enter coal gasification business, source says - Reuters",,2026-10-18,legacy,neutral,0.0631537139415741,0.011899514123797417,0.9249467849731445,0.05125419981777668
+NTPC,2026-01-08,India’s NTPC Scopes 30 Sites In Fresh Bid for Nuclear Expansion - Bloomberg.com,,2026-10-18,legacy,neutral,0.252483606338501,0.010622808709740639,0.7368935942649841,0.24186079762876034
+NTPC,2026-01-30,India's NTPC posts higher Q3 profit on lower fuel costs - Reuters,,2026-10-18,legacy,positive,0.946491003036499,0.032054513692855835,0.021454457193613052,0.9144364893436432
+NTPC,2026-01-30,"NTPC net profit up 8% to ₹5,489 crore in Q3 FY26 - ET EnergyWorld",,2026-10-18,legacy,positive,0.9536728858947754,0.021686561405658722,0.02464054711163044,0.9319863244891167
+NTPC,2026-02-09,NTPC Green Energy adds 14.43 MW to Khavda-I solar project - ET EnergyWorld,,2026-10-18,legacy,neutral,0.4804295003414154,0.008745729923248291,0.5108247399330139,0.4716837704181671
+NTPC,2026-04-17,NTPC Green Energy adds commercial capacity of 150 MW - Business Standard,,2026-10-18,legacy,neutral,0.40675678849220276,0.00904955342411995,0.5841937065124512,0.3977072350680828
+NTPC,2026-05-12,"Bondada Engineering secures major NTPC solar project, targets robust expansion in renewables - ET Sustainability",,2026-10-18,legacy,positive,0.9043591022491455,0.0076599568128585815,0.08798088133335114,0.8966991454362869
+NTPC,2026-05-14,NTPC Green Energy adds 62.5 MW commercial capacity of solar projects in Rajasthan - Business Standard,,2026-10-18,legacy,positive,0.7157920598983765,0.008612939156591892,0.2755950093269348,0.7071791207417846
+NTPC,2026-05-22,NTPC Green Energy Q4 net profit falls 15.5% to ₹197 crore - ET EnergyWorld,,2026-10-18,legacy,negative,0.008944123052060604,0.9727985262870789,0.018257372081279755,-0.9638544032350183
+NTPC,2026-05-23,"NTPC Q4 FY26 profit rises 38% to ₹10,486 crore - ET EnergyWorld",,2026-10-18,legacy,positive,0.9398627877235413,0.028263887390494347,0.03187335282564163,0.9115989003330469
+NTPC,2026-07-13,"NTPC board approves ₹20,457 crore investment for 1,600 MW Lara Stage-III thermal project - ET EnergyWorld",,2026-10-18,legacy,positive,0.6891301870346069,0.00965590588748455,0.30121394991874695,0.6794742811471224
+NTPC,2026-07-23,NTPC Green Energy consolidated net profit rises 38.26% in the June 2026 quarter - Business Standard,,2026-10-18,legacy,positive,0.9343884587287903,0.03695808723568916,0.028653401881456375,0.8974303714931011
+NTPC,2026-07-24,India Power Giant Beats Profit Estimate as Summer Drives Demand - Bloomberg.com,,2026-10-18,legacy,neutral,0.25479593873023987,0.03982521966099739,0.7053788304328918,0.21497071906924248
+NTPC,2026-07-25,"NTPC Q1 Net Profit Rises 13% to ₹6,896 cr - ET EnergyWorld",,2026-10-18,legacy,positive,0.945213794708252,0.02355591394007206,0.031230274587869644,0.9216578807681799
+NTPC,2026-07-25,"NTPC Q1 PAT rises 12% YoY to Rs 6,721 crore; revenue rises 8% - Business Standard",,2026-10-18,legacy,positive,0.9500744342803955,0.022451629862189293,0.027473904192447662,0.9276228044182062
+NTPC,2026-07-27,NTPC fixes record date for final dividend - Business Standard,,2026-10-18,legacy,neutral,0.022654995322227478,0.03777502849698067,0.939569890499115,-0.015120033174753189
+NTPC,2026-07-27,NTPC posts healthy Q1 on robust generation demand; JM Financial sees steady diversification - ET EnergyWorld,,2026-10-18,legacy,positive,0.9583988189697266,0.017652511596679688,0.023948587477207184,0.9407463073730469
+NTPC,2026-07-28,"NTPC well placed to benefit from steady power demand, expansion plans - Business Standard",,2026-10-18,legacy,positive,0.7741758823394775,0.007213156670331955,0.21861104667186737,0.7669627256691456
+NTPC,2026-07-29,India's biggest power producer NTPC plans to invest $178 billion through 2037 - Reuters,,2026-10-18,legacy,neutral,0.16724810004234314,0.007385362405329943,0.8253665566444397,0.1598627376370132
+NTPC,2026-08-17,"Q1 results review: BHEL, Suzlon, Adani Power, NTPC, Tata Power; power utilities set for stronger growth as d.. - ET EnergyWorld",,2026-10-18,legacy,positive,0.9233768582344055,0.010008307173848152,0.06661482155323029,0.9133685510605574
+NTPC,2026-08-22,NTPC Renewable Energy wins 500 MW SECI tender at ₹6/kWh tariff - ET EnergyWorld,,2026-10-18,legacy,positive,0.8770211338996887,0.011070488020777702,0.11190837621688843,0.865950645878911
+NTPC,2026-08-26,"BSE, NSE impose over ₹59 cr penalty on NTPC, SJVN, REC for non-compliance - Business Standard",,2026-10-18,legacy,negative,0.010998384095728397,0.9353781938552856,0.05362346023321152,-0.9243798097595572
+NTPC,2026-10-05,The Economic Times - The Economic Times,,2026-10-18,legacy,neutral,0.03021029755473137,0.05379044637084007,0.9159992933273315,-0.023580148816108704
+NTPC,2026-10-06,"India's biggest power producer plans more private coal buying, people say - Reuters",,2026-10-18,legacy,neutral,0.1198679730296135,0.014075922779738903,0.8660560846328735,0.10579205024987459
+NTPC,2026-10-11,"1,000 ex-Flipkart staffers approach Walmart over stock option liquidity - Business Standard",,2026-10-18,legacy,neutral,0.03074886091053486,0.3706322908401489,0.5986188650131226,-0.33988342992961407
+NTPC,2026-10-11,"Audi India mulls local EV production, aims to double mkt share in 3-5 years - Business Standard",,2026-10-18,legacy,positive,0.926254391670227,0.0087055005133152,0.06504019349813461,0.9175488911569118
+NTPC,2026-10-11,Cadence pitches homegrown EDA industry for India's chip design push - Business Standard,,2026-10-18,legacy,neutral,0.2845609784126282,0.007349926047027111,0.7080891132354736,0.27721105236560106
+NTPC,2026-10-11,"Coal India denies crunch in supply to NTPC, says exceeded commitments - Business Standard",,2026-10-18,legacy,neutral,0.2228071540594101,0.22820699214935303,0.5489858388900757,-0.005399838089942932
+NTPC,2026-10-12,HCLTech signs pact with Anthropic to set up dedicated AI business unit - Business Standard,,2026-10-18,legacy,positive,0.6088181138038635,0.007851534523069859,0.38333040475845337,0.6009665792807937
+NTPC,2026-10-12,"Peak XV, Accel-backed Zetwerk seeks $2.6 billion valuation in India IPO - Business Standard",,2026-10-18,legacy,neutral,0.18665561079978943,0.00758248008787632,0.8057618737220764,0.1790731307119131
+NTPC,2026-10-12,"Peak XV, Accel-backed Zetwerk seeks $2.64 billion valuation in India IPO - Reuters",,2026-10-18,legacy,neutral,0.08874104171991348,0.009427660144865513,0.901831328868866,0.07931338157504797
+NTPC,2026-10-12,Siddharth Nawal to succeed Dalip Sehgal as Nexus Select Trust CEO from 2027 - Business Standard,,2026-10-18,legacy,neutral,0.03559517487883568,0.021145973354578018,0.9432588219642639,0.01444920152425766
+NTPC,2026-10-12,"Stellantis, Tata Motors PV join hands for vehicle tech, product development - Business Standard",,2026-10-18,legacy,neutral,0.20011582970619202,0.00817109178751707,0.7917131185531616,0.19194473791867495
+NTPC,2026-10-12,"TCS to hire 80% of workforce with digital, AI skills; expects margin gains - Business Standard",,2026-10-18,legacy,positive,0.9540458917617798,0.016336113214492798,0.02961801178753376,0.937709778547287
+NTPC,2026-10-12,"Tata Motors PV, Stellantis expand tie-up for global vehicle development - Business Standard",,2026-10-18,legacy,positive,0.7751585841178894,0.00767306424677372,0.21716834604740143,0.7674855198711157
+NTPC,2026-10-13,"India's NTPC seeks overseas buyers for green ammonia, low-carbon fuels - Reuters",,2026-10-18,legacy,neutral,0.21283966302871704,0.008053773082792759,0.7791064977645874,0.20478588994592428
+NTPC,2026-10-13,"NTPC in talks with Japan, South Korea, Germany for green fuel exports - ET Government",ET Government,2026-10-19,live,positive,0.6469058990478516,0.009508084505796432,0.3435859978199005,0.6373978145420551
+NTPC,2026-10-13,"NTPC in talks with Japan, South Korea, Germany for green fuel exports - ET Manufacturing",,2026-10-18,legacy,positive,0.7307167053222656,0.008843000046908855,0.26044031977653503,0.7218737052753568
+NTPC,2026-10-13,"NTPC in talks with Japan, South Korea, Germany for sale of green fuel - Business Standard",,2026-10-18,legacy,neutral,0.48950132727622986,0.00919005274772644,0.5013086199760437,0.4803112745285034
+NTPC,2026-10-13,"NTPC in talks with buyers in Japan, South Korea and Germany for green ammonia - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.3619348704814911,0.011618158780038357,0.6264470219612122,0.35031671170145273
+NTPC,2026-10-13,"Vimag Labs starts production at Haryana plant, plans ₹50 crore investment - Business Standard",,2026-10-18,legacy,neutral,0.21940363943576813,0.007498078513890505,0.7730982899665833,0.21190556092187762
+NTPC,2026-10-14,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.036765482276678085,0.024498067796230316,0.9387364387512207,0.01226741448044777
+NTPC,2026-10-14,"JSW Energy, Suzlon, IEX, Tata Power, NTPC, CIL: JM Financial maps risks post RBI’s rate hike - ET EnergyWorld",,2026-10-18,legacy,neutral,0.06917516887187958,0.052683956921100616,0.878140926361084,0.01649121195077896
+NTPC,2026-10-14,NTPC courts foreign buyers as green fuel push shifts to commercial scale - ET Sustainability,ET Sustainability,2026-10-19,live,positive,0.7687265872955322,0.010264207608997822,0.22100916504859924,0.7584623796865344
+NTPC,2026-10-14,"Zetwerk raises ₹2,251 crore from anchor investors ahead of ₹5,012-cr IPO - Business Standard",,2026-10-18,legacy,positive,0.6232964396476746,0.01645420305430889,0.3602493405342102,0.6068422365933657
+NTPC,2026-10-15,3 Indian students die in Germany fire; suspect arrested on homicide charges - Business Standard,Business Standard,2026-10-19,live,negative,0.02796933427453041,0.6766372919082642,0.2953934073448181,-0.6486679576337337
+NTPC,2026-10-15,"FM holds bilateral talks with UK, Swiss, Japanese counterparts in Bangkok - Business Standard",,2026-10-18,legacy,neutral,0.41360676288604736,0.012338224798440933,0.574055016040802,0.40126853808760643
+NTPC,2026-10-15,NTPC partners with Africa50 to develop power projects across Africa - ET EnergyWorld,,2026-10-18,legacy,positive,0.7398443818092346,0.0064080506563186646,0.2537475526332855,0.733436331152916
+NTPC,2026-10-15,NTPC seeks ₹1.5-trillion Rosatom tie-up for six nuclear reactors - Livemint,Livemint,2026-10-19,live,positive,0.5531690716743469,0.008945107460021973,0.4378858506679535,0.544223964214325
+NTPC,2026-10-15,NTPC ties up with Africa50 to develop power projects across Africa - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.665208637714386,0.007821249775588512,0.32697010040283203,0.6573873879387975
+NTPC,2026-10-15,Ntpc+power+generation - ET Government,ET Government,2026-10-19,live,neutral,0.09379935264587402,0.009148132987320423,0.897052526473999,0.0846512196585536
+NTPC,2026-10-15,Stock recommendations for 15 October from MarketSmith India - Livemint,Livemint,2026-10-19,live,neutral,0.035778116434812546,0.031450338661670685,0.9327715635299683,0.004327777773141861
+NTPC,2026-10-16,"Abakkus Flexi Cap Fund September portfolio: 35 stocks, including Groww and NTPC, see higher holdings - Livemint",Livemint,2026-10-19,live,neutral,0.044995881617069244,0.021412553265690804,0.9335916042327881,0.02358332835137844
+NTPC,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.73710036277771,0.07562077045440674,0.1872788965702057,0.6614795923233032
+NTPC,2026-10-16,Health insurance claim: 5 things to prepare before hospitalisation to avoid last-minute hassles - Livemint,Livemint,2026-10-19,live,neutral,0.028596658259630203,0.04677245765924454,0.924630880355835,-0.018175799399614334
+NTPC,2026-10-16,"Indian Railways announces 3,548 graduate-level NTPC vacancies: Check eligibility, jobs, salaries and qualifications - Livemint",Livemint,2026-10-19,live,neutral,0.02349574863910675,0.042164482176303864,0.9343397617340088,-0.018668733537197113
+NTPC,2026-10-16,"Man earning ₹3,500 a month faced ₹1.46 crore tax demand; how ITAT Mumbai came to his rescue - Livemint",Livemint,2026-10-19,live,neutral,0.10136191546916962,0.05999895557761192,0.8386391401290894,0.041362959891557693
+NTPC,2026-10-16,SAIL posts ₹834 cr net profit for July-September quarter; dent of 32.7% due to cheaper imports - ET Government,ET Government,2026-10-19,live,positive,0.7814897894859314,0.12984256446361542,0.08866771310567856,0.651647225022316
+NTPC,2026-10-16,"Stocks to watch: Jio Fin, Yes Bank, Wipro, L&T Fin, Angel One, Urban Co - Business Standard",,2026-10-18,legacy,neutral,0.03859516978263855,0.01676807925105095,0.9446367621421814,0.0218270905315876
+NTPC,2026-10-16,UltraTech scales green power fleet past 2 GW for captive use - ET Sustainability,ET Sustainability,2026-10-19,live,positive,0.7963559627532959,0.008417505770921707,0.1952265352010727,0.7879384569823742
+NTPC,2026-10-16,Zetwerk Manufacturing Businesses IPO - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.022872319445014,0.03081277571618557,0.9463148713111877,-0.00794045627117157
+NTPC,2026-10-17,"8th Pay Commission: What central government employees need to know about OPS, NPS and UPS - Livemint",Livemint,2026-10-19,live,neutral,0.028637472540140152,0.03546885401010513,0.935893714427948,-0.006831381469964981
+NTPC,2026-10-17,AI fears are rocking markets. The brave should buy the dips. - Livemint,Livemint,2026-10-19,live,neutral,0.056585490703582764,0.08270009607076645,0.8607144355773926,-0.026114605367183685
+NTPC,2026-10-17,Cyber fraud alert: SBI warns about AI voice-cloning scams — 5 ways to protect your money - Livemint,Livemint,2026-10-19,live,neutral,0.04095199331641197,0.107304647564888,0.8517433404922485,-0.06635265424847603
+NTPC,2026-10-17,DA hike after Dussehra: Will central government employees get good news in October? - What we know so far - Livemint,Livemint,2026-10-19,live,neutral,0.14323613047599792,0.018692951649427414,0.8380709290504456,0.12454317882657051
+NTPC,2026-10-17,"DA news: Key salary components explained — We breakdown the differences between your DA, DR and HRA - Livemint",Livemint,2026-10-19,live,neutral,0.06268568336963654,0.022850222885608673,0.9144641160964966,0.03983546048402786
+NTPC,2026-10-17,Dearness Allowance hike 2026: Will the Centre announce the July DA revision before Diwali? What history suggests - Livemint,Livemint,2026-10-19,live,neutral,0.04557699337601662,0.02012808620929718,0.9342949390411377,0.025448907166719437
+NTPC,2026-10-17,EPFO VISHWAS 2026 explained: How employers can settle pending Section 14B penal damages - Livemint,Livemint,2026-10-19,live,neutral,0.023532170802354813,0.10424037277698517,0.8722274899482727,-0.08070820197463036
+NTPC,2026-10-17,"EPFO explains new rules for EPF advances: Check withdrawal limits, conditions and forms - Livemint",Livemint,2026-10-19,live,neutral,0.03077017515897751,0.019985830411314964,0.9492440223693848,0.010784344747662544
+NTPC,2026-10-17,"Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint",Livemint,2026-10-19,live,neutral,0.035794131457805634,0.10830545425415039,0.8559004068374634,-0.07251132279634476
+NTPC,2026-10-17,Government employees await July 2026 Dearness Allowance hike: Check DA and DR announcement dates for the last 5 years - Livemint,Livemint,2026-10-19,live,neutral,0.025532927364110947,0.040387824177742004,0.9340792298316956,-0.014854896813631058
+NTPC,2026-10-17,"Home loan alert: SBI, PNB and 4 other banks revise lending rates — how borrowers may be affected - Livemint",Livemint,2026-10-19,live,neutral,0.024810796603560448,0.061563506722450256,0.9136257171630859,-0.03675271011888981
+NTPC,2026-10-17,How SBI’s failure to inform a retired scientist about FD maturity cost it ₹15.35 lakh; details of the case here - Livemint,Livemint,2026-10-19,live,neutral,0.021422121673822403,0.2577233910560608,0.7208544611930847,-0.2363012693822384
+NTPC,2026-10-17,"India Post sanctions 60 days’ Productivity Linked Bonus: Check employee eligibility, salary limits and calculation rules - Livemint",Livemint,2026-10-19,live,neutral,0.022283000871539116,0.05512169748544693,0.9225952625274658,-0.032838696613907814
+NTPC,2026-10-17,Looking to purchase gold this festive season? Here's how to directly avail Tyohar BharatPe Gold Offer - Livemint,Livemint,2026-10-19,live,neutral,0.06310613453388214,0.012558686546981335,0.9243351817131042,0.050547447986900806
+NTPC,2026-10-17,Parag Parikh Flexi Cap Fund cash falls to 9.77% after Rajeev Thakkar's ‘single-digit’ outlook: Where is the money going? - Livemint,Livemint,2026-10-19,live,negative,0.009131036698818207,0.9584717750549316,0.03239724040031433,-0.9493407383561134
+NTPC,2026-10-17,"Regular vs step-up SIPs: Do ₹1,000 and 10% annual top-ups give you higher XIRR returns or just create a larger corpus? - Livemint",Livemint,2026-10-19,live,neutral,0.12621665000915527,0.011480691842734814,0.8623026609420776,0.11473595816642046
+NTPC,2026-10-17,SGB 2020-21 Series VII: Investors to pocket 192% gains on premature redemption; RBI fixes October 19 date - Livemint,Livemint,2026-10-19,live,positive,0.5543224811553955,0.026561208069324493,0.4191162884235382,0.527761273086071
+NTPC,2026-10-17,Using two health insurance policies for one hospital bill? Are you aware of these claim rejection traps? - Livemint,Livemint,2026-10-19,live,neutral,0.02995999902486801,0.0915815606713295,0.8784584403038025,-0.06162156164646149
+NTPC,2026-10-17,Why Facundo Bernal's headbutt on Lamine Yamal earned a red card and sparked debate in Real Betis vs Barcelona - Livemint,Livemint,2026-10-19,live,negative,0.03874144330620766,0.8442487716674805,0.11700979620218277,-0.8055073283612728
+NTPC,2026-10-17,₹9 lakh in Post Office MIS vs ₹9 lakh in bank FD: Which gives a higher monthly income? - Livemint,Livemint,2026-10-19,live,neutral,0.12957347929477692,0.02618788182735443,0.8442385792732239,0.10338559746742249
+NTPC,2026-10-18,7th Pay Commission: BSNL employees seek wage revision; management assures festival advance in 2 months - Livemint,Livemint,2026-10-19,live,negative,0.07229253649711609,0.7610014081001282,0.1667061150074005,-0.6887088716030121
+NTPC,2026-10-18,"8th Pay Commission: How salaries change at fitment factors of 4, 3.833 and 3.80; Check complete calculations - Livemint",Livemint,2026-10-19,live,neutral,0.02697572484612465,0.038786280900239944,0.9342380166053772,-0.011810556054115295
+NTPC,2026-10-18,"8th pay commission: Official state visit to Mumbai planned this week — Here's all we know about meetings, agenda - Livemint",Livemint,2026-10-19,live,neutral,0.024871837347745895,0.03104211762547493,0.9440860748291016,-0.006170280277729034
+NTPC,2026-10-18,AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks - Livemint,Livemint,2026-10-19,live,neutral,0.15265366435050964,0.020505521446466446,0.826840877532959,0.1321481429040432
+NTPC,2026-10-18,"Aadhaar update: Want to change your name, address or date of birth? Check UIDAI's list of accepted documents - Livemint",Livemint,2026-10-19,live,neutral,0.018043559044599533,0.045676589012145996,0.9362798929214478,-0.027633029967546463
+NTPC,2026-10-18,Best-performing SIFs: Quant leads hybrid long-short funds with 25.5% returns in 6 months; check how peers performed - Livemint,Livemint,2026-10-19,live,neutral,0.3179176449775696,0.009293559938669205,0.6727887988090515,0.3086240850389004
+NTPC,2026-10-18,DA hike before Diwali 2026: How much extra salary could central government employees get if DA rises to 63%? - Livemint,Livemint,2026-10-19,live,neutral,0.23255343735218048,0.02355491742491722,0.7438916563987732,0.20899851992726326
+NTPC,2026-10-18,"EPFO scheme offers up to ₹15,000 to first-time employees: Check eligibility, salary limit and payment rules - Livemint",Livemint,2026-10-19,live,neutral,0.06295186281204224,0.011000827886164188,0.9260473251342773,0.05195103492587805
+NTPC,2026-10-18,"EPFO: How to check status, EPF account passbook on official portal, Umang app, SMS, Missed Call, WhatsApp—Stepwise guide - Livemint",Livemint,2026-10-19,live,neutral,0.05301091447472572,0.01584567315876484,0.9311434626579285,0.037165241315960884
+NTPC,2026-10-18,"Eating out with family for Diwali, Dussehra? Here's why your restaurant bills may go up by 10-15% this festive season - Livemint",Livemint,2026-10-19,live,positive,0.7849932909011841,0.03552398458123207,0.17948268353939056,0.749469306319952
+NTPC,2026-10-18,"Energy stocks dividend leaderboard: Power Grid, NTPC, SJVN, NHPC or IREDA - Which power stock beats the rest on yield? - Livemint",Livemint,2026-10-19,live,neutral,0.03789270296692848,0.017987633123993874,0.9441196918487549,0.01990506984293461
+NTPC,2026-10-18,FD maturity mistake: Fixed deposit matured but you forgot to withdraw money? What happens to your amount? Renew or not? - Livemint,Livemint,2026-10-19,live,neutral,0.028002483770251274,0.043247632682323456,0.9287498593330383,-0.015245148912072182
+NTPC,2026-10-18,Got refund for online shopping after cancelling order but your credit card bill still shows due amount? Should you pay? - Livemint,Livemint,2026-10-19,live,neutral,0.0644732341170311,0.05030616745352745,0.8852205872535706,0.014167066663503647
+NTPC,2026-10-18,"Income Tax New TDS Form 141: How it simplifies tax deduction at source compliance for property transactions, rent, etc - Livemint",Livemint,2026-10-19,live,neutral,0.05907714366912842,0.013225287199020386,0.9276975989341736,0.04585185647010803
+NTPC,2026-10-18,Income tax audit last date: 21 Oct is deadline; last-minute checklist for taxpayers before submission | List from expert - Livemint,Livemint,2026-10-19,live,neutral,0.01718260534107685,0.050264280289411545,0.9325531125068665,-0.033081674948334694
+NTPC,2026-10-18,Income tax on property buying: Over ₹30 lakh deal? Experts suggest what to report in realty purchases to avoid taxmen - Livemint,Livemint,2026-10-19,live,neutral,0.03480640426278114,0.025284769013524055,0.9399088025093079,0.009521635249257088
+NTPC,2026-10-18,"India's exports to West Asia recover from US-Iran war shock in April-August; shipments to Africa, ASEAN rise - Livemint",Livemint,2026-10-19,live,positive,0.9410450458526611,0.02372382953763008,0.03523104637861252,0.917321216315031
+NTPC,2026-10-18,Insurance reforms: Why claims matter more than distribution costs - Livemint,Livemint,2026-10-19,live,neutral,0.05614390969276428,0.02345406264066696,0.9204020500183105,0.03268984705209732
+NTPC,2026-10-18,"JLR India expands presence in Delhi, Gurugram, sees NCR as key market - Business Standard",Business Standard,2026-10-19,live,positive,0.5748662352561951,0.008106092922389507,0.41702765226364136,0.5667601423338056
+NTPC,2026-10-18,Japan to launch spacecraft on a mission to get samples from a Martian moon - Business Standard,,2026-10-18,legacy,neutral,0.15681549906730652,0.009976056404411793,0.8332085013389587,0.14683944266289473
+NTPC,2026-10-18,Manu Joseph: The poor have a right to fun—why don't the rich understand that? - Livemint,Livemint,2026-10-19,live,neutral,0.04929674044251442,0.02400415576994419,0.9266991019248962,0.02529258467257023
+NTPC,2026-10-18,"Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint",Livemint,2026-10-19,live,positive,0.6336671710014343,0.02806326001882553,0.33826956152915955,0.6056039109826088
+NTPC,2026-10-18,"NRI's ₹3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT gives relief - Livemint",Livemint,2026-10-19,live,negative,0.06317933648824692,0.4893200993537903,0.4475005567073822,-0.42614076286554337
+NTPC,2026-10-18,NTPC Green Energy to set up India's largest green hydrogen production facility near Vizag - ET Government,ET Government,2026-10-19,live,neutral,0.49548110365867615,0.007236754056066275,0.49728214740753174,0.4882443496026099
+NTPC,2026-10-18,"NTPC targets 30 GW nuclear capacity by 2047: Water, land, seismic safety and other factors that matter in site selection - Livemint",Livemint,2026-10-19,live,neutral,0.050682421773672104,0.012829320505261421,0.9364883303642273,0.03785310126841068
+NTPC,2026-10-18,NTPC to begin feasibility studies in more states for nuclear programme - Business Standard,,2026-10-18,legacy,neutral,0.1874973475933075,0.007795038167387247,0.8047075867652893,0.17970230942592025
+NTPC,2026-10-18,NTPC to begin feasibility studies in more states for nuclear programme - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.22829321026802063,0.00758786266669631,0.7641189694404602,0.22070534760132432
+NTPC,2026-10-18,NTPC to begin feasibility studies in more states for nuclear programme - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.11719680577516556,0.010318754240870476,0.8724844455718994,0.10687805153429508
+NTPC,2026-10-18,"No ITR filed, but ITAT Jaipur still quashed the 200% income tax penalty: Here's what the taxpayer did to win the case - Livemint",Livemint,2026-10-19,live,neutral,0.09165000915527344,0.037385791540145874,0.8709641695022583,0.054264217615127563
+NTPC,2026-10-18,"Train ticket insurance from October 27: Is it mandatory, what is the current premium, coverage and claim process? - Livemint",Livemint,2026-10-19,live,neutral,0.02870626375079155,0.02298028953373432,0.9483134150505066,0.005725974217057228
+NTPC,2026-10-18,"Using Buying Now, Pay Later (BNPL) for Diwali, Dussehra, and Dhanteras online shopping? Are you aware of these 5 risks? - Livemint",Livemint,2026-10-19,live,neutral,0.057413555681705475,0.023272603750228882,0.9193137884140015,0.03414095193147659
+NTPC,2026-10-18,"Want to retire early? How to split ₹1 lakh in monthly investments between short-term goals and FIRE, expert explains - Livemint",Livemint,2026-10-19,live,neutral,0.07719823718070984,0.012526788748800755,0.9102749824523926,0.06467144843190908
+NTPC,2026-10-18,"Why Trump’s 'dealmaker' image faces scrutiny as Iran, Ukraine wars test his negotiating skills - Livemint",Livemint,2026-10-19,live,neutral,0.048897482454776764,0.16670165956020355,0.7844008207321167,-0.11780417710542679
+NTPC,2026-10-18,"₹50,000 in KVP vs ₹50,000 in NSC: Which post office scheme is better for a five-year goal? Check out the calculations - Livemint",Livemint,2026-10-19,live,neutral,0.1011575385928154,0.019315024837851524,0.8795274496078491,0.08184251375496387
+NTPC,2026-10-19,8th Pay Commission: What is dearness relief and how is it different from DA? Expert explains - Livemint,Livemint,2026-10-19,live,neutral,0.0475323423743248,0.02110881358385086,0.9313588738441467,0.026423528790473938
+NTPC,2026-10-19,A hedge-fund billionaire’s two bitter wars—against his wife and his business partner - Livemint,Livemint,2026-10-19,live,negative,0.09851834923028946,0.47844719886779785,0.4230344295501709,-0.3799288496375084
+NTPC,2026-10-19,Axis Bank shares fall 5% despite 39% rise in Q2 net profit; here's why - Business Standard,Business Standard,2026-10-19,live,negative,0.011159599758684635,0.9401951432228088,0.048645250499248505,-0.9290355434641242
+NTPC,2026-10-19,Can LTM’s pivot towards shorter-tenure AI deals accelerate revenue growth in H2? - Livemint,Livemint,2026-10-19,live,positive,0.658255398273468,0.009167712181806564,0.33257684111595154,0.6490876860916615
+NTPC,2026-10-19,"Defence & capital goods stocks: L&T, Cummins, Bharat Electronics among 16 Buys for Motilal Oswal, Thermax a Sell - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.19623857736587524,0.017553802579641342,0.7862076163291931,0.1786847747862339
+NTPC,2026-10-19,Frail Indonesian markets reel after MSCI shock warning - Livemint,Livemint,2026-10-19,live,negative,0.12009342014789581,0.7937777638435364,0.08612876385450363,-0.6736843436956406
+NTPC,2026-10-19,"Gold, silver prices today, 19 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",Livemint,2026-10-19,live,neutral,0.07737727463245392,0.020036019384860992,0.9025866389274597,0.057341255247592926
+NTPC,2026-10-19,HDFC Bank falls 1.5% post Q2 show; analysts say worst over; eyes on new CEO - Business Standard,Business Standard,2026-10-19,live,negative,0.021088963374495506,0.9280719757080078,0.05083906278014183,-0.9069830123335123
+NTPC,2026-10-19,Japan PM Takaichi’s Public Support Slips After Cabinet Scandal - Livemint,Livemint,2026-10-19,live,negative,0.018056446686387062,0.9463640451431274,0.03557952865958214,-0.9283075984567404
+NTPC,2026-10-19,"Nifty PSU Bank index surges 3%; PNB, PSB, Canara, Union Bank soar up to 8% - Business Standard",Business Standard,2026-10-19,live,positive,0.9393117427825928,0.022900288924574852,0.037787944078445435,0.9164114538580179
+NTPC,2026-10-19,Putin floats a summit with Trump and Xi to decide Ukraine’s fate - Livemint,Livemint,2026-10-19,live,neutral,0.10922819375991821,0.01445893943309784,0.8763128519058228,0.09476925432682037
+NTPC,2026-10-19,"Q2 results today: UltraTech Cement, Hindustan Zinc, and 33 more on Oct 19 - Business Standard",Business Standard,2026-10-19,live,neutral,0.10180200636386871,0.018423261120915413,0.8797747492790222,0.0833787452429533
+NTPC,2026-10-19,"Stocks to watch: HDFC Bank, ICICI Bank, Bajaj Fin, DLF, OMCs, NTPC & more - Business Standard",Business Standard,2026-10-19,live,neutral,0.036932434886693954,0.018702030181884766,0.9443655014038086,0.01823040470480919
+NTPC,2026-10-19,Tata Sons breaks from the past and drops Article 118 reference in Chandrasekaran’s third-term resolution - Livemint,Livemint,2026-10-19,live,neutral,0.026735791936516762,0.20174959301948547,0.7715146541595459,-0.1750138010829687
+NTPC,2026-10-19,The AI stock market wobble is a reminder: This time isn’t different - Livemint,Livemint,2026-10-19,live,neutral,0.043631553649902344,0.16439835727214813,0.7919700741767883,-0.12076680362224579
+NTPC,2026-10-19,The deadly 1.5-mile corridor that shows the fatal flaw in America’s road design - Livemint,Livemint,2026-10-19,live,neutral,0.09331399202346802,0.051436156034469604,0.8552498817443848,0.04187783598899841
+NTPC,2026-10-19,UBS capital rules have Swiss stuck between a rock and a hard place - Livemint,Livemint,2026-10-19,live,neutral,0.027763325721025467,0.43735167384147644,0.5348849892616272,-0.409588348120451
+NTPC,2026-10-19,Urban Company shares fall 10% as Q2 net loss widens despite revenue growth - Business Standard,Business Standard,2026-10-19,live,negative,0.008318895474076271,0.9728223085403442,0.018858706578612328,-0.964503413066268
+NTPC,2026-10-19,What is a ‘boss scam’? 5 ways to protect yourself from CEO fraud - Livemint,Livemint,2026-10-19,live,neutral,0.031349752098321915,0.06962459534406662,0.8990256786346436,-0.038274843245744705

@@ -1,100 +1,177 @@
-ticker,date,headline,sentiment_score
-HCLTECH,2026-04-06,IT firms may post muted Q4; weak INR to cushion earnings; FY27 guidance key - business-standard.com,-0.9572206735610962
-HCLTECH,2026-04-07,"Nifty IT up 2%; Wipro, Infy, TCS rise up to 4% as investors eye Q4 results - business-standard.com",0.9250752925872803
-HCLTECH,2026-04-06,"Tessolve appoints HCL Tech's Ravi Kumar Chirugudu as President, COO - business-standard.com",-0.941329836845398
-HCLTECH,2026-04-06,"Persistent Systems - Mahindra, Billionbrains Garage among 6 stocks flashing bullish signals - The Economic Times",-0.8505887985229492
-HCLTECH,2026-04-01,"Si Reporter/undefined - Read all News, Stories, Videos and Photos from Si Reporter/undefined - business-standard.com",-0.9473554491996765
-HCLTECH,2026-04-06,"Indian IT firms face subdued fourth quarter as war, AI concerns persist; weak rupee helps earnings - Reuters",-0.956290066242218
-HCLTECH,2026-04-06,"Reliance slips 4%; stock hits over 10-month low, m-cap falls below ₹18 trn - business-standard.com",-0.9506584405899048
-HCLTECH,2026-04-06,Every $10 rise in oil above $90/bbl may hit Nifty earnings by 3%: Bernstein - business-standard.com,-0.8500698208808899
-HCLTECH,2026-04-06,"Bank stocks mixed after Q4 update: BoB, BoM jump; HDFC Bank, IndusInd slip - business-standard.com",-0.7013976573944092
-HCLTECH,2026-04-06,Wipro bags $1 bn deal from Olam Group; to acquire Mindsprint for $375 mn - business-standard.com,-0.8952046036720276
-HCLTECH,2026-04-03,"Maruti Suzuki India aims for 8,000 service touchpoints by FY31: MD & CEO - business-standard.com",-0.9120271801948547
-HCLTECH,2026-04-06,Ola Electric soars 34% in 3 days; hits 7-wk high on huge volume; here's why - business-standard.com,0.8763629198074341
-HCLTECH,2024-03-12,HCL Technologies Share Price Live Updates: HCL Technologies Closes at Rs 1638.65 with 6-Month Beta of 0.5 - The Economic Times,-0.4770928919315338
-HCLTECH,2025-07-14,"India's HCLTech narrows revenue forecast, sees demand stability - Reuters",-0.6006059050559998
-HCLTECH,2026-01-12,India's HCLTech narrows annual revenue forecast on deal momentum - Reuters,-0.8964933753013611
-HCLTECH,2026-01-12,"TCS, HCL Tech Results Bring Setback for India Stock Bulls - bloomberg.com",-0.691428542137146
-HCLTECH,2025-01-13,"India's HCLTech misses Q3 revenue estimate, tightens forecast - Reuters",-0.942722499370575
-HCLTECH,2024-04-28,HCLTech falls most in nearly 17 months on lower-than-expected FY25 outlook - Reuters,-0.9722626209259033
-HCLTECH,2025-04-22,HCLTech CEO signals opportunities despite expected tariff impact - Reuters,-0.6525825262069702
-HCLTECH,2017-08-07,Check out HCL Technologies Ltd's stock price (HCLTECH-IN) in real time - CNBC,-0.9483378529548645
-HCLTECH,2017-03-24,HCL Technologies Ltd. - The Economic Times,-0.923650860786438
-HCLTECH,2014-03-15,HCLT: HCL Technologies Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9486417770385742
-HCLTECH,2017-01-05,"Hcl technologies - Latest hcl technologies , Information & Updates - Telecom - telecom.economictimes.indiatimes.com",-0.9471663236618042
-HCLTECH,2026-01-12,HCL Technologies - bsmedia.business-standard.com,-0.9526538848876953
-HCLTECH,2025-10-13,India's HCLTech optimistic after upbeat quarter despite tariff uncertainty - Reuters,0.8886584639549255
-HCLTECH,2021-12-21,"HCL Tech Q2 Results: Profit rises 10% YoY to Rs 3,832 crore; revenue up 8% - The Economic Times",0.9500507712364197
-HCLTECH,2021-06-16,HCL Technologies Ltd - Reuters,-0.9420044422149658
-HCLTECH,2020-05-07,"HCL Tech Q4 Results: Net profit zooms 226% to Rs 3,593 crore - The Economic Times",0.9301520586013794
-HCLTECH,2020-10-05,"HCL Tech Q1 Results: Profit growth flat at Rs 3,283 crore; revenue jumps 17% - The Economic Times",0.6701987981796265
-HCLTECH,2025-07-10,"India’s HCL Technologies, Tech Mahindra Lift Veil on IT Industry Outlook - bloomberg.com",-0.8985229134559631
-HCLTECH,2024-08-29,HCL Technologies Ltd - bsmedia.business-standard.com,-0.9517417550086975
-HCLTECH,2026-01-13,"HCLTech adds 2,852 freshers in Q3; total headcount falls by 261 - ETHRWorld.com",-0.8958035111427307
-HCLTECH,2024-01-12,"India's HCLTech trims full-year revenue forecast, says demand unchanged - Reuters",-0.9429137706756592
-HCLTECH,2018-05-07,HCL Tech prefers linking dividend to net income: CFO Anil Chanana - cfo.economictimes.indiatimes.com,-0.9466250538825989
-HCLTECH,2017-01-05,"Hcl technologies - Latest hcl technologies , Information & Updates - CIO - ET CIO",-0.9451940059661865
-HCLTECH,2022-10-12,India's HCL Technologies raises 2023 revenue growth target on order strength - Reuters,0.8891144394874573
-HCLTECH,2023-10-12,India's HCLTech cuts fiscal-year revenue outlook as clients trim spending - Reuters,-0.9567019939422607
-HCLTECH,2007-08-13,"UPDATE 1-India's HCL Tech's Q4 net jumps, sees more growth - Reuters",0.9414318799972534
-HCLTECH,2026-01-12,"TCS, HCL Tech kick off IT earnings today: Why AI matters more than numbers - Indiatimes",-0.9186958074569702
-HCLTECH,2023-07-12,India's HCLTech to buy German automotive services firm ASAP for $280 million - Reuters,-0.8770310282707214
-HCLTECH,2026-01-13,HCL Technologies| ADD - bsmedia.business-standard.com,-0.9503574967384338
-HCLTECH,2024-07-12,HCLTech projects growth as Indian IT industry bets on cautious recovery - Reuters,0.8275536298751831
-HCLTECH,2020-10-17,"Trump H-1B visa policy: HCL Tech may relocate work within US and to low-cost Mexico, Canada - cfo.economictimes.indiatimes.com",-0.9211851954460144
-HCLTECH,2024-10-18,IT hiring: TCS and Infosys expand workforce while HCLTech cuts headcount in Q2 FY25 - cfo.economictimes.indiatimes.com,-0.7852423787117004
-HCLTECH,2023-04-20,India's HCLTech sees smaller-than-expected FY revenue growth on budget cuts - Reuters,0.7708994150161743
-HCLTECH,2018-10-07,HCL Technologies BPO Services Limited - The Economic Times,-0.9236321449279785
-HCLTECH,2024-03-28,HCL Technologies Share Price - business-standard.com,-0.946800172328949
-HCLTECH,2025-07-15,"HCLTech sees rating downgrade post Q1 results, guidance disappointment - business-standard.com",-0.6655331254005432
-HCLTECH,2024-04-02,"How HCLTech’s learning hour per employee jumped 200 times during Covid-19, explains Ashok Madaan - ETHRWorld.com",-0.755502462387085
-HCLTECH,2024-02-08,Fostering Workforce Productivity in an Enterprise : The HCLTech experience - ETHRWorld.com,-0.8524768948554993
-HCLTECH,2026-03-10,"Infosys, HCL Tech FY27 guidance may steer IT stocks amid AI fears: HSBC - business-standard.com",-0.732511043548584
-HCLTECH,2026-01-13,HCLTech counts on M&As to add 1.5% to revenue: CEO & MD C Vijayakumar - business-standard.com,-0.586551308631897
-HCLTECH,2024-11-22,Mkt regulator Sebi nod to Roshni Nadar to acquire majority stake in HCLTech - business-standard.com,-0.8781144618988037
-HCLTECH,2025-07-15,HCL Tech can crack 12% from here; check stock strategy - business-standard.com,-0.727013349533081
-HCLTECH,2025-04-22,"Q4 results today: HCL Tech, Tata Communications to post results on April 22 - business-standard.com",-0.9319579005241394
-HCLTECH,2025-07-17,"Dividend stocks: HCL Tech, 46 others go ex-date July 18; do you own any? - business-standard.com",-0.9519758224487305
-HCLTECH,2026-01-16,"Infosys, TCS, HCL Tech, 2 others: How to trade IT stocks post Q3 results? - business-standard.com",-0.9377201199531555
-HCLTECH,2025-10-15,HCL Tech vs TechM vs Persistent: Which IT stock to bet on post Q2 results? - business-standard.com,-0.9257249236106873
-HCLTECH,2025-11-19,HCLTech rises 4% as it expands Canada footprint with new Calgary office - business-standard.com,0.9362338781356812
-HCLTECH,2025-01-13,"HCLTech Q3 net profit up 5.5%, lower end of revenue forecast raised - business-standard.com",0.8359739184379578
-HCLTECH,2026-01-12,"HCLTech Q3 results: Profit falls 11% to ₹4,076 cr on labour code impact - business-standard.com",-0.9657210111618042
-HCLTECH,2025-10-13,"HCLTech profit flat at ₹4,235 crore, revenue rises 10.7% in Q2FY26 - business-standard.com",-0.6418269872665405
-HCLTECH,2025-10-13,"Q2 results today: HCL Tech, Anand Rathi Wealth, Just Dial on Oct 13 - business-standard.com",-0.9423786401748657
-HCLTECH,2025-01-13,"Q3 FY25 results Jan 13: HCL Tech, Delta among 14 to report earnings today - business-standard.com",-0.868297815322876
-HCLTECH,2025-04-22,Q4 results: HCLTech rewrites playbook for FY26 with tariffs in play - business-standard.com,-0.9059975743293762
-HCLTECH,2025-10-14,HCL Tech shares gain 3% on delivering 'standout quarter'; should you buy? - business-standard.com,0.7873328328132629
-HCLTECH,2026-01-12,"HCLTech Q3 results: Net profit falls 11.2% to ₹4,076 cr; revenue up 13.3% - business-standard.com",-0.9340003132820129
-HCLTECH,2025-07-14,"HCLTech Q1 results: Net profit slips 10% to ₹3,843 cr, revenue up 8.2% - business-standard.com",-0.9709681272506714
-HCLTECH,2025-07-11,"HCL Tech Q1 preview: What to expect amid tariff jitters, seasonal weakness - business-standard.com",-0.654293954372406
-HCLTECH,2025-04-21,"HCLTech Q4 results today: Check date, time, expectations, dividend - business-standard.com",-0.9416506290435791
-HCLTECH,2025-01-14,"Jefferies, CLSA, Morgan Stanley retain 'Hold' on HCLTech despite Q3 miss - business-standard.com",-0.8990792632102966
-HCLTECH,2025-10-13,"HCLTech Q2 result: Net profit flat at ₹4,235 cr, dividend declared - business-standard.com",-0.9046823382377625
-HCLTECH,2025-07-14,"HCLTech Q1 results: Net profit down 9.7% at ₹3,843 cr, dividend declared - business-standard.com",-0.9721202254295349
-HCLTECH,2025-10-10,HCL Tech Q2 preview: Street expects sequential rise in margins and profit - business-standard.com,0.9350911974906921
-HCLTECH,2026-01-12,"Q3 results: TCS, HCL Tech, Anand Rathi to announce their earnings today - business-standard.com",-0.9023632407188416
-HCLTECH,2025-04-23,Nifty IT index rallies 3% post HCLTech Q4 earnings. Should you buy IT stks? - business-standard.com,-0.855438768863678
-HCLTECH,2025-03-28,"HCL Technologies Ltd Quarterly Results, 02 Apr 2026 - NSE 1,402.20, BSE 1,401.85 - business-standard.com",-0.9466099143028259
-HCLTECH,2024-10-11,HCL Tech market-cap tops Rs 5 trn for 1st time; stock up 50% from June low - business-standard.com,0.9482446312904358
-HCLTECH,2025-10-13,"Stocks to watch today, Oct 13: HCLTech, Tata Capital, DMart, Axis Bank, HCC - business-standard.com",-0.944851279258728
-HCLTECH,2025-10-07,TCS vs Infosys vs HCL Tech: Here's the best IT stock for your portfolio - business-standard.com,-0.9203236103057861
-HCLTECH,2025-10-07,Page 5 - HCL Technologies Ltd News - business-standard.com,-0.9493618607521057
-HCLTECH,2025-07-15,HCL Tech shares slide 4% as analysts trim estimates post Q1 miss - business-standard.com,-0.9649021029472351
-HCLTECH,2025-10-23,HCL Tech shares gain 3% on partnership with UAE-based DIB; IT stocks rally - business-standard.com,0.836889922618866
-HCLTECH,2024-10-14,"HCLTech Q2 results: Net profit rises 10.5% to Rs 4,235 cr, revenue up 8.2% - business-standard.com",0.9504117965698242
-HCLTECH,2024-10-11,"HCL Tech Q2 Preview: Brokerages expect flat revenue, decline in TCV - business-standard.com",-0.9645707011222839
-HCLTECH,2026-01-13,Brokerages bullish on HCLTech post Q3FY26 results; raise target price - business-standard.com,-0.8766500353813171
-HCLTECH,2026-01-13,"Stock Alert: HCL Tech, Tata Consultancy Services, TVS Supply Chain, PSP Projects - business-standard.com",-0.9494906067848206
-HCLTECH,2026-01-09,HCL Tech Q3 preview: Double-digit QoQ profit growth seen on seasonal boost - business-standard.com,-0.5223320126533508
-HCLTECH,2025-10-08,"TCS, Infy, HCL Tech gain 2%; IT index up 5% in 1 week ahead of Q2 results - business-standard.com",0.9389283061027527
-HCLTECH,2024-10-15,"Brokerages bullish on HCL Tech post Q2FY25 outperformance, raise EPS target - business-standard.com",-0.6384629607200623
-HCLTECH,2024-03-28,Page 2 - HCL Technologies Ltd News - business-standard.com,-0.9490975141525269
-HCLTECH,2026-01-13,"Stocks to Watch today, Jan 13: TCS, HCL Tech, Anand Rathi Wealth, Biocon - business-standard.com",-0.9397637844085693
-HCLTECH,2026-01-12,"Stocks to Watch today, Jan 12: TCS, HCL Tech, DMart, Ireda, Vedanta - business-standard.com",-0.9448883533477783
-HCLTECH,2025-07-15,"Stocks to Watch today, July 15: HCL Tech, Rallis India, Tata Tech, LIC - business-standard.com",-0.9427681565284729
-HCLTECH,2025-01-14,Noteworthy changes looming in biz landscape: HCLTech's C Vijayakumar - business-standard.com,-0.9354267716407776
-HCLTECH,2025-10-14,"HCL Tech gains as Q2 PAT jumps 10% QoQ to Rs 4,235 cr - business-standard.com",0.8609596490859985
-HCLTECH,2025-11-17,"Infosys, TCS, HCL Tech: Nifty IT up 8% since Oct; time to buy or sell? - business-standard.com",0.5222983956336975
-HCLTECH,2013-04-18,HCL Tech posts robust numbers in March quarter - business-standard.com,0.9392943978309631
-HCLTECH,2026-01-12,"HCL Tech Q3 PAT slides 4% QoQ to Rs 4,076 cr - business-standard.com",-0.9033498764038086
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+HCLTECH,2024-01-01,"HCL Technologies Stocks Live Updates: HCL Technologies Sees 0.54% Increase in Price Today, SMA7 at Rs 146 - The Economic Times",,2026-10-18,legacy,positive,0.8495080471038818,0.01481648813933134,0.13567543029785156,0.8346915589645505
+HCLTECH,2026-10-07,Top Industry Insights | Subscribe Now - electronics.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.03645555302500725,0.0273954588919878,0.9361489415168762,0.009060094133019447
+HCLTECH,2026-10-11,"Q2 earnings, inflation data, oil prices to guide stock markets this week: Analysts - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.031073806807398796,0.031062860041856766,0.9378633499145508,1.0946765542030334e-05
+HCLTECH,2026-10-11,Top 10 blue-chips’ share of India’s m-cap drops to lowest since 2017 - The Economic Times,,2026-10-18,legacy,negative,0.009055339731276035,0.9610546827316284,0.02989000640809536,-0.9519993430003524
+HCLTECH,2026-10-12,Angel One: Nifty's technical setup remains weak; Trent among 3 stock ideas - Business Standard,,2026-10-18,legacy,negative,0.014381675980985165,0.9468992352485657,0.03871900215744972,-0.9325175592675805
+HCLTECH,2026-10-12,"Asian shares cautious as earnings loom, oil prices slip on easing fears - Business Standard",,2026-10-18,legacy,negative,0.038956016302108765,0.9372960925102234,0.023747943341732025,-0.8983400762081146
+HCLTECH,2026-10-12,BMI raises FY27 growth forecast for India to 7.5% on industrial growth - Business Standard,,2026-10-18,legacy,positive,0.9166551232337952,0.015915250405669212,0.06742959469556808,0.900739872828126
+HCLTECH,2026-10-12,CreditAccess Grameen raises $175 million via syndicated social loan - Business Standard,,2026-10-18,legacy,neutral,0.3020900785923004,0.008085869252681732,0.6898240447044373,0.2940042093396187
+HCLTECH,2026-10-12,Defence startup Tonbo Imaging fixes IPO price band at ₹665-700 a share - Business Standard,,2026-10-18,legacy,neutral,0.04747133329510689,0.07898740470409393,0.8735412359237671,-0.031516071408987045
+HCLTECH,2026-10-12,HCL Tech Q2 preview: 6 key things to watch out for in IT major's earnings - Business Standard,,2026-10-18,legacy,neutral,0.08644295483827591,0.013101938180625439,0.9004550576210022,0.07334101665765047
+HCLTECH,2026-10-12,"HCLTech Q2 net profit rises 21.2% to ₹5,132 cr, revenue climbs 11.5% - Business Standard",,2026-10-18,legacy,positive,0.9449132084846497,0.0237843319773674,0.03130239620804787,0.9211288765072823
+HCLTECH,2026-10-12,HCLTech signs pact with Anthropic to set up dedicated AI business unit - Business Standard,,2026-10-18,legacy,positive,0.6088181138038635,0.007851534523069859,0.38333040475845337,0.6009665792807937
+HCLTECH,2026-10-12,IRFC to announce interim dividend in Q2 results on Oct 15; stock rises 4% - Business Standard,,2026-10-18,legacy,positive,0.8318182826042175,0.0830773413181305,0.08510442078113556,0.748740941286087
+HCLTECH,2026-10-12,"IT, telecom stocks decline as market selloff resumes amid FII outflows - Business Standard",,2026-10-18,legacy,negative,0.008332477882504463,0.9702758193016052,0.02139173075556755,-0.9619433414191008
+HCLTECH,2026-10-12,"India's HCLTech flags volatile demand environment, narrows growth forecast - Reuters",,2026-10-18,legacy,negative,0.01717161200940609,0.9142289161682129,0.06859949231147766,-0.8970573041588068
+HCLTECH,2026-10-12,"India's HCLTech signs a pact with Anthropic, to set up business unit - Reuters",,2026-10-18,legacy,neutral,0.3284582495689392,0.008093551732599735,0.6634482145309448,0.3203646978363395
+HCLTECH,2026-10-12,Lenskart slips 5% on huge block deals; Alpha Wave Venture likely seller - Business Standard,,2026-10-18,legacy,negative,0.03382255882024765,0.9278844594955444,0.03829297795891762,-0.8940619006752968
+HCLTECH,2026-10-12,Market crash after retirement? Four retirees share lessons on how to prepare in advance - The Economic Times,,2026-10-18,legacy,neutral,0.05998488888144493,0.031980618834495544,0.9080345034599304,0.028004270046949387
+HCLTECH,2026-10-12,Poonawalla Fincorp shares surge 8% as Q2 profit jumps nearly 5-fold - Business Standard,,2026-10-18,legacy,positive,0.9281026721000671,0.03930729627609253,0.03258998692035675,0.8887953758239746
+HCLTECH,2026-10-12,"Q2 results today: HCLTech, ICICI Pru among 18 firms to report earnings - Business Standard",,2026-10-18,legacy,positive,0.5380606651306152,0.016261495649814606,0.44567787647247314,0.5217991694808006
+HCLTECH,2026-10-12,RBL Bank Q2FY27 results: Net profit rises 2.7-fold to ₹482 crore - Business Standard,,2026-10-18,legacy,positive,0.9498711824417114,0.025804055854678154,0.024324752390384674,0.9240671265870333
+HCLTECH,2026-10-12,Reliance Industries hits 18-month low; stock down 28% from January high - Business Standard,,2026-10-18,legacy,negative,0.008603994734585285,0.9740208983421326,0.01737501472234726,-0.9654169036075473
+HCLTECH,2026-10-12,Rupee opens over 1% higher at 95.73 on RBI measures to curb dollar demand - Business Standard,,2026-10-18,legacy,positive,0.8597728610038757,0.10002829879522324,0.04019880294799805,0.7597445622086525
+HCLTECH,2026-10-12,Shipping disruptions may make price hikes inevitable: Volvo Cars India MD - Business Standard,,2026-10-18,legacy,negative,0.07230211049318314,0.5268685221672058,0.40082934498786926,-0.4545664116740227
+HCLTECH,2026-10-12,"Stocks to watch: HCLTech, DMart, M&M, Adani Green, KEC Int'l, ICICI Pru - Business Standard",,2026-10-18,legacy,neutral,0.045428935438394547,0.014763463288545609,0.9398075938224792,0.030665472149848938
+HCLTECH,2026-10-12,Suzlon jumps 5% on ₹550 cr investment plan; MOFSL says valuation attractive - Business Standard,,2026-10-18,legacy,positive,0.9450476765632629,0.017597025260329247,0.03735531121492386,0.9274506513029337
+HCLTECH,2026-10-12,Zetwerk IPO eyes big returns; Flipkart alumni seek Esop buyback - The Economic Times,,2026-10-18,legacy,neutral,0.23487946391105652,0.011608472093939781,0.7535120844841003,0.22327099181711674
+HCLTECH,2026-10-13,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.036765459924936295,0.024498049169778824,0.9387364387512207,0.01226741075515747
+HCLTECH,2026-10-13,Buy HCL Technologies; target of Rs 1435: Anand Rathi - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.051423922181129456,0.014423375949263573,0.9341526627540588,0.03700054623186588
+HCLTECH,2026-10-13,Buzzing Stocks: HCL Technologies shares jump 4% post better earnings; Goodluck India shares hit 52-week... - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.931209921836853,0.02341657504439354,0.04537358507514,0.9077933467924595
+HCLTECH,2026-10-13,F&O alert: Polycab to exit NSE's Futures & Options segment; stock dips 5% - Business Standard,,2026-10-18,legacy,negative,0.015421804040670395,0.9609510898590088,0.02362716756761074,-0.9455292858183384
+HCLTECH,2026-10-13,HCL Tech shares gain over 5% after Q2 results; brokerages remain mixed - Business Standard,,2026-10-18,legacy,positive,0.7570634484291077,0.18674764037132263,0.05618894472718239,0.570315808057785
+HCLTECH,2026-10-13,"HCL Tech stock outlook: AI growth, strong Q2 results offer upside, but there's a catch; check target... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.36052998900413513,0.026487812399864197,0.6129822134971619,0.33404217660427094
+HCLTECH,2026-10-13,HCL Technologies (HCLT IN) - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.030284231528639793,0.01840045116841793,0.9513152837753296,0.011883780360221863
+HCLTECH,2026-10-13,"HCLTech adds 6,450 employees in Q2, highest quarterly hiring in 16 quarters - ETHRWorld.com",,2026-10-18,legacy,neutral,0.3713170289993286,0.08986607193946838,0.5388168692588806,0.28145095705986023
+HCLTECH,2026-10-13,"HCLTech's next test: Sustaining margins, deal momentum amid rich valuations - Business Standard",,2026-10-18,legacy,positive,0.8944287896156311,0.008675226010382175,0.09689591079950333,0.8857535636052489
+HCLTECH,2026-10-13,HD Fire Protect IPO review: Brokerages bullish on long-term prospects - Business Standard,,2026-10-18,legacy,positive,0.6376590728759766,0.10856818407773972,0.2537727653980255,0.5290908887982368
+HCLTECH,2026-10-13,Hold HCL Technologies; target of Rs 1230: Prabhudas Lilladher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.04090040922164917,0.014723268337547779,0.9443763494491577,0.02617714088410139
+HCLTECH,2026-10-13,ICICI Life Insurance share price drops 4% from day's high post Q2 results - Business Standard,,2026-10-18,legacy,negative,0.009283935651183128,0.9709784388542175,0.019737573340535164,-0.9616945032030344
+HCLTECH,2026-10-13,ICICI Life Insurance's profit up 25% at ₹374 cr on higher premium income - Business Standard,,2026-10-18,legacy,positive,0.9538737535476685,0.02110428921878338,0.02502196840941906,0.9327694643288851
+HCLTECH,2026-10-13,"ICICI Prudential AMC gains 2% after steady Q2 nos, positive analyst views - Business Standard",,2026-10-18,legacy,positive,0.9427262544631958,0.028499826788902283,0.028773987665772438,0.9142264276742935
+HCLTECH,2026-10-13,IT stocks lead markets to biggest rally in four months on HCLTech boost - Business Standard,,2026-10-18,legacy,positive,0.9011426568031311,0.013009102083742619,0.08584827184677124,0.8881335547193885
+HCLTECH,2026-10-13,India's HCLTech climbs most in six years on strong margins and AI gains - Reuters,,2026-10-18,legacy,positive,0.9426011443138123,0.016082055866718292,0.04131685569882393,0.926519088447094
+HCLTECH,2026-10-13,Indian benchmark shares jump as encouraging HCLTech earnings propel IT buying - Reuters,,2026-10-18,legacy,positive,0.8254472017288208,0.06783991307020187,0.10671291500329971,0.7576072886586189
+HCLTECH,2026-10-13,"MOFSL sees telecom sector re-rating ahead of Jio IPO; RIL, Airtel in focus - Business Standard",,2026-10-18,legacy,positive,0.6963080167770386,0.01863558031618595,0.28505632281303406,0.6776724364608526
+HCLTECH,2026-10-13,Nestle India Q2 preview: Strong volumes to drive growth; PAT may top ₹1k cr - Business Standard,,2026-10-18,legacy,positive,0.9504172801971436,0.016964498907327652,0.03261818364262581,0.9334527812898159
+HCLTECH,2026-10-13,"Nifty IT shines, up 3%; HCL Tech, TCS, LTM, Tech Mahindra surge up to 5% - Business Standard",,2026-10-18,legacy,positive,0.9504348039627075,0.017247818410396576,0.03231727331876755,0.9331869855523109
+HCLTECH,2026-10-13,"Nifty at 26,500 in 4-5 months: What's behind Monarch Capital's bull call? - Business Standard",,2026-10-18,legacy,neutral,0.036423780024051666,0.06042668595910072,0.9031494855880737,-0.024002905935049057
+HCLTECH,2026-10-13,"Paytm, Mobikwik, Pine Labs rebound even as NPCI defers MDR on UPI; read why - Business Standard",,2026-10-18,legacy,positive,0.8997323513031006,0.027033085003495216,0.07323449105024338,0.8726992662996054
+HCLTECH,2026-10-13,"Q2 results today: Hero Motors, Tata Elxsi, 20 others to report earnings - Business Standard",,2026-10-18,legacy,neutral,0.09496274590492249,0.01988556608557701,0.8851516842842102,0.07507717981934547
+HCLTECH,2026-10-13,RBL Bank plunges 8% even as Q1 profit zooms 170% YoY; analysts bullish - Business Standard,,2026-10-18,legacy,negative,0.07918033748865128,0.8943849205970764,0.02643468976020813,-0.8152045831084251
+HCLTECH,2026-10-13,Reduce HCL Technologies; target of Rs 1090: ICICI Securities - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.08390644192695618,0.019050966948270798,0.8970426321029663,0.06485547497868538
+HCLTECH,2026-10-13,SMIDs rally heats up bets in IPO & secondary market; raises bar on earnings - Business Standard,,2026-10-18,legacy,positive,0.7215666174888611,0.16433528065681458,0.11409810930490494,0.5572313368320465
+HCLTECH,2026-10-13,"Sebi proposes tighter IPO proceeds monitoring, fines for defaulting firms - Business Standard",,2026-10-18,legacy,neutral,0.04317575320601463,0.17783382534980774,0.7789903879165649,-0.1346580721437931
+HCLTECH,2026-10-13,Shriram Finance rallies 7%; what's driving NBFC stock price? - Business Standard,,2026-10-18,legacy,neutral,0.047937944531440735,0.021239573135972023,0.9308225512504578,0.026698371395468712
+HCLTECH,2026-10-13,"Stocks to Watch Today: HCL Technologies, RBL Bank, Bank of India, Plastiblends, Ircon International,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.030083686113357544,0.023289332166314125,0.9466270208358765,0.006794353947043419
+HCLTECH,2026-10-13,"Stocks to watch: HCLTech, RBL Bank, IRCON, TMPV, Hero Motors, Nazara Tech - Business Standard",,2026-10-18,legacy,neutral,0.04297548905014992,0.015685781836509705,0.9413387179374695,0.027289707213640213
+HCLTECH,2026-10-13,"Vimag Labs starts production at Haryana plant, plans ₹50 crore investment - Business Standard",,2026-10-18,legacy,neutral,0.21940363943576813,0.007498078513890505,0.7730982899665833,0.21190556092187762
+HCLTECH,2026-10-14,Asian stocks rise as chipmakers rebound ahead of US inflation data - Business Standard,,2026-10-18,legacy,positive,0.7196680307388306,0.19695143401622772,0.08338057994842529,0.5227165967226028
+HCLTECH,2026-10-14,BHEL Q2FY27 results: Net profit jumps over two-fold to ₹821 crore - Business Standard,,2026-10-18,legacy,positive,0.9443467855453491,0.030047889798879623,0.0256052203476429,0.9142988957464695
+HCLTECH,2026-10-14,"Canara Bank Q2 results: Profit rises 8% to ₹5,175 cr, revenue at ₹40,931 cr - Business Standard",,2026-10-18,legacy,positive,0.9438726902008057,0.026211652904748917,0.02991565875709057,0.9176610372960567
+HCLTECH,2026-10-14,"Dividend, stock split record date: Last chance to buy today - Hindustan Composites, Canara Robeco, HCL and Bansal Wire - Livemint",Livemint,2026-10-19,live,neutral,0.044712405651807785,0.02283896878361702,0.9324486255645752,0.021873436868190765
+HCLTECH,2026-10-14,FPIs favour IPOs over listed stocks for 3rd year running; will trend last? - Business Standard,,2026-10-18,legacy,neutral,0.1290559321641922,0.01792336255311966,0.8530206680297852,0.11113256961107254
+HCLTECH,2026-10-14,"Groww Q2 results: Net profit rises 54% to ₹725 crore, revenue up 44% - Business Standard",,2026-10-18,legacy,positive,0.9522590637207031,0.022439057007431984,0.02530193142592907,0.9298200067132711
+HCLTECH,2026-10-14,HCL Technologies - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.024948081001639366,0.023386284708976746,0.9516656398773193,0.0015617962926626205
+HCLTECH,2026-10-14,Hold HCL Technologies; target of Rs 1360: LKP Research - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03638829290866852,0.015078444965183735,0.9485332369804382,0.021309847943484783
+HCLTECH,2026-10-14,"Q2 results today: BHEL, Canara Bank, Groww, 24 others to report earnings - Business Standard",,2026-10-18,legacy,neutral,0.07811225205659866,0.017004186287522316,0.9048835635185242,0.06110806576907635
+HCLTECH,2026-10-15,"Bulls strike! Sensex zooms 1,500 pts intraday, Nifty tops 23k; key reasons - Business Standard",,2026-10-18,legacy,neutral,0.4366113245487213,0.020120780915021896,0.5432679057121277,0.4164905436336994
+HCLTECH,2026-10-15,"FIIs net sell Rs 5,285 crore, DIIs net buy Rs 3,319 crore on October 15 - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.033351484686136246,0.023892387747764587,0.9427561163902283,0.009459096938371658
+HCLTECH,2026-10-15,Fusion CX IPO Day 2: Issue fully subscribed at 1.1x; GMP at 12%. Check key details - The Economic Times,,2026-10-18,legacy,neutral,0.035411130636930466,0.037064891308546066,0.9275239109992981,-0.0016537606716156006
+HCLTECH,2026-10-15,IIFL Finance Q2 profit nearly doubles to Rs 805 crore; AUM rises 38% - The Economic Times,,2026-10-18,legacy,positive,0.9211625456809998,0.04155106469988823,0.03728638216853142,0.8796114809811115
+HCLTECH,2026-10-15,L&T Finance Q2 net profit rises 33% to Rs 975 crore - The Economic Times,,2026-10-18,legacy,positive,0.9240449070930481,0.03130464255809784,0.04465042054653168,0.8927402645349503
+HCLTECH,2026-10-15,Market Trading Guide: Adani Power among 2 stock recommendations for Friday - The Economic Times,,2026-10-18,legacy,neutral,0.08310428261756897,0.0162489116191864,0.9006468057632446,0.06685537099838257
+HCLTECH,2026-10-15,Nifty IT rallies 9% in 3 sessions: 3 key factors driving the momentum - Business Standard,,2026-10-18,legacy,neutral,0.48402026295661926,0.016626864671707153,0.4993528723716736,0.4673933982849121
+HCLTECH,2026-10-15,US stocks: US market ends down sharply; worries about AI trade and high oil prices weigh - The Economic Times,,2026-10-18,legacy,negative,0.010734365321695805,0.9702142477035522,0.019051386043429375,-0.9594798823818564
+HCLTECH,2026-10-16,AI founders surge 4x; young entrepreneurs' companies valued at ₹48 lakh cr - Business Standard,Business Standard,2026-10-19,live,positive,0.5692168474197388,0.013885460793972015,0.4168977439403534,0.5553313866257668
+HCLTECH,2026-10-16,"Abakkus Flexi Cap Fund September portfolio: 35 stocks, including Groww and NTPC, see higher holdings - Livemint",Livemint,2026-10-19,live,neutral,0.044995881617069244,0.021412553265690804,0.9335916042327881,0.02358332835137844
+HCLTECH,2026-10-16,Beyond the sell-off: What an MSCI downgrade threat could mean for Indonesia - Business Standard,,2026-10-18,legacy,negative,0.03683808818459511,0.6936967372894287,0.2694651484489441,-0.6568586491048336
+HCLTECH,2026-10-16,Cyient DLM tanks 19% on huge volumes post Q2 results; here's why - Business Standard,,2026-10-18,legacy,positive,0.5045562386512756,0.060168683528900146,0.4352751076221466,0.4443875551223755
+HCLTECH,2026-10-16,DMart share price hits over 3-year low; down 28% from April high - Business Standard,,2026-10-18,legacy,negative,0.011572620831429958,0.9753772020339966,0.013050097040832043,-0.9638045812025666
+HCLTECH,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.73710036277771,0.07562077045440674,0.1872788965702057,0.6614795923233032
+HCLTECH,2026-10-16,HDFC Life Insurance sheds 3% post Q2 results; brokerages remain upbeat - Business Standard,,2026-10-18,legacy,negative,0.03769543021917343,0.9470597505569458,0.015244829468429089,-0.9093643203377724
+HCLTECH,2026-10-16,"Home loan EMI: How much salary do you need for a ₹50 lakh, ₹75 lakh or ₹1 crore home? - Livemint",Livemint,2026-10-19,live,neutral,0.03700972720980644,0.030951011925935745,0.9320392608642578,0.006058715283870697
+HCLTECH,2026-10-16,India's Wipro gains after quarterly revenue beat offsets concerns over weak deal wins - cfo.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.3289724588394165,0.25583893060684204,0.41518867015838623,0.07313352823257446
+HCLTECH,2026-10-16,"India's family offices bet on homegrown AI firms to catch up with US, China - Business Standard",Business Standard,2026-10-19,live,neutral,0.4836058020591736,0.013098280876874924,0.5032959580421448,0.47050752118229866
+HCLTECH,2026-10-16,"Indian Hotels, Oriental Hotels rally up to 6%; what's driving hotel stocks? - Business Standard",Business Standard,2026-10-19,live,positive,0.6385455131530762,0.025501428171992302,0.3359530568122864,0.6130440849810839
+HCLTECH,2026-10-16,Indian IT stocks post best weekly gain in 18 years amid global AI sell-off - Business Standard,,2026-10-18,legacy,positive,0.8766186237335205,0.09557468444108963,0.027806678786873817,0.7810439392924309
+HCLTECH,2026-10-16,"Indian equity market open flat amid profit booking; Sensex down over 130 pts, Nifty below 22,980 - cfo.economictimes.indiatimes.com",,2026-10-18,legacy,negative,0.010536442510783672,0.9570923447608948,0.032371170818805695,-0.9465559022501111
+HCLTECH,2026-10-16,Jio Financial shares drop 2.5% as Q2 PAT halves; MOFSL cuts FY27 estimates - Business Standard,,2026-10-18,legacy,negative,0.007981018163263798,0.9674938321113586,0.024525176733732224,-0.9595128139480948
+HCLTECH,2026-10-16,Jio IPO GMP at 20%: Grey market signals Rs 220 premium as brokerages say subscribe - The Economic Times,,2026-10-18,legacy,positive,0.6058214902877808,0.04833555221557617,0.34584298729896545,0.5574859380722046
+HCLTECH,2026-10-16,"Jio IPO fever grips telecom stocks: Airtel, Vodafone Idea & others rise up to 4% - The Economic Times",,2026-10-18,legacy,positive,0.9304268956184387,0.017201967537403107,0.05237108841538429,0.9132249280810356
+HCLTECH,2026-10-16,Jio valuation matrix: Why are RIL investors looking past headline IPO size? - The Economic Times,,2026-10-18,legacy,neutral,0.03608015552163124,0.04315212368965149,0.9207676649093628,-0.007071968168020248
+HCLTECH,2026-10-16,LTM BUSINESS AI GROWTH - The Economic Times,,2026-10-18,legacy,neutral,0.09855226427316666,0.019264083355665207,0.8821836709976196,0.07928818091750145
+HCLTECH,2026-10-16,"LTM Q2 Results: PAT remains flat at Rs 1,380 crore; revenue rises 14% YoY; co declares Rs 25 per share dividend - The Economic Times",,2026-10-18,legacy,positive,0.8945468664169312,0.08246222883462906,0.022990860044956207,0.8120846375823021
+HCLTECH,2026-10-16,"Market wrap: Tech Mahindra, TCS, InterGlobe, BSE top gainers and losers on Nifty and Sensex on Friday - The Economic Times",,2026-10-18,legacy,negative,0.12403131276369095,0.4933792054653168,0.3825894892215729,-0.3693478927016258
+HCLTECH,2026-10-16,"Multi-asset allocation mutual funds: Active schemes vs omni FoFs, how do portfolio strategies and returns compare? - Livemint",Livemint,2026-10-19,live,neutral,0.09275703877210617,0.012189849279820919,0.8950531482696533,0.08056718949228525
+HCLTECH,2026-10-16,"Nifty IT soars 14% in 6 days on Q2 earnings boost; TechM, Wipro, TCS shine - Business Standard",,2026-10-18,legacy,positive,0.7249202728271484,0.02047399803996086,0.254605770111084,0.7044462747871876
+HCLTECH,2026-10-16,Sebi's CAS rule change bigger positive for brokers vs exchanges: Jefferies - Business Standard,,2026-10-18,legacy,positive,0.5161105394363403,0.018048521131277084,0.4658408761024475,0.49806201830506325
+HCLTECH,2026-10-16,"Stocks in news: Reliance Industries, Jio Financial, Tata Tech, HDB Financial and Wipro - The Economic Times",,2026-10-18,legacy,neutral,0.0337754487991333,0.024554839357733727,0.941669762134552,0.009220609441399574
+HCLTECH,2026-10-16,"Stocks to Watch Today: Tech Mahindra, IIFL Finance, Persistent, Angel One, Lotus Developers, Solar... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03580945357680321,0.019946210086345673,0.9442443251609802,0.015863243490457535
+HCLTECH,2026-10-16,"Stocks to watch: Jio Fin, Yes Bank, Wipro, L&T Fin, Angel One, Urban Co - Business Standard",,2026-10-18,legacy,neutral,0.03859516978263855,0.01676807925105095,0.9446367621421814,0.0218270905315876
+HCLTECH,2026-10-16,"TCS vs HCL Tech vs Tech Mahindra vs Wipro: Which IT stock won Q2 results 2026? AI revenue, deal wins compared - Livemint",Livemint,2026-10-19,live,positive,0.7958599328994751,0.010566869750618935,0.19357317686080933,0.7852930631488562
+HCLTECH,2026-10-16,"TIPS Music zooms 10% to hit 52-wk high after Q2 nos, ₹6.50/share dividend - Business Standard",,2026-10-18,legacy,positive,0.9160937070846558,0.015577001497149467,0.06832918524742126,0.9005167055875063
+HCLTECH,2026-10-16,"Worst over for IT stocks? Experts analyse Q2 results of TCS, HCL, Tech Mahindra and others, suggest top picks - Livemint",Livemint,2026-10-19,live,neutral,0.07428561896085739,0.029174959287047386,0.8965393900871277,0.045110659673810005
+HCLTECH,2026-10-16,"Zensar, HCL Technologies rebounded from 100-month EMA support, says analyst - Business Standard",Business Standard,2026-10-19,live,positive,0.9549139738082886,0.0225272998213768,0.02255873940885067,0.9323866739869118
+HCLTECH,2026-10-16,"Zetwerk Manufacturing Business IPO Day 2: GMP at 9%; Check subscription status, and key details - The Economic Times",,2026-10-18,legacy,neutral,0.03270067647099495,0.030696824193000793,0.9366024732589722,0.002003852277994156
+HCLTECH,2026-10-17,"8th Pay Commission: What central government employees need to know about OPS, NPS and UPS - Livemint",Livemint,2026-10-19,live,neutral,0.028637442737817764,0.03546883910894394,0.935893714427948,-0.006831396371126175
+HCLTECH,2026-10-17,AI fears are rocking markets. The brave should buy the dips. - Livemint,Livemint,2026-10-19,live,neutral,0.056585490703582764,0.08270009607076645,0.8607144355773926,-0.026114605367183685
+HCLTECH,2026-10-17,Cyber fraud alert: SBI warns about AI voice-cloning scams — 5 ways to protect your money - Livemint,Livemint,2026-10-19,live,neutral,0.04095199331641197,0.107304647564888,0.8517433404922485,-0.06635265424847603
+HCLTECH,2026-10-17,DA hike after Dussehra: Will central government employees get good news in October? - What we know so far - Livemint,Livemint,2026-10-19,live,neutral,0.14323613047599792,0.018692951649427414,0.8380709290504456,0.12454317882657051
+HCLTECH,2026-10-17,"DA news: Key salary components explained — We breakdown the differences between your DA, DR and HRA - Livemint",Livemint,2026-10-19,live,neutral,0.06268566846847534,0.022850219160318375,0.9144641160964966,0.03983544930815697
+HCLTECH,2026-10-17,Dearness Allowance hike 2026: Will the Centre announce the July DA revision before Diwali? What history suggests - Livemint,Livemint,2026-10-19,live,neutral,0.04557699337601662,0.02012808620929718,0.9342949390411377,0.025448907166719437
+HCLTECH,2026-10-17,EPFO VISHWAS 2026 explained: How employers can settle pending Section 14B penal damages - Livemint,Livemint,2026-10-19,live,neutral,0.023532157763838768,0.10424035042524338,0.8722274899482727,-0.08070819266140461
+HCLTECH,2026-10-17,"EPFO explains new rules for EPF advances: Check withdrawal limits, conditions and forms - Livemint",Livemint,2026-10-19,live,neutral,0.03077017515897751,0.019985830411314964,0.9492440223693848,0.010784344747662544
+HCLTECH,2026-10-17,"Fusion CX IPO Day 3: Issue subscribed 4.4 times. Check GMP, other details - The Economic Times",,2026-10-18,legacy,neutral,0.026512140408158302,0.04028833284974098,0.9331995248794556,-0.01377619244158268
+HCLTECH,2026-10-17,"Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint",Livemint,2026-10-19,live,neutral,0.035794150084257126,0.10830547660589218,0.8559004068374634,-0.07251132652163506
+HCLTECH,2026-10-17,Government employees await July 2026 Dearness Allowance hike: Check DA and DR announcement dates for the last 5 years - Livemint,Livemint,2026-10-19,live,neutral,0.02553291991353035,0.040387824177742004,0.9340792298316956,-0.014854904264211655
+HCLTECH,2026-10-17,"Home loan alert: SBI, PNB and 4 other banks revise lending rates — how borrowers may be affected - Livemint",Livemint,2026-10-19,live,neutral,0.024810796603560448,0.061563506722450256,0.9136257171630859,-0.03675271011888981
+HCLTECH,2026-10-17,How SBI’s failure to inform a retired scientist about FD maturity cost it ₹15.35 lakh; details of the case here - Livemint,Livemint,2026-10-19,live,neutral,0.021422138437628746,0.25772354006767273,0.7208543419837952,-0.23630140163004398
+HCLTECH,2026-10-17,IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008 - The Economic Times,,2026-10-18,legacy,positive,0.8425140976905823,0.07417009025812149,0.08331582695245743,0.7683440074324608
+HCLTECH,2026-10-17,"India Post sanctions 60 days’ Productivity Linked Bonus: Check employee eligibility, salary limits and calculation rules - Livemint",Livemint,2026-10-19,live,neutral,0.022283000871539116,0.05512169748544693,0.9225952625274658,-0.032838696613907814
+HCLTECH,2026-10-17,Looking to purchase gold this festive season? Here's how to directly avail Tyohar BharatPe Gold Offer - Livemint,Livemint,2026-10-19,live,neutral,0.06310613453388214,0.012558686546981335,0.9243351817131042,0.050547447986900806
+HCLTECH,2026-10-17,North Korea says it tested new torpedo system with AI capabilities - Livemint,Livemint,2026-10-19,live,positive,0.6407976746559143,0.01043897308409214,0.3487633764743805,0.6303587015718222
+HCLTECH,2026-10-17,Parag Parikh Flexi Cap Fund cash falls to 9.77% after Rajeev Thakkar's ‘single-digit’ outlook: Where is the money going? - Livemint,Livemint,2026-10-19,live,negative,0.009131036698818207,0.9584717750549316,0.03239724040031433,-0.9493407383561134
+HCLTECH,2026-10-17,"Regular vs step-up SIPs: Do ₹1,000 and 10% annual top-ups give you higher XIRR returns or just create a larger corpus? - Livemint",Livemint,2026-10-19,live,neutral,0.12621665000915527,0.011480691842734814,0.8623026609420776,0.11473595816642046
+HCLTECH,2026-10-17,SGB 2020-21 Series VII: Investors to pocket 192% gains on premature redemption; RBI fixes October 19 date - Livemint,Livemint,2026-10-19,live,positive,0.5543224811553955,0.026561208069324493,0.4191162884235382,0.527761273086071
+HCLTECH,2026-10-17,Using two health insurance policies for one hospital bill? Are you aware of these claim rejection traps? - Livemint,Livemint,2026-10-19,live,neutral,0.02995999902486801,0.09158152341842651,0.8784584403038025,-0.0616215243935585
+HCLTECH,2026-10-17,"Wall Street banks' bond trading revenue hit by market volatility, equities shine - The Economic Times",,2026-10-18,legacy,negative,0.03252584859728813,0.8213914632797241,0.14608268439769745,-0.788865614682436
+HCLTECH,2026-10-17,Why Facundo Bernal's headbutt on Lamine Yamal earned a red card and sparked debate in Real Betis vs Barcelona - Livemint,Livemint,2026-10-19,live,negative,0.03874144330620766,0.8442487716674805,0.11700979620218277,-0.8055073283612728
+HCLTECH,2026-10-17,₹9 lakh in Post Office MIS vs ₹9 lakh in bank FD: Which gives a higher monthly income? - Livemint,Livemint,2026-10-19,live,neutral,0.12957347929477692,0.02618788182735443,0.8442385792732239,0.10338559746742249
+HCLTECH,2026-10-18,7th Pay Commission: BSNL employees seek wage revision; management assures festival advance in 2 months - Livemint,Livemint,2026-10-19,live,negative,0.07229253649711609,0.7610014081001282,0.1667061150074005,-0.6887088716030121
+HCLTECH,2026-10-18,"8th Pay Commission: How salaries change at fitment factors of 4, 3.833 and 3.80; Check complete calculations - Livemint",Livemint,2026-10-19,live,neutral,0.02697572484612465,0.038786280900239944,0.9342380166053772,-0.011810556054115295
+HCLTECH,2026-10-18,"8th pay commission: Official state visit to Mumbai planned this week — Here's all we know about meetings, agenda - Livemint",Livemint,2026-10-19,live,neutral,0.024871837347745895,0.03104211762547493,0.9440860748291016,-0.006170280277729034
+HCLTECH,2026-10-18,AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks - Livemint,Livemint,2026-10-19,live,neutral,0.15265363454818726,0.020505521446466446,0.826840877532959,0.1321481131017208
+HCLTECH,2026-10-18,"Aadhaar update: Want to change your name, address or date of birth? Check UIDAI's list of accepted documents - Livemint",Livemint,2026-10-19,live,neutral,0.018043559044599533,0.045676589012145996,0.9362798929214478,-0.027633029967546463
+HCLTECH,2026-10-18,Autumn skincare: How to protect your skin from dryness and pollution - Livemint,Livemint,2026-10-19,live,neutral,0.06275562196969986,0.01641877554357052,0.9208256006240845,0.04633684642612934
+HCLTECH,2026-10-18,Best-performing SIFs: Quant leads hybrid long-short funds with 25.5% returns in 6 months; check how peers performed - Livemint,Livemint,2026-10-19,live,neutral,0.31791767477989197,0.00929355900734663,0.6727887392044067,0.30862411577254534
+HCLTECH,2026-10-18,Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - Livemint,Livemint,2026-10-19,live,positive,0.8305219411849976,0.012056343257427216,0.15742167830467224,0.8184655979275703
+HCLTECH,2026-10-18,DA hike before Diwali 2026: How much extra salary could central government employees get if DA rises to 63%? - Livemint,Livemint,2026-10-19,live,neutral,0.2325534224510193,0.02355491742491722,0.7438916563987732,0.20899850502610207
+HCLTECH,2026-10-18,"EPFO scheme offers up to ₹15,000 to first-time employees: Check eligibility, salary limit and payment rules - Livemint",Livemint,2026-10-19,live,neutral,0.06295184791088104,0.011000827886164188,0.9260473251342773,0.051951020024716854
+HCLTECH,2026-10-18,"EPFO: How to check status, EPF account passbook on official portal, Umang app, SMS, Missed Call, WhatsApp—Stepwise guide - Livemint",Livemint,2026-10-19,live,neutral,0.05301091447472572,0.01584567315876484,0.9311434626579285,0.037165241315960884
+HCLTECH,2026-10-18,"Eating out with family for Diwali, Dussehra? Here's why your restaurant bills may go up by 10-15% this festive season - Livemint",Livemint,2026-10-19,live,positive,0.7849933505058289,0.03552398830652237,0.17948266863822937,0.7494693621993065
+HCLTECH,2026-10-18,FD maturity mistake: Fixed deposit matured but you forgot to withdraw money? What happens to your amount? Renew or not? - Livemint,Livemint,2026-10-19,live,neutral,0.028002483770251274,0.043247632682323456,0.9287498593330383,-0.015245148912072182
+HCLTECH,2026-10-18,"Income Tax New TDS Form 141: How it simplifies tax deduction at source compliance for property transactions, rent, etc - Livemint",Livemint,2026-10-19,live,neutral,0.05907716602087021,0.013225287199020386,0.9276975989341736,0.04585187882184982
+HCLTECH,2026-10-18,Income tax audit last date: 21 Oct is deadline; last-minute checklist for taxpayers before submission | List from expert - Livemint,Livemint,2026-10-19,live,neutral,0.01718260534107685,0.050264280289411545,0.9325531125068665,-0.033081674948334694
+HCLTECH,2026-10-18,Income tax on property buying: Over ₹30 lakh deal? Experts suggest what to report in realty purchases to avoid taxmen - Livemint,Livemint,2026-10-19,live,neutral,0.03480640426278114,0.025284769013524055,0.9399088025093079,0.009521635249257088
+HCLTECH,2026-10-18,"India's exports to West Asia recover from US-Iran war shock in April-August; shipments to Africa, ASEAN rise - Livemint",Livemint,2026-10-19,live,positive,0.9410450458526611,0.02372382953763008,0.035231053829193115,0.917321216315031
+HCLTECH,2026-10-18,Insurance reforms: Why claims matter more than distribution costs - Livemint,Livemint,2026-10-19,live,neutral,0.05614390969276428,0.02345406264066696,0.9204020500183105,0.03268984705209732
+HCLTECH,2026-10-18,Manu Joseph: The poor have a right to fun—why don't the rich understand that? - Livemint,Livemint,2026-10-19,live,neutral,0.04929674044251442,0.02400415576994419,0.9266991019248962,0.02529258467257023
+HCLTECH,2026-10-18,"Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint",Livemint,2026-10-19,live,positive,0.6336671710014343,0.02806326001882553,0.33826956152915955,0.6056039109826088
+HCLTECH,2026-10-18,NFL confirms Steelers vs Saints Paris game will go ahead on October 25 amid France protests - Livemint,Livemint,2026-10-19,live,neutral,0.04077371954917908,0.04086553305387497,0.918360710144043,-9.181350469589233e-05
+HCLTECH,2026-10-18,"NRI's ₹3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT gives relief - Livemint",Livemint,2026-10-19,live,negative,0.06317933648824692,0.4893200993537903,0.44750064611434937,-0.42614076286554337
+HCLTECH,2026-10-18,"No ITR filed, but ITAT Jaipur still quashed the 200% income tax penalty: Here's what the taxpayer did to win the case - Livemint",Livemint,2026-10-19,live,neutral,0.09165006130933762,0.037385761737823486,0.8709641695022583,0.05426429957151413
+HCLTECH,2026-10-18,"Train ticket insurance from October 27: Is it mandatory, what is the current premium, coverage and claim process? - Livemint",Livemint,2026-10-19,live,neutral,0.02870626375079155,0.02298028953373432,0.9483134150505066,0.005725974217057228
+HCLTECH,2026-10-18,Trump's approval is just 33% — but these 3 other poll numbers may worry Republicans more - Livemint,Livemint,2026-10-19,live,neutral,0.0417468287050724,0.24176983535289764,0.7164832949638367,-0.20002300664782524
+HCLTECH,2026-10-18,"Using Buying Now, Pay Later (BNPL) for Diwali, Dussehra, and Dhanteras online shopping? Are you aware of these 5 risks? - Livemint",Livemint,2026-10-19,live,neutral,0.057413555681705475,0.023272603750228882,0.9193137884140015,0.03414095193147659
+HCLTECH,2026-10-18,"Want to retire early? How to split ₹1 lakh in monthly investments between short-term goals and FIRE, expert explains - Livemint",Livemint,2026-10-19,live,neutral,0.07719823718070984,0.012526788748800755,0.9102749824523926,0.06467144843190908
+HCLTECH,2026-10-18,What's wrong with calling it an 'AI race'? A lot—and India should reject this notion outright - Livemint,Livemint,2026-10-19,live,neutral,0.035711269825696945,0.09112422168254852,0.8731644749641418,-0.05541295185685158
+HCLTECH,2026-10-18,"Why Trump’s 'dealmaker' image faces scrutiny as Iran, Ukraine wars test his negotiating skills - Livemint",Livemint,2026-10-19,live,neutral,0.04889746382832527,0.16670164465904236,0.7844008803367615,-0.11780418083071709
+HCLTECH,2026-10-18,Yes Bank AT-1 verdict: Does this instrument fulfil the purpose it was originally designed for? - Livemint,Livemint,2026-10-19,live,neutral,0.07283554971218109,0.012212816625833511,0.9149516820907593,0.06062273308634758
+HCLTECH,2026-10-18,"₹50,000 in KVP vs ₹50,000 in NSC: Which post office scheme is better for a five-year goal? Check out the calculations - Livemint",Livemint,2026-10-19,live,neutral,0.1011575385928154,0.019315024837851524,0.8795274496078491,0.08184251375496387
+HCLTECH,2026-10-19,8th Pay Commission: What is dearness relief and how is it different from DA? Expert explains - Livemint,Livemint,2026-10-19,live,neutral,0.047532349824905396,0.02110881172120571,0.931358814239502,0.026423538103699684
+HCLTECH,2026-10-19,A hedge-fund billionaire’s two bitter wars—against his wife and his business partner - Livemint,Livemint,2026-10-19,live,negative,0.09851834177970886,0.4784472584724426,0.4230344593524933,-0.37992891669273376
+HCLTECH,2026-10-19,Anthropics IPO Dreams May Be Eclipsed By the Cloud - Livemint,Livemint,2026-10-19,live,neutral,0.059470657259225845,0.061043377965688705,0.8794859051704407,-0.00157272070646286
+HCLTECH,2026-10-19,Can LTM’s pivot towards shorter-tenure AI deals accelerate revenue growth in H2? - Livemint,Livemint,2026-10-19,live,positive,0.6582552790641785,0.009167714044451714,0.3325769603252411,0.6490875650197268
+HCLTECH,2026-10-19,Frail Indonesian markets reel after MSCI shock warning - Livemint,Livemint,2026-10-19,live,negative,0.12009342014789581,0.7937777638435364,0.08612876385450363,-0.6736843436956406
+HCLTECH,2026-10-19,"Gold, silver prices today, 19 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",Livemint,2026-10-19,live,neutral,0.0773773193359375,0.02003602869808674,0.9025866389274597,0.05734129063785076
+HCLTECH,2026-10-19,Japan PM Takaichi’s Public Support Slips After Cabinet Scandal - Livemint,Livemint,2026-10-19,live,negative,0.018056446686387062,0.9463640451431274,0.03557952865958214,-0.9283075984567404
+HCLTECH,2026-10-19,"PNB has comfortable capital buffer, targets 15% credit growth this year, says CEO Chandra - Livemint",Livemint,2026-10-19,live,positive,0.9346727132797241,0.010370835661888123,0.05495654046535492,0.924301877617836
+HCLTECH,2026-10-19,Putin floats a summit with Trump and Xi to decide Ukraine’s fate - Livemint,Livemint,2026-10-19,live,neutral,0.10922819375991821,0.014458932913839817,0.8763128519058228,0.0947692608460784
+HCLTECH,2026-10-19,"Quick commerce, uncertain demand push up festive borrowing for consumer brands - Livemint",Livemint,2026-10-19,live,positive,0.8684275150299072,0.012179131619632244,0.11939328908920288,0.856248383410275
+HCLTECH,2026-10-19,Tata Sons breaks from the past and drops Article 118 reference in Chandrasekaran’s third-term resolution - Livemint,Livemint,2026-10-19,live,neutral,0.026735791936516762,0.2017495483160019,0.7715146541595459,-0.17501375637948513
+HCLTECH,2026-10-19,The AI stock market wobble is a reminder: This time isn’t different - Livemint,Livemint,2026-10-19,live,neutral,0.043631553649902344,0.16439835727214813,0.7919700741767883,-0.12076680362224579
+HCLTECH,2026-10-19,The deadly 1.5-mile corridor that shows the fatal flaw in America’s road design - Livemint,Livemint,2026-10-19,live,neutral,0.09331399202346802,0.05143614113330841,0.8552498817443848,0.04187785089015961
+HCLTECH,2026-10-19,UBS capital rules have Swiss stuck between a rock and a hard place - Livemint,Livemint,2026-10-19,live,neutral,0.027763325721025467,0.43735167384147644,0.5348849892616272,-0.409588348120451
+HCLTECH,2026-10-19,What is a ‘boss scam’? 5 ways to protect yourself from CEO fraud - Livemint,Livemint,2026-10-19,live,neutral,0.03134976327419281,0.06962459534406662,0.8990256786346436,-0.03827483206987381

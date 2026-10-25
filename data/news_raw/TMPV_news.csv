@@ -1,100 +1,144 @@
-ticker,date,headline,sentiment_score
-TMPV,2026-04-06,TMPV gains as JLR Q4 wholesale volumes surge 61% QoQ - business-standard.com,0.9133104085922241
-TMPV,2026-04-03,TMPV's JLR wholesale volumes surge 61% YoY in Q4 - business-standard.com,0.9300733804702759
-TMPV,2026-04-01,"Tata Motors PV sales rise 28% in March to 66,192 units; EV volumes jump 77% - ET Auto",0.9444289803504944
-TMPV,2026-04-06,Volumes spurt at EIH Ltd counter - business-standard.com,-0.9308892488479614
-TMPV,2026-04-06,Barometers trade with significant gains; consumer durable shares jumps - business-standard.com,0.634514570236206
-TMPV,2026-04-01,Indian shares join global rally on hopes of Iran war de-escalation - Reuters,0.6558402180671692
-TMPV,2013-02-04,Hyundai executes steep price hike - economictimes.indiatimes.com,-0.8145216107368469
-TMPV,2013-04-03,VW aims to become the world's largest car maker by 2018 - economictimes.indiatimes.com,-0.778129518032074
-TMPV,2026-04-06,Diamond Power gains on bagging three Adani group orders worth Rs 163 crore - business-standard.com,0.761396050453186
-TMPV,2026-04-06,NMDC climbs after hiking iron ore prices - business-standard.com,0.5730512738227844
-TMPV,2026-04-06,RBL Bank spurts after total business climbs to Rs 2.54 lakh crore in Q4 FY26 - business-standard.com,0.8376469016075134
-TMPV,2026-04-06,Raj Television Network Ltd leads losers in 'B' group - business-standard.com,-0.8541944622993469
-TMPV,2026-04-01,Passenger vehicle wholesales rise 16% in March despite West Asia conflict - business-standard.com,0.9304885268211365
-TMPV,2025-10-23,Tata Motors Passenger Vehicles Limited - bloomberg.com,-0.9504060745239258
-TMPV,2025-10-28,Stock Research Report for Tata Motors Passenger Vehicles Ltd - economictimes.indiatimes.com,-0.9301362037658691
-TMPV,2025-10-14,"Tata Motors PV Share Price Today, Tata Motors PV Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9391495585441589
-TMPV,2025-10-25,Check out Tata Motors Passenger Vehicles Ltd's stock price (TMPV-IN) in real time - CNBC,-0.9451543688774109
-TMPV,2026-02-05,Tata Motors Passenger Vehicles| REDUCE - bsmedia.business-standard.com,-0.9488951563835144
-TMPV,2025-11-12,"Tata Motors CV Share Price Today, Tata Motors CV Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9386395215988159
-TMPV,2026-02-09,Tata Motors’ Tamil Nadu plant begins operations; first locally made Range Rover Evoque rolls out - ET Auto,-0.7141924500465393
-TMPV,2024-08-01,Demerger of CV business undertaking of Tata Motors Ltd into a separate listed company - bsmedia.business-standard.com,-0.9509330987930298
-TMPV,2025-11-28,"Tata Motors soars 13% in 3 days, outperforms split arm TMPV; here's why - business-standard.com",0.748470664024353
-TMPV,2026-01-02,"Tata Motors, TMPV rally up to 4% post Dec sales; brokerages remain upbeat - business-standard.com",0.9163889288902283
-TMPV,2025-11-14,"TMPV Q2 PAT skyrockets 2,110% YoY to Rs 76,170 cr on commercial vehicle demerger - business-standard.com",0.7200042009353638
-TMPV,2025-11-06,"As Tata Motors demerges, here's how the two listed companies now stand - business-standard.com",-0.9456403255462646
-TMPV,2026-02-06,"Tata Motors PV: Analysts cautiously positive despite Q3 loss, JLR headwinds - business-standard.com",0.5259584188461304
-TMPV,2025-11-17,Tata Motors Passenger Vehicles (TMPV) slips as JLR cuts EBIT margin guidance - business-standard.com,-0.9698150157928467
-TMPV,2025-11-17,"TMPV tumbles on JLR hit in Q2; analysts cut outlook, flag structural risks - business-standard.com",-0.9442924857139587
-TMPV,2025-11-06,"Tata Motors demerger impact: Changes in F&O lot size, OI, Strikes explained - business-standard.com",-0.9188909530639648
-TMPV,2026-02-05,"JLR cyberattack, labour Code weigh on Tata Motors Passenger Vehicles profit - business-standard.com",-0.8317933678627014
-TMPV,2025-12-09,"Tata Motors rallies 3%, hits new high; surpasses TMPV in market cap ranking - business-standard.com",0.9422939419746399
-TMPV,2025-11-13,"Tata Motors reports ₹867 crore loss in Q2FY26, revenue up 6% - business-standard.com",0.621506929397583
-TMPV,2026-01-01,TMPV records 14% growth in Dec passenger vehicle sales - business-standard.com,0.8365341424942017
-TMPV,2025-12-23,"Tata Motors CV, TMPV shares rise for 3rd straight day; here's why - business-standard.com",-0.7872471213340759
-TMPV,2025-11-06,"Tata Motors split: Who keeps the debt, and what it means for interest bills - business-standard.com",-0.9496789574623108
-TMPV,2026-02-06,"Stocks to Watch today: Bharti Airtel, Hero MotoCorp, TMPV, LIC, MRF - business-standard.com",-0.9449464678764343
-TMPV,2026-01-06,Tata Motors PV shares drops 4% as JLR Q3 sales dip on cyber incident - business-standard.com,-0.9626401662826538
-TMPV,2025-11-12,Tata Motors demerger complete: Here's how CV & PV arms stack up financially - business-standard.com,-0.9413952231407166
-TMPV,2026-01-28,"Tata Motors Q3 Preview: Profit, revenue and key factors to watch in Dec qtr - business-standard.com",-0.9310615658760071
-TMPV,2025-10-24,Tata Motors Passenger Vehicles Ltd News - business-standard.com,-0.944742739200592
-TMPV,2025-11-04,Tata Motors split: How will passive funds respond to CV arm demerger? - business-standard.com,-0.9297055602073669
-TMPV,2025-10-23,Tata Motors Passenger Vehicles Share Price - business-standard.com,-0.941674530506134
-TMPV,2025-11-13,"Tata Motors PV faces key risks as EV adoption slows, competition heats up - business-standard.com",-0.6418817639350891
-TMPV,2025-11-11,Tata Motors demerger: What lies ahead for PV and CV businesses post split - business-standard.com,-0.9463195204734802
-TMPV,2025-10-08,Tata Motors slips 2% on JLR Q2 sales update; trades lower for 4th day - business-standard.com,-0.9671249985694885
-TMPV,2025-11-04,When can investors start trading Tata Motors CV shares? Listing update - business-standard.com,-0.9508941769599915
-TMPV,2025-04-04,Notice of the NCLT convened Meeting of Equity Shareholders - bsmedia.business-standard.com,-0.9494162201881409
-TMPV,2025-11-12,Tata Motors Q2 preview: Here's what to expect from the auto giant - business-standard.com,-0.9370894432067871
-TMPV,2025-11-14,Jaguar Land Rover cyberattack hit TaMo PV Q2 showing; FY26 outlook cut - business-standard.com,-0.5118908286094666
-TMPV,2025-11-17,"Among oldest Sensex stocks, Tata Motors drifts towards exit again - business-standard.com",-0.7834144830703735
-TMPV,2025-11-12,Tata Motors demerger: PV unit vulnerable as JLR dominance clouds growth - business-standard.com,-0.7866255640983582
-TMPV,2025-12-01,"Tata Motors PV total sales rise 26% in November, EV volumes jump over 52% - ET Auto",0.9432035684585571
-TMPV,2025-11-10,Tata Motors demerger: How the split will unlock value for investors & Tatas - business-standard.com,-0.8890599608421326
-TMPV,2025-11-06,Tata Motors CV vs Tata Motors PV: Which stock could re-rate after demerger? - business-standard.com,-0.9415230751037598
-TMPV,2026-02-02,Tata Motors PV rises 3% on Jan sales nos; intl biz sales jumps 251% YoY - business-standard.com,0.8933090567588806
-TMPV,2025-11-03,Tata Motors demerger: Key things every investors should know before listing - business-standard.com,-0.9460347294807434
-TMPV,2026-03-27,"Tata Motors PV falls 5%, hits 52-week low as JLR halts production in UK - business-standard.com",-0.9618058204650879
-TMPV,2025-11-19,"Tata Motors up 2%, trades higher for fourth straight day on heavy volumes - business-standard.com",0.9138304591178894
-TMPV,2026-02-08,Tata Motors PV to hike prices in coming weeks amid rising costs: CEO - business-standard.com,-0.6853213310241699
-TMPV,2025-10-01,Tata Motors stock rallies 5%; fixes October 14 as record date for demerger - business-standard.com,-0.8126348257064819
-TMPV,2025-10-31,"Tata Motors Demerger : Latest News Headlines, Videos and Photo Galleries on Tata Motors Demerger - business-standard.com",-0.9345818161964417
-TMPV,2025-05-26,Tata Motors demerger: Everything you need to know - ET Auto,-0.9444226026535034
-TMPV,2025-12-08,Tata Motors Commercial Vehicles - bsmedia.business-standard.com,-0.9497696757316589
-TMPV,2026-01-16,"ICICI Direct backs Tata Motors CV on strong margins, market leadership - business-standard.com",0.7340099811553955
-TMPV,2025-03-27,"Tata Motors Passenger Vehicles Ltd Quarterly Results, 02 Apr 2026 - NSE 303.30, BSE 303.25 - business-standard.com",-0.944818377494812
-TMPV,2025-08-21,Tata Motors returns to South African car market after six years - ET BrandEquity,0.5982814431190491
-TMPV,2025-11-14,Nuvama turns cautious on Tata Motors CV biz despite inline Q2 profitability - business-standard.com,-0.7197965979576111
-TMPV,2016-12-31,"Small cars - Latest small cars , Information & Updates - Auto - ET Auto",-0.9457522630691528
-TMPV,2026-02-10,"When the weather turns hostile, how smart are ‘smart’ vehicles? - ET Auto",-0.9139158725738525
-TMPV,2014-03-15,TTMT: Tata Motors Passenger Vehicles Limited Stock Price Quote - - Bloomberg - bloomberg.com,-0.9496321678161621
-TMPV,2026-03-23,"Stock Alert: Union Bank of India, Ashok Leyland, SBI, DCX Systems, TMPV - business-standard.com",-0.9504653811454773
-TMPV,2021-03-03,5 PSU bank stocks jump up to 4% after reporting March quarter biz updates. Check details - economictimes.indiatimes.com,-0.8237284421920776
-TMPV,2025-08-19,India's Tata Motors returns to South African car market after six years - Reuters,0.5369327664375305
-TMPV,2026-02-12,"Iveco's profit falls due to delays at French plant, as Tata takeover draws near - Reuters",-0.9669186472892761
-TMPV,2022-06-06,About Tata Motors Passenger Vehicles Ltd (TAMO.BO) - Reuters,-0.947151243686676
-TMPV,2026-02-06,"Q3 results: Tata Steel, Siemens, Bosch, and Shree Cement, 195 more on Feb 6 - business-standard.com",-0.9360435605049133
-TMPV,2025-11-14,"Tata Motors cuts Jaguar Land Rover margin forecast after cyberattack, China woes - Reuters",-0.9101855754852295
-TMPV,2025-10-08,Tata Motors stock tests 200-DMA ahead of demerger; trading strategy here - business-standard.com,-0.9380363821983337
-TMPV,2022-06-06,About Tata Motors Passenger Vehicles Ltd (TAMO.NS) - Reuters,-0.9480865597724915
-TMPV,2026-02-17,Tata Motors PV gains 9% thus far in February; what's driving auto stock? - business-standard.com,-0.8120259642601013
-TMPV,2026-03-29,"XPNGF.PK Stock Analysis: Prediction, Earnings, Dividend - Reuters",-0.9398196935653687
-TMPV,2026-02-20,Tata Motors expects new Punch.ev to democratise adoption of entry-level EVs - ET Auto,-0.6410899758338928
-TMPV,2024-07-31,How govt’s solar rooftop scheme is shaping Tata Motors' EV strategy - ET Auto,-0.9024104475975037
-TMPV,2021-07-01,Eicher Motors Ltd - Reuters,-0.9428735375404358
-TMPV,2017-08-31,Live Blog - Stocks - Markets - economictimes.indiatimes.com,-0.9407123923301697
-TMPV,2024-11-08,"Tata Motors reports 9.9% decline in Q2 net profit, eyes recovery in H2 amid inventory and supply challenges - ET Auto",-0.9714695811271667
-TMPV,2022-06-06,(XPEV.N) | Stock Price & Latest News - Reuters,-0.9171975255012512
-TMPV,2024-11-07,Rane (Madras) Limited - bsmedia.business-standard.com,-0.9512125849723816
-TMPV,2024-03-07,Li Auto Sinks 20% as China EV Price Wars Cloud Launch of Luxury Model - bloomberg.com,-0.5828530788421631
-TMPV,2022-06-12,(ASOK.NS) | Stock Price & Latest News - Reuters,-0.9103253483772278
-TMPV,2018-09-20,NEELKANTHA ENERGY PRIVATE LIMITED - economictimes.indiatimes.com,-0.9450317025184631
-TMPV,2025-05-24,MALOY KUMAR GUPTA - bsmedia.business-standard.com,-0.9430226683616638
-TMPV,2017-04-14,"Ashok Leyland Balance Sheets, Financial Statements - economictimes.indiatimes.com",-0.9364900588989258
-TMPV,2025-08-14,JPMorgan downgrades Li Auto as Chinese EV competition ramps up - CNBC,-0.839148223400116
-TMPV,2024-08-04,SANJEEV GROVER - bsmedia.business-standard.com,-0.9432412981987
-TMPV,2025-10-30,Nvidia nearly went under 3 years into its existence—now it's the world's first-ever $5 trillion company - CNBC,-0.9302794337272644
-TMPV,2023-04-21,Volkswagen takes on China's EV market with a higher-end car and $1 billion investment - CNBC,-0.7037461400032043
-TMPV,2022-06-11,MAHM.NS - Reuters,-0.9396626353263855
-TMPV,2022-06-07,About TVS Motor Company Ltd (TVSM.NS) - Reuters,-0.9483916163444519
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+TMPV,2021-06-08,"Kia Motors India gets 6,523 bookings for Sonet on day one - The Economic Times",,2026-10-18,legacy,neutral,0.0807160958647728,0.018851274624466896,0.9004326462745667,0.0618648212403059
+TMPV,2022-06-06,About Tata Motors Passenger Vehicles Ltd (TAMO.BO) - Reuters,Reuters,2026-10-19,live,neutral,0.031838204711675644,0.021010540425777435,0.947151243686676,0.010827664285898209
+TMPV,2022-06-06,TAMO.NS - Reuters,Reuters,2026-10-19,live,neutral,0.0190555602312088,0.04650001600384712,0.9344443678855896,-0.02744445577263832
+TMPV,2022-06-21,"Dhiman Gupta, Tata Motors Passenger Vehicles: Profile and Biography - Bloomberg",Bloomberg,2026-10-19,live,neutral,0.03392690792679787,0.026234839111566544,0.9398382306098938,0.007692068815231323
+TMPV,2025-01-17,Tata Motors Says Cheaper Now to Make EVs as Battery Prices Fall - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.09877631068229675,0.08584234863519669,0.8153813481330872,0.012933962047100067
+TMPV,2025-03-27,"Tata Motors Passenger Vehicles Ltd Quarterly Results, 15 Oct 2026 - NSE 287.80, BSE 287.70 - Business Standard",,2026-10-18,legacy,neutral,0.03333104029297829,0.04292672872543335,0.9237421751022339,-0.009595688432455063
+TMPV,2025-09-26,"Tata Motors names insiders Shailesh Chandra as CEO, Dhiman Gupta as CFO - Reuters",Reuters,2026-10-19,live,neutral,0.01830928958952427,0.04226834326982498,0.9394223690032959,-0.023959053680300713
+TMPV,2025-10-15,Tata Motors Passenger Vehicles Ltd - Reuters,Reuters,2026-10-19,live,neutral,0.03409484401345253,0.02755747176706791,0.9383476972579956,0.006537372246384621
+TMPV,2025-10-23,S&P cuts India's Tata Motors PV outlook on slow JLR recovery from cyberattack - Reuters,Reuters,2026-10-19,live,negative,0.0232973862439394,0.9033351540565491,0.07336738705635071,-0.8800377678126097
+TMPV,2025-10-23,Tata Motors Passenger Vehicles Limited - Bloomberg.com,,2026-10-18,legacy,neutral,0.0250594150274992,0.02453458309173584,0.9504059553146362,0.0005248319357633591
+TMPV,2025-10-23,Tata Motors Passenger Vehicles Ltd - Business Standard,,2026-10-18,legacy,neutral,0.10940320044755936,0.01069825328886509,0.8798985481262207,0.09870494715869427
+TMPV,2025-10-24,Tata Motors Passenger Vehicles Ltd News - Business Standard,,2026-10-18,legacy,neutral,0.04128032177686691,0.0252075158059597,0.9335120916366577,0.01607280597090721
+TMPV,2025-10-28,Stock Research Report for Tata Motors Passenger Vehicles Ltd - The Economic Times,,2026-10-18,legacy,neutral,0.03531019389629364,0.036091119050979614,0.9285987019538879,-0.0007809251546859741
+TMPV,2025-11-06,"As Tata Motors demerges, here's how the two listed companies now stand - Business Standard",,2026-10-18,legacy,neutral,0.04321804270148277,0.01576779969036579,0.9410141706466675,0.02745024301111698
+TMPV,2025-11-06,"Tata Motors demerger impact: Changes in F&O lot size, OI, Strikes explained - Business Standard",,2026-10-18,legacy,neutral,0.02931148372590542,0.052049968391656876,0.9186384677886963,-0.022738484665751457
+TMPV,2025-11-06,"Tata Motors split: Who keeps the debt, and what it means for interest bills - Business Standard",,2026-10-18,legacy,neutral,0.02223004773259163,0.02833223156630993,0.9494377374649048,-0.0061021838337183
+TMPV,2025-11-11,Tata Motors demerger: What lies ahead for PV and CV businesses post split - Business Standard,,2026-10-18,legacy,neutral,0.04431275650858879,0.03518432378768921,0.9205028414726257,0.009128432720899582
+TMPV,2025-11-12,Tata Motors CV arm lists with over 28 pc premium on NSE after demerger - cfo.economictimes.indiatimes.com,cfo.economictimes.indiatimes.com,2026-10-19,live,neutral,0.07087276130914688,0.018144775182008743,0.9109824895858765,0.05272798612713814
+TMPV,2025-11-12,Tata Motors demerger complete: Here's how CV & PV arms stack up financially - Business Standard,,2026-10-18,legacy,neutral,0.04175906628370285,0.02058902196586132,0.9376518726348877,0.02117004431784153
+TMPV,2025-11-12,Tata Motors demerger: PV unit vulnerable as JLR dominance clouds growth - Business Standard,,2026-10-18,legacy,negative,0.048396263271570206,0.8383141160011292,0.11328960210084915,-0.789917852729559
+TMPV,2025-11-13,"India's Tata Motors sees high single-digit demand growth in H2 on tax cuts, infrastructure boost - Reuters",Reuters,2026-10-19,live,positive,0.9393067955970764,0.01371989119797945,0.04697331041097641,0.925586904399097
+TMPV,2025-11-14,Jaguar Land Rover cyberattack hit TaMo PV Q2 showing; FY26 outlook cut - Business Standard,,2026-10-18,legacy,negative,0.017253950238227844,0.9509173631668091,0.03182866424322128,-0.9336634129285812
+TMPV,2025-11-14,"Tata Motors cuts Jaguar Land Rover margin forecast after cyberattack, China woes - Reuters",Reuters,2026-10-19,live,negative,0.026274709030985832,0.9101854562759399,0.06353981047868729,-0.8839107472449541
+TMPV,2025-11-16,India's Tata Motors Passenger Vehicles falls as JLR margin cut deepens growth worries - Reuters,Reuters,2026-10-19,live,negative,0.010487795807421207,0.9570133686065674,0.032498814165592194,-0.9465255727991462
+TMPV,2025-11-17,"TMPV tumbles on JLR hit in Q2; analysts cut outlook, flag structural risks - Business Standard",,2026-10-18,legacy,negative,0.014647142961621284,0.9625607132911682,0.022792184725403786,-0.9479135703295469
+TMPV,2025-11-25,"India's Tata bets new SUV will boost fight with Hyundai, Suzuki - Reuters",Reuters,2026-10-19,live,positive,0.9467484951019287,0.01568843051791191,0.03756318986415863,0.9310600645840168
+TMPV,2025-11-28,"Tata Motors soars 13% in 3 days, outperforms split arm TMPV; here's why - Business Standard",,2026-10-18,legacy,positive,0.8049857020378113,0.04347589984536171,0.1515384018421173,0.7615098021924496
+TMPV,2025-12-08,Tata Motors Commercial Vehicles - Business Standard,Business Standard,2026-10-19,live,neutral,0.09320060908794403,0.011186651885509491,0.8956127166748047,0.08201395720243454
+TMPV,2025-12-09,"Tata Motors rallies 3%, hits new high; surpasses TMPV in market cap ranking - Business Standard",,2026-10-18,legacy,positive,0.9493941068649292,0.02047947607934475,0.030126376077532768,0.9289146307855844
+TMPV,2025-12-23,"Tata Motors CV, TMPV shares rise for 3rd straight day; here's why - Business Standard",,2026-10-18,legacy,neutral,0.3175686299800873,0.027752064168453217,0.6546793580055237,0.28981656581163406
+TMPV,2025-12-26,"TMPV, Adani Power, ONGC, 5 other largecaps with 'Bearish Engulfing Pattern' - Business Standard",,2026-10-18,legacy,neutral,0.02950696460902691,0.078105129301548,0.8923879265785217,-0.048598164692521095
+TMPV,2026-01-02,"Tata Motors, TMPV rally up to 4% post Dec sales; brokerages remain upbeat - Business Standard",,2026-10-18,legacy,positive,0.9469777345657349,0.022566817700862885,0.030455444008111954,0.924410916864872
+TMPV,2026-01-06,Tata Motors PV shares drops 4% as JLR Q3 sales dip on cyber incident - Business Standard,,2026-10-18,legacy,negative,0.00977266114205122,0.9702993035316467,0.01992814801633358,-0.9605266423895955
+TMPV,2026-01-07,"Tata Motors, JSW MG, M&M drive EV retails to 77% growth in 2025: FADA - ET Auto",ET Auto,2026-10-19,live,positive,0.8877297043800354,0.008552402257919312,0.10371788591146469,0.8791773021221161
+TMPV,2026-01-14,Tata Motors PV gears up for big global play in cars - ET Auto,ET Auto,2026-10-19,live,positive,0.7163070440292358,0.012889432720839977,0.2708035409450531,0.7034176113083959
+TMPV,2026-01-14,Tata Motors: Sub ₹10 lakh EV support crucial for mass adoption in India - ET Auto,ET Auto,2026-10-19,live,positive,0.7290121912956238,0.00784403458237648,0.2631436884403229,0.7211681567132473
+TMPV,2026-01-29,"India's Tata Motors posts sharp fall in quarterly profit on demerger, labour-code charge - Reuters",Reuters,2026-10-19,live,negative,0.008700753562152386,0.9727539420127869,0.018545256927609444,-0.9640531884506345
+TMPV,2026-02-01,"Tata Motors PV sales up 46.1% to 70,222 units in January 2026 - ET Auto",ET Auto,2026-10-19,live,positive,0.9525038599967957,0.020690085366368294,0.02680601179599762,0.9318137746304274
+TMPV,2026-02-05,"India's Tata Motors Passenger Vehicles expects JLR recovery, maintains margin target - Reuters",Reuters,2026-10-19,live,positive,0.914981484413147,0.032209157943725586,0.05280931293964386,0.8827723264694214
+TMPV,2026-02-06,"Tata Motors PV: Analysts cautiously positive despite Q3 loss, JLR headwinds - Business Standard",,2026-10-18,legacy,positive,0.8513165712356567,0.12056005001068115,0.02812342345714569,0.7307565212249756
+TMPV,2026-02-09,Tata Motors’ Tamil Nadu plant begins operations; first locally made Range Rover Evoque rolls out - ET Auto,,2026-10-18,legacy,neutral,0.26958903670310974,0.016218235716223717,0.7141927480697632,0.253370800986886
+TMPV,2026-03-20,Tata Motors PV to raise passenger vehicle prices from April 1 - ET Auto,ET Auto,2026-10-19,live,positive,0.8603777885437012,0.010288279503583908,0.12933385372161865,0.8500895090401173
+TMPV,2026-04-02,Tata Motors PV down 35% from 52-week high; Geojit says Buy for 15% upside - Business Standard,,2026-10-18,legacy,negative,0.008054903708398342,0.9701703786849976,0.021774742752313614,-0.9621154749765992
+TMPV,2026-04-04,"Tata Motors PV sales rise 28% in March to 66,192 units; EV volumes jump 77% - ET Auto",,2026-10-18,legacy,positive,0.9444289803504944,0.021427692845463753,0.03414329141378403,0.9230012875050306
+TMPV,2026-04-06,TMPV gains as JLR Q4 wholesale volumes surge 61% QoQ - Business Standard,,2026-10-18,legacy,positive,0.942169725894928,0.029098154976963997,0.02873212844133377,0.913071570917964
+TMPV,2026-05-08,Tata Motors adds panoramic sunroof to Nexon line-up from ₹9.59 lakh - ET Auto,,2026-10-18,legacy,positive,0.8721655607223511,0.014910217374563217,0.11292418092489243,0.8572553433477879
+TMPV,2026-05-13,India's Tata Motors warns of costs from Iran war after profit surge - Reuters,Reuters,2026-10-19,live,negative,0.030467109754681587,0.9163218140602112,0.053211115300655365,-0.8858547043055296
+TMPV,2026-05-14,"JLR parent Tata Motors PV soars as cost cuts, premium push ease margin worries - Reuters",Reuters,2026-10-19,live,positive,0.8874180316925049,0.05241529271006584,0.060166649520397186,0.835002738982439
+TMPV,2026-05-14,JLR parent Tata Motors flags margin pressure from rising commodity costs - Reuters,Reuters,2026-10-19,live,negative,0.024129988625645638,0.942352831363678,0.033517155796289444,-0.9182228427380323
+TMPV,2026-05-14,Tata Motors PV to launch first flex-fuel vehicle by year-end; targets industry-beating growth in FY27 - ET Auto,ET Auto,2026-10-19,live,positive,0.9187089204788208,0.009792497381567955,0.07149862498044968,0.9089164230972528
+TMPV,2026-05-15,Macro challenges may make Tata Motors Passenger Vehicles' drive bumpy - Business Standard,,2026-10-18,legacy,negative,0.011856086552143097,0.9527214765548706,0.03542231395840645,-0.9408653900027275
+TMPV,2026-05-15,"Stocks to Watch today: OMCs, Adani stocks, Tata Steel, JSW Steel, TMPV, HCC - Business Standard",,2026-10-18,legacy,neutral,0.03313114866614342,0.020750118419528008,0.9461186528205872,0.01238103024661541
+TMPV,2026-05-29,Fuel price impact on auto demand still unclear: Tata Motors PV - ET Auto,ET Auto,2026-10-19,live,neutral,0.025253087282180786,0.06930439174175262,0.9054425358772278,-0.04405130445957184
+TMPV,2026-06-11,India's Tata Motors Passenger Vehicles to hike prices from July 1 - Reuters,Reuters,2026-10-19,live,positive,0.7223800420761108,0.1672051101922989,0.11041484773159027,0.555174931883812
+TMPV,2026-06-12,TMPV to hike price of PVs from 01 July - Business Standard,,2026-10-18,legacy,positive,0.6325072050094604,0.024041946977376938,0.34345075488090515,0.6084652580320835
+TMPV,2026-06-16,"India's Tata Motors PV targets 18–20% market share, double-digit margin - Reuters",Reuters,2026-10-19,live,positive,0.6431347727775574,0.015932831913232803,0.3409323990345001,0.6272019408643246
+TMPV,2026-06-17,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.036765459924936295,0.024498049169778824,0.9387364387512207,0.01226741075515747
+TMPV,2026-06-18,TMPV shares rise day after 8% rout; analysts divided post JLR investor day - Business Standard,,2026-10-18,legacy,positive,0.5732990503311157,0.2048206776380539,0.22188030183315277,0.36847837269306183
+TMPV,2026-06-21,"Maruti, Mahindra and Tata Motors eye UK market to sell India-made EVs under FTA - ET Auto",ET Auto,2026-10-19,live,neutral,0.3590523600578308,0.011827394366264343,0.6291202902793884,0.34722496569156647
+TMPV,2026-06-23,"India's Tata Motors PV aims to nearly double revenue, volume by 2031 - Reuters",Reuters,2026-10-19,live,positive,0.8945854306221008,0.009412635117769241,0.09600196778774261,0.8851727955043316
+TMPV,2026-06-26,"Tata Motors, TPEM sign MoU with UCO Bank to offer inventory funding for passenger vehicle dealers - ET Auto",ET Auto,2026-10-19,live,positive,0.8868967890739441,0.010687127709388733,0.10241604596376419,0.8762096613645554
+TMPV,2026-06-28,"Tata Motors Passenger Vehicles to accelerate EV push with 4 new models, 10+ refreshes by FY31 - ET Auto",ET Auto,2026-10-19,live,positive,0.9137347936630249,0.008987171575427055,0.07727804780006409,0.9047476220875978
+TMPV,2026-07-08,Tata Group Targets $100 Billion Revenue From Auto Units by 2031 - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.1324988752603531,0.00912651140242815,0.8583745956420898,0.12337236385792494
+TMPV,2026-07-08,"Tata Motors PV charts 10-fold growth plan by FY31, targets 20% market share - Business Standard",,2026-10-18,legacy,positive,0.8613601922988892,0.007293681614100933,0.13134610652923584,0.8540665106847882
+TMPV,2026-07-24,LIC ups stake in Tata Motors Passenger Vehicles to over 5% - ET Auto,ET Auto,2026-10-19,live,positive,0.945917546749115,0.013907582499086857,0.04017481207847595,0.9320099642500281
+TMPV,2026-07-27,India's Tata Motors PV plant in Gujarat hit by heavy rain - Reuters,Reuters,2026-10-19,live,negative,0.017930205911397934,0.910071849822998,0.0719979926943779,-0.8921416439116001
+TMPV,2026-07-29,"Stocks to Watch today: L&T, Asian Paints, Tata Capital, TMPV, ONGC, Netweb - Business Standard",,2026-10-18,legacy,neutral,0.0377371609210968,0.022299548611044884,0.9399632215499878,0.015437612310051918
+TMPV,2026-08-12,"India's Tata Motors sees firm demand, plans price hikes as commodity costs rise - Reuters",Reuters,2026-10-19,live,positive,0.6434001326560974,0.04903823137283325,0.3075616657733917,0.5943619012832642
+TMPV,2026-08-12,"TCS, TMPV, Tata Steel: Analyst flags key levels to track in Tata group stks - Business Standard",,2026-10-18,legacy,neutral,0.04751994088292122,0.018266970291733742,0.9342131614685059,0.029252970591187477
+TMPV,2026-08-13,India's Tata Motors says change of group chairman won't affect investment plans - Reuters,Reuters,2026-10-19,live,neutral,0.027802273631095886,0.042813241481781006,0.9293845295906067,-0.01501096785068512
+TMPV,2026-08-13,"Stocks to watch: Jio Financial, TMPV, Apollo Hospitals, LG Electronics, HAL - Business Standard",,2026-10-18,legacy,neutral,0.031895991414785385,0.020273879170417786,0.947830080986023,0.0116221122443676
+TMPV,2026-08-14,"India's Tata Motors PV shares fall after profit plunges, warns on margins - ET BrandEquity",ET BrandEquity,2026-10-19,live,negative,0.008014232851564884,0.9502132534980774,0.04177253693342209,-0.9421990206465125
+TMPV,2026-08-14,"India's Tata Motors PV shares fall after profit plunges, warns on margins - Reuters",,2026-10-18,legacy,negative,0.0090719573199749,0.940605640411377,0.05032246187329292,-0.931533683091402
+TMPV,2026-08-14,Margin pressures at Tata Motors PV may offset strong India demand outlook - Business Standard,,2026-10-18,legacy,positive,0.8569438457489014,0.09551307559013367,0.04754301905632019,0.7614307701587677
+TMPV,2026-08-14,Most Tata stocks fall for 3rd day post-Chandra's exit; TMPV top loser - Business Standard,,2026-10-18,legacy,negative,0.014719384722411633,0.9494364261627197,0.03584418073296547,-0.9347170414403081
+TMPV,2026-08-14,"Stocks to watch: Honasa, LG Electronics, Physicswalla, NMDC, TMPV - Business Standard",,2026-10-18,legacy,neutral,0.039014797657728195,0.017833003774285316,0.9431521892547607,0.02118179388344288
+TMPV,2026-08-14,Tata Motors PV falls nearly 6% after weak Q1; Jefferies flags JLR headwinds - Business Standard,,2026-10-18,legacy,negative,0.013771199621260166,0.9681772589683533,0.018051613122224808,-0.9544060593470931
+TMPV,2026-08-14,"Tata Motors PV shares fall 5% as JLR weakness, cost pressures weigh on Q1 - ET Auto",ET Auto,2026-10-19,live,negative,0.008474069647490978,0.9687216281890869,0.022804314270615578,-0.9602475585415959
+TMPV,2026-08-14,Tata Motors expects EV demand to outstrip supply in upcoming festive season - ET Auto,ET Auto,2026-10-19,live,positive,0.7423001527786255,0.21831806004047394,0.039381805807352066,0.5239820927381516
+TMPV,2026-08-20,India's Tata Motors PV to raise car prices from September as cost pressures bite - Reuters,Reuters,2026-10-19,live,positive,0.5005915760993958,0.028074836358428,0.4713336229324341,0.47251673974096775
+TMPV,2026-08-21,"TMPV to hike vehicle prices by up to Rs 25,000 - Business Standard",,2026-10-18,legacy,positive,0.8244948983192444,0.01230345107614994,0.16320167481899261,0.8121914472430944
+TMPV,2026-08-21,"Tata Motors to raise car, SUV prices by up to ₹25,000 from September 1 - Business Standard",,2026-10-18,legacy,positive,0.8597949147224426,0.010135208256542683,0.13006986677646637,0.8496597064658999
+TMPV,2026-08-25,Tata Comm and TMPV partner to power new Sierra.ev with seamless connectivity - Business Standard,,2026-10-18,legacy,neutral,0.42054158449172974,0.007185275200754404,0.5722731351852417,0.41335630929097533
+TMPV,2026-08-26,"Stock Alert: Cipla, Varun Beverages, TMPV, United Breweries,Sai Parenterals - Business Standard",,2026-10-18,legacy,neutral,0.03896821662783623,0.014601964503526688,0.9464298486709595,0.02436625212430954
+TMPV,2026-08-26,"Tata Communications, Tata Motors partner to launch 5G-powered Sierra.ev - ET Auto",ET Auto,2026-10-19,live,neutral,0.337597519159317,0.008208026178181171,0.6541944146156311,0.32938949298113585
+TMPV,2026-09-01,TMPV records robust sales growth of 56% in Aug'26 - Business Standard,,2026-10-18,legacy,positive,0.9547531008720398,0.01739368960261345,0.027853133156895638,0.9373594112694263
+TMPV,2026-09-03,Autoline Industries wins Tata Motors SUV parts order worth ₹100 crore annually - ET Auto,ET Auto,2026-10-19,live,positive,0.9313982725143433,0.016166076064109802,0.052435677498579025,0.9152321964502335
+TMPV,2026-09-24,"Indian shares post worst day in 10 weeks on oil spike, proposed insurance curbs - Reuters",,2026-10-18,legacy,negative,0.020371990278363228,0.9227820038795471,0.05684599652886391,-0.9024100136011839
+TMPV,2026-09-25,Commodity cost uncertainty bigger worry than price increase: TMPV MD - Business Standard,,2026-10-18,legacy,neutral,0.087346151471138,0.03937781602144241,0.8732759952545166,0.04796833544969559
+TMPV,2026-09-25,"RIL, PB Fintech, HUL, TMPV, Maruti among 24 BSE 500 stocks at 52-week lows - Business Standard",,2026-10-18,legacy,negative,0.011785467155277729,0.934907078742981,0.053307484835386276,-0.9231216115877032
+TMPV,2026-09-25,Tata Motors PV eyes smaller cities to drive Aeris compact sedan demand - ET Auto,ET Auto,2026-10-19,live,neutral,0.1668185293674469,0.009313952177762985,0.8238675594329834,0.15750457718968391
+TMPV,2026-09-25,Tata Motors PV weighs further price hikes as commodity costs squeeze margins - ET Auto,ET Auto,2026-10-19,live,positive,0.36398953199386597,0.3252803087234497,0.3107302188873291,0.03870922327041626
+TMPV,2026-09-25,Tata Motors warns of uncertainty over commodity costs as it braces for another margin hit - Reuters,Reuters,2026-10-19,live,negative,0.061028461903333664,0.8843861818313599,0.05458541214466095,-0.8233577199280262
+TMPV,2026-09-29,"Why are Tata group stocks falling today? TTML, Tata Chem, TMPV dip up to 5% - Business Standard",,2026-10-18,legacy,negative,0.23628143966197968,0.7150712609291077,0.04864733666181564,-0.478789821267128
+TMPV,2026-10-01,"Tata Motors PV sales rise 15% to 68,810 units in September - ET Auto",ET Auto,2026-10-19,live,positive,0.9477152824401855,0.01692870259284973,0.03535599634051323,0.9307865798473358
+TMPV,2026-10-06,Tata Motors Passenger Vehicles Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.0449846014380455,0.029202474281191826,0.9258129596710205,0.015782127156853676
+TMPV,2026-10-09,"Iveco, Tata Motors raises offer price to €14.40 per share - Reuters",Reuters,2026-10-19,live,neutral,0.4792996942996979,0.024140849709510803,0.4965594410896301,0.4551588445901871
+TMPV,2026-10-12,BMI raises FY27 growth forecast for India to 7.5% on industrial growth - Business Standard,Business Standard,2026-10-19,live,positive,0.9166551232337952,0.015915250405669212,0.06742959469556808,0.900739872828126
+TMPV,2026-10-12,"CIEL HR eyes ₹2,600 crore revenue this fiscal, says K Pandiarajan - Business Standard",Business Standard,2026-10-19,live,positive,0.522719144821167,0.02140987105667591,0.45587098598480225,0.5013092737644911
+TMPV,2026-10-12,HCLTech signs pact with Anthropic to set up dedicated AI business unit - Business Standard,Business Standard,2026-10-19,live,positive,0.6088181138038635,0.007851534523069859,0.38333040475845337,0.6009665792807937
+TMPV,2026-10-12,"Stellantis, Tata Motors PV join hands for vehicle tech, product development - Business Standard",,2026-10-18,legacy,neutral,0.20011582970619202,0.008171088993549347,0.7917131185531616,0.19194474071264267
+TMPV,2026-10-12,"Stellantis, Tata Motors Passenger Vehicles to develop vehicles in India - Reuters",Reuters,2026-10-19,live,neutral,0.09969008713960648,0.01042815763503313,0.8898817300796509,0.08926192950457335
+TMPV,2026-10-12,"Tata Motors PV, Stellantis expand tie-up for global vehicle development - Business Standard",,2026-10-18,legacy,positive,0.7751585841178894,0.00767306424677372,0.2171684056520462,0.7674855198711157
+TMPV,2026-10-12,"Tata Motors, Stellantis sign deal to develop vehicles for 50-plus global markets - ET Auto",,2026-10-18,legacy,positive,0.8191452622413635,0.007608701940625906,0.17324607074260712,0.8115365603007376
+TMPV,2026-10-13,Average car loan size jumps 49% in 7 years as buyers shift to SUVs - Business Standard,Business Standard,2026-10-19,live,positive,0.9312825798988342,0.024588368833065033,0.04412900283932686,0.9066942110657692
+TMPV,2026-10-13,Average loan size for PVs rises 49% to ₹8.2 lakh in 7 years: Report - Business Standard,Business Standard,2026-10-19,live,positive,0.9163376092910767,0.015861570835113525,0.06780079007148743,0.9004760384559631
+TMPV,2026-10-13,F&O alert: Polycab to exit NSE's Futures & Options segment; stock dips 5% - Business Standard,,2026-10-18,legacy,negative,0.015421818010509014,0.9609509706497192,0.023627180606126785,-0.9455291526392102
+TMPV,2026-10-13,"French supermarket fridges get hacked, heating to 122°F and sparking fires - CNBC",,2026-10-18,legacy,neutral,0.04819127172231674,0.11762090027332306,0.8341878652572632,-0.06942962855100632
+TMPV,2026-10-13,ICICI Life Insurance share price drops 4% from day's high post Q2 results - Business Standard,,2026-10-18,legacy,negative,0.00928393192589283,0.9709785580635071,0.019737567752599716,-0.9616946261376143
+TMPV,2026-10-13,"MOFSL sees telecom sector re-rating ahead of Jio IPO; RIL, Airtel in focus - Business Standard",,2026-10-18,legacy,positive,0.6963080167770386,0.01863558031618595,0.28505632281303406,0.6776724364608526
+TMPV,2026-10-13,Nestle India Q2 preview: Strong volumes to drive growth; PAT may top ₹1k cr - Business Standard,,2026-10-18,legacy,positive,0.9504172801971436,0.016964498907327652,0.032618198543787,0.9334527812898159
+TMPV,2026-10-13,"Nifty IT shines, up 3%; HCL Tech, TCS, LTM, Tech Mahindra surge up to 5% - Business Standard",,2026-10-18,legacy,positive,0.9504348039627075,0.017247818410396576,0.03231729194521904,0.9331869855523109
+TMPV,2026-10-13,"Nifty at 26,500 in 4-5 months: What's behind Monarch Capital's bull call? - Business Standard",,2026-10-18,legacy,neutral,0.036423780024051666,0.06042668595910072,0.9031494855880737,-0.024002905935049057
+TMPV,2026-10-13,"Paytm, Mobikwik, Pine Labs rebound even as NPCI defers MDR on UPI; read why - Business Standard",,2026-10-18,legacy,positive,0.8997323513031006,0.02703309804201126,0.07323452085256577,0.8726992532610893
+TMPV,2026-10-13,RBL Bank plunges 8% even as Q1 profit zooms 170% YoY; analysts bullish - Business Standard,,2026-10-18,legacy,negative,0.07918033748865128,0.8943849205970764,0.02643468976020813,-0.8152045831084251
+TMPV,2026-10-13,"Stocks to watch: HCLTech, RBL Bank, IRCON, TMPV, Hero Motors, Nazara Tech - Business Standard",,2026-10-18,legacy,neutral,0.04297550395131111,0.015685781836509705,0.9413387179374695,0.027289722114801407
+TMPV,2026-10-13,"Vimag Labs starts production at Haryana plant, plans ₹50 crore investment - Business Standard",Business Standard,2026-10-19,live,neutral,0.21940363943576813,0.007498078513890505,0.7730982899665833,0.21190556092187762
+TMPV,2026-10-14,"Global Market: China stocks slip as AI selloff deepens, mixed inflation data weighs - The Economic Times",The Economic Times,2026-10-19,live,negative,0.009838736616075039,0.9564734697341919,0.03368782624602318,-0.9466347331181169
+TMPV,2026-10-14,"Hyundai aims to regain No. 2 spot in India by 2028-29, says global CEO - Business Standard",Business Standard,2026-10-19,live,positive,0.9325229525566101,0.01334964856505394,0.05412741005420685,0.9191733039915562
+TMPV,2026-10-14,"Mutual funds' September 2026 portfolio moves: Top 5 stocks bought and sold across large-, mid- and small-cap segments - Livemint",Livemint,2026-10-19,live,neutral,0.27860692143440247,0.01474728062748909,0.7066457867622375,0.2638596408069134
+TMPV,2026-10-14,Toyota Kirloskar Motor signals potential price hikes amid rising input costs - ET Auto,ET Auto,2026-10-19,live,positive,0.8018103241920471,0.12329687178134918,0.07489284127950668,0.6785134524106979
+TMPV,2026-10-15,"2026 Tata Punch prototypes spotted testing, facelift and EV updates expected - The Economic Times",The Economic Times,2026-10-19,live,positive,0.5619521141052246,0.014226089231669903,0.42382171750068665,0.5477260248735547
+TMPV,2026-10-15,"Caparo Engineering India, Japan’s ANSCO and MISI partners to expand high-strength fastener business in India - The Economic Times",The Economic Times,2026-10-19,live,positive,0.7863257527351379,0.007133718114346266,0.2065405398607254,0.7791920346207917
+TMPV,2026-10-15,"Europe’s auto giants learn from China as Volkswagen, Stellantis rethink EV strategy - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.1881813406944275,0.010561758652329445,0.8012568354606628,0.17761958204209805
+TMPV,2026-10-15,GLOBAL EXPORT MARKET SHARE - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.060925405472517014,0.025119131430983543,0.9139555096626282,0.03580627404153347
+TMPV,2026-10-15,Global Market: Asian currencies slide as hot US inflation fuels Fed rate hike bets; won hits two-week low - The Economic Times,The Economic Times,2026-10-19,live,negative,0.018867086619138718,0.9606924653053284,0.020440448075532913,-0.9418253786861897
+TMPV,2026-10-15,Inside Albania's protest movement: what's fanning the flames? - Reuters,,2026-10-18,legacy,neutral,0.04236796870827675,0.05599557235836983,0.9016364216804504,-0.013627603650093079
+TMPV,2026-10-15,LCA ENGINE SUPPLY ISSUES - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.024539537727832794,0.1817658394575119,0.7936946749687195,-0.1572263017296791
+TMPV,2026-10-15,Mini car sales jump 86% in H1 as entry-level segment shows recovery signs - Business Standard,Business Standard,2026-10-19,live,positive,0.9515612125396729,0.025461368262767792,0.022977424785494804,0.9260998442769051
+TMPV,2026-10-15,STELLANTIS MARKET SHARE GROWTH - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.07874104380607605,0.021938592195510864,0.8993204236030579,0.056802451610565186
+TMPV,2026-10-15,Stellantis and Tata Motors widen India tie-up for export-focused vehicle development - supplychain.economictimes.indiatimes.com,supplychain.economictimes.indiatimes.com,2026-10-19,live,positive,0.5665289163589478,0.013571380637586117,0.41989967226982117,0.5529575357213616
+TMPV,2026-10-15,"Stellantis to invest ₹4,000 crore, launch 12 products in 3 years - Business Standard",,2026-10-18,legacy,neutral,0.2315550297498703,0.007273081690073013,0.7611718773841858,0.2242819480597973
+TMPV,2026-10-15,Tata Chemicals Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.04243798553943634,0.036190666258335114,0.921371340751648,0.006247319281101227
+TMPV,2026-10-15,Tata Investment Corporation Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.042416054755449295,0.0317005030810833,0.9258834719657898,0.010715551674365997
+TMPV,2026-10-15,Tata Technologies' premium valuations limit upside despite Q2 growth - Business Standard,Business Standard,2026-10-19,live,positive,0.8873544335365295,0.04675797000527382,0.06588757038116455,0.8405964635312557
+TMPV,2026-10-16,'India's dynamic market': Canada Trade Minister Sidhu highlights opportunities for Canadian firms - The Economic Times,The Economic Times,2026-10-19,live,positive,0.5760490894317627,0.011468488723039627,0.4124824106693268,0.5645806007087231
+TMPV,2026-10-16,Flipkart Internet narrows losses as IPO plans gather pace - supplychain.economictimes.indiatimes.com,supplychain.economictimes.indiatimes.com,2026-10-19,live,neutral,0.07304418087005615,0.19731731712818146,0.7296384572982788,-0.1242731362581253
+TMPV,2026-10-16,"Global Market: IMF warns of energy shock, AI correction risks to Asia's growth outlook - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.045442476868629456,0.4642896354198456,0.49026793241500854,-0.4188471585512161
+TMPV,2026-10-16,"Mizoram targets 5–7% tourism share in GSDP by 2047, opens new investment pathways - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.352809876203537,0.01068718172609806,0.6365029811859131,0.3421226944774389
+TMPV,2026-10-16,"Tata Motors PV eyes 15% market share soon, targets 20% by FY31, says MD Shailesh Chandra - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.40658923983573914,0.011322286911308765,0.5820885300636292,0.39526695292443037
+TMPV,2026-10-18,Driving a wedge in the EU EV market - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.09263657033443451,0.23588810861110687,0.6714752912521362,-0.14325153827667236
+TMPV,2026-10-18,India apparel market set to reach $146 billion by 2029 - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.34671449661254883,0.01314906869083643,0.6401364207267761,0.3335654279217124
+TMPV,2026-10-18,"Jaguar Land Rover India expands retail presence in Delhi, Gurugram; sees NCR as key market - The Economic Times",The Economic Times,2026-10-19,live,positive,0.8869906663894653,0.008394631557166576,0.10461465269327164,0.8785960348322988

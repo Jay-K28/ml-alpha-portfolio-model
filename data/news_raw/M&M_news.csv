@@ -1,101 +1,191 @@
-ticker,date,headline,sentiment_score
-M&M,2026-04-02,"M&M, TVS Motor: BSE Auto slips 3% as brokerages flag demand, margin risks - business-standard.com",-0.964975118637085
-M&M,2026-04-02,"M&M bags second spot, Tata Motors still tops EV charts - ET Auto",0.9345380663871765
-M&M,2026-04-01,"Mahindra & Mahindra tractor sales rise 20% to 45,035 units in March - business-standard.com",0.8931618928909302
-M&M,2026-04-03,Auto companies cite cost pressure amid strong dispatches - ET BrandEquity,-0.9534473419189453
-M&M,2026-04-06,"India logs record 6.05 GW wind capacity addition in FY26, up 46% YoY - The Economic Times",0.9486021995544434
-M&M,2026-04-07,Local wheels ride smooth on country roads as Indian carmakers overtake foreign rivals - ET Auto,0.6199555993080139
-M&M,2026-04-06,"March was the best single month of job growth since 2024, says Jim Cramer - CNBC",0.9123048782348633
-M&M,2026-04-01,"Mahindra SUV sales jump 25% to 60,272 units in March - ET Auto",0.938788115978241
-M&M,2026-04-02,Auto cos cite cost pressure amid strong dispatches - ET Auto,-0.9334271550178528
-M&M,2026-04-02,Auto sector set for strong growth despite export headwinds: Nuvama - ET Auto,0.9474315047264099
-M&M,2015-07-08,Bloomberg Europe - bloomberg.com,-0.9449155926704407
-M&M,2026-04-01,"Gas shortage no hurdle as March PV sales hit record high; Maruti Suzuki, Tata Motors lead pack - ET Auto",0.7625918984413147
-M&M,2026-03-31,"Salesforce CEO Benioff: Software industry is still alive, well and growing - CNBC",-0.5536080002784729
-M&M,2026-03-31,"Headlines may fade, but opportunities do not, says Jim Cramer - CNBC",-0.8749294281005859
-M&M,2026-04-01,APL Apollo Tubes clocks total sales of 9.24 lakh tonnes in Q4 FY26 - business-standard.com,-0.9218235611915588
-M&M,2026-04-03,"Maruti Suzuki India aims for 8,000 service touchpoints by FY31: MD & CEO - business-standard.com",-0.9120271801948547
-M&M,2026-04-02,Govt plan to levy data tax may earn nearly ₹30K cr in revenue: IIFL Capital - business-standard.com,-0.9091584086418152
-M&M,2026-04-02,"India, UK FTA may come into force in next 30 to 45 days: Goyal - business-standard.com",-0.951040506362915
-M&M,2026-04-02,"LIC, HDFC Life, Bajaj Finserv, ICICI Prudential Life hit 52-week lows - business-standard.com",-0.8310983180999756
-M&M,2026-04-02,"Mahindra to raise SUV, commercial vehicle prices by up to 2.5% from April 6 - business-standard.com",0.7598074674606323
-M&M,2026-04-02,"Steel, aluminium stocks slide amid reports of Trump's 25% tariff plan - business-standard.com",-0.9501570463180542
-M&M,2026-04-06,Larsen & Toubro gains 3%; stock up 13% from March low - business-standard.com,0.9453648328781128
-M&M,2026-04-02,Markets defy global cues to end in green despite crude oil price surge - business-standard.com,-0.6828345656394958
-M&M,2026-04-02,Allied Blenders & Distillers appoints Amar Sinha as managing director - business-standard.com,-0.923560619354248
-M&M,2026-04-02,RBI clears Emirates NBD's $3 billion acquisition of up to 74% in RBL Bank - business-standard.com,0.5633223652839661
-M&M,2026-04-02,"Rupee posts best single day since Sep 2013, ends up 1.8% at 93.10/dollar - business-standard.com",0.9276533722877502
-M&M,2026-03-31,"Defence stocks see strong triggers amid rising capex, fewer concerns - business-standard.com",-0.5735532641410828
-M&M,2026-04-01,"Market swings ahead, fundamentals provide anchor: Analysts map FY27 path - business-standard.com",-0.914482057094574
-M&M,2026-04-02,"PM Modi meets Russian Deputy PM, discusses trade, energy cooperation - business-standard.com",-0.9326112866401672
-M&M,2026-04-01,"Sensex settles 1,187 pts higher; Nifty ends above 22,650 mark; VIX slumps 10.31% - business-standard.com",-0.9642781019210815
-M&M,2026-04-01,Passenger vehicle wholesales rise 16% in March despite West Asia conflict - business-standard.com,0.9304885268211365
-M&M,2025-07-30,MM IN 30Jul25 - bsmedia.business-standard.com,-0.9445530772209167
-M&M,2024-04-23,"India's M&M Financial discovers fraud at one branch, delays Q4 results to May 30 - Reuters",-0.9543057680130005
-M&M,2017-08-18,Mahindra & Mahindra Ltd. - The Economic Times,-0.9208560585975647
-M&M,2017-03-24,"M&M Financial Share Price Today, M&M Financial Stock Price Live NSE/BSE Updates - The Economic Times",-0.9372087717056274
-M&M,2025-05-05,"M&M's Q4 net profit jumps 22% to ₹2,437 crore - ET Auto",0.9416456818580627
-M&M,2021-01-08,"M&M Q1 Results: Profit surges 67% YoY to Rs 1,430 crore but misses estimates - The Economic Times",0.5552651286125183
-M&M,2017-04-10,"M&M Share Price Today, M&M Stock Price Live NSE/BSE Updates - The Economic Times",-0.9348949790000916
-M&M,2020-03-05,"M&M Target Share Price, M&M Share Price Forecast - The Economic Times",-0.9347546696662903
-M&M,2017-07-30,Mahindra & Mahindra Financial Services Ltd. - The Economic Times,-0.9252333641052246
-M&M,2025-02-07,"Mahindra & Mahindra reports strong Q3 FY25 results, consolidated PAT rises 20% - ET Infra",0.9453203082084656
-M&M,2025-07-19,Mahindra & Mahindra - bsmedia.business-standard.com,-0.9480774402618408
-M&M,2017-08-06,Check out Mahindra and Mahindra Ltd's stock price (M&M-IN) in real time - CNBC,-0.9461702108383179
-M&M,2025-02-18,"M&M at its peak – Should you buy, sell, or hold? - ET Auto",-0.9387004971504211
-M&M,2025-11-20,MM IN Equity 20Nov25 CU - bsmedia.business-standard.com,-0.9447919130325317
-M&M,2022-05-28,M&M Q4 FY22 profit up five-fold to INR 1292 crore - ET Auto,0.953921377658844
-M&M,2026-02-11,Mahindra & Mahindra| ADD - bsmedia.business-standard.com,-0.9454814195632935
-M&M,2025-11-21,MM IN 21Nov25 - bsmedia.business-standard.com,-0.9465482831001282
-M&M,2025-05-15,Mahle India receives recognition from M&M for thermal management system - ET Auto,0.9217485785484314
-M&M,2025-07-07,M&M Jun25 BSE.xlsx - bsmedia.business-standard.com,-0.9497236609458923
-M&M,2017-08-09,M&M Chairman Anand Mahindra's salary up by 16.38%in FY17 - ET Auto,0.9533445239067078
-M&M,2024-06-27,M&M Finance CFO Vivek Karve resigns - cfo.economictimes.indiatimes.com,-0.938210666179657
-M&M,2019-12-23,"M&M announces succession plan, appoints & elevates CFO to CEO - cfo.economictimes.indiatimes.com",-0.9415411353111267
-M&M,2025-01-29,M&M Finance appoints Pradeep Kumar Agrawal as CFO - cfo.economictimes.indiatimes.com,-0.9420384168624878
-M&M,2025-06-30,India poised to emerge as global manufacturing powerhouse: M&M Group CEO-MD Anish Shah - cfo.economictimes.indiatimes.com,-0.6873826384544373
-M&M,2025-12-03,mahindra - bsmedia.business-standard.com,-0.9465206265449524
-M&M,2021-08-06,M&M reports Q1 FY22 profit at INR 424 cr - ET Auto,-0.6988385319709778
-M&M,2025-11-03,M&M Q2 Preview: Double-digit revenue growth up to 25% YoY seen on healthy volumes; weak ASP may hit profits - ET Auto,0.6536506414413452
-M&M,2021-08-18,Bosch joins hands with M&M to develop connected vehicle platform for XUV 700 - ET Auto,0.7022879719734192
-M&M,2019-06-27,"Mahindra finance - Latest mahindra finance , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9481440782546997
-M&M,2025-10-09,"M&M denies reports of business restructuring; says no plan to demerge auto, tractor units - ET Auto",-0.8744126558303833
-M&M,2021-08-23,M&M ties up with SBI for small CV financing - ET Auto,0.527344286441803
-M&M,2014-03-15,Mahindra & Mahindra Ltd - bloomberg.com,-0.9420292973518372
-M&M,2017-04-26,"mm: Latest News & Videos, Photos about mm - The Economic Times",-0.9349328279495239
-M&M,2015-03-09,M&M registers the Luna brand - ET Auto,-0.9493022561073303
-M&M,2021-05-18,M&M joins The Valuable 500 initiative to tackle disability inclusion in business - ETHRWorld.com,-0.7496610879898071
-M&M,2025-07-01,India poised to emerge as global manufacturing powerhouse: M&M Group CEO-MD - ET BrandEquity,0.8310978412628174
-M&M,2020-03-22,M&M suspends operations at three locations in Maharashtra - ET Auto,-0.9574540257453918
-M&M,2024-11-08,What is behind M&M’s bullish growth prospects for FY25? - ET Auto,-0.8918256759643555
-M&M,2019-06-03,Headwinds in tractor business may limit gains for M&M - ET Auto,-0.9276377558708191
-M&M,2025-05-13,M&M prefers caution as its mantra while ramping up EV output - ET Auto,-0.8251810073852539
-M&M,2025-02-25,"With BE 6 and XEV 9E, M&M is seeing new dynamics in customer response - ET Auto",0.8707846403121948
-M&M,2017-12-18,Bharatendu Kapoor ends 33-year-long stint with M&M; joins TAFE - ET Auto,-0.8990658521652222
-M&M,2017-03-23,"Tech Mahindra Share Price Today, Tech Mahindra Stock Price Live NSE/BSE Updates - The Economic Times",-0.9400528073310852
-M&M,2018-03-31,"Tata Motors, M&M to faceoff again, this time for electric LCVs - ET Auto",-0.6032570004463196
-M&M,2024-11-13,"With LCVs back on track, M&M has cause for cheer - ET Auto",0.8391099572181702
-M&M,2021-07-13,M&M launches Bolero Neo at a starting price of INR 8.48 lakh - ET Auto,-0.9049644470214844
-M&M,2017-04-23,"M M Rubber Share Price Today, M M Rubber Stock Price Live NSE/BSE Updates - The Economic Times",-0.9385193586349487
-M&M,2021-04-08,New M&M XUV 700 to be revealed in Q2 FY22 - ET Auto,-0.8689921498298645
-M&M,2023-05-18,Indrajeet Sengupta joins M&M Automotive as Chief People Officer - ETHRWorld.com,-0.9377806186676025
-M&M,2025-04-07,"Tata Motors surpasses Hyundai, M&M to claim second spot in March 2025 - ET Auto",0.9017534255981445
-M&M,2024-03-28,Mahindra & Mahindra Share Price - business-standard.com,-0.9409207701683044
-M&M,2021-02-05,"As Manoj Bhat becomes Group CFO of M&M, Tech Mahindra brings back its former CFO, Milind Kulkarni - cfo.economictimes.indiatimes.com",-0.9374834895133972
-M&M,2020-10-30,M&M search for potential investors in e-mobility business may end soon! - ET Auto,-0.9376258850097656
-M&M,2025-06-06,"Snacks like M&M’s, Skittles, and Doritos ‘Not recommended for human consumption’ in US? - ET BrandEquity",-0.9352927803993225
-M&M,2024-06-21,M&M advances digital transformation with Dassault Systemes 3DEXPERIENCE Platform on the Cloud - ET Auto,-0.7559979557991028
-M&M,2025-08-02,Mahindra & Mahindra completes acquisition of 59% stake in SML Isuzu - business-standard.com,-0.9156541228294373
-M&M,2020-10-12,M&M launches BS-VI variant of 3-wheeler brand Alfa - ET Auto,-0.8259643316268921
-M&M,2022-11-02,"M&M reports 60 pc rise in domestic passenger vehicle sales at 32,298 units in Oct - ET Auto",0.9438753128051758
-M&M,2023-03-22,IFC to invest INR 600 crore in M&M’s new last mile mobility company underway - ET Auto,-0.814472496509552
-M&M,2021-07-08,M&M launches new Supro Profit Truck range; price starts at INR 5.40 lakh - ET Auto,-0.7120591402053833
-M&M,2024-12-21,India's SUV King Anand Mahindra admits M&M made a big mistake - ET BrandEquity,-0.8090187907218933
-M&M,2024-03-08,How CIO Rucha Nanavati is helping M&M leverage AI for growth and innovation - ET CIO,-0.8301180601119995
-M&M,2021-07-07,M&M expands farm equipment business in Turkey - ET Auto,0.8433001041412354
-M&M,2024-09-04,"M&M aims for pole position in midsize motorcycles with Classic Legends; in a “marathon,” says Anand Mahi.. - ET Auto",0.5724235773086548
-M&M,2025-04-07,M&M inaugurates Mahindra India Design Studio in Mumbai - ET Auto,-0.9280081391334534
-M&M,2026-03-18,"M&M share price up 8% in 3 days; analysts upbeat on growth, see 49% upside - business-standard.com",0.8828731775283813
-M&M,2025-11-06,"M&M up 3% in subdued market, nears record high; what's driving auto stock? - business-standard.com",-0.5578033328056335
-M&M,2025-11-20,Mahindra Finance up 10% in 4 days; hits new high. Should you buy or hold? - business-standard.com,-0.7291972041130066
-M&M,2025-02-09,M&M looks to boost growth in overseas markets facing headwinds like US - business-standard.com,0.9533542394638062
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+M&M,2020-09-13,M&M's Meru Mobility Tech planning to focus on corporate commuter segment - Business Standard,,2026-10-18,legacy,neutral,0.1135992705821991,0.008025702089071274,0.8783750534057617,0.10557356849312782
+M&M,2020-12-22,"Trading calls by Nilesh Jain of Anand Rathi: Sell Info Edge, M&M Financial - Business Standard",,2026-10-18,legacy,neutral,0.042854998260736465,0.01754394732415676,0.9396010637283325,0.025311050936579704
+M&M,2021-01-08,"M&M Q1 Results: Profit surges 67% YoY to Rs 1,430 crore but misses estimates - The Economic Times",,2026-10-18,legacy,positive,0.5552659630775452,0.3838333189487457,0.06090077385306358,0.17143264412879944
+M&M,2021-05-17,M&M to provide financial aid to families of staff succumbing to Covid - Business Standard,,2026-10-18,legacy,neutral,0.1314365267753601,0.04065888747572899,0.8279045820236206,0.09077763929963112
+M&M,2021-05-28,"Stocks to watch: M&M, Sun Pharma, Eicher Motors, Glenmark Pharma - Business Standard",,2026-10-18,legacy,neutral,0.0377468541264534,0.01730523630976677,0.9449479579925537,0.02044161781668663
+M&M,2022-05-30,M&M looks for global play with revised EV business plan - ET Auto,,2026-10-18,legacy,neutral,0.19814084470272064,0.008247491903603077,0.7936117053031921,0.18989335279911757
+M&M,2022-07-28,M&M Finance posts net profit of Rs 240 cr in Q1; total income rises 14% - Business Standard,,2026-10-18,legacy,positive,0.9466362595558167,0.022836865857243538,0.030526764690876007,0.9237993936985731
+M&M,2022-09-20,M&M to acquire Swaraj Engines' 17.41% stake from Kirloskar Industries - Business Standard,,2026-10-18,legacy,neutral,0.058080293238162994,0.011172528378665447,0.9307471513748169,0.04690776485949755
+M&M,2022-10-04,M&M Finance soars 10% as asset quality improves in September quarter - Business Standard,,2026-10-18,legacy,positive,0.9500152468681335,0.027047324925661087,0.022937491536140442,0.9229679219424725
+M&M,2023-08-01,"M&M July sales: Total sales up 18% YoY to 66,124 units, exports down 9% - Business Standard",,2026-10-18,legacy,positive,0.6816653609275818,0.29705891013145447,0.021275708451867104,0.3846064507961273
+M&M,2023-08-04,"M&M Q1 PAT up 60% to Rs 3,508 cr on strong auto performance, revenue up 19% - Business Standard",,2026-10-18,legacy,positive,0.9560748934745789,0.02039765566587448,0.023527460172772408,0.9356772378087044
+M&M,2023-09-08,Landmark Cars jumps 19%; hits record high on adding M&M to its dealership - Business Standard,,2026-10-18,legacy,positive,0.9389442801475525,0.018128499388694763,0.04292722046375275,0.9208157807588577
+M&M,2023-10-02,"M&M extends maternity leave policy to cover adoption, surrogacy - Business Standard",,2026-10-18,legacy,neutral,0.04366561397910118,0.07156199961900711,0.8847723603248596,-0.02789638563990593
+M&M,2023-10-04,"M&M eyeing global expansion, diversifying ops to boost revenue growth - Business Standard",,2026-10-18,legacy,positive,0.8943405747413635,0.008096269331872463,0.09756316989660263,0.8862443054094911
+M&M,2023-12-13,"M&M, investors to put Rs 875 cr in Classic Legends over next 2-3 years - Business Standard",,2026-10-18,legacy,neutral,0.17807434499263763,0.00826186966150999,0.8136637210845947,0.16981247533112764
+M&M,2024-04-23,"India's M&M Financial discovers fraud at one branch, delays Q4 results to May 30 - Reuters",,2026-10-18,legacy,negative,0.008349038660526276,0.9543057680130005,0.0373452864587307,-0.9459567293524742
+M&M,2024-04-23,"M&M Finance detects Rs 150 cr vehicle loan fraud, postpones board meeting - Business Standard",,2026-10-18,legacy,negative,0.01146205049008131,0.8807586431503296,0.10777927190065384,-0.8692965926602483
+M&M,2024-05-16,"Auto major M&M shifts to high gear with Rs 37,000 crore investments - Business Standard",,2026-10-18,legacy,neutral,0.2453923523426056,0.034550368785858154,0.7200572490692139,0.21084198355674744
+M&M,2024-05-21,"M&M Finance appoints Mahesh Rajaraman as CRO, to replace Mallika Mittal - Business Standard",,2026-10-18,legacy,neutral,0.028704728931188583,0.06704835593700409,0.9042468667030334,-0.038343627005815506
+M&M,2024-07-09,"Tata Motors, M&M slash prices to boost demand amid unsold inventory - Business Standard",,2026-10-18,legacy,negative,0.3308890163898468,0.6250701546669006,0.04404085502028465,-0.29418113827705383
+M&M,2024-07-31,"India's Mahindra & Mahindra posts bigger adjusted profit on strong car, tractor sales - Reuters",,2026-10-18,legacy,positive,0.9420376420021057,0.03152003511786461,0.026442302390933037,0.9105176068842411
+M&M,2024-07-31,M&M net profit slips 6%; CEO says firm will deliver scale in FY25 - Business Standard,,2026-10-18,legacy,negative,0.01919945329427719,0.9661146998405457,0.01468577329069376,-0.9469152465462685
+M&M,2024-07-31,M&M share price up 2% after June quarter performance; topline jumps 11% - Business Standard,,2026-10-18,legacy,positive,0.9455521702766418,0.026483546942472458,0.02796425297856331,0.9190686233341694
+M&M,2024-09-10,'False and misleading': M&M refutes Congress charges of favouring Buchs - Business Standard,,2026-10-18,legacy,negative,0.05449354276061058,0.8291866183280945,0.1163199245929718,-0.7746930755674839
+M&M,2024-12-09,India's M&M renames electric car amid aviation giant IndiGo's trademark challenge - Reuters,,2026-10-18,legacy,neutral,0.046526405960321426,0.13011278212070465,0.823360800743103,-0.08358637616038322
+M&M,2025-02-09,M&M looks to boost growth in overseas markets facing headwinds like US - Business Standard,,2026-10-18,legacy,positive,0.9557552933692932,0.015919331461191177,0.028325332328677177,0.939835961908102
+M&M,2025-02-25,"With BE 6 and XEV 9E, M&M is seeing new dynamics in customer response - ET Auto",,2026-10-18,legacy,positive,0.8707845211029053,0.008136137388646603,0.12107930332422256,0.8626483837142587
+M&M,2025-04-07,"Tata Motors surpasses Hyundai, M&M to claim second spot in March 2025 - ET Auto",,2026-10-18,legacy,positive,0.9017534255981445,0.01222759485244751,0.08601902425289154,0.889525830745697
+M&M,2025-04-23,Why did M&M Financial slip 4% post Q4 results? Here's what brokerages say - Business Standard,,2026-10-18,legacy,neutral,0.0319477915763855,0.22934964299201965,0.7387025952339172,-0.19740185141563416
+M&M,2025-05-02,"M-M Finance to raise ₹3,000 crore through simplified rights issue process - Business Standard",,2026-10-18,legacy,neutral,0.12174072116613388,0.007620330434292555,0.8706389665603638,0.11412039073184133
+M&M,2025-05-05,"M&M's Q4 net profit jumps 22% to ₹2,437 crore - ET Auto",,2026-10-18,legacy,positive,0.9416456818580627,0.03488355502486229,0.023470772430300713,0.9067621268332005
+M&M,2025-05-05,"SUV, tractor fire up M&M earnings, Q4 PAT up 20% at Rs 3,295 crore - Business Standard",,2026-10-18,legacy,positive,0.9511067867279053,0.019672472029924393,0.02922070026397705,0.9314343146979809
+M&M,2025-05-15,Mahle India receives recognition from M&M for thermal management system - ET Auto,,2026-10-18,legacy,positive,0.9217485785484314,0.011053885333240032,0.0671975240111351,0.9106946932151914
+M&M,2025-06-20,"M&M shares up for 3rd straight day, rebounds 34% from April low; here's why - Business Standard",,2026-10-18,legacy,positive,0.9187433123588562,0.0462031252682209,0.0350535586476326,0.8725401870906353
+M&M,2025-07-01,India poised to emerge as global manufacturing powerhouse: M&M Group CEO-MD - ET BrandEquity,,2026-10-18,legacy,positive,0.8310979008674622,0.011277180165052414,0.15762488543987274,0.8198207207024097
+M&M,2025-07-23,"M&M shares hit new high, soar 40% from April low; more upside ahead? - Business Standard",,2026-10-18,legacy,positive,0.8848845362663269,0.04719946160912514,0.06791593879461288,0.8376850746572018
+M&M,2025-07-30,"M&M Q1 net profit surges 24% to ₹4,083 cr on strong auto, tractor sales - ET Auto",,2026-10-18,legacy,positive,0.9477318525314331,0.027904178947210312,0.024363940581679344,0.9198276735842228
+M&M,2025-08-16,"M&M shifts gear for global next-gen SUVs, expanding capacity and sites - Business Standard",,2026-10-18,legacy,positive,0.8870362639427185,0.01360877975821495,0.09935497492551804,0.8734274841845036
+M&M,2025-08-19,"M&M eyes the world for its new SUVs, to reckon with Chinese brands - ET Auto",,2026-10-18,legacy,neutral,0.25555869936943054,0.00862681120634079,0.7358144521713257,0.24693188816308975
+M&M,2025-10-09,"M&M denies reports of business restructuring; says no plan to demerge auto, tractor units - ET Auto",,2026-10-18,legacy,neutral,0.03601695969700813,0.08957014977931976,0.8744128346443176,-0.05355319008231163
+M&M,2025-10-16,"Auto shares in demand; TVS Motor hits new high, M&M, Eicher rally 2% - Business Standard",,2026-10-18,legacy,positive,0.9327332377433777,0.025174370035529137,0.042092423886060715,0.9075588677078485
+M&M,2025-11-13,"M&M, Manulife to form life insurance JV with ₹7,200 crore investment - Business Standard",,2026-10-18,legacy,neutral,0.082264743745327,0.008359390310943127,0.9093759059906006,0.07390535343438387
+M&M,2025-11-20,MM IN Equity 20Nov25 CU - Business Standard,,2026-10-18,legacy,neutral,0.06558170169591904,0.018516412004828453,0.9159018993377686,0.047065289691090584
+M&M,2026-01-29,"M&M, Maruti Suzuki fall another 4%; what's making the Street nervous? - Business Standard",,2026-10-18,legacy,negative,0.010581607930362225,0.9545575976371765,0.03486084192991257,-0.9439759897068143
+M&M,2026-02-12,M&M sees green shoots in US tractor mkt as tariffs ease after trade talks - Business Standard,,2026-10-18,legacy,positive,0.8565414547920227,0.02594478614628315,0.11751376837491989,0.8305966686457396
+M&M,2026-02-23,"M&M, Manulife name Suresh Agarwal MD & CEO designate of life insurance JV - Business Standard",,2026-10-18,legacy,neutral,0.049868445843458176,0.012518695555627346,0.9376128315925598,0.03734975028783083
+M&M,2026-02-26,"Tractor volumes to dip amid weak outlook; HSBC trims M&M, Escorts target - Business Standard",,2026-10-18,legacy,negative,0.026685314252972603,0.9514147639274597,0.02189994975924492,-0.9247294496744871
+M&M,2026-05-04,"Hyundai slips as Tata Motors, Mahindra race ahead in calendar 2026 - ET Auto",,2026-10-18,legacy,negative,0.03276955708861351,0.9439355731010437,0.023294886574149132,-0.9111660160124302
+M&M,2026-05-05,"Indian shares dip, rupee slips to record low on elevated oil prices - Reuters",,2026-10-18,legacy,negative,0.013325062580406666,0.9483414888381958,0.03833334892988205,-0.9350164262577891
+M&M,2026-05-05,"M&M Q4 net profit rises 41.6% to ₹4,667.57 crore; automotive business leads FY26 growth - ET Auto",,2026-10-18,legacy,positive,0.9488312005996704,0.02271934412419796,0.028449395671486855,0.9261118564754725
+M&M,2026-05-05,M&M Q4FY26 results: PAT up 42% on strong momentum across businesses - Business Standard,,2026-10-18,legacy,positive,0.9517914056777954,0.022931914776563644,0.025276701897382736,0.9288594909012318
+M&M,2026-05-05,MM IN EQUITY - Business Standard,,2026-10-18,legacy,neutral,0.03773196041584015,0.020558923482894897,0.9417091012001038,0.01717303693294525
+M&M,2026-05-06,M&M strengthens supply-chain resilience as geopolitical risks persist - Business Standard,,2026-10-18,legacy,positive,0.9482989311218262,0.011980934999883175,0.03972013667225838,0.936317996121943
+M&M,2026-05-07,"Nifty Auto index soars 3%; Hero MotoCorp, M&M, Ashok Leyland rally up to 4% - Business Standard",,2026-10-18,legacy,positive,0.9285366535186768,0.014709282666444778,0.05675407871603966,0.913827370852232
+M&M,2026-05-07,"Will El Niño spoil tractor party? M&M, Escorts Kubota, others in focus - Business Standard",,2026-10-18,legacy,neutral,0.03830650448799133,0.02550335042178631,0.936190128326416,0.012803154066205025
+M&M,2026-05-08,Mahindra & Mahindra strengthens supply chain to tackle global disruptions - supplychain.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.16369913518428802,0.015232003293931484,0.8210688829421997,0.14846713189035654
+M&M,2026-05-11,"With AI building blocks in place, M&M aims for the sky - ET Auto",,2026-10-18,legacy,positive,0.6085774898529053,0.007447804789990187,0.38397470116615295,0.6011296850629151
+M&M,2026-05-12,M&M deploys AI voice agents with ElevenLabs for XUV 7XO launch outreach - ET Auto,,2026-10-18,legacy,neutral,0.18494294583797455,0.006984631530940533,0.8080724477767944,0.17795831430703402
+M&M,2026-07-29,SML Mahindra eyes new heavy trucks after M&M transfers CV business - Business Standard,,2026-10-18,legacy,neutral,0.29656368494033813,0.012165969237685204,0.6912703514099121,0.28439771570265293
+M&M,2026-07-30,Commodity inflation hits M&M’s Q1 margins; doubles down on EV capacity - ET Auto,,2026-10-18,legacy,negative,0.08907575160264969,0.8976824283599854,0.013241731561720371,-0.8086066767573357
+M&M,2026-07-30,"M&M Q1 FY27 profit soars 33% to ₹5,454 crore - ET Auto",,2026-10-18,legacy,positive,0.9274511337280273,0.033840760588645935,0.03870810568332672,0.8936103731393814
+M&M,2026-07-30,"M&M Q1 PAT rises 34% to ₹5,455 crore; revenue grows 28% to ₹58,188 cr - Business Standard",,2026-10-18,legacy,positive,0.9499393701553345,0.023124629631638527,0.02693595178425312,0.926814740523696
+M&M,2026-07-30,"M&M gains after Q1 PAT jumps 33% YoY to Rs 5,454 cr - Business Standard",,2026-10-18,legacy,positive,0.9308065176010132,0.03282227739691734,0.0363711342215538,0.8979842402040958
+M&M,2026-07-30,Mahindra & Mahindra stock gains 4% from day's low post Q1 results - Business Standard,,2026-10-18,legacy,positive,0.9150345921516418,0.059771545231342316,0.025193827226758003,0.8552630469202995
+M&M,2026-07-30,"Mahindra’s AI bet paying off as it nets new customers, shortens product development cycle - ET Auto",,2026-10-18,legacy,positive,0.9123274087905884,0.01568928174674511,0.07198327779769897,0.8966381270438433
+M&M,2026-08-11,M&M production rises 20% YoY in July 2026 - Business Standard,,2026-10-18,legacy,positive,0.9407711625099182,0.021830515936017036,0.03739836812019348,0.9189406465739012
+M&M,2026-08-23,Mahindra bets on 'Scorpio Lifestyler' to drive global export push - ET Auto,,2026-10-18,legacy,positive,0.7969282865524292,0.010102826170623302,0.19296889007091522,0.7868254603818059
+M&M,2026-08-24,14 of 19 auto firms report Q1 margin squeeze as input costs bite - ET Auto,,2026-10-18,legacy,negative,0.010289046913385391,0.9724367260932922,0.017274215817451477,-0.9621476791799068
+M&M,2026-08-27,"M&M’s Hingna tractor plant hit by trainee workers’ strike over pay, job security - ET Auto",,2026-10-18,legacy,negative,0.010974456556141376,0.9541760087013245,0.03484951704740524,-0.9432015521451831
+M&M,2026-10-12,"Asian shares cautious as earnings loom, oil prices slip on easing fears - Business Standard",,2026-10-18,legacy,negative,0.038956016302108765,0.9372960925102234,0.023747943341732025,-0.8983400762081146
+M&M,2026-10-12,Defence startup Tonbo Imaging fixes IPO price band at ₹665-700 a share - Business Standard,,2026-10-18,legacy,neutral,0.047471318393945694,0.07898738235235214,0.8735412359237671,-0.03151606395840645
+M&M,2026-10-12,Lenskart slips 5% on huge block deals; Alpha Wave Venture likely seller - Business Standard,,2026-10-18,legacy,negative,0.03382256254553795,0.927884578704834,0.03829297423362732,-0.894062016159296
+M&M,2026-10-12,Northeast monsoon onset over southern peninsula likely in 2-3 days: IMD - Business Standard,,2026-10-18,legacy,neutral,0.03439129889011383,0.04009198397397995,0.9255167245864868,-0.005700685083866119
+M&M,2026-10-12,RBL Bank Q2FY27 results: Net profit rises 2.7-fold to ₹482 crore - Business Standard,,2026-10-18,legacy,positive,0.9498711228370667,0.025804057717323303,0.02432475984096527,0.9240670651197433
+M&M,2026-10-12,Rupee opens over 1% higher at 95.73 on RBI measures to curb dollar demand - Business Standard,,2026-10-18,legacy,positive,0.8597728610038757,0.10002829879522324,0.04019880294799805,0.7597445622086525
+M&M,2026-10-12,Sebi nudges brokerage firms to join return verification platform - Business Standard,,2026-10-18,legacy,neutral,0.15882356464862823,0.009205082431435585,0.8319713473320007,0.14961848221719265
+M&M,2026-10-12,"Stocks to watch: HCLTech, DMart, M&M, Adani Green, KEC Int'l, ICICI Pru - Business Standard",,2026-10-18,legacy,neutral,0.04542894288897514,0.014763463288545609,0.9398075938224792,0.030665479600429535
+M&M,2026-10-12,Suzlon jumps 5% on ₹550 cr investment plan; MOFSL says valuation attractive - Business Standard,,2026-10-18,legacy,positive,0.9450476765632629,0.01759704202413559,0.03735533356666565,0.9274506345391273
+M&M,2026-10-13,"Auto stocks correct up to 30% despite resilient demand; M&M, Hero MotoCorp trade at lowest valuations: Repor.. - ET Auto",,2026-10-18,legacy,negative,0.3699851334095001,0.5165810585021973,0.11343380808830261,-0.14659592509269714
+M&M,2026-10-13,Average loan size for PVs rises 49% to ₹8.2 lakh in 7 years: Report - Business Standard,,2026-10-18,legacy,positive,0.9163376092910767,0.015861570835113525,0.06780079007148743,0.9004760384559631
+M&M,2026-10-13,"HCLTech's next test: Sustaining margins, deal momentum amid rich valuations - Business Standard",,2026-10-18,legacy,positive,0.8944287896156311,0.00867521669715643,0.09689591079950333,0.8857535729184747
+M&M,2026-10-13,ICICI Life Insurance share price drops 4% from day's high post Q2 results - Business Standard,,2026-10-18,legacy,negative,0.00928393192589283,0.9709785580635071,0.019737567752599716,-0.9616946261376143
+M&M,2026-10-13,Jim Cramer talks what is driving the selling in semiconductors - CNBC,,2026-10-18,legacy,neutral,0.03813924640417099,0.045677606016397476,0.9161831736564636,-0.007538359612226486
+M&M,2026-10-13,Tech Mahindra Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.0442095510661602,0.04100244492292404,0.914788007736206,0.0032071061432361603
+M&M,2026-10-14,"Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing' - CNBC",,2026-10-18,legacy,negative,0.011572141200304031,0.941124439239502,0.04730349779129028,-0.9295522980391979
+M&M,2026-10-14,"If a market can change stripes every day, it's hard to have conviction, says Jim Cramer - CNBC",,2026-10-18,legacy,neutral,0.040533553808927536,0.14940106868743896,0.8100653886795044,-0.10886751487851143
+M&M,2026-10-15,Hyundai’s long drive in India: 30 years and counting - ET Auto,,2026-10-18,legacy,neutral,0.11204861104488373,0.011700949631631374,0.8762503862380981,0.10034766141325235
+M&M,2026-10-15,"Mahindra XUV 3XO CNG gets twin-cylinder setup to save boot space: Price, mileage explained - Livemint",Livemint,2026-10-19,live,neutral,0.22464928030967712,0.012474630028009415,0.762876033782959,0.2121746502816677
+M&M,2026-10-15,"Mahindra XUV 3XO CNG launched at Rs 9.99 lakh, check price, mileage, variants, features - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03265369310975075,0.01991530880331993,0.9474309682846069,0.012738384306430817
+M&M,2026-10-15,Mahindra launches XUV 3XO CNG at ₹9.99 lakh - ET Auto,ET Auto,2026-10-19,live,neutral,0.1082584336400032,0.019651351496577263,0.872090220451355,0.08860708214342594
+M&M,2026-10-15,Palo Alto Networks CEO Nikesh Arora: Our security response time has to get faster as AI gets faster - CNBC,,2026-10-18,legacy,neutral,0.09121359884738922,0.0170100349932909,0.8917763829231262,0.07420356385409832
+M&M,2026-10-15,"Q2 results: Tech Mahindra dividend, bonus shares - Double delight for 7 lakh investors | Payout, ratio, record date - Livemint",Livemint,2026-10-19,live,positive,0.7875210642814636,0.01417162548750639,0.19830730557441711,0.7733494387939572
+M&M,2026-10-15,"TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter - CNBC",,2026-10-18,legacy,neutral,0.12936007976531982,0.42105287313461304,0.44958698749542236,-0.2916927933692932
+M&M,2026-10-15,Tech Mahindra maintains edge over Wipro in September quarter - Livemint,Livemint,2026-10-19,live,positive,0.928442120552063,0.018700050190091133,0.052857864648103714,0.9097420703619719
+M&M,2026-10-16,A 30% salary hike or bedtime with his toddler? Parent's career dilemma sparks debate over the real cost of switching job - Livemint,Livemint,2026-10-19,live,negative,0.01426374725997448,0.9006429314613342,0.08509331941604614,-0.8863791842013597
+M&M,2026-10-16,"Abakkus Flexi Cap Fund September portfolio: 35 stocks, including Groww and NTPC, see higher holdings - Livemint",Livemint,2026-10-19,live,neutral,0.04499587416648865,0.021412545815110207,0.9335916042327881,0.02358332835137844
+M&M,2026-10-16,"Are Indians investing more, or are asset-rich Indians getting richer? Zerodha's Nithin Kamath sparks debate online - Livemint",Livemint,2026-10-19,live,neutral,0.11920282244682312,0.014324176125228405,0.8664730191230774,0.10487864632159472
+M&M,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.73710036277771,0.07562077045440674,0.1872788965702057,0.6614795923233032
+M&M,2026-10-16,Global investors firm India BFSI bets with over $20 bn in deals since 2025 - Business Standard,Business Standard,2026-10-19,live,neutral,0.490072101354599,0.015067912638187408,0.4948599636554718,0.4750041887164116
+M&M,2026-10-16,"Govt issues notification on PM CARES scholarship, spells out rules for children without Aadhaar - Livemint",Livemint,2026-10-19,live,neutral,0.022501494735479355,0.10388093441724777,0.8736175894737244,-0.08137943968176842
+M&M,2026-10-16,Maruti Suzuki reclaims 40% market share in H1 FY27; Tata overtakes Mahindra as Hyundai slips - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.3056502044200897,0.27028337121009827,0.424066424369812,0.035366833209991455
+M&M,2026-10-16,"Mutual funds stop bulk subscriptions to gold ETFs: Check what's changed, and what happens to your existing SIPs - Livemint",Livemint,2026-10-19,live,neutral,0.023761199787259102,0.07941284030675888,0.8968259692192078,-0.05565164051949978
+M&M,2026-10-16,"Nilesh Shah of Kotak says easing tax burden may help attract foreign flows, but won't be enough - Livemint",Livemint,2026-10-19,live,positive,0.9178300499916077,0.023365678265690804,0.058804258704185486,0.8944643717259169
+M&M,2026-10-16,"TCS vs HCL Tech vs Tech Mahindra vs Wipro: Which IT stock won Q2 results 2026? AI revenue, deal wins compared - Livemint",Livemint,2026-10-19,live,positive,0.7958599328994751,0.010566869750618935,0.19357317686080933,0.7852930631488562
+M&M,2026-10-16,"Tech Mahindra dividend, bonus share 2026: Double delight for investors this Diwali | Should you buy ahead of record date - Livemint",Livemint,2026-10-19,live,neutral,0.14609266817569733,0.012494491413235664,0.8414127826690674,0.13359817676246166
+M&M,2026-10-16,"Tech Mahindra up 7% after Q2 results, dividend, bonus shares announced- Buy, sell or hold? Check target prices, ratings - Livemint",Livemint,2026-10-19,live,positive,0.9211407899856567,0.015562450513243675,0.06329677253961563,0.9055783394724131
+M&M,2026-10-16,"Worst over for IT stocks? Experts analyse Q2 results of TCS, HCL, Tech Mahindra and others, suggest top picks - Livemint",Livemint,2026-10-19,live,neutral,0.07428561896085739,0.029174959287047386,0.8965393900871277,0.045110659673810005
+M&M,2026-10-17,"8th Pay Commission: What central government employees need to know about OPS, NPS and UPS - Livemint",Livemint,2026-10-19,live,neutral,0.028637472540140152,0.03546885401010513,0.935893714427948,-0.006831381469964981
+M&M,2026-10-17,AI fears are rocking markets. The brave should buy the dips. - Livemint,Livemint,2026-10-19,live,neutral,0.056585490703582764,0.08270009607076645,0.8607144355773926,-0.026114605367183685
+M&M,2026-10-17,"Centre caps trade margins on 137 cancer drugs, prices likely to fall by up to 70% - Livemint",Livemint,2026-10-19,live,negative,0.025702763348817825,0.9414757490158081,0.03282155469059944,-0.9157729856669903
+M&M,2026-10-17,Cyber fraud alert: SBI warns about AI voice-cloning scams — 5 ways to protect your money - Livemint,Livemint,2026-10-19,live,neutral,0.04095199331641197,0.107304647564888,0.8517433404922485,-0.06635265424847603
+M&M,2026-10-17,DA hike after Dussehra: Will central government employees get good news in October? - What we know so far - Livemint,Livemint,2026-10-19,live,neutral,0.14323613047599792,0.018692951649427414,0.8380709290504456,0.12454317882657051
+M&M,2026-10-17,"DA news: Key salary components explained — We breakdown the differences between your DA, DR and HRA - Livemint",Livemint,2026-10-19,live,neutral,0.06268568336963654,0.022850222885608673,0.9144641160964966,0.03983546048402786
+M&M,2026-10-17,Dearness Allowance hike 2026: Will the Centre announce the July DA revision before Diwali? What history suggests - Livemint,Livemint,2026-10-19,live,neutral,0.04557699337601662,0.02012808993458748,0.9342949390411377,0.025448903441429138
+M&M,2026-10-17,"Dividend alert: IRFC, Tech Mahindra, ICICI Prudential AMC, among 11 stocks to watch next week: Check record date, payout - Livemint",Livemint,2026-10-19,live,neutral,0.06615140289068222,0.014245400205254555,0.919603168964386,0.051906002685427666
+M&M,2026-10-17,EPFO VISHWAS 2026 explained: How employers can settle pending Section 14B penal damages - Livemint,Livemint,2026-10-19,live,neutral,0.023532157763838768,0.10424035042524338,0.8722274899482727,-0.08070819266140461
+M&M,2026-10-17,"EPFO explains new rules for EPF advances: Check withdrawal limits, conditions and forms - Livemint",Livemint,2026-10-19,live,neutral,0.03077017515897751,0.019985830411314964,0.9492440223693848,0.010784344747662544
+M&M,2026-10-17,"Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint",Livemint,2026-10-19,live,neutral,0.035794131457805634,0.10830545425415039,0.8559004068374634,-0.07251132279634476
+M&M,2026-10-17,Government employees await July 2026 Dearness Allowance hike: Check DA and DR announcement dates for the last 5 years - Livemint,Livemint,2026-10-19,live,neutral,0.02553291991353035,0.040387824177742004,0.9340792298316956,-0.014854904264211655
+M&M,2026-10-17,"Home loan alert: SBI, PNB and 4 other banks revise lending rates — how borrowers may be affected - Livemint",Livemint,2026-10-19,live,neutral,0.024810796603560448,0.061563506722450256,0.9136257171630859,-0.03675271011888981
+M&M,2026-10-17,How SBI’s failure to inform a retired scientist about FD maturity cost it ₹15.35 lakh; details of the case here - Livemint,Livemint,2026-10-19,live,neutral,0.021422121673822403,0.2577233910560608,0.7208544611930847,-0.2363012693822384
+M&M,2026-10-17,"India Post sanctions 60 days’ Productivity Linked Bonus: Check employee eligibility, salary limits and calculation rules - Livemint",Livemint,2026-10-19,live,neutral,0.022283000871539116,0.05512169748544693,0.9225952625274658,-0.032838696613907814
+M&M,2026-10-17,Looking to purchase gold this festive season? Here's how to directly avail Tyohar BharatPe Gold Offer - Livemint,Livemint,2026-10-19,live,neutral,0.06310613453388214,0.012558693066239357,0.9243351817131042,0.050547441467642784
+M&M,2026-10-17,"Mahindra Oct discounts: Scorpio N gets up to up to ₹1.5 lakh, Thar ₹80,000, XUV 3XO ₹60,000 off; check model-wise offers - Livemint",Livemint,2026-10-19,live,positive,0.8773666024208069,0.01870758645236492,0.10392577946186066,0.858659015968442
+M&M,2026-10-17,North Korea says it tested new torpedo system with AI capabilities - Livemint,Livemint,2026-10-19,live,positive,0.6407976746559143,0.010438968427479267,0.3487633466720581,0.630358706228435
+M&M,2026-10-17,Parag Parikh Flexi Cap Fund cash falls to 9.77% after Rajeev Thakkar's ‘single-digit’ outlook: Where is the money going? - Livemint,Livemint,2026-10-19,live,negative,0.009131036698818207,0.9584717750549316,0.03239724040031433,-0.9493407383561134
+M&M,2026-10-17,Parag Parikh Flexi Cap Fund cuts cash holdings from 19% to under 10%: Where is it finding investment... - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.05758173391222954,0.7077802419662476,0.2346380650997162,-0.650198508054018
+M&M,2026-10-17,"Regular vs step-up SIPs: Do ₹1,000 and 10% annual top-ups give you higher XIRR returns or just create a larger corpus? - Livemint",Livemint,2026-10-19,live,neutral,0.12621665000915527,0.011480691842734814,0.8623026609420776,0.11473595816642046
+M&M,2026-10-17,"SC says internet access is a fundamental right, rejects blanket ban for children: ‘Safety and freedom are not at odds’ - Livemint",Livemint,2026-10-19,live,neutral,0.09607412666082382,0.018202364444732666,0.8857235312461853,0.07787176221609116
+M&M,2026-10-17,SGB 2020-21 Series VII: Investors to pocket 192% gains on premature redemption; RBI fixes October 19 date - Livemint,Livemint,2026-10-19,live,positive,0.5543224811553955,0.026561208069324493,0.4191162884235382,0.527761273086071
+M&M,2026-10-17,Using two health insurance policies for one hospital bill? Are you aware of these claim rejection traps? - Livemint,Livemint,2026-10-19,live,neutral,0.02995999902486801,0.09158152341842651,0.8784584403038025,-0.0616215243935585
+M&M,2026-10-17,Why Facundo Bernal's headbutt on Lamine Yamal earned a red card and sparked debate in Real Betis vs Barcelona - Livemint,Livemint,2026-10-19,live,negative,0.03874144330620766,0.8442487716674805,0.11700979620218277,-0.8055073283612728
+M&M,2026-10-17,₹9 lakh in Post Office MIS vs ₹9 lakh in bank FD: Which gives a higher monthly income? - Livemint,Livemint,2026-10-19,live,neutral,0.1295734941959381,0.02618788182735443,0.8442385792732239,0.10338561236858368
+M&M,2026-10-18,7th Pay Commission: BSNL employees seek wage revision; management assures festival advance in 2 months - Livemint,Livemint,2026-10-19,live,negative,0.07229255884885788,0.7610014081001282,0.16670607030391693,-0.6887088492512703
+M&M,2026-10-18,"8th Pay Commission: How salaries change at fitment factors of 4, 3.833 and 3.80; Check complete calculations - Livemint",Livemint,2026-10-19,live,neutral,0.026975730434060097,0.03878628462553024,0.9342380166053772,-0.011810554191470146
+M&M,2026-10-18,"8th pay commission: Official state visit to Mumbai planned this week — Here's all we know about meetings, agenda - Livemint",Livemint,2026-10-19,live,neutral,0.024871855974197388,0.031042130663990974,0.944085955619812,-0.006170274689793587
+M&M,2026-10-18,AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks - Livemint,Livemint,2026-10-19,live,neutral,0.15265366435050964,0.020505521446466446,0.826840877532959,0.1321481429040432
+M&M,2026-10-18,"Aadhaar update: Want to change your name, address or date of birth? Check UIDAI's list of accepted documents - Livemint",Livemint,2026-10-19,live,neutral,0.018043559044599533,0.045676589012145996,0.9362798929214478,-0.027633029967546463
+M&M,2026-10-18,Autumn skincare: How to protect your skin from dryness and pollution - Livemint,Livemint,2026-10-19,live,neutral,0.06275562196969986,0.01641876995563507,0.9208256006240845,0.04633685201406479
+M&M,2026-10-18,Best-performing SIFs: Quant leads hybrid long-short funds with 25.5% returns in 6 months; check how peers performed - Livemint,Livemint,2026-10-19,live,neutral,0.31791767477989197,0.00929355900734663,0.6727887392044067,0.30862411577254534
+M&M,2026-10-18,Climbing the Shining Mountain: How a 1976 climb in Garhwal changed Himalayan mountaineering forever - Livemint,Livemint,2026-10-19,live,neutral,0.1284753680229187,0.01734766736626625,0.854176938533783,0.11112770065665245
+M&M,2026-10-18,Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - Livemint,Livemint,2026-10-19,live,positive,0.8305219411849976,0.012056343257427216,0.15742167830467224,0.8184655979275703
+M&M,2026-10-18,DA hike before Diwali 2026: How much extra salary could central government employees get if DA rises to 63%? - Livemint,Livemint,2026-10-19,live,neutral,0.23255343735218048,0.02355491742491722,0.7438916563987732,0.20899851992726326
+M&M,2026-10-18,"Dalal Street Week Ahead: Jio IPO, Q2 earnings, China GDP, oil prices, PMI flash numbers among 10 key... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03906308114528656,0.041078124195337296,0.9198587536811829,-0.0020150430500507355
+M&M,2026-10-18,"EPFO scheme offers up to ₹15,000 to first-time employees: Check eligibility, salary limit and payment rules - Livemint",Livemint,2026-10-19,live,neutral,0.06295184791088104,0.011000827886164188,0.9260473251342773,0.051951020024716854
+M&M,2026-10-18,"EPFO: How to check status, EPF account passbook on official portal, Umang app, SMS, Missed Call, WhatsApp—Stepwise guide - Livemint",Livemint,2026-10-19,live,neutral,0.05301089957356453,0.01584567315876484,0.9311434626579285,0.03716522641479969
+M&M,2026-10-18,"Eating out with family for Diwali, Dussehra? Here's why your restaurant bills may go up by 10-15% this festive season - Livemint",Livemint,2026-10-19,live,positive,0.7849931716918945,0.035523977130651474,0.17948289215564728,0.7494691945612431
+M&M,2026-10-18,FD maturity mistake: Fixed deposit matured but you forgot to withdraw money? What happens to your amount? Renew or not? - Livemint,Livemint,2026-10-19,live,neutral,0.028002483770251274,0.043247632682323456,0.9287498593330383,-0.015245148912072182
+M&M,2026-10-18,"Income Tax New TDS Form 141: How it simplifies tax deduction at source compliance for property transactions, rent, etc - Livemint",Livemint,2026-10-19,live,neutral,0.05907716602087021,0.013225287199020386,0.9276975989341736,0.04585187882184982
+M&M,2026-10-18,Income tax audit last date: 21 Oct is deadline; last-minute checklist for taxpayers before submission | List from expert - Livemint,Livemint,2026-10-19,live,neutral,0.01718260534107685,0.050264280289411545,0.9325531125068665,-0.033081674948334694
+M&M,2026-10-18,Income tax on property buying: Over ₹30 lakh deal? Experts suggest what to report in realty purchases to avoid taxmen - Livemint,Livemint,2026-10-19,live,neutral,0.034806396812200546,0.02528478391468525,0.9399088025093079,0.009521612897515297
+M&M,2026-10-18,"India's exports to West Asia recover from US-Iran war shock in April-August; shipments to Africa, ASEAN rise - Livemint",Livemint,2026-10-19,live,positive,0.9410450458526611,0.02372382953763008,0.03523104637861252,0.917321216315031
+M&M,2026-10-18,"India’s Revolut or Nubank will emerge from a bank, not a fintech: Slice CEO Rajan Bajaj - Livemint",Livemint,2026-10-19,live,neutral,0.10339673608541489,0.009098122827708721,0.8875051140785217,0.09429861325770617
+M&M,2026-10-18,Insurance reforms: Why claims matter more than distribution costs - Livemint,Livemint,2026-10-19,live,neutral,0.05614390969276428,0.02345406264066696,0.9204020500183105,0.03268984705209732
+M&M,2026-10-18,Manu Joseph: The poor have a right to fun—why don't the rich understand that? - Livemint,Livemint,2026-10-19,live,neutral,0.04929675534367561,0.024004168808460236,0.9266991019248962,0.025292586535215378
+M&M,2026-10-18,Mint Explainer: What’s at stake for consumer companies this festive season? - Livemint,Livemint,2026-10-19,live,neutral,0.02961095981299877,0.03994834050536156,0.9304407238960266,-0.010337380692362785
+M&M,2026-10-18,"Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint",Livemint,2026-10-19,live,positive,0.6336671710014343,0.028063256293535233,0.33826959133148193,0.6056039147078991
+M&M,2026-10-18,NFL confirms Steelers vs Saints Paris game will go ahead on October 25 amid France protests - Livemint,Livemint,2026-10-19,live,neutral,0.04077371954917908,0.04086553305387497,0.918360710144043,-9.181350469589233e-05
+M&M,2026-10-18,"NRI's ₹3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT gives relief - Livemint",Livemint,2026-10-19,live,negative,0.06317933648824692,0.4893200993537903,0.4475005567073822,-0.42614076286554337
+M&M,2026-10-18,"No ITR filed, but ITAT Jaipur still quashed the 200% income tax penalty: Here's what the taxpayer did to win the case - Livemint",Livemint,2026-10-19,live,neutral,0.09165002405643463,0.037385810166597366,0.8709641695022583,0.054264213889837265
+M&M,2026-10-18,"Stock split, bonus, dividend, buyback record date in 19-25Oct week: Angel One, JSW, IRFC, Tech Mahindra, Modison, others - Livemint",Livemint,2026-10-19,live,neutral,0.11055761575698853,0.013497443869709969,0.875944972038269,0.09706017188727856
+M&M,2026-10-18,"The week ahead in numbers: Jio’s mega IPO, forex reserves, Q2 earnings report - Livemint",Livemint,2026-10-19,live,neutral,0.043143779039382935,0.025417283177375793,0.9314389228820801,0.01772649586200714
+M&M,2026-10-18,"Train ticket insurance from October 27: Is it mandatory, what is the current premium, coverage and claim process? - Livemint",Livemint,2026-10-19,live,neutral,0.028706269338726997,0.02298029512166977,0.9483134150505066,0.005725974217057228
+M&M,2026-10-18,Trump's approval is just 33% — but these 3 other poll numbers may worry Republicans more - Livemint,Livemint,2026-10-19,live,neutral,0.0417468287050724,0.24176983535289764,0.7164832949638367,-0.20002300664782524
+M&M,2026-10-18,"Using Buying Now, Pay Later (BNPL) for Diwali, Dussehra, and Dhanteras online shopping? Are you aware of these 5 risks? - Livemint",Livemint,2026-10-19,live,neutral,0.057413555681705475,0.023272603750228882,0.9193137884140015,0.03414095193147659
+M&M,2026-10-18,"Want to retire early? How to split ₹1 lakh in monthly investments between short-term goals and FIRE, expert explains - Livemint",Livemint,2026-10-19,live,neutral,0.07719820737838745,0.012526783160865307,0.9102749824523926,0.06467142421752214
+M&M,2026-10-18,What's wrong with calling it an 'AI race'? A lot—and India should reject this notion outright - Livemint,Livemint,2026-10-19,live,neutral,0.035711269825696945,0.09112422168254852,0.8731644749641418,-0.05541295185685158
+M&M,2026-10-18,"Why Trump’s 'dealmaker' image faces scrutiny as Iran, Ukraine wars test his negotiating skills - Livemint",Livemint,2026-10-19,live,neutral,0.04889746382832527,0.16670164465904236,0.7844008803367615,-0.11780418083071709
+M&M,2026-10-18,Yes Bank AT-1 verdict: Does this instrument fulfil the purpose it was originally designed for? - Livemint,Livemint,2026-10-19,live,neutral,0.07283554971218109,0.012212811037898064,0.9149516820907593,0.06062273867428303
+M&M,2026-10-18,"₹50,000 in KVP vs ₹50,000 in NSC: Which post office scheme is better for a five-year goal? Check out the calculations - Livemint",Livemint,2026-10-19,live,neutral,0.1011575385928154,0.019315024837851524,0.8795274496078491,0.08184251375496387
+M&M,2026-10-19,8th Pay Commission: What is dearness relief and how is it different from DA? Expert explains - Livemint,Livemint,2026-10-19,live,neutral,0.047532349824905396,0.02110881172120571,0.931358814239502,0.026423538103699684
+M&M,2026-10-19,A hedge-fund billionaire’s two bitter wars—against his wife and his business partner - Livemint,Livemint,2026-10-19,live,negative,0.09851834177970886,0.4784472584724426,0.4230344593524933,-0.37992891669273376
+M&M,2026-10-19,Anthropics IPO Dreams May Be Eclipsed By the Cloud - Livemint,Livemint,2026-10-19,live,neutral,0.059470657259225845,0.061043377965688705,0.8794859051704407,-0.00157272070646286
+M&M,2026-10-19,Can LTM’s pivot towards shorter-tenure AI deals accelerate revenue growth in H2? - Livemint,Livemint,2026-10-19,live,positive,0.658255398273468,0.009167712181806564,0.33257684111595154,0.6490876860916615
+M&M,2026-10-19,FCNR inflows ease liquidity constraints but weigh on private banks’ margins - Livemint,Livemint,2026-10-19,live,negative,0.16623130440711975,0.49648648500442505,0.3372822403907776,-0.3302551805973053
+M&M,2026-10-19,Frail Indonesian markets reel after MSCI shock warning - Livemint,Livemint,2026-10-19,live,negative,0.120093435049057,0.7937777638435364,0.08612876385450363,-0.6736843287944794
+M&M,2026-10-19,"Gold, silver prices today, 19 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",Livemint,2026-10-19,live,neutral,0.07737727463245392,0.02003602869808674,0.9025866389274597,0.05734124593436718
+M&M,2026-10-19,Japan PM Takaichi’s Public Support Slips After Cabinet Scandal - Livemint,Livemint,2026-10-19,live,negative,0.018056439235806465,0.9463640451431274,0.03557950630784035,-0.928307605907321
+M&M,2026-10-19,Noise COO Utsav Malhotra: ‘Your career is not a sprint or marathon. It’s a test match’ - Livemint,Livemint,2026-10-19,live,neutral,0.05406563729047775,0.020867787301540375,0.9250665307044983,0.03319784998893738
+M&M,2026-10-19,"PNB has comfortable capital buffer, targets 15% credit growth this year, says CEO Chandra - Livemint",Livemint,2026-10-19,live,positive,0.9346727132797241,0.010370835661888123,0.054956529289484024,0.924301877617836
+M&M,2026-10-19,Parag Parikh Flexi Cap inflows fall 77% since March: How has Rajeev Thakkar changed the Rs 1.45 lakh crore... - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.0209468062967062,0.8774703741073608,0.10158280283212662,-0.8565235678106546
+M&M,2026-10-19,Putin floats a summit with Trump and Xi to decide Ukraine’s fate - Livemint,Livemint,2026-10-19,live,neutral,0.10922819375991821,0.01445893943309784,0.8763128519058228,0.09476925432682037
+M&M,2026-10-19,"Quick commerce, uncertain demand push up festive borrowing for consumer brands - Livemint",Livemint,2026-10-19,live,positive,0.8684275150299072,0.012179131619632244,0.11939328908920288,0.856248383410275
+M&M,2026-10-19,Tata Sons breaks from the past and drops Article 118 reference in Chandrasekaran’s third-term resolution - Livemint,Livemint,2026-10-19,live,neutral,0.026735791936516762,0.2017495483160019,0.7715146541595459,-0.17501375637948513
+M&M,2026-10-19,The AI stock market wobble is a reminder: This time isn’t different - Livemint,Livemint,2026-10-19,live,neutral,0.043631553649902344,0.16439835727214813,0.7919700741767883,-0.12076680362224579
+M&M,2026-10-19,The deadly 1.5-mile corridor that shows the fatal flaw in America’s road design - Livemint,Livemint,2026-10-19,live,neutral,0.09331399202346802,0.051436156034469604,0.8552498817443848,0.04187783598899841
+M&M,2026-10-19,UBS capital rules have Swiss stuck between a rock and a hard place - Livemint,Livemint,2026-10-19,live,neutral,0.027763331308960915,0.437351793050766,0.5348849296569824,-0.4095884617418051
+M&M,2026-10-19,Veteran SIP investors not deterred by stagnant market: Kotak Mahindra's's Harsha Upadhyaya - Livemint,Livemint,2026-10-19,live,neutral,0.11667925119400024,0.3652787506580353,0.5180420279502869,-0.24859949946403503
+M&M,2026-10-19,What is a ‘boss scam’? 5 ways to protect yourself from CEO fraud - Livemint,Livemint,2026-10-19,live,neutral,0.03134976327419281,0.06962459534406662,0.8990256786346436,-0.03827483206987381
+M&M,2026-10-19,Will easing tax burden bring back foreign investors? Nilesh Shah says… - Livemint,Livemint,2026-10-19,live,neutral,0.39891478419303894,0.01402370911091566,0.5870615243911743,0.3848910750821233

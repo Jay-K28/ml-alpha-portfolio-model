@@ -207,3 +207,11 @@ marimo/_lsp/
 __marimo__/
 
 notebooks/*.csv
+
+
+# ML Alpha data pipeline
+data/
+data_backup/
+logs/
+notebooks/data/
+*.csv.tmp

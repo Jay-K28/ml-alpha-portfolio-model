@@ -1,101 +1,181 @@
-ticker,date,headline,sentiment_score
-MARUTI,2026-04-01,"maruti q3 results fy26: Latest News & Videos, Photos about maruti q3 results fy26 - The Economic Times",-0.9347836375236511
-MARUTI,2026-04-03,"Maruti Suzuki India aims for 8,000 service touchpoints by FY31: MD & CEO - business-standard.com",-0.9120271801948547
-MARUTI,2007-09-28,Discount schemes help Maruti beat interest rate blues - The Economic Times,-0.7749465703964233
-MARUTI,2026-04-01,Maruti Suzuki may raise prices as Iran conflict drives up commodity costs - business-standard.com,-0.7081301808357239
-MARUTI,2026-04-03,"Maruti Suzuki adds 502 service outlets in FY26, targets network of 8,000 by 2031 - ET Auto",-0.6230528354644775
-MARUTI,2026-04-01,Maruti Suzuki exports jump 34% to record 4.47 lakh units in FY26 - ET Auto,0.9467467665672302
-MARUTI,2026-04-01,Maruti Suzuki elevates Alok Jaitley to Executive Officer – Homologation - ET Auto,-0.8454933762550354
-MARUTI,2026-04-05,Suzuki Motorcycle India aims to contribute more to parent's 2W sales: MD - business-standard.com,-0.5148515701293945
-MARUTI,2026-04-01,"Gas shortage no hurdle as March PV sales hit record high; Maruti Suzuki, Tata Motors lead pack - ET Auto",0.7625918984413147
-MARUTI,2026-04-01,India's Maruti Suzuki warns of price hikes as Gulf war raises costs - Reuters,-0.7752692103385925
-MARUTI,2026-04-03,Auto companies cite cost pressure amid strong dispatches - ET BrandEquity,-0.9534473419189453
-MARUTI,2026-04-07,Local wheels ride smooth on country roads as Indian carmakers overtake foreign rivals - ET Auto,0.6199555993080139
-MARUTI,2026-04-02,Auto cos cite cost pressure amid strong dispatches - ET Auto,-0.9334271550178528
-MARUTI,2026-04-01,Passenger vehicle wholesales rise 16% in March despite West Asia conflict - business-standard.com,0.9304885268211365
-MARUTI,2026-04-01,"EV sales surge in March on discounts, price hike fears - ET Infra",0.8796299695968628
-MARUTI,2026-04-01,"ADAS, AI safety and cybersecurity take centre stage - ET Auto",-0.8657357692718506
-MARUTI,2026-04-06,"West Asia turmoil may disrupt auto supply chains, push up costs: FADA - ET Auto",-0.9282898306846619
-MARUTI,2026-04-06,"Clean mobility surge: EV, hybrid & CNG cars capture nearly 30% of India's auto market in FY26 - ET Auto",0.6630492210388184
-MARUTI,2026-03-30,"Indian shares log worst fiscal since 2020 as foreign exodus, war, trade woes bite - Reuters",-0.9501345753669739
-MARUTI,2026-04-03,Lucid misses first-quarter vehicle delivery estimates on supplier disruptions - Reuters,-0.905379593372345
-MARUTI,2026-04-06,"kseab karnataka gov in: Latest News & Videos, Photos about kseab karnataka gov in - The Economic Times",-0.9365240335464478
-MARUTI,2026-04-06,"maharashtra rte merit list 2026: Latest News & Videos, Photos about maharashtra rte merit list 2026 - The Economic Times",-0.9367055892944336
-MARUTI,2026-04-06,"puc result 2026: Latest News & Videos, Photos about puc result 2026 - The Economic Times",-0.936823308467865
-MARUTI,2026-04-04,Gujarat's Sanand & MBSIR emerge as EV manufacturing hubs with new incentives - ET Auto,0.931510329246521
-MARUTI,2026-04-02,Auto sector set for strong growth despite export headwinds: Nuvama - ET Auto,0.9474315047264099
-MARUTI,2026-04-04,India extends duty-free yellow peas imports until March 2027 - Reuters,-0.9099314212799072
-MARUTI,2026-04-01,EV Sales Step on Gas to Steal March Show - ET BrandEquity,-0.7715578675270081
-MARUTI,2026-04-03,North Western Railway to run special trains until July 15 amid summer rush - business-standard.com,-0.9339516758918762
-MARUTI,2026-04-01,Indigo to raise ticket prices again starting April 2 as ATF costs surge - business-standard.com,-0.8587287664413452
-MARUTI,2026-04-03,Ola Electric receives PLI certification for Roadster X+ 4.5 kWh e-bike - business-standard.com,0.6784175038337708
-MARUTI,2026-04-05,"After GST-led surge, car sales growth likely to decelerate in FY27 - business-standard.com",-0.6354466676712036
-MARUTI,2026-04-02,"M&M, TVS Motor: BSE Auto slips 3% as brokerages flag demand, margin risks - business-standard.com",-0.964975118637085
-MARUTI,2026-04-01,"Sensex settles 1,187 pts higher; Nifty ends above 22,650 mark; VIX slumps 10.31% - business-standard.com",-0.9642781019210815
-MARUTI,2026-04-01,"Stocks to Watch today: Bharti Airtel, Adani Ports, PhysicsWallah, IndiGo - business-standard.com",-0.9467412829399109
-MARUTI,2026-04-02,"Sensex settles 185 pts higher; Nifty ends above 22,700 level; VIX jumps 2.03% - business-standard.com",0.8778656721115112
-MARUTI,2026-04-02,"Nifty trades below 22,450; European mrkt decline - business-standard.com",-0.7184100151062012
-MARUTI,2023-10-16,India's Maruti to pay $1.54 bln in stock to Suzuki for local plant - Reuters,-0.8770632147789001
-MARUTI,2026-02-01,"Indian carmaker Maruti Suzuki's production constraints to last a few more months, exec says - Reuters",-0.7848860025405884
-MARUTI,2008-07-24,TU604 Maruti Suzuki 080724 - bsmedia.business-standard.com,-0.9455443024635315
-MARUTI,2025-01-29,"Maruti Suzuki's Chairman seeks quashing of FIR, Delhi HC calls for status report - ETLegalWorld.com",-0.9277268052101135
-MARUTI,2023-07-31,India's Maruti tops profit view; to buy parent's Gujarat plant - Reuters,0.5180218815803528
-MARUTI,2014-03-15,Maruti Suzuki India Ltd - bloomberg.com,-0.9444242715835571
-MARUTI,2025-04-26,Maruti Suzuki - bsmedia.business-standard.com,-0.9517219066619873
-MARUTI,2024-07-31,India's Maruti Suzuki beats Q1 profit estimates on higher SUV sales - Reuters,0.916142463684082
-MARUTI,2025-09-12,Q2 FY12 Results Update Maruti Suzuki India Ltd - bsmedia.business-standard.com,-0.9439103007316589
-MARUTI,2024-01-31,India's Maruti Suzuki facing some challenges due to Red Sea crisis -exec - Reuters,-0.6389259099960327
-MARUTI,2025-10-31,Maruti Suzuki expects small car sales to outpace SUVs on India tax cut boost - Reuters,0.9207929372787476
-MARUTI,2025-06-10,Exclusive: India's Maruti Suzuki cuts near-term EV production amid rare earths crisis - Reuters,-0.9665002822875977
-MARUTI,2026-01-28,"Maruti Suzuki's quarterly profit misses estimates on one-time charge, higher costs - Reuters",-0.9059754610061646
-MARUTI,2025-04-25,Maruti Suzuki Profit Misses Estimate on Higher Input Costs - bloomberg.com,-0.9110636711120605
-MARUTI,2025-08-14,COMPETENT AUTOMOBILES CO. LTD. MARUTI h‘ 3 Suzuki (Authorised Maruti Dealer) GST No. : 07AAACCA842R1Z9 J ’ Phone: 011-457000 - bsmedia.business-standard.com,-0.9451583027839661
-MARUTI,2021-06-17,Maruti Suzuki India Ltd - Reuters,-0.9376232624053955
-MARUTI,2024-04-26,"India's Maruti Suzuki misses Q4 profit view on higher input costs, discounts - Reuters",-0.9607965350151062
-MARUTI,2026-01-28,Maruti Suzuki Net Misses Estimate as Discounts Pressure Margins - bloomberg.com,-0.6808056235313416
-MARUTI,2023-08-08,Japan's Suzuki to get bigger stake in India's Maruti after sale of plant - Reuters,-0.7927384972572327
-MARUTI,2025-04-25,"India's Maruti Suzuki plans up to $1 bln capex for new EV launch, higher exports - Reuters",0.9107467532157898
-MARUTI,2025-10-31,Maruti Suzuki Misses Profit Estimate as Higher Costs Bite - bloomberg.com,-0.9252371191978455
-MARUTI,2017-07-25,Check out Maruti Suzuki India Ltd's stock price (MARUTI-IN) in real time - CNBC,-0.943070650100708
-MARUTI,2025-03-01,"Maruti Suzuki February sales rise marginally to 199,400 units - ET Auto",0.9270687103271484
-MARUTI,2026-01-17,Maruti Suzuki to invest $3.9 billion in new India plant - Reuters,-0.8706821203231812
-MARUTI,2025-04-01,Maruti Suzuki to report monthly sales via Vahan retail data - ET Auto,-0.9495630264282227
-MARUTI,2025-07-31,"Maruti Suzuki Q1 net profit up 0.9% to ₹3,792 crore - ET Auto",0.9515497088432312
-MARUTI,2024-10-29,"Indian carmaker Maruti Suzuki's revenue slows to near 3-year low, shares slide - Reuters",-0.9641526341438293
-MARUTI,2025-10-31,"Maruti Suzuki Q2 profit rises 8% YoY to ₹3,349 crore - ET Auto",0.941402792930603
-MARUTI,2025-08-06,Maruti Suzuki sets sights on 4 million units annual production capacity by FY31 - ET Auto,0.6956480741500854
-MARUTI,2026-01-12,Maruti Suzuki to boost capacity by 1 million units in India expansion - Reuters,0.8795040249824524
-MARUTI,2025-01-29,Indian carmaker Maruti Suzuki misses Q3 profit view on higher discounts - Reuters,-0.9343489408493042
-MARUTI,2023-10-27,India's small car sales may rebound in 2-3 years - Maruti Suzuki exec - Reuters,0.7114614844322205
-MARUTI,2019-07-26,Three Japanese Directors resign from Maruti Suzuki Board after dismal Q1 results - ET Auto,-0.9430397152900696
-MARUTI,2015-07-23,Annexure-“A” Press Release Maruti Suzuki launches NEXA: A New Premium Automotive Experience - bsmedia.business-standard.com,-0.8663919568061829
-MARUTI,2025-04-25,"Maruti Suzuki Q4 net profit skids 4.3% to ₹3,711.1 crore - ET Auto",-0.964130699634552
-MARUTI,2021-06-07,The Car Retail Ranking Report 2021 Series: For Maruti Suzuki ranked 5th only one third outlets are large for.. - ET Auto,-0.9393035173416138
-MARUTI,2020-12-16,"Opinion: Is Maruti Suzuki vulnerable, once again? - ET Auto",-0.6345837712287903
-MARUTI,2025-09-15,Maruti Suzuki Victoris gets five-star Global NCAP rating for adult and child safety - ET Auto,0.9099929332733154
-MARUTI,2024-01-09,India's Maruti Suzuki to invest $4 bln in second Gujarat car plant - Reuters,-0.8640711307525635
-MARUTI,2019-01-08,Maruti Suzuki may open third plant in South India: Report - ET Auto,-0.8744906187057495
-MARUTI,2022-12-25,Maruti Suzuki India Ltd - bsmedia.business-standard.com,-0.9500852823257446
-MARUTI,2025-11-17,"Maruti Sec Share Price Today, Maruti Sec Stock Price Live NSE/BSE Updates - The Economic Times",-0.9379708170890808
-MARUTI,2024-12-18,Maruti Suzuki partners with Bihar govt for automated driving license test tracks - ET Auto,0.6421388387680054
-MARUTI,2015-11-24,SES backs Maruti’s contract manufacturing plan with Suzuki - ET Auto,0.7599332928657532
-MARUTI,2023-11-19,99% of shareholders vote for Maruti Suzuki’s acquisition of Suzuki Motor Gujarat - ET Auto,0.5836703181266785
-MARUTI,2025-12-03,Maruti Suzuki stock eases despite strong EV outlook; slips 1% after recent gains - ET Auto,-0.9269154667854309
-MARUTI,2019-03-01,"Maruti, Honda Cars, Mahindra report sales growth in February - ET Auto",0.8785295486450195
-MARUTI,2025-12-16,Maruti Suzuki Sees New EV Lifting Green-Car Share of India Sales to 45% - bloomberg.com,0.9181264042854309
-MARUTI,2022-07-04,India's Maruti Suzuki to phase out pure petrol-powered cars in 10 years - ET - Reuters,-0.8494551777839661
-MARUTI,2024-02-01,Maruti Suzuki facing some challenges due to Red Sea crisis: Executive - ET Auto,-0.8480965495109558
-MARUTI,2019-04-27,"US sanction on Iran, BS VI major dampeners: R C Bhargava, chairman, Maruti Suzuki - ET EnergyWorld",-0.9268851280212402
-MARUTI,2025-09-15,Maruti Suzuki| BUY - bsmedia.business-standard.com,-0.9467427134513855
-MARUTI,2020-07-29,Maruti Suzuki Q1 FY'21 net loss at Rs 249 crore - ET Auto,-0.9369579553604126
-MARUTI,2025-04-26,"Maruti Suzuki bets on exports, new SUV launch to drive sales in FY26 - ET Auto",0.9384328126907349
-MARUTI,2025-07-31,Exports help India's top carmaker Maruti Suzuki post surprise profit rise - Reuters,0.8255857825279236
-MARUTI,2025-09-01,"Maruti Suzuki domestic sales dip 7% to 144,145 units in August - ET Auto",-0.9655830264091492
-MARUTI,2025-09-26,"At $57.6 billion, made-in-India Maruti tops Ford, GM & Volkswagen - ET Auto",-0.8534562587738037
-MARUTI,2019-08-20,Maruti Suzuki to offer free 5-year warranty for select models - ET Auto,-0.7327897548675537
-MARUTI,2020-07-29,Top India Carmaker Has First-Ever Loss With Virus Hitting Demand - bloomberg.com,-0.942780077457428
-MARUTI,2025-09-25,Maruti Suzuki Invicto secures 5-star safety rating in Bharat NCAP - ET Auto,0.940792441368103
-MARUTI,2019-07-27,Maruti Suzuki launches factory-fitted CNG Ertiga - ET Auto,0.5380250811576843
-MARUTI,2024-05-31,Maruti Suzuki Gurgaon plant fire report incorrect - ET Auto,-0.6380241513252258
-MARUTI,2025-01-30,"Measures to improve overall consumption momentum in Budget to aid auto industry, says Maruti Suzuki India - ET Auto",0.9311835765838623
-MARUTI,2019-03-27,Maruti Suzuki re-appoints Kenichi Ayukawa as MD & CEO - ET Auto,-0.9414469003677368
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+MARUTI,2020-05-01,Zero Sales: Indian Carmakers Have a Month Like Never Before - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.06432130932807922,0.16252855956554413,0.7731501460075378,-0.0982072502374649
+MARUTI,2020-05-13,"India's Maruti restarts car output gradually, profit down - Reuters",Reuters,2026-10-19,live,negative,0.026272963732481003,0.9380743503570557,0.03565258905291557,-0.9118013866245747
+MARUTI,2020-07-29,Top India Carmaker Has First-Ever Loss With Virus Hitting Demand - Bloomberg,Bloomberg,2026-10-19,live,negative,0.01327198650687933,0.9642770886421204,0.022450879216194153,-0.951005102135241
+MARUTI,2020-12-02,Watch Maruti Suzuki India Expects ‘Much Better' Sales in 2021 - Bloomberg.com,Bloomberg.com,2026-10-19,live,positive,0.730305552482605,0.016306642442941666,0.25338783860206604,0.7139989100396633
+MARUTI,2021-04-27,India's top carmaker Maruti Suzuki sees demand improve amid virus resurgence - Reuters,Reuters,2026-10-19,live,positive,0.9097884297370911,0.012577946297824383,0.0776335746049881,0.8972104834392667
+MARUTI,2021-06-17,Maruti Suzuki India Ltd - Reuters,Reuters,2026-10-19,live,neutral,0.030466293916106224,0.03191037476062775,0.9376232624053955,-0.0014440808445215225
+MARUTI,2021-08-23,India antitrust body fines Maruti Suzuki $27 mln over dealer discount policy - Reuters,Reuters,2026-10-19,live,negative,0.012859610840678215,0.9477603435516357,0.03938005492091179,-0.9349007327109575
+MARUTI,2021-08-31,Maruti production to halve in Sept as chip shortage hits India's top car maker - Reuters,Reuters,2026-10-19,live,negative,0.01792319305241108,0.9458600878715515,0.036216627806425095,-0.9279368948191404
+MARUTI,2021-09-30,Maruti Suzuki India warns of production hit for second month due to chip shortage - Reuters,Reuters,2026-10-19,live,negative,0.020529095083475113,0.951187789440155,0.028283076360821724,-0.9306586943566799
+MARUTI,2022-01-25,"Maruti Suzuki margins jump on price hikes, sees chip supply improving - Reuters",Reuters,2026-10-19,live,positive,0.9446824193000793,0.02581479772925377,0.02950272336602211,0.9188676215708256
+MARUTI,2022-06-09,MRTI.NS - Reuters,Reuters,2026-10-19,live,neutral,0.019779518246650696,0.0382235012948513,0.9419969320297241,-0.018443983048200607
+MARUTI,2022-07-04,India's Maruti Suzuki to phase out pure petrol-powered cars in 10 years - ET - Reuters,Reuters,2026-10-19,live,neutral,0.13794073462486267,0.01260410901159048,0.8494551777839661,0.1253366256132722
+MARUTI,2022-10-28,Top India Carmaker Beats Profit Forecast as Supply Woes Ease - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.26257947087287903,0.1679517924785614,0.5694687366485596,0.09462767839431763
+MARUTI,2022-11-28,Maruti Suzuki India Ltd - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.027781177312135696,0.025918826460838318,0.9463000297546387,0.0018623508512973785
+MARUTI,2022-12-19,India’s Top Carmaker Blames High Taxes For Low Car Ownership - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.044764358550310135,0.07147684693336487,0.8837587237358093,-0.026712488383054733
+MARUTI,2023-01-11,Maruti Suzuki Goes Bigger With First eVX Electric SUV to Debut 2025 - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.4140467643737793,0.011687676422297955,0.5742655992507935,0.40235908795148134
+MARUTI,2023-01-11,"Suzuki Motor's India unit unveils concept electric SUV, sees 2025 launch - Reuters",Reuters,2026-10-19,live,neutral,0.08817863464355469,0.011524909175932407,0.9002965092658997,0.07665372546762228
+MARUTI,2023-01-18,"India's Maruti Suzuki to recall 17,362 vehicles on possible airbag controller defect - Reuters",Reuters,2026-10-19,live,negative,0.010621595196425915,0.9353014230728149,0.054077014327049255,-0.924679827876389
+MARUTI,2023-03-23,Maruti Suzuki India to hike prices to pass on input cost pressures - Reuters,Reuters,2026-10-19,live,positive,0.7806159257888794,0.08976925909519196,0.12961477041244507,0.6908466666936874
+MARUTI,2023-05-11,Maruti Suzuki India plans to invest over $5.5 bln to double capacity by 2030 - ET - Reuters,Reuters,2026-10-19,live,positive,0.8616352081298828,0.009463557973504066,0.12890121340751648,0.8521716501563787
+MARUTI,2023-07-05,"Maruti Goes for High-End Buyers in India With Invicto SUV, Its Priciest Car Yet - Bloomberg.com",Bloomberg.com,2026-10-19,live,neutral,0.19151043891906738,0.011358814314007759,0.7971307635307312,0.18015162460505962
+MARUTI,2023-07-05,Maruti Suzuki goes upmarket in India with new seven seater - Reuters,Reuters,2026-10-19,live,positive,0.9107336401939392,0.012303771451115608,0.07696259021759033,0.8984298687428236
+MARUTI,2023-07-31,India's Maruti tops profit view; to buy parent's Gujarat plant - Reuters,Reuters,2026-10-19,live,positive,0.5180222392082214,0.02727370709180832,0.4547039866447449,0.4907485321164131
+MARUTI,2023-08-05,Maruti Says It Aims to Double Car-Production Capacity by 2031 - Bloomberg.com,Bloomberg.com,2026-10-19,live,positive,0.7073581218719482,0.008851826190948486,0.28379008173942566,0.6985062956809998
+MARUTI,2023-08-08,Japan's Suzuki to get bigger stake in India's Maruti after sale of plant - Reuters,Reuters,2026-10-19,live,neutral,0.19613927602767944,0.011122099123895168,0.7927386164665222,0.18501717690378428
+MARUTI,2023-08-29,India's Maruti Suzuki reaffirms production goals; names new CFO - Reuters,Reuters,2026-10-19,live,neutral,0.11892551183700562,0.016400909051299095,0.8646735548973083,0.10252460278570652
+MARUTI,2023-08-29,Maruti Suzuki India appoints Schneider's executive Arnab Roy as CFO - Business Standard,Business Standard,2026-10-19,live,neutral,0.03662143647670746,0.029964735731482506,0.9334138631820679,0.006656700745224953
+MARUTI,2023-10-16,India's Maruti to pay $1.54 bln in stock to Suzuki for local plant - Reuters,Reuters,2026-10-19,live,neutral,0.07612243294715881,0.04681430011987686,0.8770632147789001,0.029308132827281952
+MARUTI,2023-10-27,India's small car sales may rebound in 2-3 years - Maruti Suzuki exec - Reuters,Reuters,2026-10-19,live,positive,0.7114611864089966,0.03886942192912102,0.2496693730354309,0.6725917644798756
+MARUTI,2024-01-09,India's Maruti Suzuki to invest $4 bln in second Gujarat car plant - Reuters,Reuters,2026-10-19,live,neutral,0.1243642270565033,0.011564611457288265,0.8640711903572083,0.11279961559921503
+MARUTI,2024-01-10,Maruti Suzuki Plans $4.2 Billion Car Factory in India’s Gujarat - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.08423573523759842,0.011122173629701138,0.9046421051025391,0.07311356160789728
+MARUTI,2024-01-16,India's Maruti Suzuki hikes prices across models - Reuters,Reuters,2026-10-19,live,negative,0.27456796169281006,0.45422011613845825,0.2712118923664093,-0.1796521544456482
+MARUTI,2024-01-30,Jaguar Owner Tata Motors Tops Maruti Suzuki to Be India’s Largest Automaker - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.4235590994358063,0.011424800381064415,0.5650160908699036,0.41213429905474186
+MARUTI,2024-01-31,India's Maruti Suzuki facing some challenges due to Red Sea crisis -exec - Reuters,Reuters,2026-10-19,live,neutral,0.18417617678642273,0.17689825594425201,0.6389256119728088,0.007277920842170715
+MARUTI,2024-03-18,"Maruti Suzuki India Stocks Live Updates: Maruti Suzuki India Closes at Rs 11,476.65 with -0.29% Weekly Re - The Economic Times",,2026-10-18,legacy,negative,0.09295793622732162,0.4823060929775238,0.42473599314689636,-0.3893481567502022
+MARUTI,2024-03-22,"India's Maruti Suzuki recalls over 16,000 cars - Reuters",Reuters,2026-10-19,live,neutral,0.04094595089554787,0.37609612941741943,0.582957923412323,-0.33515017852187157
+MARUTI,2024-04-08,India's Maruti Suzuki adds assembly line at its largest plant - Reuters,Reuters,2026-10-19,live,neutral,0.3542080223560333,0.028430232778191566,0.6173617839813232,0.32577778957784176
+MARUTI,2024-04-26,"India's Maruti Suzuki misses Q4 profit view on higher input costs, discounts - Reuters",Reuters,2026-10-19,live,negative,0.01374382246285677,0.9607965350151062,0.02545958198606968,-0.9470527125522494
+MARUTI,2024-07-31,India's Maruti Suzuki beats Q1 profit estimates on higher SUV sales - Reuters,Reuters,2026-10-19,live,positive,0.916142463684082,0.05134015902876854,0.032517459243535995,0.8648023046553135
+MARUTI,2024-08-04,SANJEEV GROVER - Business Standard,Business Standard,2026-10-19,live,neutral,0.05462580919265747,0.02586039900779724,0.9195137619972229,0.02876541018486023
+MARUTI,2024-10-29,"Indian carmaker Maruti Suzuki's revenue slows to near 3-year low, shares slide - Reuters",Reuters,2026-10-19,live,negative,0.007742352318018675,0.9641525149345398,0.028105132281780243,-0.9564101626165211
+MARUTI,2024-10-31,"Rahul Bharti, Maruti Suzuki India Ltd: Profile and Biography - Bloomberg.com",Bloomberg.com,2026-10-19,live,neutral,0.024456651881337166,0.030871305614709854,0.9446719884872437,-0.006414653733372688
+MARUTI,2025-01-16,Suzuki Motor president says India to be global production hub for EVs - Reuters,Reuters,2026-10-19,live,positive,0.6809579133987427,0.008959638886153698,0.31008246541023254,0.671998274512589
+MARUTI,2025-02-25,Suzuki Motor Unit Opens First New India Plant in Eight Years - Bloomberg.com,Bloomberg.com,2026-10-19,live,neutral,0.13265760242938995,0.014173276722431183,0.8531691431999207,0.11848432570695877
+MARUTI,2025-03-06,MARUTI SUZUKI INDIA LIMITED - Bloomberg LEI,Bloomberg LEI,2026-10-19,live,neutral,0.06399905681610107,0.014446603134274483,0.9215543866157532,0.04955245368182659
+MARUTI,2025-06-11,Maruti Suzuki's new 'Dzire' secures 5-star safety rating in India - Reuters,Reuters,2026-10-19,live,positive,0.8828452825546265,0.007661562878638506,0.10949307680130005,0.875183719675988
+MARUTI,2025-07-31,Exports help India's top carmaker Maruti Suzuki post surprise profit rise - Reuters,Reuters,2026-10-19,live,positive,0.8255859017372131,0.05588025972247124,0.11853383481502533,0.7697056420147419
+MARUTI,2025-08-18,"India's tax restructuring a 'huge reform', will boost competitiveness, Maruti Suzuki chair says - Reuters",Reuters,2026-10-19,live,positive,0.892158031463623,0.009743721224367619,0.09809821844100952,0.8824143102392554
+MARUTI,2025-10-25,Maruti Suzuki workers' strike - Reuters,Reuters,2026-10-19,live,negative,0.013115965761244297,0.9003912210464478,0.08649283647537231,-0.8872752552852035
+MARUTI,2025-10-31,Maruti Suzuki Misses Profit Estimate as Higher Costs Bite - Bloomberg.com,Bloomberg.com,2026-10-19,live,negative,0.013814320787787437,0.9252371191978455,0.060948509722948074,-0.911422798410058
+MARUTI,2025-10-31,Maruti Suzuki expects small car sales to outpace SUVs on India tax cut boost - Reuters,Reuters,2026-10-19,live,positive,0.9207928776741028,0.016333332285284996,0.06287378072738647,0.9044595453888178
+MARUTI,2025-11-14,"India's Maruti Suzuki to recall 39,506 units of Grand Vitara - Reuters",Reuters,2026-10-19,live,negative,0.016770707443356514,0.88775235414505,0.09547693282365799,-0.8709816467016935
+MARUTI,2025-12-16,Maruti Suzuki Sees New EV Lifting Green-Car Share of India Sales to 45% - Bloomberg.com,Bloomberg.com,2026-10-19,live,positive,0.9181264042854309,0.011015404015779495,0.07085821777582169,0.9071110002696514
+MARUTI,2026-01-11,Maruti Suzuki to boost capacity by 1 million units in India expansion - Reuters,Reuters,2026-10-19,live,positive,0.8795040249824524,0.008891756646335125,0.11160419881343842,0.8706122683361173
+MARUTI,2026-01-17,Maruti Suzuki to invest $3.9 billion in new India plant - Reuters,Reuters,2026-10-19,live,neutral,0.11687710136175156,0.012440762482583523,0.8706821203231812,0.10443633887916803
+MARUTI,2026-01-28,Maruti Suzuki Net Misses Estimate as Discounts Pressure Margins - Bloomberg.com,Bloomberg.com,2026-10-19,live,negative,0.053350675851106644,0.6808052062988281,0.2658441364765167,-0.6274545304477215
+MARUTI,2026-04-01,India's Maruti Suzuki warns of price hikes as Gulf war raises costs - Reuters,Reuters,2026-10-19,live,negative,0.07941193878650665,0.7752693295478821,0.14531876146793365,-0.6958573907613754
+MARUTI,2026-04-28,"Suzuki's India unit bets on small cars, to spend $1.48 bln on capacity expansion - Reuters",Reuters,2026-10-19,live,neutral,0.3379310071468353,0.012597513385117054,0.6494715213775635,0.3253334937617183
+MARUTI,2026-04-29,India's Maruti Suzuki adds $1.24 billion in market value as small cars get popular - Reuters,Reuters,2026-10-19,live,positive,0.7182006239891052,0.012973715551197529,0.2688256800174713,0.7052269084379077
+MARUTI,2026-05-03,Maruti Suzuki India starts FY27 with increase in market share to 42% - ET Auto,ET Auto,2026-10-19,live,positive,0.9531348943710327,0.018058404326438904,0.02880670875310898,0.9350764900445938
+MARUTI,2026-05-13,"Maruti Suzuki earmarks ₹1,372 cr on green logistics, crosses 30 lakh dispatches via rail - ET Auto",ET Auto,2026-10-19,live,positive,0.5912628769874573,0.013663992285728455,0.39507317543029785,0.5775988847017288
+MARUTI,2026-05-20,Maruti Suzuki India launches Smart Factory Lab for skill development in Lucknow - ET Education,ET Education,2026-10-19,live,neutral,0.3194359242916107,0.01367222610861063,0.666891872882843,0.3057636981830001
+MARUTI,2026-05-20,Maruti Suzuki sets up Smart Factory Lab at Govt Polytechnic College Lucknow under CSR - ET Auto,ET Auto,2026-10-19,live,neutral,0.08719158917665482,0.010749723762273788,0.9020586609840393,0.07644186541438103
+MARUTI,2026-06-01,Indian automakers' sales rise in May despite rising fuel prices - Reuters,Reuters,2026-10-19,live,positive,0.925122857093811,0.01922699250280857,0.05565013736486435,0.9058958645910025
+MARUTI,2026-06-15,Maruti Suzuki introduces prepaid smart maintenance plan - ET Auto,ET Auto,2026-10-19,live,neutral,0.16071614623069763,0.011692972853779793,0.8275909423828125,0.14902317337691784
+MARUTI,2026-07-16,Indian court orders Maruti to replace car in first E20 fuel damage ruling - Reuters,Reuters,2026-10-19,live,negative,0.01712534949183464,0.9172748923301697,0.06559973210096359,-0.900149542838335
+MARUTI,2026-07-23,"AI beyond the vehicle: Maruti Suzuki, Mobileye on India's mobility tech shift - ET Auto",ET Auto,2026-10-19,live,neutral,0.11931408196687698,0.012065467424690723,0.8686204552650452,0.10724861454218626
+MARUTI,2026-07-30,"Maruti Suzuki starts production at fourth Gujarat plant, lifts annual capacity to 2.9 million units - ET Auto",ET Auto,2026-10-19,live,positive,0.9438982605934143,0.015222315676510334,0.04087943211197853,0.928675944916904
+MARUTI,2026-08-09,India's Maruti sees passenger vehicle market rising to up to 6.3 mln units by 2031 - Reuters,Reuters,2026-10-19,live,positive,0.9337670207023621,0.013605223037302494,0.0526278093457222,0.9201617976650596
+MARUTI,2026-08-18,Maruti Suzuki dominates PV exports with top three models in Q1 - ET Auto,ET Auto,2026-10-19,live,positive,0.611824095249176,0.014778806827962399,0.37339702248573303,0.5970452884212136
+MARUTI,2026-09-04,"Maruti Suzuki CEO seeks balance between regulations and affordability for cleaner, safer mobility - ET BrandEquity",ET BrandEquity,2026-10-19,live,positive,0.5706722140312195,0.01062975823879242,0.4186980128288269,0.5600424557924271
+MARUTI,2026-09-07,India's Maruti Suzuki hikes prices for a third time since May - Reuters,Reuters,2026-10-19,live,negative,0.42308053374290466,0.5273140072822571,0.04960547760128975,-0.10423347353935242
+MARUTI,2026-09-29,How Maruti Suzuki is building the next-gen manufacturing workforce - ET Manufacturing,ET Manufacturing,2026-10-19,live,neutral,0.10089147090911865,0.012810437940061092,0.8862981200218201,0.08808103296905756
+MARUTI,2026-09-30,How Maruti Suzuki is building the next-gen manufacturing workforce - ET Auto,ET Auto,2026-10-19,live,neutral,0.0895240530371666,0.013357091695070267,0.897118866443634,0.07616696134209633
+MARUTI,2026-09-30,"“Mass Market Should Not Be Defined by a Price Point,” Maruti Suzuki's Partho Banerjee - ET BrandEquity",ET BrandEquity,2026-10-19,live,neutral,0.046561382710933685,0.03254637494683266,0.9208922386169434,0.014015007764101028
+MARUTI,2026-10-12,"India's HCLTech signs a pact with Anthropic, to set up business unit - Reuters",,2026-10-18,legacy,neutral,0.3284582495689392,0.008093551732599735,0.6634482145309448,0.3203646978363395
+MARUTI,2026-10-12,MARUTI SUZUKI E VITARA PRICE - The Economic Times,,2026-10-18,legacy,neutral,0.05915718153119087,0.027112463489174843,0.9137303829193115,0.03204471804201603
+MARUTI,2026-10-12,"Not my domain: CJI Surya Kant on Delhi protests against CEC, movement curbs - Business Standard",,2026-10-18,legacy,negative,0.017964882776141167,0.7701696753501892,0.21186545491218567,-0.752204792574048
+MARUTI,2026-10-12,Used-car sales may rise 12-15% this festive season on strong rural demand - Business Standard,,2026-10-18,legacy,positive,0.9524616599082947,0.01706220768392086,0.030476141721010208,0.9353994522243738
+MARUTI,2026-10-13,"AI job-loss fears are 'hogwash', says Infosys Chairman Nandan Nilekani - Business Standard",,2026-10-18,legacy,negative,0.013652052730321884,0.9512308239936829,0.035117071121931076,-0.937578771263361
+MARUTI,2026-10-13,"Anshul Singhal Launches Vantrock Real Assets with Approx INR 4,200 Approx USD 434 Million Crore Gross Development Value - Business Standard",,2026-10-18,legacy,neutral,0.06644915789365768,0.010119151324033737,0.9234317541122437,0.05633000656962395
+MARUTI,2026-10-13,"Apple HomeView, HomePod mini and TV 4K launched: India prices, availability - Business Standard",,2026-10-18,legacy,neutral,0.09818077832460403,0.011124251410365105,0.8906949758529663,0.08705652691423893
+MARUTI,2026-10-13,Apple needs new iPhones and smart-home push to revive pricey stock - Business Standard,,2026-10-18,legacy,positive,0.8732647895812988,0.02468486875295639,0.1020503044128418,0.8485799208283424
+MARUTI,2026-10-13,Average loan size for PVs rises 49% to ₹8.2 lakh in 7 years: Report - Business Standard,,2026-10-18,legacy,positive,0.916337788105011,0.015861550346016884,0.06780073791742325,0.9004762377589941
+MARUTI,2026-10-13,"CBDT nudges 12,000 tax professionals to file audit reports by October 21 - Business Standard",,2026-10-18,legacy,neutral,0.03917735815048218,0.06420160830020905,0.89662104845047,-0.025024250149726868
+MARUTI,2026-10-13,"Cable & Wire stocks: Polycab, KEI, R R Kabel, Quadrant Future slip up to 5% - Business Standard",Business Standard,2026-10-19,live,negative,0.060967497527599335,0.923942506313324,0.015090003609657288,-0.8629750087857246
+MARUTI,2026-10-13,Centre asks 5 states to go on 'mission mode' against stubble burning - Business Standard,,2026-10-18,legacy,neutral,0.07885289937257767,0.024563996121287346,0.896583080291748,0.05428890325129032
+MARUTI,2026-10-13,China opposes India's move to name 28 strategic locations in Ladakh - Business Standard,,2026-10-18,legacy,negative,0.044966455549001694,0.7525105476379395,0.20252300798892975,-0.7075440920889378
+MARUTI,2026-10-13,"Citi, Credendo close $328 mn deal for eight IndiGo jets through GIFT City - Business Standard",,2026-10-18,legacy,positive,0.687933623790741,0.008958864957094193,0.30310750007629395,0.6789747588336468
+MARUTI,2026-10-13,"Data centre demand to outstrip supply as AI usage grows, say experts - Business Standard",,2026-10-18,legacy,negative,0.41693153977394104,0.5051530003547668,0.0779154971241951,-0.0882214605808258
+MARUTI,2026-10-13,"Delhi CM Rekha Gupta launches 150 electric buses, EV charging stations - Business Standard",,2026-10-18,legacy,neutral,0.29342910647392273,0.009976482950150967,0.6965943574905396,0.28345262352377176
+MARUTI,2026-10-13,Delhi SIR: 2 million cases resolved after EC eases voter verification rules - Business Standard,,2026-10-18,legacy,neutral,0.08008245378732681,0.3266009986400604,0.5933165550231934,-0.2465185448527336
+MARUTI,2026-10-13,El Niño to intensify: Can Indian Ocean Dipole offset its impact in India? - Business Standard,,2026-10-18,legacy,neutral,0.2324209362268448,0.011582514271140099,0.7559965252876282,0.2208384219557047
+MARUTI,2026-10-13,Ensure terror networks do not find haven in region: Shah to Bimstec nations - Business Standard,,2026-10-18,legacy,neutral,0.059373416006565094,0.013040020130574703,0.9275866150856018,0.04633339587599039
+MARUTI,2026-10-13,From supermarkets to airports: Cyberattacks that disrupted real-world ops - Business Standard,,2026-10-18,legacy,negative,0.016868844628334045,0.732061505317688,0.25106966495513916,-0.7151926606893539
+MARUTI,2026-10-13,GEC-III opens door to competitive bidding for state power transmission - Business Standard,,2026-10-18,legacy,positive,0.8453492522239685,0.007417074404656887,0.14723369479179382,0.8379321778193116
+MARUTI,2026-10-13,Global growth resilience - Business Standard,,2026-10-18,legacy,positive,0.5404149889945984,0.011629734188318253,0.44795525074005127,0.5287852548062801
+MARUTI,2026-10-13,"Govt open to debate on LTCG tax, STT ahead of Budget: FM Sitharaman - Business Standard",,2026-10-18,legacy,neutral,0.05775917321443558,0.016554614529013634,0.9256861805915833,0.041204558685421944
+MARUTI,2026-10-13,HARTING Joins NVIDIA MGX Ecosystem to Power Next-Generation AI Infrastructure - Business Standard,,2026-10-18,legacy,neutral,0.15363042056560516,0.007154945284128189,0.8392146229743958,0.14647547528147697
+MARUTI,2026-10-13,HCL Tech shares gain over 5% after Q2 results; brokerages remain mixed - Business Standard,,2026-10-18,legacy,positive,0.7570634484291077,0.18674761056900024,0.05618894472718239,0.5703158378601074
+MARUTI,2026-10-13,"HCLTech's next test: Sustaining margins, deal momentum amid rich valuations - Business Standard",,2026-10-18,legacy,positive,0.8944287896156311,0.008675226010382175,0.09689591079950333,0.8857535636052489
+MARUTI,2026-10-13,Hilton debuts LXR Hotels & Resorts in India with The Den Bengaluru - Business Standard,,2026-10-18,legacy,neutral,0.1878298670053482,0.00807494018226862,0.8040952086448669,0.17975492682307959
+MARUTI,2026-10-13,Human rights restored - Business Standard,,2026-10-18,legacy,neutral,0.05378565192222595,0.0151812843978405,0.9310330748558044,0.03860436752438545
+MARUTI,2026-10-13,Hyundai replicating India learnings across global markets: CEO Jose Muñoz - Business Standard,,2026-10-18,legacy,neutral,0.12314997613430023,0.012648919597268105,0.8642010688781738,0.11050105653703213
+MARUTI,2026-10-13,ICICI Life Insurance share price drops 4% from day's high post Q2 results - Business Standard,,2026-10-18,legacy,negative,0.009283935651183128,0.9709784388542175,0.019737573340535164,-0.9616945032030344
+MARUTI,2026-10-13,IMF raises India's FY27 growth forecast to 7% on strong domestic demand - Business Standard,,2026-10-18,legacy,positive,0.9463695287704468,0.019183017313480377,0.03444751724600792,0.9271865114569664
+MARUTI,2026-10-13,"In a first, co-working beats IT/ITeS in office leasing in January-September - Business Standard",,2026-10-18,legacy,neutral,0.11955837160348892,0.009517091326415539,0.8709245920181274,0.11004128027707338
+MARUTI,2026-10-13,"India 'mother of democracy', does not grow at anyone's expense: PM Modi - Business Standard",,2026-10-18,legacy,neutral,0.09992003440856934,0.010566641576588154,0.8895133137702942,0.08935339283198118
+MARUTI,2026-10-13,"India grows with the world, not at anyone's cost: PM Narendra Modi - Business Standard",,2026-10-18,legacy,neutral,0.17232996225357056,0.009148731827735901,0.81852126121521,0.16318123042583466
+MARUTI,2026-10-13,India's IT giants face identity crisis as AI disrupts traditional biz model - Business Standard,,2026-10-18,legacy,negative,0.008549121208488941,0.9604037404060364,0.031047111377120018,-0.9518546191975474
+MARUTI,2026-10-13,India's poor Asiad medal haul sparks scrutiny of sports funding for LA 2028 - Business Standard,,2026-10-18,legacy,negative,0.012762271799147129,0.9646357893943787,0.022602012380957603,-0.9518735175952315
+MARUTI,2026-10-13,"India's school-to-work push faces test of skills, jobs and apprenticeships - Business Standard",,2026-10-18,legacy,neutral,0.13307799398899078,0.01498619094491005,0.8519358038902283,0.11809180304408073
+MARUTI,2026-10-13,Indian Railways freight loading rises 6.1% to 135.5 mt in September - Business Standard,,2026-10-18,legacy,positive,0.9475915431976318,0.025167420506477356,0.027241090312600136,0.9224241226911545
+MARUTI,2026-10-13,"Kotak Neo's Shrikant Chouhan bullish on BEL, Greenply; check targets - Business Standard",Business Standard,2026-10-19,live,neutral,0.16415351629257202,0.05389232188463211,0.7819541692733765,0.11026119440793991
+MARUTI,2026-10-13,"Madhya Pradesh collects ₹44,711 crore in revenue in first half of FY27 - Business Standard",,2026-10-18,legacy,positive,0.5222472548484802,0.03965965658426285,0.4380931258201599,0.4825875982642174
+MARUTI,2026-10-13,Mesa School of Business raises ₹110 crore to expand its portfolio of programmes for the AI era - Business Standard,,2026-10-18,legacy,positive,0.9258390069007874,0.010496373288333416,0.06366456300020218,0.9153426336124539
+MARUTI,2026-10-13,Mohanlal congratulates Ajay Devgn after Drishyam 3 crosses 300 cr in India - Business Standard,,2026-10-18,legacy,positive,0.5740692615509033,0.051189690828323364,0.3747410774230957,0.52287957072258
+MARUTI,2026-10-13,NMC Healthcare founder B R Shetty seeks $15 billion in damages from BoB - Business Standard,,2026-10-18,legacy,negative,0.020493701100349426,0.8727741837501526,0.10673213005065918,-0.8522804826498032
+MARUTI,2026-10-13,Nestle India Q2 preview: Strong volumes to drive growth; PAT may top ₹1k cr - Business Standard,,2026-10-18,legacy,positive,0.9504172801971436,0.016964498907327652,0.032618198543787,0.9334527812898159
+MARUTI,2026-10-13,"New safeguards sharply reduce AI distillation attacks, says Anthropic - Business Standard",,2026-10-18,legacy,positive,0.7881864905357361,0.10869064182043076,0.10312286764383316,0.6794958487153053
+MARUTI,2026-10-13,New transport body needs execution powers to make integrated logistics work - Business Standard,,2026-10-18,legacy,neutral,0.206325963139534,0.007238425780087709,0.786435604095459,0.1990875373594463
+MARUTI,2026-10-13,"Nifty at 26,500 in 4-5 months: What's behind Monarch Capital's bull call? - Business Standard",,2026-10-18,legacy,neutral,0.03642377257347107,0.06042668595910072,0.9031494855880737,-0.024002913385629654
+MARUTI,2026-10-13,No price stability without financial stability: RBI Governor Malhotra - Business Standard,,2026-10-18,legacy,neutral,0.08679614216089249,0.01464806217700243,0.8985558152198792,0.07214807998389006
+MARUTI,2026-10-13,"Nobel@125: Women account for only 7% of laureates, rarely win in science - Business Standard",,2026-10-18,legacy,neutral,0.02670270763337612,0.15483060479164124,0.8184666633605957,-0.1281278971582651
+MARUTI,2026-10-13,"OPPO Find X10 Series to launch on 22nd October, combining distinctive camera design with immersive display technology - Business Standard",,2026-10-18,legacy,neutral,0.20195017755031586,0.007739919703453779,0.7903098464012146,0.19421025784686208
+MARUTI,2026-10-13,"Odisha spends only 25% of capital outlay, 33% of annual estimate by Sep - Business Standard",,2026-10-18,legacy,neutral,0.02305290475487709,0.07133197784423828,0.9056151509284973,-0.04827907308936119
+MARUTI,2026-10-13,Orbital data centres risk military attacks as AI drives computing demand - Business Standard,,2026-10-18,legacy,negative,0.029508711770176888,0.7099711894989014,0.2605201005935669,-0.6804624777287245
+MARUTI,2026-10-13,PNGRB proposes up to 5% hydrogen blending in domestic piped natural gas - Business Standard,,2026-10-18,legacy,neutral,0.1749267876148224,0.0070257787592709064,0.8180474042892456,0.16790100885555148
+MARUTI,2026-10-13,"Paytm, Mobikwik, Pine Labs rebound even as NPCI defers MDR on UPI; read why - Business Standard",,2026-10-18,legacy,positive,0.8997323513031006,0.02703309804201126,0.07323452085256577,0.8726992532610893
+MARUTI,2026-10-13,Price Action: RBL Bank shares shed 6% after Q2 earnings; IT stocks trade higher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.010190588422119617,0.9621104001998901,0.027698999270796776,-0.9519198117777705
+MARUTI,2026-10-13,Pune water cut: PMC orders weekly supply cut from Oct 15 as El Niño looms - Business Standard,,2026-10-18,legacy,negative,0.014604688622057438,0.9562596678733826,0.029135599732398987,-0.9416549792513251
+MARUTI,2026-10-13,RBI to continue efforts to contain rupee volatility: FM Nirmala Sitharaman - Business Standard,,2026-10-18,legacy,neutral,0.20413222908973694,0.013710524886846542,0.7821572422981262,0.1904217042028904
+MARUTI,2026-10-13,Rahul Gandhi's plea not listed for hearing in SC as defects yet to be cured - Business Standard,,2026-10-18,legacy,neutral,0.024079186841845512,0.06391122192144394,0.912009596824646,-0.03983203507959843
+MARUTI,2026-10-13,ReNew secures $100 million from Dutch development bank FMO for projects - Business Standard,,2026-10-18,legacy,positive,0.8277392983436584,0.007603263016790152,0.16465741395950317,0.8201360353268683
+MARUTI,2026-10-13,SC seeks senior Delhi Police officer's presence over assault allegations - Business Standard,,2026-10-18,legacy,neutral,0.02525593899190426,0.4192754924297333,0.5554685592651367,-0.394019553437829
+MARUTI,2026-10-13,SMIDs rally heats up bets in IPO & secondary market; raises bar on earnings - Business Standard,,2026-10-18,legacy,positive,0.7215666174888611,0.16433528065681458,0.11409810930490494,0.5572313368320465
+MARUTI,2026-10-13,Sebi extends relaxation to revise fresh issue size till March 2027 - Business Standard,,2026-10-18,legacy,neutral,0.06428490579128265,0.027031894773244858,0.908683180809021,0.037253011018037796
+MARUTI,2026-10-13,"Sebi proposes tighter IPO proceeds monitoring, fines for defaulting firms - Business Standard",,2026-10-18,legacy,neutral,0.04317575320601463,0.17783382534980774,0.7789903879165649,-0.1346580721437931
+MARUTI,2026-10-13,Shriram Finance rallies 7%; what's driving NBFC stock price? - Business Standard,,2026-10-18,legacy,neutral,0.047937944531440735,0.021239573135972023,0.9308225512504578,0.026698371395468712
+MARUTI,2026-10-13,"Stocks to Watch Today: HCL Technologies, RBL Bank, Bank of India, Plastiblends, Ircon International,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.030083686113357544,0.023289332166314125,0.9466270208358765,0.006794353947043419
+MARUTI,2026-10-13,"Stocks to watch: HCLTech, RBL Bank, IRCON, TMPV, Hero Motors, Nazara Tech - Business Standard",,2026-10-18,legacy,neutral,0.042975522577762604,0.015685781836509705,0.9413387179374695,0.0272897407412529
+MARUTI,2026-10-13,"Student group marches in Delhi, seeks release of detained CJP leaders - Business Standard",,2026-10-18,legacy,negative,0.03184882923960686,0.5131308436393738,0.4550202786922455,-0.4812820143997669
+MARUTI,2026-10-13,"Sun Pharma board approves plan to raise up to ₹10,000 crore via NCDs - Business Standard",,2026-10-18,legacy,positive,0.8287968039512634,0.00887980218976736,0.16232343018054962,0.8199170017614961
+MARUTI,2026-10-13,Tamil Nadu overtakes Telangana with highest retail inflation in September - Business Standard,,2026-10-18,legacy,positive,0.7422419190406799,0.13874049484729767,0.11901754885911942,0.6035014241933823
+MARUTI,2026-10-13,Tech can help tackle question paper leaks systematically: Nandan Nilekani - Business Standard,,2026-10-18,legacy,neutral,0.0981261357665062,0.013563331216573715,0.8883105516433716,0.08456280454993248
+MARUTI,2026-10-13,The inadequacy of climate action - Business Standard,,2026-10-18,legacy,neutral,0.028990458697080612,0.38208216428756714,0.5889273881912231,-0.3530917055904865
+MARUTI,2026-10-13,"Two-thirds of MSMEs use AI tools, but only 21% deploy biz software: Study - Business Standard",,2026-10-18,legacy,neutral,0.03894273564219475,0.017088716849684715,0.9439685940742493,0.021854018792510033
+MARUTI,2026-10-13,"UPI MDR deferred until after Diwali, new date to be notified: NPCI - Business Standard",,2026-10-18,legacy,neutral,0.021995028480887413,0.02803441695868969,0.9499706029891968,-0.006039388477802277
+MARUTI,2026-10-13,UPI charges put on hold until after Diwali: Who will pay? | MDR | UPI payments - Business Standard,,2026-10-18,legacy,neutral,0.01658235676586628,0.11053458601236343,0.8728830814361572,-0.09395222924649715
+MARUTI,2026-10-13,"Vigilance, not pause, answer to AI risks: IBM India & South Asia MD - Business Standard",,2026-10-18,legacy,neutral,0.07076853513717651,0.011585951782763004,0.9176455140113831,0.05918258335441351
+MARUTI,2026-10-13,"Vimag Labs starts production at Haryana plant, plans ₹50 crore investment - Business Standard",,2026-10-18,legacy,neutral,0.21940363943576813,0.007498078513890505,0.7730982899665833,0.21190556092187762
+MARUTI,2026-10-13,"Zoho freezes annual salary hikes as AI costs rise, software market slows - Business Standard",,2026-10-18,legacy,negative,0.012812386266887188,0.9538679718971252,0.03331966698169708,-0.9410555856302381
+MARUTI,2026-10-14,Asian stocks rise as chipmakers rebound ahead of US inflation data - Business Standard,,2026-10-18,legacy,positive,0.7196680307388306,0.19695143401622772,0.08338057994842529,0.5227165967226028
+MARUTI,2026-10-14,BS-VII clock starts ticking as Centre sets 2029 target for emission norms - Business Standard,,2026-10-18,legacy,neutral,0.13939817249774933,0.024388490244746208,0.8362133502960205,0.11500968225300312
+MARUTI,2026-10-14,Best of Opinion: Global growth headline numbers mask vulnerabilities - Business Standard,,2026-10-18,legacy,neutral,0.052308693528175354,0.06586712598800659,0.8818241357803345,-0.013558432459831238
+MARUTI,2026-10-14,"DU clears ₹5,889 crore hostel plan for 21,895 students amid project delays - Business Standard",,2026-10-18,legacy,negative,0.02382407896220684,0.7569054961204529,0.21927036345005035,-0.733081417158246
+MARUTI,2026-10-14,Fusion CX IPO: Brokerages mixed; customer concentration a key concern - Business Standard,,2026-10-18,legacy,negative,0.12801791727542877,0.6901037096977234,0.18187838792800903,-0.5620857924222946
+MARUTI,2026-10-14,Hyundai Motor to Invest $15.5 Billion in India Through 2032 - Bloomberg,,2026-10-18,legacy,positive,0.5241369605064392,0.00873449444770813,0.46712857484817505,0.5154024660587311
+MARUTI,2026-10-14,"India urges UN human rights mechanisms to avoid politicisation, selectivity - Business Standard",,2026-10-18,legacy,neutral,0.07343530654907227,0.016143927350640297,0.9104207754135132,0.05729137919843197
+MARUTI,2026-10-14,Judge extends order blocking Trump from barring reporters in White House - Business Standard,,2026-10-18,legacy,negative,0.023615732789039612,0.7403853535652161,0.23599889874458313,-0.7167696207761765
+MARUTI,2026-10-14,"Oil prices rise as traders weigh Saudi supply risk, Russian diesel flow - Business Standard",,2026-10-18,legacy,negative,0.20775683224201202,0.4439808428287506,0.3482622504234314,-0.2362240105867386
+MARUTI,2026-10-14,OpenAI employee arrested for planting hidden recording device in office - Business Standard,,2026-10-18,legacy,negative,0.02035495825111866,0.8436992168426514,0.13594576716423035,-0.8233442585915327
+MARUTI,2026-10-14,"Pope diagnosed with lung cancer, part of right lung removed, says Vatican - Business Standard",,2026-10-18,legacy,neutral,0.03308692201972008,0.1082201600074768,0.8586928844451904,-0.07513323798775673
+MARUTI,2026-10-14,Saudi-led coalition strikes Yemen's Sanaa as Houthi conflict escalates - Business Standard,,2026-10-18,legacy,negative,0.020971855148673058,0.8803845643997192,0.09864357858896255,-0.8594127092510462
+MARUTI,2026-10-14,"Sigma Advanced Systems, Munitions India tie up for artillery technology - Business Standard",,2026-10-18,legacy,neutral,0.12162657827138901,0.00827549397945404,0.8700979351997375,0.11335108429193497
+MARUTI,2026-10-14,"Small IPOs deliver 17% gains in 2026, beat larger issues: Kotak report - Business Standard",,2026-10-18,legacy,positive,0.9042757749557495,0.013774138875305653,0.08195015043020248,0.8905016360804439
+MARUTI,2026-10-14,"US Secretary of State Marco Rubio to visit Jamnagar, Mumbai from Oct 17-22 - Business Standard",,2026-10-18,legacy,neutral,0.05992283672094345,0.016815070062875748,0.9232621192932129,0.0431077666580677
+MARUTI,2026-10-14,US govt hits BofA with $1.2 billion fine over money laundering violations - Business Standard,,2026-10-18,legacy,negative,0.018064768984913826,0.9475432634353638,0.03439187631011009,-0.9294784944504499
+MARUTI,2026-10-15,"Caparo Engineering India, Japan’s ANSCO and MISI partners to expand high-strength fastener business in India - The Economic Times",,2026-10-18,legacy,positive,0.7863258123397827,0.007133718580007553,0.20654046535491943,0.7791920937597752
+MARUTI,2026-10-15,Hyundai’s long drive in India: 30 years and counting - ET Auto,,2026-10-18,legacy,neutral,0.11204861104488373,0.011700949631631374,0.8762503862380981,0.10034766141325235
+MARUTI,2026-10-15,"Maruti Suzuki gets favourable tax tribunal order for 8 financial years; impact at Rs 13,000 crore - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.11410675942897797,0.030827868729829788,0.8550652861595154,0.08327889069914818
+MARUTI,2026-10-15,Mini car sales jump 86% in H1 as entry-level segment shows recovery signs - Business Standard,,2026-10-18,legacy,positive,0.9515612125396729,0.025461368262767792,0.022977424785494804,0.9260998442769051
+MARUTI,2026-10-15,"Stellantis to invest ₹4,000 crore, launch 12 products in 3 years - Business Standard",,2026-10-18,legacy,neutral,0.2315550297498703,0.007273081690073013,0.7611718773841858,0.2242819480597973
+MARUTI,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.7371003031730652,0.07562079280614853,0.18727897107601166,0.6614795103669167
+MARUTI,2026-10-16,Global auto once fled India; but some MNCs are now changing the script - Livemint,Livemint,2026-10-19,live,neutral,0.036346882581710815,0.026965713128447533,0.9366874098777771,0.009381169453263283
+MARUTI,2026-10-16,Iveco Group shareholders approve Tata Motors' takeover proposals - Business Standard,,2026-10-18,legacy,neutral,0.06708083301782608,0.012565906159579754,0.9203532934188843,0.054514926858246326
+MARUTI,2026-10-16,"Stocks to Watch Today: Tech Mahindra, IIFL Finance, Persistent, Angel One, Lotus Developers, Solar... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03580945357680321,0.019946210086345673,0.9442443251609802,0.015863243490457535
+MARUTI,2026-10-16,"Stocks to watch: Jio Fin, Yes Bank, Wipro, L&T Fin, Angel One, Urban Co - Business Standard",,2026-10-18,legacy,neutral,0.03859516978263855,0.01676807925105095,0.9446367621421814,0.0218270905315876
+MARUTI,2026-10-18,"Centre plans MMDR Act overhaul, to draft comprehensive new mining law - Business Standard",,2026-10-18,legacy,neutral,0.14102473855018616,0.0110146664083004,0.8479605913162231,0.13001007214188576
+MARUTI,2026-10-19,"Maruti Suzuki leaves Alto, S-Presso prices unchanged despite rising costs amid demand rebound - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.44823145866394043,0.06829607486724854,0.48347240686416626,0.3799353837966919

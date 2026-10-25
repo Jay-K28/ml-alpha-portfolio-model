@@ -1,99 +1,181 @@
-ticker,date,headline,sentiment_score
-HINDALCO,2025-11-05,Hindalco sees $650 million impact on FY26 cash flow from Novelis fire - ET Infra,-0.8650417923927307
-HINDALCO,2026-03-30,"Indian shares log worst fiscal since 2020 as foreign exodus, war, trade woes bite - Reuters",-0.9501345753669739
-HINDALCO,2026-04-07,Indian shares decline ahead of Trump's looming Iran deadline - Reuters,-0.9534971117973328
-HINDALCO,2026-04-07,7 egg breakfasts for energetic workdays - The Economic Times,-0.8953174352645874
-HINDALCO,2015-05-27,BUZZ-India's Hindalco shares fall ahead of results - Reuters,-0.9569787979125977
-HINDALCO,2025-02-13,India's Hindalco Industries beats quarterly profit view on improved aluminium prices - Reuters,0.4306045472621918
-HINDALCO,2025-11-07,India's Hindalco beats quarterly profit estimates on higher commodity prices - Reuters,0.5512951016426086
-HINDALCO,2026-02-12,India's Hindalco posts 45% fall in quarterly profit on higher costs - Reuters,-0.9730885624885559
-HINDALCO,2025-08-12,India's Hindalco beats quarterly profit view on strong demand at home and abroad - Reuters,0.7841752171516418
-HINDALCO,2017-08-05,Check out Hindalco Industries Ltd's stock price (HINDALCO-IN) in real time - CNBC,-0.9446738958358765
-HINDALCO,2026-02-12,Hindalco’s Net Income Falls After US Plant Fires Hurt Operations - bloomberg.com,-0.9594733119010925
-HINDALCO,2025-05-20,"Hindalco Industries Q4 net profit jumps 66% to ₹5,283 crore - ET EnergyWorld",0.9351693987846375
-HINDALCO,2026-03-27,The Economic Times - The Economic Times,-0.9159992933273315
-HINDALCO,2017-03-30,"Hindalco Target Share Price, Hindalco Share Price Forecast - The Economic Times",-0.9378175139427185
-HINDALCO,2022-06-06,HALC.NS - Reuters,-0.9480076432228088
-HINDALCO,2025-05-26,"Hindalco eyes up to ₹8,000 crore in capex spending this fiscal - ET EnergyWorld",0.7650811076164246
-HINDALCO,2019-09-09,"hindalco industries ltd q3 results: Latest News & Videos, Photos about hindalco industries ltd q3 results - The Economic Times",-0.9376484155654907
-HINDALCO,2025-11-07,"Hindalco’s Q2 FY26 profit rises 21% to ₹4,741 crore - ET Manufacturing",0.9455255270004272
-HINDALCO,2025-02-25,"Hindalco to invest Rs 15,000 cr in Madhya Pradesh to expand aluminium smelting capacity - ET Infra",0.8424131870269775
-HINDALCO,2024-02-02,"Hindalco Industries Stocks Live Updates: Hindalco Industries Sees 1.38% Increase in Value Today, Generate - The Economic Times",0.890352725982666
-HINDALCO,2014-03-15,HNDL: Hindalco Industries Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9465248584747314
-HINDALCO,2024-06-05,Hindalco-owned Novelis delays US IPO; shares slide - Reuters,-0.9535778164863586
-HINDALCO,2024-05-26,"Hindalco industries - Latest hindalco industries , Information & Updates - Manufacturing - ET Manufacturing",-0.9477846622467041
-HINDALCO,2025-03-20,Hindalco to Spend $5.2 Billion to Expand Into New Businesses - bloomberg.com,-0.8122009038925171
-HINDALCO,2024-11-11,India's Hindalco beats Q2 profit view on higher aluminium prices - Reuters,0.8163421750068665
-HINDALCO,2019-03-19,BUZZ-India's Hindalco hits nearly 6-week high; chart suggests more upside - Reuters,0.7094329595565796
-HINDALCO,2025-11-04,India's Hindalco sees up to $650 million impact from fire at unit's New York plant - Reuters,-0.8381404280662537
-HINDALCO,2015-05-28,India's Hindalco Q4 profit misses estimates - Reuters,-0.8022542595863342
-HINDALCO,2026-03-13,Hindalco Halts Aluminum Product Sales as Iran War Roils Market - bloomberg.com,-0.8691743016242981
-HINDALCO,2024-05-26,"Hindalco Q4 net profit rises 32% to Rs 3,174 crore - ET Manufacturing",0.9436721801757812
-HINDALCO,2018-01-04,Hindalco Is Said to Bid for $2.5 Billion Aluminum Firm Aleris - bloomberg.com,-0.917980432510376
-HINDALCO,2024-11-18,Hindalco expects to gain from China scrapping export tax rebate - ET Infra,0.9309898614883423
-HINDALCO,2025-11-06,Hindalco shares tumble over 6% on fire-damage shock at Novelis plant - ET Manufacturing,-0.9652740359306335
-HINDALCO,2026-01-27,India's Hindalco unveils $2.3 billion aluminium smelter expansion plan - Reuters,-0.7734542489051819
-HINDALCO,2024-05-11,Coast Guard MoU with Hindalco to supply marine-grade aluminium for ship-making - ET Manufacturing,0.822094202041626
-HINDALCO,2025-06-24,Hindalco strengthens global footprint with $125 mn acquisition of US-based AluChem - ET EnergyWorld,0.9507564902305603
-HINDALCO,2024-02-20,Billionaire Birla’s Hindalco Prepares US Listing for Novelis - bloomberg.com,-0.9424470663070679
-HINDALCO,2023-09-14,"Aluminium sector surging in India, but hampered by labour shortages, Hindalco executive says - Reuters",-0.9206541180610657
-HINDALCO,2023-08-05,Poorav Sheth joins Hindalco as President and CDIO (Designate) - ET CIO,-0.9377850294113159
-HINDALCO,2024-08-22,"Hindalco to spend $10 bln to expand India business and Novelis, chairman says - Reuters",0.5719849467277527
-HINDALCO,2026-02-11,India's Hindalco sees up to $1.6 billion impact from fire at unit's New York plant - Reuters,-0.8809677362442017
-HINDALCO,2026-02-11,Hindalco Flags Up to $1.6 Billion Hit Due to Novelis Plant Fires - bloomberg.com,-0.9260772466659546
-HINDALCO,2024-06-24,"Adani, Hindalco show interest as Hindustan Copper plans to develop two mines, source says - Reuters",-0.6807360053062439
-HINDALCO,2023-12-12,India's Hindalco to invest $96 mln to set up battery foil plant in Odisha state - Reuters,-0.7430894374847412
-HINDALCO,2023-06-28,"India's Jindal Steel, Hindalco among bidders for commercial coal mines - Reuters",-0.7503554821014404
-HINDALCO,2025-03-21,Hindalco unveils its new brand identity - ET BrandEquity,-0.7905058860778809
-HINDALCO,2024-02-13,Tycoon Birla’s Hindalco Bids for Indian Critical Minerals Leases - bloomberg.com,-0.9299505949020386
-HINDALCO,2024-09-17,"India's Hindalco plans to enter solar module manufacturing, sources say - Reuters",-0.8628812432289124
-HINDALCO,2022-08-24,Hindalco outlays USD 8 bn capex over next 5 yrs; 40% earmarked for EV-related biz in India - ET Auto,0.6636677980422974
-HINDALCO,2025-12-04,"India's Adani, Hindalco seek Peru copper assets as demand surges - Reuters",-0.9139406681060791
-HINDALCO,2026-03-30,About Hindalco Industries Ltd (HNDNF.PK) - Reuters,-0.9472666382789612
-HINDALCO,2020-09-14,Hindalco adopted cloud for the lack of choice. Here's what happens next - ET CIO,-0.9237713813781738
-HINDALCO,2023-05-25,"China Recovery Bigger Worry Than EU Carbon Tax, Hindalco MD Says - bloomberg.com",-0.8819376230239868
-HINDALCO,2025-11-10,"Watch Hindalco's Pai On Expansion, Aluminum & Copper Demand - bloomberg.com",-0.9376445412635803
-HINDALCO,2022-10-10,"The key to upscaling your worth: Atanu Pramanic, CIO, Hindalco - ET CIO",-0.84529048204422
-HINDALCO,2022-10-06,"Hindalco’s Novelis and Smart Press Shop, Germany, create closed-loop-recycling system - ET Auto",-0.810153603553772
-HINDALCO,2025-10-13,"Steelmakers brace for margin squeeze, non-ferrous sector lifts earnings on price gains - ET EnergyWorld",0.9158929586410522
-HINDALCO,2020-08-20,Hindalco to supply 1.2 million tonnes of bauxite residue to UltraTech Cement - Reuters,-0.7811771035194397
-HINDALCO,2024-10-07,"Hindalco, JSW Steel in race for copper mines in Jharkhand - ET EnergyWorld",-0.7510809302330017
-HINDALCO,2024-08-06,CBI books Hindalco for corruption in green clearance for Talabira coal mining - ET EnergyWorld,-0.7335745096206665
-HINDALCO,2026-01-02,"ECMS: Centre approves proposals from Dixon, Foxconn, Hindalco & others with ₹41,863 cr investment - telecom.economictimes.indiatimes.com",-0.8011826872825623
-HINDALCO,2024-05-28,Aluminum Producer Novelis Seeks Up to $945 Million in IPO - bloomberg.com,-0.8388064503669739
-HINDALCO,2024-05-09,Indian Billionaire Birla Said to Mull Seeking $1.2 Billion in Novelis IPO - bloomberg.com,-0.946045994758606
-HINDALCO,2025-10-08,Fire at Novelis plant set to disrupt biz for months - ET Auto,-0.9265081882476807
-HINDALCO,2018-02-02,Hindalco Industries Q3 profit jumps 17.7 percent - Reuters,-0.39373376965522766
-HINDALCO,2021-08-27,National Aluminium Co Ltd - Reuters,-0.9384281039237976
-HINDALCO,2020-10-06,"ONGC Q1 Results: Profit drops 34% YoY to Rs 10,015 crore on lower prices - The Economic Times",-0.9710143208503723
-HINDALCO,2017-09-04,"Half Yearly Results, Half yearly Earnings for Jainco Projects - The Economic Times",-0.9282497763633728
-HINDALCO,2018-11-19,"Shubhlaxmi Jewel Art Yearly results, Financial Summary - The Economic Times",-0.9080780744552612
-HINDALCO,2017-04-19,National Aluminium Company Ltd. - The Economic Times,-0.9165311455726624
-HINDALCO,2020-10-05,"NTPC Q4 Results: Profit rises 12% YoY to Rs 5,200 crore - The Economic Times",0.932239294052124
-HINDALCO,2021-10-27,"current events: Latest News & Videos, Photos about current events - The Economic Times",-0.937207818031311
-HINDALCO,2023-02-09,Ashish Chandra - Reuters,-0.9257397055625916
-HINDALCO,2020-04-23,"Aditya birla group - Latest aditya birla group , Information & Updates - HR -ETHRWorld - ETHRWorld.com",-0.9493452310562134
-HINDALCO,2017-04-12,"Maan Aluminium Share Price Today, Maan Aluminium Stock Price Live NSE/BSE Updates - The Economic Times",-0.938475489616394
-HINDALCO,2017-04-17,"Easun Reyrolle Share Price Today, Easun Reyrolle Stock Price Live NSE/BSE Updates - The Economic Times",-0.939915120601654
-HINDALCO,2024-05-14,"Hindustan Zinc shares hit record peak, up nearly 90 pc in FY25 so far - ET Infra",0.9485949277877808
-HINDALCO,2021-06-01,"usd inr forecast: Latest News & Videos, Photos about usd inr forecast - The Economic Times",-0.9286147356033325
-HINDALCO,2017-08-18,ISGEC Heavy Engineering Ltd. - The Economic Times,-0.92328941822052
-HINDALCO,2026-04-02,"MMP Industries Share Price Today, MMP Industries Stock Price Live NSE/BSE Updates - The Economic Times",-0.9383162260055542
-HINDALCO,2009-12-30,TABLE-India's November non-ferrous metal output - Reuters,-0.9050409197807312
-HINDALCO,2017-03-29,Announcement - The Economic Times,-0.9166386723518372
-HINDALCO,2017-10-14,"Half Yearly Results, Half yearly Earnings for Prithvi Exchange - The Economic Times",-0.9220461249351501
-HINDALCO,2026-02-12,Contrarians Emerge as India Tech Stocks Slump on AI Disruption Fears - bloomberg.com,-0.9154876470565796
-HINDALCO,2018-10-02,UTKAL ALUMINA INTERNATIONAL LIMITED. - The Economic Times,-0.9330043196678162
-HINDALCO,2017-03-29,Aditya Birla Fashion and Retail Ltd. - The Economic Times,-0.9221158027648926
-HINDALCO,2017-08-18,Maan Aluminium Share Price - The Economic Times,-0.924455463886261
-HINDALCO,2017-05-24,"Gratex Ind Yearly results, Financial Summary - The Economic Times",-0.9227133989334106
-HINDALCO,2022-09-16,Asian Consolidated Industries Ltd. - The Economic Times,-0.9218013286590576
-HINDALCO,2017-05-13,"Emami Paper Mills Share Price Today, Emami Paper Mills Stock Price Live NSE/BSE Updates - The Economic Times",-0.9381123185157776
-HINDALCO,2022-01-10,Decoding the whole leader through transformative leadership development - ETHRWorld.com,-0.8998019695281982
-HINDALCO,2026-04-02,KEC International Ltd. - The Economic Times,-0.9258089661598206
-HINDALCO,2023-10-26,Honasa Consumer Ltd. - The Economic Times,-0.9212560057640076
-HINDALCO,2023-05-31,Aerpace Industries Ltd. - The Economic Times,-0.9232133030891418
-HINDALCO,2017-04-21,"Half Yearly Results, Half yearly Earnings for Shree Steel Wire - The Economic Times",-0.9192872047424316
-HINDALCO,2017-03-25,Apar Industries Ltd. - The Economic Times,-0.9184697866439819
-HINDALCO,2017-04-14,Ashok Leyland Ltd. - The Economic Times,-0.9223100543022156
-HINDALCO,2025-02-25,Navin Nathani joins Cohizon Life Sciences as CIO - ET CIO,-0.9501786828041077
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+HINDALCO,2020-03-25,Covid-19 crisis: Metals and mining cos likely to see a sharp fall in earnings - ET Auto,,2026-10-18,legacy,negative,0.010319337248802185,0.9710586071014404,0.018622105941176414,-0.9607392698526382
+HINDALCO,2020-08-20,Hindalco to supply 1.2 million tonnes of bauxite residue to UltraTech Cement - Reuters,,2026-10-18,legacy,neutral,0.21082623302936554,0.007996437139809132,0.7811773419380188,0.2028297958895564
+HINDALCO,2020-09-14,Hindalco adopted cloud for the lack of choice. Here's what happens next - ET CIO,,2026-10-18,legacy,neutral,0.03390207514166832,0.042326584458351135,0.9237713813781738,-0.008424509316682816
+HINDALCO,2020-10-06,"ONGC Q1 Results: Profit drops 34% YoY to Rs 10,015 crore on lower prices - The Economic Times",,2026-10-18,legacy,negative,0.008322103880345821,0.9710143208503723,0.020663565024733543,-0.9626922169700265
+HINDALCO,2020-11-02,"Vedanta, Hindalco among winners on day-1 of commercial coal auctions - ET EnergyWorld",,2026-10-18,legacy,positive,0.7695503234863281,0.00871180184185505,0.22173793613910675,0.7608385216444731
+HINDALCO,2021-07-01,Hindalco Industries Ltd - Reuters,,2026-10-18,legacy,neutral,0.027921142056584358,0.030230555683374405,0.9418483376502991,-0.0023094136267900467
+HINDALCO,2021-12-20,"ONGC Q3 Results: Cons PAT falls 19% YoY to Rs 8,622 crore; Rs 5 per share dividend announced - The Economic Times",,2026-10-18,legacy,negative,0.06954970210790634,0.913698673248291,0.016751620918512344,-0.8441489711403847
+HINDALCO,2022-02-12,"Jindal Steel and Power, Hindalco bag coal mines in Odisha in auction - ET EnergyWorld",,2026-10-18,legacy,neutral,0.11589466035366058,0.011146094650030136,0.872959315776825,0.10474856570363045
+HINDALCO,2022-06-06,HALC.NS - Reuters,,2026-10-18,legacy,neutral,0.02159271202981472,0.030399631708860397,0.9480076432228088,-0.008806919679045677
+HINDALCO,2022-08-05,Anuran Sadhu - Reuters,,2026-10-18,legacy,neutral,0.026032254099845886,0.050435323268175125,0.9235323667526245,-0.02440306916832924
+HINDALCO,2022-08-24,Hindalco outlays USD 8 bn capex over next 5 yrs; 40% earmarked for EV-related biz in India - ET Auto,,2026-10-18,legacy,positive,0.6636677384376526,0.009050185792148113,0.3272821307182312,0.6546175526455045
+HINDALCO,2022-10-06,"Hindalco’s Novelis and Smart Press Shop, Germany, create closed-loop-recycling system - ET Auto",,2026-10-18,legacy,neutral,0.1821136176586151,0.007732919882982969,0.8101534843444824,0.17438069777563214
+HINDALCO,2022-10-10,"The key to upscaling your worth: Atanu Pramanic, CIO, Hindalco - ET CIO",,2026-10-18,legacy,neutral,0.14649257063865662,0.008217060938477516,0.8452904224395752,0.1382755097001791
+HINDALCO,2023-06-28,"India's Jindal Steel, Hindalco among bidders for commercial coal mines - Reuters",,2026-10-18,legacy,neutral,0.24072296917438507,0.008921603672206402,0.7503554224967957,0.23180136550217867
+HINDALCO,2023-08-05,Poorav Sheth joins Hindalco as President and CDIO (Designate) - ET CIO,,2026-10-18,legacy,neutral,0.04977497085928917,0.01243991032242775,0.9377851486206055,0.03733506053686142
+HINDALCO,2023-08-10,"Hindalco, Texmaco Rail join hands to make aluminium rail wagons, coaches - ET Infra",,2026-10-18,legacy,neutral,0.2770358622074127,0.00798366405069828,0.7149804830551147,0.26905219815671444
+HINDALCO,2023-12-12,"Hindalco to invest Rs 800 cr in new Odisha plant, aiming 25,000 tonne aluminium foil production for EV batte.. - ET EnergyWorld",,2026-10-18,legacy,neutral,0.30820316076278687,0.007151946425437927,0.684644877910614,0.30105121433734894
+HINDALCO,2024-02-13,India's Hindalco misses Q3 profit estimates on weak aluminium sales at Novelis - Reuters,,2026-10-18,legacy,negative,0.01062542200088501,0.9697179198265076,0.019656648859381676,-0.9590924978256226
+HINDALCO,2024-02-16,Hindalco Industries Stocks Live Updates: Hindalco Industries Trades at Rs 518.0 with 0.94% Increase; SMA5 - The Economic Times,,2026-10-18,legacy,positive,0.7914308309555054,0.0350273996591568,0.17354173958301544,0.7564034312963486
+HINDALCO,2024-05-08,"India's Hindalco mulls seeking $1.2 bln in Novelis IPO, Bloomberg News reports - Reuters",,2026-10-18,legacy,neutral,0.032962825149297714,0.055833157151937485,0.9112040400505066,-0.02287033200263977
+HINDALCO,2024-05-11,Coast Guard MoU with Hindalco to supply marine-grade aluminium for ship-making - ET Manufacturing,,2026-10-18,legacy,positive,0.822094202041626,0.007739020511507988,0.1701667308807373,0.814355181530118
+HINDALCO,2024-05-13,Aluminum products maker Novelis makes US IPO filing public - Reuters,,2026-10-18,legacy,neutral,0.04306063428521156,0.02425207942724228,0.9326872825622559,0.018808554857969284
+HINDALCO,2024-05-24,India's Hindalco beats Q4 profit view as lower costs outpace weak aluminium prices - Reuters,,2026-10-18,legacy,positive,0.9206076264381409,0.04201332479715347,0.03737901151180267,0.8785943016409874
+HINDALCO,2024-05-26,"Hindalco Q4 net profit rises 32% to Rs 3,174 crore - ET Manufacturing",,2026-10-18,legacy,positive,0.9436721801757812,0.02728193625807762,0.02904590032994747,0.9163902439177036
+HINDALCO,2024-06-05,Hindalco-owned Novelis delays US IPO; shares slide - Reuters,,2026-10-18,legacy,negative,0.008073722943663597,0.9535779356956482,0.03834842890501022,-0.9455042127519846
+HINDALCO,2024-06-24,"Adani, Hindalco show interest as Hindustan Copper plans to develop two mines, source says - Reuters",,2026-10-18,legacy,neutral,0.307090163230896,0.012173986993730068,0.6807358860969543,0.29491617623716593
+HINDALCO,2024-08-14,Aditya Birla Group Chairman Kumar Mangalam Birla's children inducted on board of Hindalco - ETHRWorld.com,,2026-10-18,legacy,neutral,0.022207381203770638,0.02762305550277233,0.950169563293457,-0.005415674299001694
+HINDALCO,2024-08-22,"Hindalco to spend $10 bln to expand India business and Novelis, chairman says - Reuters",,2026-10-18,legacy,positive,0.5719844102859497,0.009122106246650219,0.418893426656723,0.5628623040392995
+HINDALCO,2024-09-17,"India's Hindalco plans to enter solar module manufacturing, sources say - Reuters",,2026-10-18,legacy,neutral,0.12925975024700165,0.00785902515053749,0.8628812432289124,0.12140072509646416
+HINDALCO,2024-10-07,"Hindalco, JSW Steel in race for copper mines in Jharkhand - ET EnergyWorld",,2026-10-18,legacy,neutral,0.23638750612735748,0.012531607411801815,0.7510809302330017,0.22385589871555567
+HINDALCO,2024-11-07,"Indian shares give up Trump-fueled gains as profit-booking, earnings weigh - Reuters",,2026-10-18,legacy,negative,0.0694727674126625,0.6834090352058411,0.24711823463439941,-0.6139362677931786
+HINDALCO,2024-12-20,Hindalco signs tech deal with Italy's Metra to make high-speed aluminium rail coaches - ET Manufacturing,,2026-10-18,legacy,positive,0.9117758870124817,0.008862219750881195,0.07936190068721771,0.9029136672616005
+HINDALCO,2025-02-17,Jewelers to Rice Mills Discuss Hedging as Rupee Slide Hits India - Bloomberg.com,,2026-10-18,legacy,neutral,0.051323629915714264,0.1013655737042427,0.8473107814788818,-0.05004194378852844
+HINDALCO,2025-02-25,"Hindalco to invest Rs 15,000 cr in Madhya Pradesh to expand aluminium smelting capacity - ET Infra",,2026-10-18,legacy,positive,0.8424134254455566,0.007766402326524258,0.1498202383518219,0.8346470231190324
+HINDALCO,2025-03-20,Hindalco to Spend $5.2 Billion to Expand Into New Businesses - Bloomberg.com,,2026-10-18,legacy,neutral,0.17931033670902252,0.008488740772008896,0.8122009634971619,0.17082159593701363
+HINDALCO,2025-03-21,Hindalco unveils its new brand identity - ET BrandEquity,,2026-10-18,legacy,neutral,0.20215795934200287,0.007336228620260954,0.7905058860778809,0.19482173072174191
+HINDALCO,2025-05-20,"Hindalco Industries Q4 net profit jumps 66% to ₹5,283 crore - ET EnergyWorld",,2026-10-18,legacy,positive,0.9351693987846375,0.03469043970108032,0.030140172690153122,0.9004789590835571
+HINDALCO,2025-05-20,India's Hindalco beats quarterly profit estimates on surging commodity prices - Reuters,,2026-10-18,legacy,negative,0.19838497042655945,0.6590617895126343,0.14255329966545105,-0.46067681908607483
+HINDALCO,2025-05-26,"Hindalco eyes up to ₹8,000 crore in capex spending this fiscal - ET EnergyWorld",,2026-10-18,legacy,positive,0.765080988407135,0.010274768806993961,0.224644273519516,0.754806219600141
+HINDALCO,2025-06-24,Hindalco strengthens global footprint with $125 mn acquisition of US-based AluChem - ET EnergyWorld,,2026-10-18,legacy,positive,0.9507564902305603,0.011372186243534088,0.03787131607532501,0.9393843039870262
+HINDALCO,2025-08-12,India's Hindalco beats quarterly profit view on strong demand at home and abroad - Reuters,,2026-10-18,legacy,positive,0.7841753959655762,0.12865050137043,0.08717414736747742,0.6555248945951462
+HINDALCO,2025-09-19,"India must bridge gaps in critical mineral ecosystem, says Hindalco CTO - ET EnergyWorld",,2026-10-18,legacy,positive,0.8857264518737793,0.010714470408856869,0.10355912148952484,0.8750119814649224
+HINDALCO,2025-10-13,"Steelmakers brace for margin squeeze, non-ferrous sector lifts earnings on price gains - ET EnergyWorld",,2026-10-18,legacy,positive,0.9158929586410522,0.04503151401877403,0.03907546401023865,0.8708614446222782
+HINDALCO,2025-11-06,Hindalco shares tumble over 6% on fire-damage shock at Novelis plant - ET Manufacturing,,2026-10-18,legacy,negative,0.011027981527149677,0.9652740359306335,0.02369796857237816,-0.9542460544034839
+HINDALCO,2025-11-07,India's Hindalco beats quarterly profit estimates on higher commodity prices - Reuters,,2026-10-18,legacy,positive,0.5512946248054504,0.3529503643512726,0.09575505554676056,0.19834426045417786
+HINDALCO,2025-12-04,"India's Adani, Hindalco seek Peru copper assets as demand surges - Reuters",,2026-10-18,legacy,neutral,0.06923449039459229,0.016824807971715927,0.9139406681060791,0.05240968242287636
+HINDALCO,2026-01-02,"ECMS: Centre approves proposals from Dixon, Foxconn, Hindalco & others with ₹41,863 cr investment - ET Telecom",,2026-10-18,legacy,positive,0.8122243881225586,0.00910868588835001,0.17866690456867218,0.8031157022342086
+HINDALCO,2026-01-27,"Hindalco to invest ₹21,000 crore to expand aluminium smelting; commissions battery foil plant in Odisha - ET Manufacturing",,2026-10-18,legacy,positive,0.7152851223945618,0.008065303787589073,0.2766495943069458,0.7072198186069727
+HINDALCO,2026-01-27,India's Hindalco unveils $2.3 billion aluminium smelter expansion plan - Reuters,,2026-10-18,legacy,neutral,0.21571438014507294,0.010831250809133053,0.7734544277191162,0.20488312933593988
+HINDALCO,2026-02-08,"Jamal Ahmad joins Hindalco as Head - HR, Belur - ETHRWorld.com",,2026-10-18,legacy,neutral,0.028361422941088676,0.029562154784798622,0.9420763850212097,-0.0012007318437099457
+HINDALCO,2026-02-12,India's Hindalco posts 45% fall in quarterly profit on higher costs - Reuters,,2026-10-18,legacy,negative,0.008272265084087849,0.9730885624885559,0.01863914728164673,-0.9648162974044681
+HINDALCO,2026-02-28,"Digilogic Systems Yearly results, Financial Summary - The Economic Times",,2026-10-18,legacy,neutral,0.036411039531230927,0.044356752187013626,0.919232189655304,-0.0079457126557827
+HINDALCO,2026-03-13,Hindalco Halts Aluminum Product Sales as Iran War Roils Market - Bloomberg.com,,2026-10-18,legacy,negative,0.011368627659976482,0.8691743612289429,0.11945702880620956,-0.8578057335689664
+HINDALCO,2026-03-16,Hindalco denies extrusions operations halt report; says overall operations largely unaffected - ET Infra,,2026-10-18,legacy,negative,0.01172084454447031,0.9525454640388489,0.03573370352387428,-0.9408246194943786
+HINDALCO,2026-03-16,Hindalco denies extrusions operations halt report; says overall operations largely unaffected - ET Manufacturing,,2026-10-18,legacy,negative,0.012169905006885529,0.9547705054283142,0.03305952996015549,-0.9426006004214287
+HINDALCO,2026-04-30,India's NALCO posts quarterly profit drop on alumina softness - Reuters,,2026-10-18,legacy,negative,0.008268550969660282,0.9694349765777588,0.0222964845597744,-0.9611664256080985
+HINDALCO,2026-05-19,India's top copper producers oppose inclusion of scrap-based rods in standards - Reuters,,2026-10-18,legacy,negative,0.02644423022866249,0.5367144346237183,0.43684127926826477,-0.5102702043950558
+HINDALCO,2026-05-20,"Reliance helps Indian shares, but Iran war caution persists - Reuters",,2026-10-18,legacy,neutral,0.3256293535232544,0.05429002642631531,0.6200805902481079,0.2713393270969391
+HINDALCO,2026-05-22,"Hindalco Q4 FY26 profit slumps 50% to ₹2,597 crore - ET Manufacturing",,2026-10-18,legacy,negative,0.007915780879557133,0.9744153022766113,0.017668837681412697,-0.9664995213970542
+HINDALCO,2026-05-22,India's Hindalco misses profit estimates as Novelis disruptions weigh - Reuters,,2026-10-18,legacy,negative,0.009582028724253178,0.9521471858024597,0.038270801305770874,-0.9425651570782065
+HINDALCO,2026-05-25,"India's Hindalco sees steady Novelis earnings, strong domestic demand in 2027 - Reuters",,2026-10-18,legacy,positive,0.9460287094116211,0.014513002708554268,0.03945833817124367,0.9315157067030668
+HINDALCO,2026-07-11,India's Aditya Birla proposes $1.26 billion expansion of Odisha alumina refinery - Reuters,,2026-10-18,legacy,positive,0.6109637022018433,0.009483248926699162,0.37955304980278015,0.6014804532751441
+HINDALCO,2026-07-13,"Aditya Birla Group proposes Rs 12,000 crore Odisha alumina refinery expansion - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,neutral,0.16931211948394775,0.009937147609889507,0.8207507729530334,0.15937497187405825
+HINDALCO,2026-07-14,"Aditya Birla Group proposes ₹12,000 crore Odisha alumina refinery expansion - ET Infra",,2026-10-18,legacy,neutral,0.45376819372177124,0.009274790063500404,0.5369570255279541,0.44449340365827084
+HINDALCO,2026-07-14,"Aditya Birla Group proposes ₹12,000 crore Odisha alumina refinery expansion - ET Manufacturing",,2026-10-18,legacy,neutral,0.4827466905117035,0.009361096657812595,0.5078922510147095,0.4733855938538909
+HINDALCO,2026-08-07,"Hindalco Industries Q1 FY27 profit soars 75% to record ₹7,013 crore - ET Manufacturing",,2026-10-18,legacy,positive,0.9408019781112671,0.017553560435771942,0.04164450243115425,0.9232484176754951
+HINDALCO,2026-08-07,Hindalco Profit Tops Estimates as Metal Prices Surge - Bloomberg.com,,2026-10-18,legacy,neutral,0.39654627442359924,0.04068705812096596,0.5627666711807251,0.3558592163026333
+HINDALCO,2026-08-07,India's Hindalco posts profit surge as metal prices strengthen - Reuters,,2026-10-18,legacy,positive,0.884914755821228,0.05382125824689865,0.061264026910066605,0.8310934975743294
+HINDALCO,2026-08-10,"India's Hindustan Copper plans to sell copper concentrate sourced from Chile to Hindalco, Adani, sources say - Reuters",,2026-10-18,legacy,neutral,0.09646663069725037,0.010646414011716843,0.8928869962692261,0.08582021668553352
+HINDALCO,2026-08-14,"Turtlemint Fintech Yearly results, Financial Summary - The Economic Times",,2026-10-18,legacy,neutral,0.04212029650807381,0.0436413548886776,0.9142383933067322,-0.0015210583806037903
+HINDALCO,2026-09-11,"Midwest Gold Yearly Results, Financial summary, Midwest Gold Yearly Earnings - The Economic Times",,2026-10-18,legacy,neutral,0.04379040375351906,0.03153916448354721,0.924670398235321,0.012251239269971848
+HINDALCO,2026-09-17,Hindalco partners Metalshub for digital alumina tenders - ET Manufacturing,,2026-10-18,legacy,neutral,0.1348569095134735,0.008647939190268517,0.856495201587677,0.126208970323205
+HINDALCO,2026-10-02,COMMENTARY: Hindalco aims to kick-start an alumina pricing revolution - Reuters,,2026-10-18,legacy,neutral,0.16165785491466522,0.007616639137268066,0.8307254910469055,0.15404121577739716
+HINDALCO,2026-10-02,Hindalco calls off AluChem acquisition amid prolonged closing delays - ET EnergyWorld,,2026-10-18,legacy,negative,0.011569110676646233,0.8761105537414551,0.11232031881809235,-0.8645414430648088
+HINDALCO,2026-10-12,"Peak XV, Accel-backed Zetwerk seeks $2.64 billion valuation in India IPO - Reuters",,2026-10-18,legacy,neutral,0.08874104171991348,0.009427660144865513,0.901831328868866,0.07931338157504797
+HINDALCO,2026-10-13,India markets regulator panel seeks tighter monitoring of equity fundraises - Reuters,,2026-10-18,legacy,neutral,0.05254649370908737,0.0668468251824379,0.8806066513061523,-0.014300331473350525
+HINDALCO,2026-10-15,India markets regulator partly reverses derivative settlement rules after pushback - Reuters,,2026-10-18,legacy,negative,0.03655925765633583,0.5844614505767822,0.37897923588752747,-0.5479021929204464
+HINDALCO,2026-10-15,Is copper the new oil? India’s rising demand and import dependence - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.1137598305940628,0.015097814612090588,0.8711423873901367,0.09866201598197222
+HINDALCO,2026-10-16,A 30% salary hike or bedtime with his toddler? Parent's career dilemma sparks debate over the real cost of switching job - Livemint,Livemint,2026-10-19,live,negative,0.014263752847909927,0.9006428122520447,0.08509336411952972,-0.8863790594041348
+HINDALCO,2026-10-16,"Abakkus Flexi Cap Fund September portfolio: 35 stocks, including Groww and NTPC, see higher holdings - Livemint",Livemint,2026-10-19,live,neutral,0.044995881617069244,0.021412553265690804,0.9335916042327881,0.02358332835137844
+HINDALCO,2026-10-16,"Are Indians investing more, or are asset-rich Indians getting richer? Zerodha's Nithin Kamath sparks debate online - Livemint",Livemint,2026-10-19,live,neutral,0.11920279264450073,0.014324169605970383,0.8664730191230774,0.10487862303853035
+HINDALCO,2026-10-16,Carney Rallies Remain Vote in Alberta as Crucial Referendum Nears - Livemint,Livemint,2026-10-19,live,neutral,0.42571595311164856,0.09112614393234253,0.4831579029560089,0.33458980917930603
+HINDALCO,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.73710036277771,0.07562077045440674,0.1872788965702057,0.6614795923233032
+HINDALCO,2026-10-16,Foreign Holdings of US Treasuries Rise From Almost One-Year Low - Livemint,Livemint,2026-10-19,live,positive,0.9033908247947693,0.06741873919963837,0.029190417379140854,0.8359720855951309
+HINDALCO,2026-10-16,"Govt issues notification on PM CARES scholarship, spells out rules for children without Aadhaar - Livemint",Livemint,2026-10-19,live,neutral,0.022501494735479355,0.10388090461492538,0.8736175894737244,-0.08137940987944603
+HINDALCO,2026-10-16,"Indian Railways announces 3,548 graduate-level NTPC vacancies: Check eligibility, jobs, salaries and qualifications - Livemint",Livemint,2026-10-19,live,neutral,0.02349574863910675,0.042164482176303864,0.9343397617340088,-0.018668733537197113
+HINDALCO,2026-10-16,Jio parent Reliance Industries breaks silence on Starlink row: 'We have never feared competition’ - Livemint,Livemint,2026-10-19,live,neutral,0.04509672895073891,0.058035269379615784,0.8968679904937744,-0.012938540428876877
+HINDALCO,2026-10-17,"8th Pay Commission: What central government employees need to know about OPS, NPS and UPS - Livemint",Livemint,2026-10-19,live,neutral,0.028637472540140152,0.03546885401010513,0.935893714427948,-0.006831381469964981
+HINDALCO,2026-10-17,AI fears are rocking markets. The brave should buy the dips. - Livemint,Livemint,2026-10-19,live,neutral,0.056585490703582764,0.08270009607076645,0.8607144355773926,-0.026114605367183685
+HINDALCO,2026-10-17,Benjamin Satterley’s cause of death revealed after AEW star Pac passes away at 40 - Livemint,Livemint,2026-10-19,live,neutral,0.01855195313692093,0.19873753190040588,0.7827105522155762,-0.18018557876348495
+HINDALCO,2026-10-17,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.03676547110080719,0.024498071521520615,0.9387364387512207,0.012267399579286575
+HINDALCO,2026-10-17,"Centre caps trade margins on 137 cancer drugs, prices likely to fall by up to 70% - Livemint",Livemint,2026-10-19,live,negative,0.025702763348817825,0.9414757490158081,0.03282155469059944,-0.9157729856669903
+HINDALCO,2026-10-17,Cyber fraud alert: SBI warns about AI voice-cloning scams — 5 ways to protect your money - Livemint,Livemint,2026-10-19,live,neutral,0.04095199331641197,0.107304647564888,0.8517433404922485,-0.06635265424847603
+HINDALCO,2026-10-17,DA hike after Dussehra: Will central government employees get good news in October? - What we know so far - Livemint,Livemint,2026-10-19,live,neutral,0.14323613047599792,0.018692951649427414,0.8380709290504456,0.12454317882657051
+HINDALCO,2026-10-17,"DA news: Key salary components explained — We breakdown the differences between your DA, DR and HRA - Livemint",Livemint,2026-10-19,live,neutral,0.06268566846847534,0.022850219160318375,0.9144641160964966,0.03983544930815697
+HINDALCO,2026-10-17,Dearness Allowance hike 2026: Will the Centre announce the July DA revision before Diwali? What history suggests - Livemint,Livemint,2026-10-19,live,neutral,0.04557699337601662,0.02012808620929718,0.9342949390411377,0.025448907166719437
+HINDALCO,2026-10-17,Dubai-bound Emirates flight delayed at Delhi airport after a bird strike | Watch video - Livemint,Livemint,2026-10-19,live,negative,0.016832366585731506,0.8495619893074036,0.13360567390918732,-0.8327296227216721
+HINDALCO,2026-10-17,EPFO VISHWAS 2026 explained: How employers can settle pending Section 14B penal damages - Livemint,Livemint,2026-10-19,live,neutral,0.023532170802354813,0.10424037277698517,0.8722274899482727,-0.08070820197463036
+HINDALCO,2026-10-17,"EPFO explains new rules for EPF advances: Check withdrawal limits, conditions and forms - Livemint",Livemint,2026-10-19,live,neutral,0.03077017515897751,0.019985830411314964,0.9492440223693848,0.010784344747662544
+HINDALCO,2026-10-17,"Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint",Livemint,2026-10-19,live,neutral,0.035794150084257126,0.10830547660589218,0.8559004068374634,-0.07251132652163506
+HINDALCO,2026-10-17,Government employees await July 2026 Dearness Allowance hike: Check DA and DR announcement dates for the last 5 years - Livemint,Livemint,2026-10-19,live,neutral,0.02553291991353035,0.040387824177742004,0.9340792298316956,-0.014854904264211655
+HINDALCO,2026-10-17,"Home loan alert: SBI, PNB and 4 other banks revise lending rates — how borrowers may be affected - Livemint",Livemint,2026-10-19,live,neutral,0.024810796603560448,0.061563506722450256,0.9136257171630859,-0.03675271011888981
+HINDALCO,2026-10-17,How SBI’s failure to inform a retired scientist about FD maturity cost it ₹15.35 lakh; details of the case here - Livemint,Livemint,2026-10-19,live,neutral,0.02142213098704815,0.25772348046302795,0.7208544015884399,-0.2363013494759798
+HINDALCO,2026-10-17,"India Post sanctions 60 days’ Productivity Linked Bonus: Check employee eligibility, salary limits and calculation rules - Livemint",Livemint,2026-10-19,live,neutral,0.022283008322119713,0.055121708661317825,0.9225952625274658,-0.03283870033919811
+HINDALCO,2026-10-17,Looking to purchase gold this festive season? Here's how to directly avail Tyohar BharatPe Gold Offer - Livemint,Livemint,2026-10-19,live,neutral,0.06310613453388214,0.012558693066239357,0.9243351817131042,0.050547441467642784
+HINDALCO,2026-10-17,North Korea says it tested new torpedo system with AI capabilities - Livemint,Livemint,2026-10-19,live,positive,0.6407976746559143,0.010438968427479267,0.3487633466720581,0.630358706228435
+HINDALCO,2026-10-17,Parag Parikh Flexi Cap Fund cash falls to 9.77% after Rajeev Thakkar's ‘single-digit’ outlook: Where is the money going? - Livemint,Livemint,2026-10-19,live,negative,0.009131042286753654,0.9584717750549316,0.03239724785089493,-0.949340732768178
+HINDALCO,2026-10-17,"Regular vs step-up SIPs: Do ₹1,000 and 10% annual top-ups give you higher XIRR returns or just create a larger corpus? - Livemint",Livemint,2026-10-19,live,neutral,0.12621665000915527,0.011480691842734814,0.8623026609420776,0.11473595816642046
+HINDALCO,2026-10-17,"SC says internet access is a fundamental right, rejects blanket ban for children: ‘Safety and freedom are not at odds’ - Livemint",Livemint,2026-10-19,live,neutral,0.09607412666082382,0.01820235513150692,0.8857235312461853,0.0778717715293169
+HINDALCO,2026-10-17,SGB 2020-21 Series VII: Investors to pocket 192% gains on premature redemption; RBI fixes October 19 date - Livemint,Livemint,2026-10-19,live,positive,0.5543224811553955,0.026561208069324493,0.4191162884235382,0.527761273086071
+HINDALCO,2026-10-17,"Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",,2026-10-18,legacy,neutral,0.03339331969618797,0.029417794197797775,0.9371888637542725,0.003975525498390198
+HINDALCO,2026-10-17,Using two health insurance policies for one hospital bill? Are you aware of these claim rejection traps? - Livemint,Livemint,2026-10-19,live,neutral,0.02995999902486801,0.0915815606713295,0.8784584403038025,-0.06162156164646149
+HINDALCO,2026-10-17,Why Facundo Bernal's headbutt on Lamine Yamal earned a red card and sparked debate in Real Betis vs Barcelona - Livemint,Livemint,2026-10-19,live,negative,0.03874144330620766,0.8442487716674805,0.11700979620218277,-0.8055073283612728
+HINDALCO,2026-10-17,₹9 lakh in Post Office MIS vs ₹9 lakh in bank FD: Which gives a higher monthly income? - Livemint,Livemint,2026-10-19,live,neutral,0.1295734941959381,0.02618788182735443,0.8442385792732239,0.10338561236858368
+HINDALCO,2026-10-18,"'Why should the US bear the burden?': Treasury chief Bessent says Europe refused tariffs on India, China over Russia - Livemint",Livemint,2026-10-19,live,neutral,0.3408164381980896,0.047806061804294586,0.611377477645874,0.293010376393795
+HINDALCO,2026-10-18,7th Pay Commission: BSNL employees seek wage revision; management assures festival advance in 2 months - Livemint,Livemint,2026-10-19,live,negative,0.07229253649711609,0.7610014081001282,0.1667061150074005,-0.6887088716030121
+HINDALCO,2026-10-18,"8th Pay Commission: How salaries change at fitment factors of 4, 3.833 and 3.80; Check complete calculations - Livemint",Livemint,2026-10-19,live,neutral,0.026975730434060097,0.03878628462553024,0.9342380166053772,-0.011810554191470146
+HINDALCO,2026-10-18,"8th pay commission: Official state visit to Mumbai planned this week — Here's all we know about meetings, agenda - Livemint",Livemint,2026-10-19,live,neutral,0.024871855974197388,0.031042130663990974,0.944085955619812,-0.006170274689793587
+HINDALCO,2026-10-18,AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks - Livemint,Livemint,2026-10-19,live,neutral,0.15265366435050964,0.020505521446466446,0.826840877532959,0.1321481429040432
+HINDALCO,2026-10-18,"Aadhaar update: Want to change your name, address or date of birth? Check UIDAI's list of accepted documents - Livemint",Livemint,2026-10-19,live,neutral,0.01804356649518013,0.04567660018801689,0.9362798929214478,-0.02763303369283676
+HINDALCO,2026-10-18,"Affordable and versatile, Vietnam's basa gets Indians hooked - Livemint",Livemint,2026-10-19,live,neutral,0.3886326253414154,0.01012316346168518,0.6012442708015442,0.3785094618797302
+HINDALCO,2026-10-18,Autumn skincare: How to protect your skin from dryness and pollution - Livemint,Livemint,2026-10-19,live,neutral,0.06275562196969986,0.01641877554357052,0.9208256006240845,0.04633684642612934
+HINDALCO,2026-10-18,Best-performing SIFs: Quant leads hybrid long-short funds with 25.5% returns in 6 months; check how peers performed - Livemint,Livemint,2026-10-19,live,neutral,0.31791767477989197,0.00929355900734663,0.6727887392044067,0.30862411577254534
+HINDALCO,2026-10-18,Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - Livemint,Livemint,2026-10-19,live,positive,0.8305219411849976,0.012056343257427216,0.15742167830467224,0.8184655979275703
+HINDALCO,2026-10-18,DA hike before Diwali 2026: How much extra salary could central government employees get if DA rises to 63%? - Livemint,Livemint,2026-10-19,live,neutral,0.2325534224510193,0.02355491742491722,0.7438916563987732,0.20899850502610207
+HINDALCO,2026-10-18,"EPFO scheme offers up to ₹15,000 to first-time employees: Check eligibility, salary limit and payment rules - Livemint",Livemint,2026-10-19,live,neutral,0.06295184791088104,0.011000827886164188,0.9260473251342773,0.051951020024716854
+HINDALCO,2026-10-18,"EPFO: How to check status, EPF account passbook on official portal, Umang app, SMS, Missed Call, WhatsApp—Stepwise guide - Livemint",Livemint,2026-10-19,live,neutral,0.05301091447472572,0.01584567315876484,0.9311434626579285,0.037165241315960884
+HINDALCO,2026-10-18,"Eating out with family for Diwali, Dussehra? Here's why your restaurant bills may go up by 10-15% this festive season - Livemint",Livemint,2026-10-19,live,positive,0.7849933505058289,0.03552398830652237,0.17948266863822937,0.7494693621993065
+HINDALCO,2026-10-18,"Ebitda growth - Latest ebitda growth , Information & Updates - Manufacturing - ET Manufacturing",ET Manufacturing,2026-10-19,live,neutral,0.04611864313483238,0.017994577065110207,0.935886800289154,0.028124066069722176
+HINDALCO,2026-10-18,FD maturity mistake: Fixed deposit matured but you forgot to withdraw money? What happens to your amount? Renew or not? - Livemint,Livemint,2026-10-19,live,neutral,0.028002483770251274,0.043247632682323456,0.9287498593330383,-0.015245148912072182
+HINDALCO,2026-10-18,"Firing at Tiger Shroff in Mumbai's Juhu; actor safe, two including his driver injured - Livemint",Livemint,2026-10-19,live,negative,0.02486567012965679,0.8805730938911438,0.09456123411655426,-0.855707423761487
+HINDALCO,2026-10-18,"France protests: Thousands on streets over rising living costs, poor services - Mini French Revolution? What went wrong? - Livemint",Livemint,2026-10-19,live,negative,0.017506493255496025,0.7613745927810669,0.22111889719963074,-0.7438680995255709
+HINDALCO,2026-10-18,Got refund for online shopping after cancelling order but your credit card bill still shows due amount? Should you pay? - Livemint,Livemint,2026-10-19,live,neutral,0.0644732341170311,0.05030616745352745,0.8852205872535706,0.014167066663503647
+HINDALCO,2026-10-18,"Income Tax New TDS Form 141: How it simplifies tax deduction at source compliance for property transactions, rent, etc - Livemint",Livemint,2026-10-19,live,neutral,0.05907714366912842,0.013225287199020386,0.9276975989341736,0.04585185647010803
+HINDALCO,2026-10-18,Income tax audit last date: 21 Oct is deadline; last-minute checklist for taxpayers before submission | List from expert - Livemint,Livemint,2026-10-19,live,neutral,0.01718260534107685,0.050264280289411545,0.9325531125068665,-0.033081674948334694
+HINDALCO,2026-10-18,Income tax on property buying: Over ₹30 lakh deal? Experts suggest what to report in realty purchases to avoid taxmen - Livemint,Livemint,2026-10-19,live,neutral,0.03480640426278114,0.025284769013524055,0.9399088025093079,0.009521635249257088
+HINDALCO,2026-10-18,"India's exports to West Asia recover from US-Iran war shock in April-August; shipments to Africa, ASEAN rise - Livemint",Livemint,2026-10-19,live,positive,0.9410450458526611,0.02372382953763008,0.03523104637861252,0.917321216315031
+HINDALCO,2026-10-18,"India’s Revolut or Nubank will emerge from a bank, not a fintech: Slice CEO Rajan Bajaj - Livemint",Livemint,2026-10-19,live,neutral,0.10339673608541489,0.009098122827708721,0.8875051140785217,0.09429861325770617
+HINDALCO,2026-10-18,Insurance reforms: Why claims matter more than distribution costs - Livemint,Livemint,2026-10-19,live,neutral,0.05614390969276428,0.02345406264066696,0.9204020500183105,0.03268984705209732
+HINDALCO,2026-10-18,"Keralam DA, DR hike: Government raises rates from 35% to 37%; here's when the payments will begin - Livemint",Livemint,2026-10-19,live,neutral,0.21997161209583282,0.01216701790690422,0.7678613662719727,0.2078045941889286
+HINDALCO,2026-10-18,Manu Joseph: The poor have a right to fun—why don't the rich understand that? - Livemint,Livemint,2026-10-19,live,neutral,0.04929674044251442,0.02400415576994419,0.9266991019248962,0.02529258467257023
+HINDALCO,2026-10-18,Mint Explainer: What’s at stake for consumer companies this festive season? - Livemint,Livemint,2026-10-19,live,neutral,0.029610944911837578,0.03994833305478096,0.9304407238960266,-0.010337388142943382
+HINDALCO,2026-10-18,"Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint",Livemint,2026-10-19,live,positive,0.6336671710014343,0.028063256293535233,0.33826959133148193,0.6056039147078991
+HINDALCO,2026-10-18,NFL confirms Steelers vs Saints Paris game will go ahead on October 25 amid France protests - Livemint,Livemint,2026-10-19,live,neutral,0.04077371954917908,0.04086553305387497,0.918360710144043,-9.181350469589233e-05
+HINDALCO,2026-10-18,"NRI's ₹3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT gives relief - Livemint",Livemint,2026-10-19,live,negative,0.06317933648824692,0.4893200993537903,0.4475005567073822,-0.42614076286554337
+HINDALCO,2026-10-18,"No ITR filed, but ITAT Jaipur still quashed the 200% income tax penalty: Here's what the taxpayer did to win the case - Livemint",Livemint,2026-10-19,live,neutral,0.09165004640817642,0.03738575056195259,0.8709641695022583,0.05426429584622383
+HINDALCO,2026-10-18,The Kolkata crush and mechanics of pandal safety: Why smart city sensors fail in high-density downpours | Explained - Livemint,Livemint,2026-10-19,live,neutral,0.0617002509534359,0.022613078355789185,0.9156866073608398,0.03908717259764671
+HINDALCO,2026-10-18,"The week ahead in numbers: Jio’s mega IPO, forex reserves, Q2 earnings report - Livemint",Livemint,2026-10-19,live,neutral,0.043143779039382935,0.025417283177375793,0.9314389228820801,0.01772649586200714
+HINDALCO,2026-10-18,"Train ticket insurance from October 27: Is it mandatory, what is the current premium, coverage and claim process? - Livemint",Livemint,2026-10-19,live,neutral,0.02870626375079155,0.02298028953373432,0.9483134150505066,0.005725974217057228
+HINDALCO,2026-10-18,Trump's approval is just 33% — but these 3 other poll numbers may worry Republicans more - Livemint,Livemint,2026-10-19,live,neutral,0.0417468287050724,0.24176983535289764,0.7164832949638367,-0.20002300664782524
+HINDALCO,2026-10-18,"Using Buying Now, Pay Later (BNPL) for Diwali, Dussehra, and Dhanteras online shopping? Are you aware of these 5 risks? - Livemint",Livemint,2026-10-19,live,neutral,0.057413555681705475,0.023272603750228882,0.9193137884140015,0.03414095193147659
+HINDALCO,2026-10-18,"Want to retire early? How to split ₹1 lakh in monthly investments between short-term goals and FIRE, expert explains - Livemint",Livemint,2026-10-19,live,neutral,0.07719823718070984,0.012526788748800755,0.9102749824523926,0.06467144843190908
+HINDALCO,2026-10-18,What remakes of Akira Kurosawa’s ‘High and Low’ gain and lose - Livemint,Livemint,2026-10-19,live,neutral,0.0372002013027668,0.03875989839434624,0.924039900302887,-0.0015596970915794373
+HINDALCO,2026-10-18,What's wrong with calling it an 'AI race'? A lot—and India should reject this notion outright - Livemint,Livemint,2026-10-19,live,neutral,0.035711269825696945,0.09112422168254852,0.8731644749641418,-0.05541295185685158
+HINDALCO,2026-10-18,Why India’s steelmakers are eyeing coal gasification despite high costs - Livemint,Livemint,2026-10-19,live,neutral,0.11546305567026138,0.014783495105803013,0.8697534799575806,0.10067956056445837
+HINDALCO,2026-10-18,"Why Trump’s 'dealmaker' image faces scrutiny as Iran, Ukraine wars test his negotiating skills - Livemint",Livemint,2026-10-19,live,neutral,0.048897482454776764,0.16670165956020355,0.7844008207321167,-0.11780417710542679
+HINDALCO,2026-10-18,Yes Bank AT-1 verdict: Does this instrument fulfil the purpose it was originally designed for? - Livemint,Livemint,2026-10-19,live,neutral,0.07283554971218109,0.012212816625833511,0.9149516820907593,0.06062273308634758
+HINDALCO,2026-10-18,"₹50,000 in KVP vs ₹50,000 in NSC: Which post office scheme is better for a five-year goal? Check out the calculations - Livemint",Livemint,2026-10-19,live,neutral,0.1011575385928154,0.019315024837851524,0.8795274496078491,0.08184251375496387
+HINDALCO,2026-10-19,8th Pay Commission: What is dearness relief and how is it different from DA? Expert explains - Livemint,Livemint,2026-10-19,live,neutral,0.047532349824905396,0.02110881172120571,0.931358814239502,0.026423538103699684
+HINDALCO,2026-10-19,A hedge-fund billionaire’s two bitter wars—against his wife and his business partner - Livemint,Livemint,2026-10-19,live,negative,0.09851834923028946,0.47844719886779785,0.4230344295501709,-0.3799288496375084
+HINDALCO,2026-10-19,Akasa’s 35% revenue growth fails to arrest losses as aviation’s cost squeeze deepens - Livemint,Livemint,2026-10-19,live,negative,0.14279387891292572,0.7872517704963684,0.06995424628257751,-0.6444578915834427
+HINDALCO,2026-10-19,Anthropics IPO Dreams May Be Eclipsed By the Cloud - Livemint,Livemint,2026-10-19,live,neutral,0.059470660984516144,0.061043377965688705,0.8794860243797302,-0.0015727169811725616
+HINDALCO,2026-10-19,Can LTM’s pivot towards shorter-tenure AI deals accelerate revenue growth in H2? - Livemint,Livemint,2026-10-19,live,positive,0.6582552790641785,0.009167714044451714,0.3325769603252411,0.6490875650197268
+HINDALCO,2026-10-19,FCNR inflows ease liquidity constraints but weigh on private banks’ margins - Livemint,Livemint,2026-10-19,live,negative,0.16623127460479736,0.4964864253997803,0.3372822403907776,-0.3302551507949829
+HINDALCO,2026-10-19,Frail Indonesian markets reel after MSCI shock warning - Livemint,Livemint,2026-10-19,live,negative,0.12009342014789581,0.7937777638435364,0.08612876385450363,-0.6736843436956406
+HINDALCO,2026-10-19,From Ambani to Delta: why Elon Musk has picked fights over Starlink - Livemint,Livemint,2026-10-19,live,neutral,0.04000362381339073,0.040800970047712326,0.9191953539848328,-0.0007973462343215942
+HINDALCO,2026-10-19,"Gold, silver prices today, 19 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",Livemint,2026-10-19,live,neutral,0.07737727463245392,0.020036019384860992,0.9025866389274597,0.057341255247592926
+HINDALCO,2026-10-19,Japan PM Takaichi’s Public Support Slips After Cabinet Scandal - Livemint,Livemint,2026-10-19,live,negative,0.018056446686387062,0.9463640451431274,0.03557952865958214,-0.9283075984567404
+HINDALCO,2026-10-19,Long-term capital gains and securities transaction taxation: Here’s how to reform them - Livemint,Livemint,2026-10-19,live,neutral,0.04655298590660095,0.018233798444271088,0.9352132081985474,0.028319187462329865
+HINDALCO,2026-10-19,Noise COO Utsav Malhotra: ‘Your career is not a sprint or marathon. It’s a test match’ - Livemint,Livemint,2026-10-19,live,neutral,0.05406564846634865,0.020867787301540375,0.9250665307044983,0.03319786116480827
+HINDALCO,2026-10-19,"PNB has comfortable capital buffer, targets 15% credit growth this year, says CEO Chandra - Livemint",Livemint,2026-10-19,live,positive,0.9346727132797241,0.010370835661888123,0.054956529289484024,0.924301877617836
+HINDALCO,2026-10-19,Putin floats a summit with Trump and Xi to decide Ukraine’s fate - Livemint,Livemint,2026-10-19,live,neutral,0.10922819375991821,0.014458932913839817,0.8763128519058228,0.0947692608460784
+HINDALCO,2026-10-19,"Quick commerce, uncertain demand push up festive borrowing for consumer brands - Livemint",Livemint,2026-10-19,live,positive,0.8684275150299072,0.012179144658148289,0.11939329653978348,0.8562483703717589
+HINDALCO,2026-10-19,Tata Sons breaks from the past and drops Article 118 reference in Chandrasekaran’s third-term resolution - Livemint,Livemint,2026-10-19,live,neutral,0.026735791936516762,0.2017495483160019,0.7715146541595459,-0.17501375637948513
+HINDALCO,2026-10-19,The AI stock market wobble is a reminder: This time isn’t different - Livemint,Livemint,2026-10-19,live,neutral,0.043631553649902344,0.16439835727214813,0.7919700741767883,-0.12076680362224579
+HINDALCO,2026-10-19,The deadly 1.5-mile corridor that shows the fatal flaw in America’s road design - Livemint,Livemint,2026-10-19,live,neutral,0.09331399202346802,0.05143614113330841,0.8552498817443848,0.04187785089015961
+HINDALCO,2026-10-19,UBS capital rules have Swiss stuck between a rock and a hard place - Livemint,Livemint,2026-10-19,live,neutral,0.027763325721025467,0.43735167384147644,0.5348849892616272,-0.409588348120451
+HINDALCO,2026-10-19,What is a ‘boss scam’? 5 ways to protect yourself from CEO fraud - Livemint,Livemint,2026-10-19,live,neutral,0.03134976327419281,0.06962459534406662,0.8990256786346436,-0.03827483206987381
+HINDALCO,2026-10-19,"Yogi, Akhilesh and the high-stakes battle for UP - Livemint",Livemint,2026-10-19,live,neutral,0.11235927790403366,0.013440897688269615,0.8741998076438904,0.09891838021576405
+HINDALCO,2026-10-19,Zerodha Nifty Next 100 Etf Technical Analysis - Livemint,Livemint,2026-10-19,live,neutral,0.17827622592449188,0.014811614528298378,0.8069121837615967,0.1634646113961935

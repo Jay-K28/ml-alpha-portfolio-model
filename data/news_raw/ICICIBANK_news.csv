@@ -1,101 +1,196 @@
-ticker,date,headline,sentiment_score
-ICICIBANK,2026-04-03,Q4 results preview: Banks set for steady quarter amid macro uncertainty; margins rangebound - ET BFSI,0.5673375129699707
-ICICIBANK,2026-04-06,India's FY27 GDP growth forecast downgraded to 6.8-6.9% amid energy supply disruptions: Report - ET BFSI,-0.9679761528968811
-ICICIBANK,2026-04-06,"TPG to buy NIIF Green Infra NBFC Aseem for Rs 4,000 cr - ET BFSI",-0.9206388592720032
-ICICIBANK,2026-04-06,FIIs dump 48 crore HDFC Bank shares as stock crashes 26% in March quarter - ET BFSI,-0.95216304063797
-ICICIBANK,2026-04-06,"Sensex drops 300 points, Nifty below 22,650 as Trump's threats to Iran push oil above $110/barrel - ET BFSI",-0.947272777557373
-ICICIBANK,2026-04-06,RBI revamps business correspondent model to boost last mile delivery of financial services - The Economic Times,-0.5265089273452759
-ICICIBANK,2026-04-06,"Why retail investors love Infy, HDFC Bank despite meagre returns - The Economic Times",-0.8404334783554077
-ICICIBANK,2026-04-06,"India services growth slows to 14-month low in March amid rising costs, weak demand - The Economic Times",-0.967238187789917
-ICICIBANK,2026-04-07,Meta to release open source versions of its upcoming AI models - The Economic Times,-0.8942826986312866
-ICICIBANK,2026-04-06,"'Softening gold prices may spur demand on Akshaya Tritiya', says Tanishq - The Economic Times",-0.6930572390556335
-ICICIBANK,2026-04-06,Coal offtake under watch as industry builds stocks - The Economic Times,-0.9021755456924438
-ICICIBANK,2026-04-06,JSA strengthens corporate practice with senior lateral hires from CMS IndusLaw - The Economic Times,0.9007951617240906
-ICICIBANK,2017-03-23,"ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates - The Economic Times",-0.936768651008606
-ICICIBANK,2021-10-23,ICICI Bank Shares Jump as Loan Growth Buoys Profit to Record - bloomberg.com,0.5059120059013367
-ICICIBANK,2022-01-23,India's ICICI Bank shares rise as earnings beat expectations - Reuters,0.7997094988822937
-ICICIBANK,2026-01-17,India's ICICI Bank misses quarterly profit expectations; reappoints CEO - Reuters,-0.9316286444664001
-ICICIBANK,2025-10-18,ICICI Bank’s Profit Beats Estimates on Strong Loan Growth - bloomberg.com,0.783014178276062
-ICICIBANK,2025-04-19,India's ICICI Bank beats estimates with 18% quarterly profit growth - Reuters,0.8721049427986145
-ICICIBANK,2024-03-28,"India's ICICI Securities wins key vote to delist, merge with ICICI Bank amid retail investor opposition - Reuters",-0.5617972016334534
-ICICIBANK,2025-10-18,India's ICICI Bank beats quarterly profit estimates on lower provisions for bad loans - Reuters,-0.6782385110855103
-ICICIBANK,2017-08-05,Check out ICICI Bank Ltd's stock price (ICICIBANK-IN) in real time - CNBC,-0.9444596767425537
-ICICIBANK,2026-01-18,"Earnings Misses at Reliance, ICICI Bank Set to Embolden India Stock Bears - bloomberg.com",-0.8188013434410095
-ICICIBANK,2014-01-28,India's ICICI Bank posts slowest quarterly growth in four years - Reuters,-0.9596502780914307
-ICICIBANK,2025-07-21,"HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains - Reuters",0.6184461116790771
-ICICIBANK,2024-01-21,"ICICI Bank net profit jumps 25.7% to Rs 11,053 crore in Q3 - ET BFSI",0.9359850883483887
-ICICIBANK,2025-07-20,"India's HDFC Bank, ICICI Bank rise on upbeat quarterly results - Reuters",0.7364698648452759
-ICICIBANK,2025-01-25,"India's ICICI Bank reports higher quarterly profit, helped by healthy loan growth - Reuters",0.9554107785224915
-ICICIBANK,2019-05-21,"Icici bank - Latest icici bank , Information & Updates - BFSI -ET BFSI - ET BFSI",-0.9478800892829895
-ICICIBANK,2024-04-27,ICICI Bank Quarterly Profit Tops Estimates on Lending Boost - bloomberg.com,-0.7877776026725769
-ICICIBANK,2025-07-19,"ICICI Bank Q1 net profit jumps 15.9 pc to Rs 13,558 cr - ET BFSI",0.9186401963233948
-ICICIBANK,2024-10-26,"India's ICICI Bank beats Q2 profit view on healthy loan demand, margins shrink - Reuters",0.6367284059524536
-ICICIBANK,2021-10-24,India's ICICI Bank jumps to record high on robust second-quarter profit - Reuters,0.9086428284645081
-ICICIBANK,2025-07-29,"ICICI Bank, IOB stand out as top bank stock picks after Q1FY26 results - ET BFSI",0.709821343421936
-ICICIBANK,2025-09-03,ICICI Bank bets on tech and business banking to drive next phase of growth - ET BFSI,0.7630907893180847
-ICICIBANK,2025-07-19,"HDFC Bank, ICICI Bank face profit pressures in Q1 amid tepid loan growth, margin strain - ET BFSI",-0.9625453948974609
-ICICIBANK,2025-04-22,ICICI Bank set to maintain sector-leading returns despite expected margin pressure - ET BFSI,0.935361385345459
-ICICIBANK,2017-03-31,"ICICI Bank Target Share Price, ICICI Bank Share Price Forecast - The Economic Times",-0.9380913376808167
-ICICIBANK,2026-01-19,"ICICI Bank takes Rs 1,283 Cr hit on agri loan PSL review by RBI; reappoints CEO Sandeep Bakshi - ET BFSI",0.5497986674308777
-ICICIBANK,2022-06-06,ICBK.NS - Reuters,-0.9371260404586792
-ICICIBANK,2025-10-16,India Banks’ Lending Margins to Bottom Out as Rate Cuts Settle In - bloomberg.com,-0.7326241731643677
-ICICIBANK,2025-07-19,ICICI Bank Profit Beats Estimates on Lending Growth - bloomberg.com,-0.8838012218475342
-ICICIBANK,2025-07-22,"ICICI Bank set to outperform on resilient earnings, margin stability, and strong asset quality - ET BFSI",0.9502677321434021
-ICICIBANK,2019-07-27,"icici bank q1 preview: Latest News & Videos, Photos about icici bank q1 preview - The Economic Times",-0.936069130897522
-ICICIBANK,2024-10-29,"ICICI Bank set to sustain strong growth momentum amid expansion, rising digital efficiencies - ET BFSI",0.9501580595970154
-ICICIBANK,2022-10-22,ICICI Bank’s Profit Tops Estimates Helped by Growth in Loans - bloomberg.com,0.9169903993606567
-ICICIBANK,2025-01-28,"ICICI Bank poised for growth with strong profitability, stable margins, and resilient asset quality - ET BFSI",0.9031859040260315
-ICICIBANK,2023-10-21,Top private Indian banks report strong Q2 profit rise as loan growth continues - Reuters,0.9312372803688049
-ICICIBANK,2024-01-25,How does ICICI Bank compare with HDFC Bank after the market mayhem? - ET BFSI,-0.7040908932685852
-ICICIBANK,2026-01-05,ICICI Bank Says Indian Bonds Face Hurdle as Stocks Lure Savings - bloomberg.com,-0.6492173075675964
-ICICIBANK,2022-09-18,"Icici Bank Tirur Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9423384070396423
-ICICIBANK,2018-06-19,Sandeep Bakhshi: Brokerages cheer management revamp at ICICI Bank - The Economic Times Video | ET Now - The Economic Times,-0.8915959596633911
-ICICIBANK,2017-07-27,"Indian shares decline; Dr. Reddy's, ICICI Bank fall on weak Q1 - Reuters",-0.9675357937812805
-ICICIBANK,2014-03-15,ICICIBC: ICICI Bank Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.9472159743309021
-ICICIBANK,2026-01-17,"ICICI Bank Reappoints CEO Bakhshi for Two Years, Profit Misses - bloomberg.com",-0.8707415461540222
-ICICIBANK,2017-03-24,ICICI Bank Ltd. - The Economic Times,-0.9269043803215027
-ICICIBANK,2020-07-06,ICICI Bank refutes allegations of termination threats to employees - ET BFSI,-0.6616812944412231
-ICICIBANK,2022-10-22,India's ICICI Bank net profit jumps 37% as bad loan provisions drop - Reuters,-0.593946099281311
-ICICIBANK,2022-09-18,"Icici Bank Palai Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9417545199394226
-ICICIBANK,2024-08-01,ICICI Bank to continue on growth path despite NIM pressures and rising costs: Analysts - ET BFSI,0.8671210408210754
-ICICIBANK,2022-09-17,"Icici Bank Bangalore Kg Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9383900165557861
-ICICIBANK,2023-10-21,ICICI Bank Profit Rises More Than Expected on Retail Loan Demand - bloomberg.com,0.9150035381317139
-ICICIBANK,2026-03-26,ICICI Bank projects India's FY27 growth at 6.9% amid energy supply strain - ET BFSI,0.8854019641876221
-ICICIBANK,2025-08-05,"India's ICICI Bank treasury head to move to securities unit, sources say - Reuters",-0.9408957958221436
-ICICIBANK,2026-03-05,"ICICI Bank, HDFC Bank, SBI seen leading margin recovery in FY27 as loan yields rise - ET BFSI",0.9521175622940063
-ICICIBANK,2024-05-01,ICICI Bank Denies Report CEO Bakhshi Is Seeking to Step Down - bloomberg.com,-0.6680728793144226
-ICICIBANK,2022-09-17,"Icici Bank Bhayandar East Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9420673847198486
-ICICIBANK,2022-09-19,"Icici Bank Nanakramguda Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9403563737869263
-ICICIBANK,2022-09-19,"Icici Bank Chennai T Nagar Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9406578540802002
-ICICIBANK,2022-09-17,"Icici Bank Bangalore J P Nagar Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9397090673446655
-ICICIBANK,2022-09-16,"Icici Bank New Delhi Green Park Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9418979287147522
-ICICIBANK,2022-09-19,"Icici Bank Trichy Thillai Nagar Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9406319856643677
-ICICIBANK,2022-09-19,"Icici Bank Chennai Main Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9400255084037781
-ICICIBANK,2022-09-19,"Icici Bank Ahmedabad Sg Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9409981369972229
-ICICIBANK,2022-09-19,"Icici Bank Pollachi Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9418421983718872
-ICICIBANK,2022-09-16,"Icici Bank New Delhi Mohan Co Op Ind Estate Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9387703537940979
-ICICIBANK,2025-07-19,India's ICICI Bank reports 15.5% profit growth in Q1 helped by higher core lending income - Reuters,0.9549822211265564
-ICICIBANK,2022-09-17,"Icici Bank Talegaon Dabhade Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9398660659790039
-ICICIBANK,2022-04-25,ICICI Bank announces key appointments; Rakesh Jha to be Wholetime Director - ET BFSI,-0.935129702091217
-ICICIBANK,2025-08-19,State development loans face weak demand for seventh straight auction: ICICI Bank - ET BFSI,-0.967955470085144
-ICICIBANK,2022-09-17,"Icici Bank Bhiwandi Maharashtra Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9396060109138489
-ICICIBANK,2022-09-17,"Icici Bank Jaipur C Scheme Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9407452940940857
-ICICIBANK,2022-09-19,"Icici Bank Chennai Mount Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9403741955757141
-ICICIBANK,2022-09-17,"Icici Bank Banglore New Bel Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.940933346748352
-ICICIBANK,2022-09-23,"Icici Bank Kolkata Minto Park Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.938715934753418
-ICICIBANK,2022-09-16,"Icici Bank New Delhi Model Town Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9396127462387085
-ICICIBANK,2022-09-18,"Icici Bank Gaya Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9413619637489319
-ICICIBANK,2022-09-19,"Icici Bank Ahmedabad New Cloth Market Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9395805597305298
-ICICIBANK,2022-09-18,"Icici Bank Ranchi Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9383296370506287
-ICICIBANK,2022-09-19,"Icici Bank Ahmedabad Drive In Cinema Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9444530010223389
-ICICIBANK,2022-09-17,"Icici Bank Old Madras Road Bangalore Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9425015449523926
-ICICIBANK,2022-09-18,"Icici Bank Vishakapatnam Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9423476457595825
-ICICIBANK,2022-09-17,"Icici Bank Nashik Road Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9411039352416992
-ICICIBANK,2022-09-19,"Icici Bank Tanjore Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.940254271030426
-ICICIBANK,2018-10-26,"ICICI Bank Q2 profit slumps 56% to Rs 909 cr, still beats Street estimates - The Economic Times",-0.9684298634529114
-ICICIBANK,2022-09-18,"Icici Bank Sector 70 Mohali Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9416162967681885
-ICICIBANK,2025-12-25,"BFSI earnings upgrades return after five quarters; SBI, ICICI Bank lead recovery - ET BFSI",0.9426817297935486
-ICICIBANK,2022-09-21,"Icici Bank Kolkata Kasba Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9406183958053589
-ICICIBANK,2022-09-17,"Icici Bank Mysore Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9372614622116089
-ICICIBANK,2022-09-16,"Icici Bank Uttamnagar New Delhi Delhi Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9402584433555603
-ICICIBANK,2022-09-19,"Icici Bank Chennai Anna Nagar Branch IFSC Code, MICR Code, Address & Phone Number - The Economic Times",-0.9414017796516418
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+ICICIBANK,2021-06-15,ICICI Bank Ltd - Reuters,,2026-10-18,legacy,neutral,0.0274417232722044,0.029419831931591034,0.9431384205818176,-0.001978108659386635
+ICICIBANK,2022-01-23,India's ICICI Bank shares rise as earnings beat expectations - Reuters,,2026-10-18,legacy,positive,0.7997092604637146,0.05527918413281441,0.1450115591287613,0.7444300763309002
+ICICIBANK,2022-06-06,ICBK.NS - Reuters,,2026-10-18,legacy,neutral,0.020878804847598076,0.04199516028165817,0.9371260404586792,-0.021116355434060097
+ICICIBANK,2024-01-20,India's ICICI Bank beats quarterly estimates with record high profit - Reuters,,2026-10-18,legacy,positive,0.8974049091339111,0.03911437839269638,0.06348066031932831,0.8582905307412148
+ICICIBANK,2024-01-21,"ICICI Bank net profit jumps 25.7% to Rs 11,053 crore in Q3 - bfsi.economictimes.indiatimes.com",,2026-10-18,legacy,positive,0.8676490187644958,0.04736441373825073,0.08498647809028625,0.8202846050262451
+ICICIBANK,2024-04-29,ICICI Bank powers best session for India's blue-chips in eight weeks - Reuters,,2026-10-18,legacy,neutral,0.17937970161437988,0.016083205118775368,0.8045370578765869,0.16329649649560452
+ICICIBANK,2025-01-25,"India's ICICI Bank reports higher quarterly profit, helped by healthy loan growth - Reuters",,2026-10-18,legacy,positive,0.9554107785224915,0.0246297474950552,0.01995939202606678,0.9307810310274363
+ICICIBANK,2025-04-19,India's ICICI Bank beats estimates with 18% quarterly profit growth - Reuters,,2026-10-18,legacy,positive,0.8721049427986145,0.043177489191293716,0.08471758663654327,0.8289274536073208
+ICICIBANK,2025-04-19,States’ revenue growth to slow to 13% in FY26 from 16% in FY25: ICICI Bank Report - ET Government,,2026-10-18,legacy,negative,0.012423084117472172,0.9394550919532776,0.048121705651283264,-0.9270320078358054
+ICICIBANK,2025-04-21,"India's HDFC Bank, ICICI Bank close higher as quarterly earnings boost investor confidence - Reuters",,2026-10-18,legacy,positive,0.9271154999732971,0.027042975649237633,0.04584144800901413,0.9000725243240595
+ICICIBANK,2025-07-20,"India's HDFC Bank, ICICI Bank rise on upbeat quarterly results - Reuters",,2026-10-18,legacy,positive,0.7364701628684998,0.12305890768766403,0.1404709666967392,0.6134112551808357
+ICICIBANK,2025-07-21,"HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains - Reuters",,2026-10-18,legacy,positive,0.6184461116790771,0.03446146845817566,0.3470923900604248,0.5839846432209015
+ICICIBANK,2025-10-18,ICICI Bank’s Profit Beats Estimates on Strong Loan Growth - Bloomberg.com,,2026-10-18,legacy,positive,0.7830139994621277,0.030494900420308113,0.18649107217788696,0.7525190990418196
+ICICIBANK,2025-10-18,India's ICICI Bank beats quarterly profit estimates on lower provisions for bad loans - Reuters,,2026-10-18,legacy,negative,0.28172099590301514,0.6782379150390625,0.04004111886024475,-0.39651691913604736
+ICICIBANK,2026-01-17,India's ICICI Bank misses quarterly profit expectations; reappoints CEO - Reuters,,2026-10-18,legacy,negative,0.013898751698434353,0.9316287636756897,0.054472487419843674,-0.9177300119772553
+ICICIBANK,2026-01-18,"Earnings Misses at Reliance, ICICI Bank Set to Embolden India Stock Bears - Bloomberg.com",,2026-10-18,legacy,neutral,0.06949921697378159,0.11169961839914322,0.8188011646270752,-0.04220040142536163
+ICICIBANK,2026-04-18,"India's ICICI Bank profit beats estimates on strong loan growth, lower provisions - Reuters",,2026-10-18,legacy,positive,0.8786592483520508,0.08743945509195328,0.03390130028128624,0.7912197932600975
+ICICIBANK,2026-07-03,"India's ICICI Bank to join peers in dollar debt funding under RBI swap window, sources say - Reuters",,2026-10-18,legacy,positive,0.5955708026885986,0.008842317387461662,0.3955868184566498,0.586728485301137
+ICICIBANK,2026-07-18,ICICI Bank’s First-Quarter Profit Beats Estimate as Loans Surge - Bloomberg.com,,2026-10-18,legacy,neutral,0.3965562582015991,0.11086496710777283,0.49257874488830566,0.2856912910938263
+ICICIBANK,2026-07-18,"India's ICICI Bank reports 15.9% rise in Q1 profit, beats estimates - Reuters",,2026-10-18,legacy,positive,0.932659924030304,0.020805124193429947,0.04653504490852356,0.911854799836874
+ICICIBANK,2026-08-07,ICICI Bank Limited - Reuters,,2026-10-18,legacy,neutral,0.02575262449681759,0.027904370799660683,0.9463430643081665,-0.002151746302843094
+ICICIBANK,2026-08-11,Stock Research Report for ICICI Bank Limited - The Economic Times,,2026-10-18,legacy,neutral,0.03044860251247883,0.04128604754805565,0.928265392780304,-0.01083744503557682
+ICICIBANK,2026-10-01,"ICICI Bank News - ICICI Bank Announcement, Latest News on ICICI Bank - The Economic Times",,2026-10-18,legacy,neutral,0.035478368401527405,0.0334683433175087,0.9310533404350281,0.0020100250840187073
+ICICIBANK,2026-10-13,RBI's new forex rules will raise importers hedging costs and ease pressure on rupee: Report - cfo.economictimes.indiatimes.com,,2026-10-18,legacy,neutral,0.16729764640331268,0.03184232488274574,0.8008599877357483,0.13545532152056694
+ICICIBANK,2026-10-14,"PL Capital raises Nifty 50 target to 27,589; BEL, ICICI Bank, Airtel among top picks — check price targets - Livemint",Livemint,2026-10-19,live,positive,0.8564400672912598,0.013663128949701786,0.12989675998687744,0.842776938341558
+ICICIBANK,2026-10-15,'Godfather' star Al Pacino to receive life achievement award from actors' guild - Reuters,,2026-10-18,legacy,positive,0.6490945219993591,0.015419788658618927,0.3354857861995697,0.6336747333407402
+ICICIBANK,2026-10-15,"Ambani's Jio set for listing pop, analysts say ahead of record IPO - Reuters",,2026-10-18,legacy,neutral,0.07501357793807983,0.02356729656457901,0.9014191031455994,0.051446281373500824
+ICICIBANK,2026-10-15,Anthropic grants outside evaluator METR employee-level access in AI safety push - Reuters,,2026-10-18,legacy,neutral,0.19116979837417603,0.0073200431652367115,0.8015100955963135,0.18384975520893931
+ICICIBANK,2026-10-15,"Bollywood actor Imran Khan asked to leave India after participating in protest, media says - Reuters",,2026-10-18,legacy,negative,0.02699965424835682,0.7558110952377319,0.21718929708003998,-0.7288114409893751
+ICICIBANK,2026-10-15,Breakingviews - COMMENTARY: India’s bank privatisation offers cautious win-win - Reuters,,2026-10-18,legacy,neutral,0.2746456265449524,0.016880497336387634,0.7084738612174988,0.25776512920856476
+ICICIBANK,2026-10-15,Brent steady as US weighs easing sanctions on global 'shadow fleet' - Reuters,,2026-10-18,legacy,negative,0.281403511762619,0.5461329221725464,0.1724635511636734,-0.26472941040992737
+ICICIBANK,2026-10-15,"EXCLUSIVE: India customs scrutiny diverts Niger soybeans to Asia at steep discounts, sources say - Reuters",,2026-10-18,legacy,neutral,0.0780157595872879,0.26857826113700867,0.6534059643745422,-0.19056250154972076
+ICICIBANK,2026-10-15,Ericsson braces for component cost hit after third-quarter profit beat - Reuters,,2026-10-18,legacy,negative,0.15472497045993805,0.8125383257865906,0.03273671865463257,-0.6578133553266525
+ICICIBANK,2026-10-15,Fairfax plans to fold other Indian financial holdings into IDBI Bank - Reuters,,2026-10-18,legacy,neutral,0.04102850332856178,0.013134785927832127,0.9458367228507996,0.027893717400729656
+ICICIBANK,2026-10-15,"Fairfax's India playbook: How IDBI, Digit, IIFL, CSB fit into Watsa's plan - bfsi.economictimes.indiatimes.com",bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.06597818434238434,0.012097183614969254,0.9219246506690979,0.053881000727415085
+ICICIBANK,2026-10-15,German savings banks chief says growth could curb political polarisation - Reuters,,2026-10-18,legacy,positive,0.7407437562942505,0.01469228882342577,0.24456395208835602,0.7260514674708247
+ICICIBANK,2026-10-15,"Global EV sales fall 2% in September, ending six-month growth streak - Reuters",,2026-10-18,legacy,negative,0.008564048446714878,0.9726260900497437,0.01880989782512188,-0.9640620416030288
+ICICIBANK,2026-10-15,"Governments globally to turn to non-dollar bonds amid AI-driven liquidity crunch, Citi banker says - Reuters",,2026-10-18,legacy,negative,0.04846406728029251,0.7506473660469055,0.20088855922222137,-0.702183298766613
+ICICIBANK,2026-10-15,"ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest - Livemint",Livemint,2026-10-19,live,neutral,0.053773924708366394,0.014689809642732143,0.9315362572669983,0.03908411506563425
+ICICIBANK,2026-10-15,"India insurance regulator to oversee smooth transition to new commission rules, chairman says - Reuters",,2026-10-18,legacy,neutral,0.11507023125886917,0.011220202781260014,0.8737095594406128,0.10385002847760916
+ICICIBANK,2026-10-15,India markets regulator partly reverses derivative settlement rules after pushback - Reuters,,2026-10-18,legacy,negative,0.03655925765633583,0.5844614505767822,0.37897923588752747,-0.5479021929204464
+ICICIBANK,2026-10-15,"India raises windfall tax on petrol, cuts duty on diesel - Reuters",,2026-10-18,legacy,neutral,0.16162259876728058,0.18834145367145538,0.6500359773635864,-0.026718854904174805
+ICICIBANK,2026-10-15,"India says first phase of US trade deal nearly done, insists on edge over rivals - Reuters",,2026-10-18,legacy,positive,0.7159748673439026,0.05192946270108223,0.23209568858146667,0.6640454046428204
+ICICIBANK,2026-10-15,India's August balance of payments surplus swings to $45.4 billion - Reuters,,2026-10-18,legacy,negative,0.18058648705482483,0.7816576957702637,0.03775583952665329,-0.6010712087154388
+ICICIBANK,2026-10-15,India's IDBI Bank slides on profit booking after Fairfax buys controlling stake - Reuters,,2026-10-18,legacy,negative,0.011175962164998055,0.9470247626304626,0.04179927706718445,-0.9358488004654646
+ICICIBANK,2026-10-15,"India's RBI has spent half of $140 billion FX capital haul in rupee defence, bankers estimate - Reuters",,2026-10-18,legacy,neutral,0.12698650360107422,0.023473093286156654,0.8495403528213501,0.10351341031491756
+ICICIBANK,2026-10-15,"India's Reliance, Airtel rally as Jio Platforms IPO recasts valuations - Reuters",,2026-10-18,legacy,neutral,0.07182511687278748,0.422039270401001,0.5061356425285339,-0.3502141535282135
+ICICIBANK,2026-10-15,India's Tech Mahindra maintains fiscal 2027 margin target after large deals drive revenue beat - Reuters,,2026-10-18,legacy,positive,0.6846746802330017,0.11705464869737625,0.19827067852020264,0.5676200315356255
+ICICIBANK,2026-10-15,India's top court voids Yes Bank's $880 million AT-1 bond write-off - Reuters,,2026-10-18,legacy,negative,0.02167009375989437,0.8893054723739624,0.08902435004711151,-0.867635378614068
+ICICIBANK,2026-10-15,Indian share benchmarks log best day in four months on global AI slump - Reuters,,2026-10-18,legacy,neutral,0.2279660403728485,0.1436048448085785,0.628429114818573,0.08436119556427002
+ICICIBANK,2026-10-15,Italy's UniCredit wins ECB approval to control Germany's Commerzbank - Reuters,,2026-10-18,legacy,positive,0.7539534568786621,0.0145640317350626,0.23148256540298462,0.7393894251435995
+ICICIBANK,2026-10-15,"Lufthansa in talks to take remaining 50.1% stake in TAP in future, CFO says - Reuters",,2026-10-18,legacy,neutral,0.03956777602434158,0.016812961548566818,0.9436192512512207,0.022754814475774765
+ICICIBANK,2026-10-15,Mukesh Ambani's Jio sets price band for India IPO - Reuters,,2026-10-18,legacy,neutral,0.10698114335536957,0.01578712835907936,0.8772317171096802,0.0911940149962902
+ICICIBANK,2026-10-15,"Rupee extends winning streak as dollar, oil ease and stocks rally - Reuters",,2026-10-18,legacy,positive,0.8489674925804138,0.05053005367517471,0.10050246119499207,0.7984374389052391
+ICICIBANK,2026-10-15,"Saudi Aramco offers extra spot crude cargoes to Europe, sources say - Reuters",,2026-10-18,legacy,positive,0.7781847715377808,0.013932611793279648,0.2078825682401657,0.7642521597445011
+ICICIBANK,2026-10-15,Ukraine says it damaged six Russian military jets in missile strike on airfield - Reuters,,2026-10-18,legacy,negative,0.0343288816511631,0.9071274995803833,0.0585436150431633,-0.8727986179292202
+ICICIBANK,2026-10-15,Volvo Cars expands automated driving partnership with Nvidia - Reuters,,2026-10-18,legacy,positive,0.5277925133705139,0.009974142536520958,0.462233304977417,0.517818370833993
+ICICIBANK,2026-10-16,"Abakkus Flexi Cap Fund September portfolio: 35 stocks, including Groww and NTPC, see higher holdings - Livemint",Livemint,2026-10-19,live,neutral,0.04499587416648865,0.021412545815110207,0.9335916042327881,0.02358332835137844
+ICICIBANK,2026-10-16,Alphabet's Waymo plans first Canada robotaxi service in Toronto in 2028 - Reuters,,2026-10-18,legacy,neutral,0.06875636428594589,0.011094036512076855,0.920149564743042,0.05766232777386904
+ICICIBANK,2026-10-16,"Bank deposits surge on FCNR inflows, but margin pressure looms for lenders - Business Standard",Business Standard,2026-10-19,live,positive,0.5552206039428711,0.40262144804000854,0.042157966643571854,0.15259915590286255
+ICICIBANK,2026-10-16,Canadian steelmakers offset some US tariff pain with domestic demand - Reuters,,2026-10-18,legacy,positive,0.6444039344787598,0.2833056151866913,0.07229046523571014,0.3610983192920685
+ICICIBANK,2026-10-16,Earnings-driven IT bounce powers Indian shares to best week in six months - Reuters,,2026-10-18,legacy,positive,0.7371003031730652,0.07562079280614853,0.18727897107601166,0.6614795103669167
+ICICIBANK,2026-10-16,ExxonMobil signals $4.5 billion refining earnings boost as margins soar - Reuters,,2026-10-18,legacy,positive,0.921800971031189,0.015591956675052643,0.062607042491436,0.9062090143561363
+ICICIBANK,2026-10-16,"Fairfax Financial to retain Sharma as IDBI CEO, names Kannan chairman - Business Standard",Business Standard,2026-10-19,live,neutral,0.04685336351394653,0.017481759190559387,0.9356648921966553,0.029371604323387146
+ICICIBANK,2026-10-16,"Festive demand drives India's diesel sales in October, data shows - Reuters",,2026-10-18,legacy,neutral,0.1139354482293129,0.04868033528327942,0.8373842239379883,0.06525511294603348
+ICICIBANK,2026-10-16,"HDFC, ICICI Bank Q2 earnings preview: deposit surge, margin pressure in focus - Livemint",Livemint,2026-10-19,live,positive,0.5429815649986267,0.14342521131038666,0.31359317898750305,0.39955635368824005
+ICICIBANK,2026-10-16,"ICICI Bank Q2 Preview: Profit may rise 8-14% YoY, NIM likely to contract - Business Standard",Business Standard,2026-10-19,live,positive,0.9510282874107361,0.02173081785440445,0.027240870520472527,0.9292974695563316
+ICICIBANK,2026-10-16,IMF expects at least one more 25 bps ECB rate hike in 2026 - Reuters,,2026-10-18,legacy,neutral,0.2217336893081665,0.02961416356265545,0.7486521005630493,0.19211952574551105
+ICICIBANK,2026-10-16,India sets zero sugar diversion for ethanol in 2026/27 tender - Reuters,,2026-10-18,legacy,neutral,0.040275804698467255,0.028365587815642357,0.9313585758209229,0.011910216882824898
+ICICIBANK,2026-10-16,"India widens rupee defence to rates, but cautiously - Reuters",,2026-10-18,legacy,neutral,0.16728435456752777,0.032139211893081665,0.8005764484405518,0.1351451426744461
+ICICIBANK,2026-10-16,India's BoP set to turn positive but below expectations amid oil import costs and widening trade deficit: IC.. - bfsi.economictimes.indiatimes.com,,2026-10-18,legacy,negative,0.09471219778060913,0.8317800760269165,0.07350765913724899,-0.7370678782463074
+ICICIBANK,2026-10-16,India's Jio Financial Services falls after quarterly profit halves - Reuters,,2026-10-18,legacy,negative,0.00856658723205328,0.9524170160293579,0.03901635482907295,-0.9438504287973046
+ICICIBANK,2026-10-16,India's Yes Bank expects AT1 reinstatement to cut core capital ratio by 250 bps - Reuters,,2026-10-18,legacy,negative,0.019602540880441666,0.9170541763305664,0.0633433610200882,-0.8974516354501247
+ICICIBANK,2026-10-16,"Indian Hotels, Oriental Hotels rally up to 6%; what's driving hotel stocks? - Business Standard",Business Standard,2026-10-19,live,positive,0.6385455131530762,0.025501428171992302,0.3359530568122864,0.6130440849810839
+ICICIBANK,2026-10-16,Indian fitness firm Cult.fit gets regulatory nod for IPO - Reuters,,2026-10-18,legacy,neutral,0.2226019948720932,0.016321323812007904,0.7610766887664795,0.2062806710600853
+ICICIBANK,2026-10-16,"KFC switch to Coke puts PepsiCo's food service ties in focus, analysts say - Reuters",,2026-10-18,legacy,neutral,0.2714483141899109,0.05064641311764717,0.677905261516571,0.22080190107226372
+ICICIBANK,2026-10-16,"Mexico urges Volkswagen, workers to resume talks after wage deal rejected - Reuters",,2026-10-18,legacy,negative,0.07216078788042068,0.7606160044670105,0.16722321510314941,-0.6884552165865898
+ICICIBANK,2026-10-16,NEWSLETTER: Glucose monitoring devices for type 2 diabetes benefit even those not on insulin - Reuters,,2026-10-18,legacy,neutral,0.1926891803741455,0.010246760211884975,0.7970640659332275,0.18244242016226053
+ICICIBANK,2026-10-16,"Nearly 12,000 California residents bought EVs using state rebate program - Reuters",,2026-10-18,legacy,neutral,0.11677251756191254,0.012148501351475716,0.8710789680480957,0.10462401621043682
+ICICIBANK,2026-10-16,"Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears - Reuters",,2026-10-18,legacy,neutral,0.28142523765563965,0.2366795837879181,0.48189520835876465,0.04474565386772156
+ICICIBANK,2026-10-16,One bank is no longer enough: How Indians are changing the way they bank - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.035159867256879807,0.03712669759988785,0.9277135133743286,-0.0019668303430080414
+ICICIBANK,2026-10-16,"Q2 Preview: ICICI, Axis, YES, HDFC Bank - 4 banking stocks to declare results 2026 on Oct 17 - Expectations by experts - Livemint",Livemint,2026-10-19,live,neutral,0.3325275480747223,0.013446599245071411,0.6540259122848511,0.3190809488296509
+ICICIBANK,2026-10-16,"Rogue AI agents broke into Indian firms' live systems, government says - Reuters",,2026-10-18,legacy,negative,0.013299104757606983,0.8919397592544556,0.09476110339164734,-0.8786406544968486
+ICICIBANK,2026-10-16,"Rupee posts best week in seven months, fundamentals key for lasting turnaround - Reuters",,2026-10-18,legacy,positive,0.563791036605835,0.03836198151111603,0.3978469967842102,0.5254290550947189
+ICICIBANK,2026-10-16,Russia's Rosatom targets year-end nuclear start-up at Turkey's Akkuyu - Reuters,,2026-10-18,legacy,neutral,0.16500431299209595,0.010619256645441055,0.8243764042854309,0.1543850563466549
+ICICIBANK,2026-10-16,Schneider Electric raises 2026 targets again on booming data centre demand - Reuters,,2026-10-18,legacy,positive,0.934128999710083,0.021478336304426193,0.044392697513103485,0.9126506634056568
+ICICIBANK,2026-10-16,Sebi's CAS rule change bigger positive for brokers vs exchanges: Jefferies - Business Standard,Business Standard,2026-10-19,live,positive,0.5161105990409851,0.018048526719212532,0.4658408761024475,0.4980620723217726
+ICICIBANK,2026-10-16,SpaceX's spectrum deal still leaves it far from rivaling telecom giants - Reuters,,2026-10-18,legacy,positive,0.5215823650360107,0.0206223726272583,0.4577952027320862,0.5009599924087524
+ICICIBANK,2026-10-16,"Stocks to watch: Jio Fin, Yes Bank, Wipro, L&T Fin, Angel One, Urban Co - Business Standard",Business Standard,2026-10-19,live,neutral,0.03859516978263855,0.016768071800470352,0.9446367621421814,0.021827097982168198
+ICICIBANK,2026-10-16,UK watchdog moves to protect energy market from wholesale price swings - Reuters,,2026-10-18,legacy,neutral,0.06027809530496597,0.04302280396223068,0.8966991305351257,0.01725529134273529
+ICICIBANK,2026-10-16,US manufacturing output rises in September - Reuters,,2026-10-18,legacy,neutral,0.22283096611499786,0.17928345501422882,0.5978856086730957,0.04354751110076904
+ICICIBANK,2026-10-16,World Bank's Banga sets goal of quintupling critical minerals financing in five years - Reuters,,2026-10-18,legacy,positive,0.6077848076820374,0.009827149100601673,0.38238802552223206,0.5979576585814357
+ICICIBANK,2026-10-17,"Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports - Reuters",,2026-10-18,legacy,neutral,0.14733366668224335,0.012641197070479393,0.8400251865386963,0.13469246961176395
+ICICIBANK,2026-10-17,"Axis Bank Q2FY27 result: Profit rises 38% to ₹7,003 crore, misses estimates - Business Standard",Business Standard,2026-10-19,live,positive,0.9470106363296509,0.027629898861050606,0.02535947784781456,0.9193807374686003
+ICICIBANK,2026-10-17,"Central Bank of India Q2 profit rises 21% to ₹1,469 cr on strong NII growth - Business Standard",Business Standard,2026-10-19,live,positive,0.9452821612358093,0.027217673137784004,0.0275000911206007,0.9180644880980253
+ICICIBANK,2026-10-17,"Chartist Talk: Can Nifty 50 extend gains towards 23,500 next week? Sudeep Shah's top picks are TVS Motor,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.1537674516439438,0.0112483911216259,0.8349841237068176,0.1425190605223179
+ICICIBANK,2026-10-17,"DLF eyes revenue growth from FY28 as ₹75,000 cr projects near completion - Business Standard",Business Standard,2026-10-19,live,positive,0.9211827516555786,0.010869950987398624,0.06794728338718414,0.91031280066818
+ICICIBANK,2026-10-17,"Festival crush in Indian city of Kolkata kills at least 17, local media say - Reuters",,2026-10-18,legacy,negative,0.010967329144477844,0.9400659203529358,0.04896673932671547,-0.929098591208458
+ICICIBANK,2026-10-17,"HDFC Bank Q2 net profit rises 4.7% to ₹19,510 crore as NII grows - Business Standard",Business Standard,2026-10-19,live,positive,0.9480143189430237,0.023647569119930267,0.028338123112916946,0.9243667498230934
+ICICIBANK,2026-10-17,HDFC Bank's Deputy Managing Director Kaizad Bharucha seeks to quit on December 31; details here - Livemint,Livemint,2026-10-19,live,neutral,0.015167317353188992,0.37646231055259705,0.608370304107666,-0.36129499319940805
+ICICIBANK,2026-10-17,"ICICI Bank Q2 net rises 20% to ₹14,843 crore as provisions fall - Business Standard",Business Standard,2026-10-19,live,positive,0.9022723436355591,0.07270330935716629,0.0250244177877903,0.8295690342783928
+ICICIBANK,2026-10-17,"ICICI Bank Q2 results: Net profit rises 20% to Rs 14,843 crore, beats estimates; NII up 18% - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9434094429016113,0.026369396597146988,0.03022116981446743,0.9170400463044643
+ICICIBANK,2026-10-17,ICICI Bank sees another margin squeeze in Q3 as FCNR-B costs kick in - Livemint,Livemint,2026-10-19,live,negative,0.023281043395400047,0.9652585983276367,0.011460324749350548,-0.9419775549322367
+ICICIBANK,2026-10-17,"ICICI Bank’s Sandeep Batra says bank has strong internal succession bench, wishes Bagchi 'the very best'... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.6496087908744812,0.00952436588704586,0.3408668637275696,0.6400844249874353
+ICICIBANK,2026-10-17,"IDBI Bank Q2 profit falls 39% to ₹2,205 crore on high base of NSDL gains - Business Standard",Business Standard,2026-10-19,live,negative,0.011084150522947311,0.968920111656189,0.019995788112282753,-0.9578359611332417
+ICICIBANK,2026-10-17,"IDBI Bank sale to Fairfax: FinMin cites 2003 law, Delhi HC judgment - Business Standard",Business Standard,2026-10-19,live,neutral,0.07893261313438416,0.009313453920185566,0.9117538928985596,0.06961915921419859
+ICICIBANK,2026-10-17,India's 'cockroach' movement founder released a day after detention - Reuters,,2026-10-18,legacy,neutral,0.03120776265859604,0.1731547713279724,0.7956374883651733,-0.14194700866937637
+ICICIBANK,2026-10-17,"India's Axis Bank quarterly profit rises 37.6%, but misses estimates on higher costs - Reuters",,2026-10-18,legacy,negative,0.027921030297875404,0.9387174248695374,0.033361539244651794,-0.910796394571662
+ICICIBANK,2026-10-17,India's HDFC Bank Q2 profit rises 4.7%; deputy MD Bharucha to step down - Reuters,,2026-10-18,legacy,negative,0.021199746057391167,0.723550021648407,0.2552502453327179,-0.7023502755910158
+ICICIBANK,2026-10-17,"India's ICICI Bank Q2 profit rises 20.1%, beats estimates - Reuters",,2026-10-18,legacy,positive,0.9205014705657959,0.040737003087997437,0.03876150771975517,0.8797644674777985
+ICICIBANK,2026-10-17,"Indian state food safety authority names Reliance, Blinkit executives in expired food probe - Reuters",,2026-10-18,legacy,neutral,0.025012914091348648,0.29653266072273254,0.6784543991088867,-0.2715197466313839
+ICICIBANK,2026-10-17,Kaizad Bharucha to exit HDFC Bank at end of December after three decades - Business Standard,Business Standard,2026-10-19,live,neutral,0.01894817315042019,0.09667888283729553,0.8843729496002197,-0.07773070968687534
+ICICIBANK,2026-10-17,"Kenya confirms four new Ebola cases, bringing total number to seven - Reuters",,2026-10-18,legacy,neutral,0.4366144835948944,0.12421830743551254,0.4391672909259796,0.31239617615938187
+ICICIBANK,2026-10-17,"Q2 results 2026 race: HDFC vs ICICI Bank vs Axis Bank vs Yes Bank vs IDBI - Which bank won in PAT, NII, asset quality? - Livemint",Livemint,2026-10-19,live,neutral,0.23926883935928345,0.009734485298395157,0.7509966492652893,0.2295343540608883
+ICICIBANK,2026-10-17,"Q2 results today: HDFC Bank, ICICI Bank, Axis Bank among 18 firms on Oct 17 - Business Standard",Business Standard,2026-10-19,live,neutral,0.06474876403808594,0.015831489115953445,0.9194197058677673,0.04891727492213249
+ICICIBANK,2026-10-17,"Rajasthan BJP makes local poll gains, Congress fails to contain infighting - The Economic Times",,2026-10-18,legacy,negative,0.17148183286190033,0.7361075282096863,0.09241055697202682,-0.564625695347786
+ICICIBANK,2026-10-17,"Saturday bank holiday: Are SBI, HDFC Bank, ICICI Bank and others open or closed today on October 17, 2026? - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.018517743796110153,0.04909319058060646,0.9323890209197998,-0.030575446784496307
+ICICIBANK,2026-10-17,"Striking unions at Antofagasta's Centinela copper mine reach preliminary deal, ending strike - Reuters",,2026-10-18,legacy,negative,0.028635302558541298,0.8944134712219238,0.0769512727856636,-0.8657781686633825
+ICICIBANK,2026-10-17,Using two health insurance policies for one hospital bill? Are you aware of these claim rejection traps? - Livemint,Livemint,2026-10-19,live,neutral,0.02995999902486801,0.09158152341842651,0.8784584403038025,-0.0616215243935585
+ICICIBANK,2026-10-17,Woodside natural gas project unit paused after Greenpeace protest off Western Australia - Reuters,,2026-10-18,legacy,negative,0.035299550741910934,0.7879531383514404,0.17674726247787476,-0.7526535876095295
+ICICIBANK,2026-10-17,"YES Bank Q2 profit up 65% at ₹1,080 cr; AT1 ruling impact not yet reflected - Business Standard",Business Standard,2026-10-19,live,positive,0.9512771964073181,0.0215898547321558,0.02713295817375183,0.9296873416751623
+ICICIBANK,2026-10-17,Yes Bank Q2 profit rises but AT1 ruling not booked as further appeal weighed - Reuters,,2026-10-18,legacy,negative,0.10587141662836075,0.6715096235275269,0.2226189523935318,-0.5656382068991661
+ICICIBANK,2026-10-17,icici bank - rajasthan.economictimes.indiatimes.com,rajasthan.economictimes.indiatimes.com,2026-10-19,live,neutral,0.027564752846956253,0.0305728018283844,0.9418624043464661,-0.0030080489814281464
+ICICIBANK,2026-10-17,₹9 lakh in Post Office MIS vs ₹9 lakh in bank FD: Which gives a higher monthly income? - Livemint,Livemint,2026-10-19,live,neutral,0.12957347929477692,0.02618788182735443,0.8442385792732239,0.10338559746742249
+ICICIBANK,2026-10-18,'Regime Change is forceful and undemocratic': BJP spokesperson Pradeep Bhandari - The Economic Times,,2026-10-18,legacy,neutral,0.07308683544397354,0.05206233263015747,0.874850869178772,0.02102450281381607
+ICICIBANK,2026-10-18,"8th Pay Commission: How salaries change at fitment factors of 4, 3.833 and 3.80; Check complete calculations - Livemint",Livemint,2026-10-19,live,neutral,0.02697574533522129,0.03878629580140114,0.9342380166053772,-0.011810550466179848
+ICICIBANK,2026-10-18,"Aadhaar update: Want to change your name, address or date of birth? Check UIDAI's list of accepted documents - Livemint",Livemint,2026-10-19,live,neutral,0.01804356649518013,0.04567660018801689,0.9362798929214478,-0.02763303369283676
+ICICIBANK,2026-10-18,"Bank holidays this week: Will SBI, HDFC, ICICI, PNB be closed for festivals from 19–25 October? Check city-wise RBI list - Livemint",Livemint,2026-10-19,live,neutral,0.02084018848836422,0.04155462235212326,0.9376051425933838,-0.02071443386375904
+ICICIBANK,2026-10-18,Best-performing SIFs: Quant leads hybrid long-short funds with 25.5% returns in 6 months; check how peers performed - Livemint,Livemint,2026-10-19,live,neutral,0.31791767477989197,0.00929355900734663,0.6727887392044067,0.30862411577254534
+ICICIBANK,2026-10-18,"Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead midcap gainers - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.0713965967297554,0.8275439739227295,0.10105939209461212,-0.7561473771929741
+ICICIBANK,2026-10-18,China proposes export controls on solar-manufacturing technologies - Reuters,,2026-10-18,legacy,neutral,0.05796750262379646,0.024567555636167526,0.9174649715423584,0.03339994698762894
+ICICIBANK,2026-10-18,China proposes export controls on solar-manufacturing technologies - The Economic Times,,2026-10-18,legacy,neutral,0.1290760189294815,0.015876758843660355,0.8550471663475037,0.11319926008582115
+ICICIBANK,2026-10-18,DA hike before Diwali 2026: How much extra salary could central government employees get if DA rises to 63%? - Livemint,Livemint,2026-10-19,live,neutral,0.2325534224510193,0.02355491742491722,0.7438916563987732,0.20899850502610207
+ICICIBANK,2026-10-18,"EPFO scheme offers up to ₹15,000 to first-time employees: Check eligibility, salary limit and payment rules - Livemint",Livemint,2026-10-19,live,neutral,0.06295184791088104,0.011000827886164188,0.9260473251342773,0.051951020024716854
+ICICIBANK,2026-10-18,"Earnings, crude oil, Jio IPO key monitorables for investors next week - Business Standard",Business Standard,2026-10-19,live,neutral,0.033478714525699615,0.025387031957507133,0.9411342144012451,0.008091682568192482
+ICICIBANK,2026-10-18,"Earnings, crude oil, Jio Platforms IPO key monitorables for investors next week - bfsi.economictimes.indiatimes.com",bfsi.economictimes.indiatimes.com,2026-10-19,live,neutral,0.026783863082528114,0.034702058881521225,0.9385141134262085,-0.00791819579899311
+ICICIBANK,2026-10-18,FCNR(B) deposit inflows weigh on private banks' margins in Q2FY27 results - Business Standard,Business Standard,2026-10-19,live,negative,0.0194394588470459,0.9087498188018799,0.0718107521533966,-0.889310359954834
+ICICIBANK,2026-10-18,FD maturity mistake: Fixed deposit matured but you forgot to withdraw money? What happens to your amount? Renew or not? - Livemint,Livemint,2026-10-19,live,neutral,0.02800249308347702,0.04324764013290405,0.9287498593330383,-0.015245147049427032
+ICICIBANK,2026-10-18,Himadri's H1FY27 profit rises 29% to ₹460 crore on speciality growth - Business Standard,Business Standard,2026-10-19,live,positive,0.9491435885429382,0.02492392808198929,0.025932468473911285,0.9242196604609489
+ICICIBANK,2026-10-18,ICICI Bank profit spurts 20% on NII; core profitability a tad lower on FCNR(B) - The Economic Times,,2026-10-18,legacy,negative,0.06128627434372902,0.9043617248535156,0.03435201197862625,-0.8430754505097866
+ICICIBANK,2026-10-18,"ICICI Bank vs HDFC Bank vs Axis Bank: Which stock to buy, sell or hold after Q2 results? - Livemint",Livemint,2026-10-19,live,neutral,0.03165431693196297,0.02156316116452217,0.9467825293540955,0.010091155767440796
+ICICIBANK,2026-10-18,"ICICI's credit card book declines as bank exits risky, unprofitable segments - bfsi.economictimes.indiatimes.com",bfsi.economictimes.indiatimes.com,2026-10-19,live,negative,0.0076585388742387295,0.9692293405532837,0.023112108930945396,-0.961570801679045
+ICICIBANK,2026-10-18,"Income Tax New TDS Form 141: How it simplifies tax deduction at source compliance for property transactions, rent, etc - Livemint",Livemint,2026-10-19,live,neutral,0.05907714366912842,0.013225287199020386,0.9276975989341736,0.04585185647010803
+ICICIBANK,2026-10-18,Insurance reforms: Why claims matter more than distribution costs - Livemint,Livemint,2026-10-19,live,neutral,0.05614390969276428,0.02345406264066696,0.9204020500183105,0.03268984705209732
+ICICIBANK,2026-10-18,"Kolkata Durga Puja pandal stampede: Death toll rises to 19, CM Suvendu Adhikari forms high-level panel to - The Economic Times",,2026-10-18,legacy,neutral,0.1733761727809906,0.38937053084373474,0.43725332617759705,-0.21599435806274414
+ICICIBANK,2026-10-18,"Mcap of nine of top-10 most valued firms surges by ₹3.65 trn, TCS shines - Business Standard",Business Standard,2026-10-19,live,positive,0.9172311425209045,0.024971380829811096,0.05779745429754257,0.8922597616910934
+ICICIBANK,2026-10-18,"Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint",Livemint,2026-10-19,live,positive,0.6336671710014343,0.028063256293535233,0.33826959133148193,0.6056039147078991
+ICICIBANK,2026-10-18,"NRI's ₹3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT gives relief - Livemint",Livemint,2026-10-19,live,negative,0.06317933648824692,0.4893200993537903,0.44750064611434937,-0.42614076286554337
+ICICIBANK,2026-10-18,"Reports of sale false and misleading, says Bhilai Steel Plant amid Congress alleging Adani visit - The Economic Times",The Economic Times,2026-10-19,live,negative,0.025530537590384483,0.7131152153015137,0.2613542675971985,-0.6875846777111292
+ICICIBANK,2026-10-18,"Using Buying Now, Pay Later (BNPL) for Diwali, Dussehra, and Dhanteras online shopping? Are you aware of these 5 risks? - Livemint",Livemint,2026-10-19,live,neutral,0.057413555681705475,0.023272603750228882,0.9193137884140015,0.03414095193147659
+ICICIBANK,2026-10-18,"Want to retire early? How to split ₹1 lakh in monthly investments between short-term goals and FIRE, expert explains - Livemint",Livemint,2026-10-19,live,neutral,0.07719820737838745,0.012526783160865307,0.9102749824523926,0.06467142421752214
+ICICIBANK,2026-10-18,What is holding up the US-India trade deal? - The Economic Times,,2026-10-18,legacy,neutral,0.041444435715675354,0.03599106892943382,0.9225645065307617,0.005453366786241531
+ICICIBANK,2026-10-19,"$95 is cheap for oil, could hit $140 by February, $500 by 2030, says a leading global currency strategist - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.3422680199146271,0.02500925585627556,0.6327227354049683,0.3172587640583515
+ICICIBANK,2026-10-19,8th Pay Commission: What is dearness relief and how is it different from DA? Expert explains - Livemint,Livemint,2026-10-19,live,neutral,0.047532349824905396,0.02110881730914116,0.931358814239502,0.026423532515764236
+ICICIBANK,2026-10-19,A hedge-fund billionaire’s two bitter wars—against his wife and his business partner - Livemint,Livemint,2026-10-19,live,negative,0.09851834923028946,0.47844719886779785,0.4230344295501709,-0.3799288496375084
+ICICIBANK,2026-10-19,"Asian chip stocks extend losses on funding worry, DeepSeek model - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.01609809510409832,0.946607768535614,0.037294238805770874,-0.9305096734315157
+ICICIBANK,2026-10-19,"Asian stocks skid, Wall Street and bonds aided by oil slip - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.023506302386522293,0.9401736259460449,0.03632000461220741,-0.9166673235595226
+ICICIBANK,2026-10-19,Axis Bank shares fall 5% despite 39% rise in Q2 net profit; here's why - Business Standard,Business Standard,2026-10-19,live,negative,0.011159599758684635,0.9401951432228088,0.048645250499248505,-0.9290355434641242
+ICICIBANK,2026-10-19,"Axis Bank stock tumbles 4%, tops Nifty losers after Q2 results; brokerages bullish, check target prices,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.01687960885465145,0.9630355834960938,0.020084839314222336,-0.9461559746414423
+ICICIBANK,2026-10-19,"Brokerages retain 'buy' on ICICI, HDFC, Axis Bank after Q2; margin recovery key - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.06891961395740509,0.0341021753847599,0.8969781398773193,0.03481743857264519
+ICICIBANK,2026-10-19,Buy Federal Bank; target of Rs 400: Prabhudas Lilladher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.051101405173540115,0.015393906272947788,0.9335047602653503,0.03570749890059233
+ICICIBANK,2026-10-19,Buy HDFC Bank; target of Rs 925: Motilal Oswal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.04295240342617035,0.018419994041323662,0.9386276006698608,0.024532409384846687
+ICICIBANK,2026-10-19,Buy ICICI Bank; target of Rs 1750: Motilal Oswal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.0456855483353138,0.018217451870441437,0.9360970258712769,0.02746809646487236
+ICICIBANK,2026-10-19,Buy ICICI Bank; target of Rs 1900: Prabhudas Lilladher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.05287898704409599,0.014619381166994572,0.9325016736984253,0.03825960587710142
+ICICIBANK,2026-10-19,"Buy Polycab India; target of Rs 10,877: Anand Rathi - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.0415005162358284,0.017448866739869118,0.9410505890846252,0.024051649495959282
+ICICIBANK,2026-10-19,CAS U-turn from SEBI may be new lifeline to Indian derivatives - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.06519044935703278,0.011225157417356968,0.9235844612121582,0.05396529193967581
+ICICIBANK,2026-10-19,"Daily Voice: Ambit's Nitin Bhasin sees structural alpha opportunities in two sectors, cautious on SMIDs - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.924656867980957,0.024207336828112602,0.0511358417570591,0.9004495311528444
+ICICIBANK,2026-10-19,"Defence & capital goods stocks: L&T, Cummins, Bharat Electronics among 16 Buys for Motilal Oswal, Thermax a Sell - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.19623857736587524,0.017553802579641342,0.7862076163291931,0.1786847747862339
+ICICIBANK,2026-10-19,FCNR inflows ease liquidity constraints but weigh on private banks’ margins - Livemint,Livemint,2026-10-19,live,negative,0.16623127460479736,0.4964864253997803,0.3372822403907776,-0.3302551507949829
+ICICIBANK,2026-10-19,French unrest raises alarm across Europe as protests turn violent - Business Standard,Business Standard,2026-10-19,live,negative,0.019121387973427773,0.8934885263442993,0.08739014714956284,-0.8743671383708715
+ICICIBANK,2026-10-19,Gaurav Kumar - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.06938973814249039,0.03368430212140083,0.8969259858131409,0.035705436021089554
+ICICIBANK,2026-10-19,HD Kumaraswamy emerges as NDA’s combative face in Karnataka ahead of local body polls - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.28613168001174927,0.032230544835329056,0.6816377639770508,0.2539011351764202
+ICICIBANK,2026-10-19,HDFC Bank falls 1.5% post Q2 show; analysts say worst over; eyes on new CEO - Business Standard,Business Standard,2026-10-19,live,negative,0.021088963374495506,0.9280719757080078,0.05083906278014183,-0.9069830123335123
+ICICIBANK,2026-10-19,HDFC Bank stock: Brokerages stay bullish despite target price cuts after Q2 results; Bernstein sees 58%... - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.6573014259338379,0.2612898051738739,0.08140873163938522,0.396011620759964
+ICICIBANK,2026-10-19,"ICICI Bank Q2 FY27: Strong earnings beat fuelled by high growth, low provisions - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9370562434196472,0.019633935764431953,0.0433097667992115,0.9174223076552153
+ICICIBANK,2026-10-19,ICICI Bank shares gain 1% after Q2 results; brokerages remain bullish - Business Standard,Business Standard,2026-10-19,live,positive,0.9153890609741211,0.047832928597927094,0.0367780476808548,0.867556132376194
+ICICIBANK,2026-10-19,"ICICI Bank stock: Brokerages bullish after Q2 earnings beat, raise targets; Goldman Sachs sees 45% upside - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.905476987361908,0.04000401124358177,0.05451897159218788,0.8654729761183262
+ICICIBANK,2026-10-19,Indian shares muted as investors assess key earnings against elevated oil prices - Reuters,Reuters,2026-10-19,live,negative,0.37363043427467346,0.49654391407966614,0.12982559204101562,-0.12291347980499268
+ICICIBANK,2026-10-19,Italy Protests: Protesters Clash With Police In Centre Of Milan - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.012985393404960632,0.910474419593811,0.07654017955064774,-0.8974890261888504
+ICICIBANK,2026-10-19,"Karur Vysya Bank hits new lifetime high, up 8% in two days post Q2 results - Business Standard",Business Standard,2026-10-19,live,positive,0.9494091272354126,0.02197955548763275,0.028611287474632263,0.9274295717477798
+ICICIBANK,2026-10-19,"Nifty PSU Bank index surges 3%; PNB, PSB, Canara, Union Bank soar up to 8% - Business Standard",Business Standard,2026-10-19,live,positive,0.9393117427825928,0.022900288924574852,0.03778793290257454,0.9164114538580179
+ICICIBANK,2026-10-19,"Q2 results today: UltraTech Cement, Hindustan Zinc, and 33 more on Oct 19 - Business Standard",Business Standard,2026-10-19,live,neutral,0.10180200636386871,0.018423261120915413,0.8797747492790222,0.0833787452429533
+ICICIBANK,2026-10-19,"Sensex falls 400 pts from day's high, Nifty near 23,050: Selling in bank shares among key factors behind market decline - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.01849425956606865,0.9498618245124817,0.031643904745578766,-0.931367564946413
+ICICIBANK,2026-10-19,"Sensex rises 300 pts from day's low, Nifty near 23,100: Buying in PSU bank shares among key factors behind... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.7595447301864624,0.040157120674848557,0.20029811561107635,0.7193876095116138
+ICICIBANK,2026-10-19,"Stocks to Watch Today: ICICI Bank, HDFC Bank, Axis Bank, GPT Infra, RailTel, ACME Solar, Yes Bank, Urban... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03557887300848961,0.019819283857941628,0.9446017742156982,0.01575958915054798
+ICICIBANK,2026-10-19,"Stocks to watch: HDFC Bank, ICICI Bank, Bajaj Fin, DLF, OMCs, NTPC & more - Business Standard",Business Standard,2026-10-19,live,neutral,0.03693241998553276,0.018702024593949318,0.9443656206130981,0.018230395391583443
+ICICIBANK,2026-10-19,The AI stock market wobble is a reminder: This time isn’t different - Livemint,Livemint,2026-10-19,live,neutral,0.04363156855106354,0.16439838707447052,0.7919700741767883,-0.12076681852340698
+ICICIBANK,2026-10-19,The deadly 1.5-mile corridor that shows the fatal flaw in America’s road design - Livemint,Livemint,2026-10-19,live,neutral,0.09331399202346802,0.05143614113330841,0.8552498817443848,0.04187785089015961
+ICICIBANK,2026-10-19,"Top three private banks report a robust Q2, but all of them show one soft spot - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.419024795293808,0.5213342308998108,0.05964094400405884,-0.10230943560600281
+ICICIBANK,2026-10-19,"Trade Spotlight: How should you trade Supreme Industries, Indian Hotels, Lemon Tree Hotels, Nykaa, Info... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.04674919694662094,0.014947231858968735,0.938303530216217,0.031801965087652206
+ICICIBANK,2026-10-19,"Trump waives Russia oil sanctions; HDFC, Axis, ICICI Bank in focus | Opening Bell - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.04261274263262749,0.024268314242362976,0.933118999004364,0.01834442839026451
+ICICIBANK,2026-10-19,Urban Company shares fall 10% as Q2 net loss widens despite revenue growth - Business Standard,Business Standard,2026-10-19,live,negative,0.008318895474076271,0.9728223085403442,0.018858706578612328,-0.964503413066268
+ICICIBANK,2026-10-19,What is a ‘boss scam’? 5 ways to protect yourself from CEO fraud - Livemint,Livemint,2026-10-19,live,neutral,0.031349752098321915,0.06962459534406662,0.8990256786346436,-0.038274843245744705
+ICICIBANK,2026-10-19,"Yes Bank stock pares gains, slips further after 17.5% crash; Q2 profit jumps 65% but AT-1 bond ruling... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.034729138016700745,0.9473186731338501,0.017952268943190575,-0.9125895351171494
+ICICIBANK,2026-10-19,"​LTCG tax cut alone won't lure FPIs, says Bernstein; Nifty target cut to 25k - Business Standard",Business Standard,2026-10-19,live,positive,0.8888368010520935,0.05533726140856743,0.0558258481323719,0.8334995396435261

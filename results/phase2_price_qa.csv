@@ -1,0 +1,80 @@
+ticker,date,issue,value,detail
+ADANIENT,2020-08-25,large_move_review,0.2366,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+ADANIENT,2023-02-01,large_move_review,-0.282,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+ADANIENT,2023-02-02,large_move_review,-0.267,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+ADANIENT,2023-02-08,large_move_review,0.2004,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+ADANIENT,2024-11-21,large_move_review,-0.2261,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+ADANIGREEN,2024-11-29,large_move_review,0.2177,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+ADANIPORTS,2024-06-04,large_move_review,-0.2115,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+ADANIPOWER,2020-03-12,large_move_review,-0.2646,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+ADANIPOWER,2021-06-07,large_move_review,0.2,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+ADANIPOWER,2025-09-22,corporate_action_adjusted,0.2,raw move -76.00% -> adjusted move 20.00% (adjustment x0.200)
+AXISBANK,2020-03-23,large_move_review,-0.2791,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+BAJAJFINSV,2020-03-23,large_move_review,-0.2586,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+BAJAJFINSV,2022-09-13,corporate_action_adjusted,0.1,raw move -89.59% -> adjusted move 4.14% (adjustment x0.100)
+BAJFINANCE,2020-03-23,large_move_review,-0.2323,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+BAJFINANCE,2025-06-16,corporate_action_adjusted,0.1,raw move -89.95% -> adjusted move 0.53% (adjustment x0.100)
+BEL,2022-09-15,corporate_action_adjusted,0.3333,raw move -66.92% -> adjusted move -0.77% (adjustment x0.333)
+BPCL,2024-06-21,corporate_action_adjusted,0.5,raw move -50.88% -> adjusted move -1.76% (adjustment x0.500)
+BSE,2022-03-21,corporate_action_adjusted,0.3333,raw move -66.81% -> adjusted move -0.44% (adjustment x0.333)
+BSE,2025-05-23,corporate_action_adjusted,0.3333,raw move -65.01% -> adjusted move 4.97% (adjustment x0.333)
+CANBK,2020-03-23,large_move_review,-0.2094,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+CANBK,2024-05-15,corporate_action_adjusted,0.2,raw move -79.00% -> adjusted move 5.02% (adjustment x0.200)
+CHOLAFIN,2020-03-23,large_move_review,-0.296,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+DRREDDY,2024-10-28,corporate_action_adjusted,0.2,raw move -79.87% -> adjusted move 0.66% (adjustment x0.200)
+EICHERMOT,2020-08-24,corporate_action_adjusted,0.1,raw move -89.97% -> adjusted move 0.29% (adjustment x0.100)
+GAIL,2022-09-06,corporate_action_adjusted,0.6667,raw move -31.96% -> adjusted move 2.07% (adjustment x0.667)
+GODREJCP,2021-05-12,large_move_review,0.2187,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+HAL,2023-09-28,corporate_action_adjusted,0.5,raw move -50.77% -> adjusted move -1.55% (adjustment x0.500)
+HDFCAMC,2025-11-26,corporate_action_adjusted,0.5,raw move -49.80% -> adjusted move 0.40% (adjustment x0.500)
+HDFCBANK,2025-08-26,corporate_action_adjusted,0.5,raw move -50.44% -> adjusted move -0.88% (adjustment x0.500)
+HINDUNILVR,2025-12-05,corporate_action_adjusted,0.9837,raw move -5.02% -> adjusted move -3.44% (adjustment x0.984)
+IDEA,2020-01-17,large_move_review,-0.25,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2020-01-21,large_move_review,0.2268,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2020-02-14,large_move_review,-0.2444,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2020-02-19,large_move_review,0.4,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2020-03-09,large_move_review,0.2121,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2020-03-13,large_move_review,0.3333,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2020-03-18,large_move_review,-0.3505,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2020-04-13,large_move_review,0.2424,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2020-06-05,large_move_review,0.2209,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2020-09-03,large_move_review,0.2677,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2021-09-16,large_move_review,0.257,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2022-01-11,large_move_review,-0.2054,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2023-02-06,large_move_review,0.2044,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IDEA,2023-12-29,large_move_review,0.2075,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+IOC,2022-06-30,corporate_action_adjusted,0.6667,raw move -32.38% -> adjusted move 1.43% (adjustment x0.667)
+ITC,2025-01-06,corporate_action_adjusted,0.946,raw move -8.09% -> adjusted move -2.84% (adjustment x0.946)
+JINDALSTEL,2020-04-07,large_move_review,0.289,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+KOTAKBANK,2026-01-14,corporate_action_adjusted,0.2,raw move -80.26% -> adjusted move -1.29% (adjustment x0.200)
+MAZDOCK,2024-12-27,corporate_action_adjusted,0.5,raw move -51.00% -> adjusted move -2.01% (adjustment x0.500)
+MOTHERSON,2020-03-12,large_move_review,-0.2435,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+MOTHERSON,2022-01-14,corporate_action_adjusted,0.8303,raw move -20.98% -> adjusted move -4.82% (adjustment x0.830)
+MOTHERSON,2022-10-03,corporate_action_adjusted,0.6667,raw move -33.07% -> adjusted move 0.39% (adjustment x0.667)
+MOTHERSON,2025-07-18,corporate_action_adjusted,0.6667,raw move -34.38% -> adjusted move -1.57% (adjustment x0.667)
+NESTLEIND,2024-01-05,corporate_action_adjusted,0.1,raw move -90.17% -> adjusted move -1.67% (adjustment x0.100)
+NESTLEIND,2025-08-08,corporate_action_adjusted,0.5,raw move -50.93% -> adjusted move -1.86% (adjustment x0.500)
+PFC,2023-09-21,corporate_action_adjusted,0.8,raw move -19.94% -> adjusted move 0.08% (adjustment x0.800)
+PFC,2024-06-04,large_move_review,-0.2308,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+PIDILITIND,2025-09-23,corporate_action_adjusted,0.5,raw move -50.98% -> adjusted move -1.96% (adjustment x0.500)
+POLYCAB,2024-01-11,large_move_review,-0.2104,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+POWERGRID,2021-07-29,corporate_action_adjusted,0.75,raw move -26.61% -> adjusted move -2.15% (adjustment x0.750)
+POWERGRID,2023-09-12,corporate_action_adjusted,0.75,raw move -27.67% -> adjusted move -3.57% (adjustment x0.750)
+RELIANCE,2023-07-20,corporate_action_adjusted,0.9079,raw move -7.81% -> adjusted move 1.54% (adjustment x0.908)
+RELIANCE,2024-10-28,corporate_action_adjusted,0.5,raw move -49.76% -> adjusted move 0.49% (adjustment x0.500)
+SHRIRAMFIN,2020-03-23,large_move_review,-0.2218,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+SHRIRAMFIN,2025-01-10,corporate_action_adjusted,0.2,raw move -81.07% -> adjusted move -5.33% (adjustment x0.200)
+SIEMENS,2025-04-07,corporate_action_adjusted,0.4971,raw move -42.93% -> adjusted move 14.79% (adjustment x0.497)
+TATASTEEL,2022-07-28,corporate_action_adjusted,0.1,raw move -89.54% -> adjusted move 4.60% (adjustment x0.100)
+TMPV,2021-10-13,large_move_review,0.2045,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+TMPV,2025-10-14,corporate_action_adjusted,0.6054,raw move -40.15% -> adjusted move -1.14% (adjustment x0.605)
+TORNTPHARM,2022-07-08,corporate_action_adjusted,0.5,raw move -50.26% -> adjusted move -0.51% (adjustment x0.500)
+TRENT,2020-03-23,large_move_review,-0.2,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+TRENT,2026-06-04,corporate_action_adjusted,0.6667,raw move -33.35% -> adjusted move -0.03% (adjustment x0.667)
+VBL,2021-06-10,corporate_action_adjusted,0.6667,raw move -31.40% -> adjusted move 2.90% (adjustment x0.667)
+VBL,2022-06-06,corporate_action_adjusted,0.6667,raw move -33.39% -> adjusted move -0.08% (adjustment x0.667)
+VBL,2023-06-15,corporate_action_adjusted,0.5,raw move -48.78% -> adjusted move 2.44% (adjustment x0.500)
+VBL,2024-09-12,corporate_action_adjusted,0.4,raw move -58.86% -> adjusted move 2.86% (adjustment x0.400)
+VEDL,2020-10-12,large_move_review,-0.2043,"no adjustment applied that day: genuine move, or a corporate action Phase 1 missed - check NSE corporate actions for this date"
+VEDL,2026-04-30,corporate_action_adjusted,0.3742,raw move -64.90% -> adjusted move -6.20% (adjustment x0.374)
+WIPRO,2024-12-03,corporate_action_adjusted,0.5,raw move -50.11% -> adjusted move -0.21% (adjustment x0.500)

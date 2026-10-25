@@ -1,100 +1,161 @@
-ticker,date,headline,sentiment_score
-ENRIN,2026-04-01,Apple built a hardware empire in its first 50 years. The next 50 could be defined by AI. - CNBC,-0.9478321075439453
-ENRIN,2025-06-23,Stock Research Report for Siemens Energy India Ltd - economictimes.indiatimes.com,-0.9362865686416626
-ENRIN,2025-06-18,"Siemens Energy India Share Price Today, Siemens Energy India Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9435729384422302
-ENRIN,2025-06-21,ENRIN: Siemens Energy India Ltd Stock Price Quote - Natl India - Bloomberg - bloomberg.com,-0.950346827507019
-ENRIN,2017-03-25,"Siemens Share Price Today, Siemens Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9413478970527649
-ENRIN,2025-11-13,Siemens shares fall on earnings concerns despite sales outlook hike - Reuters,-0.957086980342865
-ENRIN,2021-11-29,"ABB Power Share Price Today, ABB Power Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9414557814598083
-ENRIN,2025-08-04,Siemens Energy India Q3 results: Net profit surges 80% to ₹263 crore - business-standard.com,0.9379108548164368
-ENRIN,2025-06-19,Siemens Energy India Share Price - business-standard.com,-0.9463030099868774
-ENRIN,2025-07-07,Siemens Energy Q2FY26 results: Net profit rises 36% to ₹246 crore - business-standard.com,0.9412223100662231
-ENRIN,2024-02-14,Lyft CEO takes blame for 'extra zero that slipped into' earnings release - CNBC,-0.5979558825492859
-ENRIN,2018-03-05,"HDB Financial Servic Share Price Today, HDB Financial Servic Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9444074034690857
-ENRIN,2024-02-13,Lyft shares pull way back after CFO corrects major earnings release error - CNBC,-0.5410787463188171
-ENRIN,2025-02-12,Lyft shares sink nearly 8% on underwhelming fourth-quarter results - CNBC,-0.9546999931335449
-ENRIN,2024-03-22,"Enfuse Solutions Share Price Today, Enfuse Solutions Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9421951174736023
-ENRIN,2015-12-03,Is this the worst analyst call of all time? - CNBC,-0.823469877243042
-ENRIN,2024-03-06,Lyft earnings report error prompts shareholder lawsuit - Reuters,-0.9238866567611694
-ENRIN,2025-11-06,Lyft CFO Erin Brewer on Q3 results: Our marketplace has never been healthier - CNBC,-0.8160468339920044
-ENRIN,2021-07-30,Gibbs Wealth Management's Erin Gibbs on companies' overall earnings performance - CNBC,-0.8823187947273254
-ENRIN,2024-02-14,"Lyft shares jump over 35%, retaining some gains after forecast error - CNBC",0.8263142704963684
-ENRIN,2019-02-21,"Kraft Heinz shares tank after company writes down two iconic brands, slashes dividend and discloses SEC subpoena - CNBC",-0.9535009860992432
-ENRIN,2017-06-19,"Eris Lifesciences Share Price Today, Eris Lifesciences Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",-0.9430019855499268
-ENRIN,2024-02-14,Lyft Had a Typo - bloomberg.com,-0.9486761093139648
-ENRIN,2025-09-18,Stocks for the Long Run - bloomberg.com,-0.9363957047462463
-ENRIN,2026-01-28,"The Fed meeting, Starbucks earnings, Amazon layoffs and more in Morning Squawk - CNBC",-0.8617620468139648
-ENRIN,2024-02-14,Lyft Typo Took Short Seller on Wild 45-Minute Ride to Tiny Gain - bloomberg.com,-0.800645649433136
-ENRIN,2025-05-29,5 things to know before the stock market opens Thursday - CNBC,-0.9296842813491821
-ENRIN,2016-04-22,The Goldman strategy that’s returned 105% in days - CNBC,-0.8567034602165222
-ENRIN,2023-01-27,Big Oil poised to smash annual profit records — sparking outcry from campaigners and activists - CNBC,-0.7030192613601685
-ENRIN,2025-08-27,Wall Street Awaits Nvidia’s Results After 90% Jump: Markets Wrap - bloomberg.com,-0.8906998038291931
-ENRIN,2024-02-14,"Lyft’s CEO Says ‘My Bad’ on Margin Error, ‘It Was One Zero’ - bloomberg.com",-0.5340290665626526
-ENRIN,2025-11-19,Nvidia Earnings: Jensen Huang Needs Investors to Party Like It’s Not 1999 - bloomberg.com,-0.9355560541152954
-ENRIN,2025-07-30,Bunge Banks on Viterra to Revive Profits After Slump - bloomberg.com,0.7197935581207275
-ENRIN,2019-10-28,"Google parent Alphabet makes offer to buy Fitbit, sending stock soaring - CNBC",-0.7920766472816467
-ENRIN,2025-08-25,Stocks Halt Rally as Yields Rise Before Price Data: Markets Wrap - bloomberg.com,-0.8463907837867737
-ENRIN,2022-06-06,ENR1n.DE - Reuters,-0.9288585782051086
-ENRIN,2025-11-11,'Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings - CNBC,-0.49043917655944824
-ENRIN,2024-02-14,A ‘Clerical Error’ in Lyft Outlook Triggered 67% Jump - bloomberg.com,-0.866977870464325
-ENRIN,2025-05-06,ADM Profits Shrink to Lowest Since 2020 Amid Trade Uncertainty - bloomberg.com,-0.962790846824646
-ENRIN,2025-03-26,Dollar Tree says it's winning over higher-income shoppers and may offset tariffs with price hikes - CNBC,0.8350386619567871
-ENRIN,2019-08-17,"GE stock is fast recovering, but short seller investigator Harry Markopolos got his digs in - CNBC",-0.8585811257362366
-ENRIN,2018-05-03,Warren Buffett and Jeff Bezos earned the right to earnings-day silence. Elon Musk hasn't - CNBC,-0.9100932478904724
-ENRIN,2018-04-26,"Jim Chanos, known for his Enron takedown, fires off tons of new stocks that he's betting against - CNBC",-0.7495167255401611
-ENRIN,2025-09-16,Earnings Reports Don’t Need to Be Quarterly - bloomberg.com,-0.9188811779022217
-ENRIN,2025-11-25,Nvidia name-checks Michael Burry in secret memo pushing back on AI bubble allegations - CNBC,-0.7519422769546509
-ENRIN,2023-04-11,Morgan Stanley named this health stock a top pick because of its business diversification - CNBC,-0.6921087503433228
-ENRIN,2021-11-22,Check out IREN Ltd's stock price (IREN) in real time - CNBC,-0.94521164894104
-ENRIN,2017-08-03,Check out Minerals Technologies's stock price (MTX) in real time - CNBC,-0.9468722343444824
-ENRIN,2019-02-22,Wall Street doubts Kraft Heinz after it writes down two of its best known brands - CNBC,-0.9600207209587097
-ENRIN,2022-02-03,Facebook's $232 billion fall sets record for largest one-day value drop in stock market history - CNBC,-0.9044363498687744
-ENRIN,2025-08-05,Crop Trader ADM Cuts Outlook as Trade Uncertainty Persists - bloomberg.com,-0.49017706513404846
-ENRIN,2025-05-27,5 things to know before the stock market opens Tuesday - CNBC,-0.9290711879730225
-ENRIN,2025-07-14,5 things to know before the stock market opens Monday - CNBC,-0.9309641718864441
-ENRIN,2017-08-01,Check out AdvanSix's stock price (ASIX) in real time - CNBC,-0.9470767378807068
-ENRIN,2025-03-21,"Elon Musk tells Tesla employees 'hang onto your stock,' urges vandals to 'stop being psycho' - CNBC",-0.7595106363296509
-ENRIN,2025-08-21,"Avoid these stocks that saw ‘double misses’ this earnings season, Wolfe Research warns - CNBC",-0.49968454241752625
-ENRIN,2022-05-31,"Watch CNBC’s full discussion with Eugene Profit, Erin Brown and Eric Johnston - CNBC",-0.9448044896125793
-ENRIN,2026-03-12,"Dollar General expects muted annual sales on weak spending, shares drop - Reuters",-0.9713596105575562
-ENRIN,2019-02-12,"Stock buyback ban would backfire and lead more companies to go private, Canaccord says - CNBC",-0.7880864143371582
-ENRIN,2025-07-31,KKR Beats Analyst Estimates as Fees Offset the Slowdown in Exits - bloomberg.com,0.9147555232048035
-ENRIN,2019-08-15,GE Whistleblower Report - fm.cnbc.com,-0.8911662101745605
-ENRIN,2026-02-11,"Lyft Misses on Profit Outlook, Posts Surprise Operating Loss - bloomberg.com",-0.9555963277816772
-ENRIN,2026-02-02,Carvana’s Red-Hot Growth Runs on a Cycle of Borrowed Money - bloomberg.com,-0.9247820377349854
-ENRIN,2018-06-13,Short seller Carson Block compares hot China stock Tal Education to Enron; shares dive - CNBC,-0.5328168869018555
-ENRIN,2024-05-08,S&P 500 Runs Into Roadblock After Winning Streak: Markets Wrap - bloomberg.com,-0.853635847568512
-ENRIN,2019-08-15,Read the full report from the Madoff whistleblower accusing GE of an Enron-like fraud - CNBC,-0.8449716567993164
-ENRIN,2025-07-22,These charts show just how hard Trump’s tariffs are hitting Europe’s auto giants - CNBC,-0.7203354239463806
-ENRIN,2022-02-02,"GM Sees High Costs, Shift to Budget Cars Capping Profit - bloomberg.com",-0.7750092148780823
-ENRIN,2002-08-04,What's AOL Time Warner's Net Worth? - bloomberg.com,-0.9500806331634521
-ENRIN,2024-12-02,Internal transactions at food giant ADM spark a sprawling criminal probe - Reuters,-0.7545925974845886
-ENRIN,2026-03-17,Kelly Evans: The fight between public and private - CNBC,-0.9134832620620728
-ENRIN,2025-08-05,"Apollo Draws $61 Billion in Record Quarter, But Less From Wealth - bloomberg.com",-0.9305947422981262
-ENRIN,2026-01-29,Blackstone Posts Profit Jump as Deals Hit ‘Escape Velocity’ - bloomberg.com,-0.6762439608573914
-ENRIN,2011-08-12,Ex-Merrill banker loses appeal in Enron barge case - Reuters,-0.755270779132843
-ENRIN,2025-06-03,Dollar General lifts annual targets as shoppers flock amid tariff fears - Reuters,0.5939701795578003
-ENRIN,2025-08-10,"Nvidia and AMD to pay 15% of China chip sales revenues to the U.S. government, FT reports - CNBC",-0.9066790342330933
-ENRIN,2026-03-16,"Dollar Tree signals tariff relief, joins Dollar General with weak forecast - Reuters",-0.9504095911979675
-ENRIN,2025-11-07,KKR Credit Fuels Best Fundraising in Four Years as Profits Rise - bloomberg.com,0.7510069608688354
-ENRIN,2025-09-02,"Tariff legal troubles, Kraft Heinz splits, another Spirit bankruptcy and more in Morning Squawk - CNBC",-0.6306941509246826
-ENRIN,2012-01-13,"Enron Creditors Get 53 Percent Payout, Aided by Lawsuit Accords - bloomberg.com",0.7963329553604126
-ENRIN,2025-04-01,EBITDA Adjustments in Loan Negotiations | Practical Law The Journal - Reuters,-0.9095828533172607
-ENRIN,2025-03-13,"Dollar General forecasts muted 2025, says American shoppers are struggling - Reuters",-0.9077784419059753
-ENRIN,2007-08-09,Enron's Causey gets 5-year prison sentence - Reuters,-0.6130620837211609
-ENRIN,2009-12-04,RBC profit up as domestic gains offset U.S. losses - Reuters,0.9182381629943848
-ENRIN,2026-01-27,"Kimberly-Clark beats profit estimates on cost cuts, demand for everyday essentials - Reuters",0.8820829391479492
-ENRIN,2009-08-05,Equity mutual funds ride wave of 2-wk stock rally - Reuters,-0.8070275187492371
-ENRIN,2024-12-13,World’s Biggest Solo Stock-Picker Is Having Best Year Since 1991 - bloomberg.com,-0.6173757910728455
-ENRIN,2019-03-23,Former Enron CEO Jeffrey Skilling wants back into the energy business - CNBC,-0.9340512752532959
-ENRIN,2026-04-01,"GM, Toyota report lower quarterly sales in U.S. amid affordability concerns - CNBC",-0.9637364745140076
-ENRIN,2026-02-10,"Lyft's weak adjusted core profit forecast, surprise 2025 loss send shares tumbling - Reuters",-0.9574626684188843
-ENRIN,2011-12-02,"Ten Years Later, Some Press a Different View of Enron - CNBC",-0.9004918932914734
-ENRIN,2025-04-12,"Trump exempts phones, computers, chips from new tariffs - CNBC",-0.8142284154891968
-ENRIN,2025-09-18,Powell’s Path Might Be Just Fine for Stock and Bond Prices - bloomberg.com,-0.9073262810707092
-ENRIN,2025-05-29,"American Eagle Outfitters reports bigger-than-expected loss, forecasts downbeat revenue - Reuters",-0.9194486141204834
-ENRIN,2025-09-10,"Jobs data revisions, Lisa Cook's firing blocked, Klarna prices IPO and more in Morning Squawk - CNBC",-0.7579255700111389
-ENRIN,2008-06-12,"Lehman Shakes Up Top Brass, But Investors Wary - CNBC",-0.5370214581489563
-ENRIN,2019-03-29,"If you invested $1,000 in Chipotle 10 years ago, here's how much you'd have now - CNBC",-0.9430267810821533
-ENRIN,2025-07-29,5 things to know before the Tuesday open: Another record | Baseline tariffs | Fed meeting ruling - CNBC,-0.9307258725166321
-ENRIN,2021-12-02,"Twenty years after epic bankruptcy, Enron leaves a complex legacy - CNBC",-0.8722078204154968
+ticker,date,headline,source,fetched_at,fetch_mode,sentiment_label,p_positive,p_negative,p_neutral,sentiment_score
+ENRIN,2020-02-14,Greenlight's David Einhorn cashed in his bets on several stocks — Here's what he still believes in - CNBC,,2026-10-18,legacy,neutral,0.06776351481676102,0.016340939328074455,0.9158955812454224,0.05142257548868656
+ENRIN,2021-06-24,"Nike forecast for online sales boom, post-lockdown demand drives shares up 13% - Reuters",,2026-10-18,legacy,positive,0.9497077465057373,0.02212437614798546,0.028167810291051865,0.9275833703577518
+ENRIN,2021-07-30,Gibbs Wealth Management's Erin Gibbs on companies' overall earnings performance - CNBC,,2026-10-18,legacy,neutral,0.07275443524122238,0.044926732778549194,0.882318913936615,0.027827702462673187
+ENRIN,2021-08-13,"Siemens - Latest siemens , Information & Updates - Infra - ET Infra",ET Infra,2026-10-19,live,neutral,0.033362045884132385,0.017876597121357918,0.9487613439559937,0.015485448762774467
+ENRIN,2021-11-17,Former Theranos patient testifies that a blood test at Walgreens came back with false positive for HIV - CNBC,,2026-10-18,legacy,neutral,0.0770060122013092,0.4441487789154053,0.4788452386856079,-0.36714276671409607
+ENRIN,2021-12-02,Enron turned obscure businesspeople into household names. Here's where they are now - CNBC,,2026-10-18,legacy,neutral,0.021696768701076508,0.06772689521312714,0.910576343536377,-0.04603012651205063
+ENRIN,2021-12-02,How Enron pioneered technology we take for granted today - CNBC,,2026-10-18,legacy,neutral,0.056805290281772614,0.018771959468722343,0.9244228005409241,0.03803333081305027
+ENRIN,2022-02-03,Facebook's $232 billion fall sets record for largest one-day value drop in stock market history - CNBC,,2026-10-18,legacy,negative,0.009588539600372314,0.9044363498687744,0.08597517013549805,-0.8948478102684021
+ENRIN,2022-06-06,(ENR1n.DE) | Stock Price & Latest News - Reuters,,2026-10-18,legacy,neutral,0.024654721841216087,0.055607497692108154,0.9197377562522888,-0.030952775850892067
+ENRIN,2022-06-06,About Cochlear Limited (COH.AX) - Reuters,,2026-10-18,legacy,neutral,0.029152266681194305,0.02439907006919384,0.9464486241340637,0.004753196612000465
+ENRIN,2022-10-21,Exxon shares surge to record high on strong earnings outlook - Reuters,,2026-10-18,legacy,positive,0.9174141883850098,0.026219215244054794,0.05636656656861305,0.891194973140955
+ENRIN,2022-11-22,Best Buy shares surge after retailer sticks with its holiday-quarter outlook - CNBC,,2026-10-18,legacy,neutral,0.33365243673324585,0.1873491406440735,0.4789983332157135,0.14630329608917236
+ENRIN,2022-12-21,Wall Street Strategists Say 2023 Equity Recovery Won’t Be Easy - Bloomberg.com,,2026-10-18,legacy,neutral,0.0485268235206604,0.06589993089437485,0.8855732679367065,-0.017373107373714447
+ENRIN,2023-01-27,Big Oil poised to smash annual profit records — sparking outcry from campaigners and activists - CNBC,,2026-10-18,legacy,neutral,0.17582795023918152,0.12115266919136047,0.7030193209648132,0.054675281047821045
+ENRIN,2023-05-24,American Eagle Outfitters shares sink as retailer lowers forecast - CNBC,,2026-10-18,legacy,negative,0.022135095670819283,0.8747502565383911,0.10311475396156311,-0.8526151608675718
+ENRIN,2023-05-25,"Dollar Tree shares plunge after company misses on earnings, slashes full-year profit outlook - CNBC",,2026-10-18,legacy,negative,0.0091332932934165,0.9549494981765747,0.03591723367571831,-0.9458162048831582
+ENRIN,2023-06-13,Our speakers - Livemint,Livemint,2026-10-19,live,neutral,0.045472629368305206,0.01904561184346676,0.9354817271232605,0.026427017524838448
+ENRIN,2023-10-24,5 things to know before the stock market opens Tuesday - CNBC,,2026-10-18,legacy,neutral,0.033711500465869904,0.03721735626459122,0.9290710687637329,-0.0035058557987213135
+ENRIN,2024-02-13,Lyft shares pull way back after CFO corrects major earnings release error - CNBC,,2026-10-18,legacy,negative,0.041098546236753464,0.541079580783844,0.41782188415527344,-0.49998103454709053
+ENRIN,2024-02-14,Lyft CEO takes blame for 'extra zero that slipped into' earnings release - CNBC,,2026-10-18,legacy,negative,0.025071479380130768,0.5979557037353516,0.37697282433509827,-0.5728842243552208
+ENRIN,2024-02-14,Lyft Had a Typo - Bloomberg.com,,2026-10-18,legacy,neutral,0.02367999590933323,0.027643853798508644,0.9486761093139648,-0.003963857889175415
+ENRIN,2024-02-20,Jim Chanos on his legendary Enron short bet two decades later — and why fraud is as prevalent today - CNBC,,2026-10-18,legacy,neutral,0.03982922062277794,0.04443783313035965,0.9157329201698303,-0.004608612507581711
+ENRIN,2024-03-06,Lyft earnings report error prompts shareholder lawsuit - Reuters,,2026-10-18,legacy,negative,0.009752282872796059,0.9238865375518799,0.06636109948158264,-0.9141342546790838
+ENRIN,2024-05-14,Siemens India board approves demerger of its energy arm into separate listed entity - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.05261111259460449,0.01356831006705761,0.9338205456733704,0.03904280252754688
+ENRIN,2024-05-14,Siemens March quarter consolidated net profit jumps 70% to Rs 803 crore on higher execution - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9153491854667664,0.049837153404951096,0.03481357917189598,0.8655120320618153
+ENRIN,2024-05-14,Siemens to demerge and list its energy business - Livemint,Livemint,2026-10-19,live,neutral,0.019901640713214874,0.027369055896997452,0.9527292847633362,-0.0074674151837825775
+ENRIN,2024-05-14,Siemens' India arm to list energy business into separate entity - Reuters,Reuters,2026-10-19,live,neutral,0.024529796093702316,0.0230529997497797,0.9524171948432922,0.001476796343922615
+ENRIN,2024-05-15,Siemens March qtr net profit up 74 pc at Rs 896 cr - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.9434700012207031,0.02621798776090145,0.03031199425458908,0.9172520134598017
+ENRIN,2024-05-15,Siemens demerger could create more room for value unlocking despite high valuation - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.7289716601371765,0.008104661479592323,0.2629236578941345,0.7208669986575842
+ENRIN,2024-05-15,Siemens stock rises to 52-week high as March quarter results beat estimates; brokerages raise target... - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9217287302017212,0.0178435780107975,0.06042759120464325,0.9038851521909237
+ENRIN,2024-05-15,Siemens' India arm to list energy business into separate entity - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.024570537731051445,0.018503814935684204,0.956925630569458,0.006066722795367241
+ENRIN,2024-05-15,Siemens' India arm to list energy business into separate entity - ET Infra,ET Infra,2026-10-19,live,neutral,0.027710234746336937,0.016606897115707397,0.9556829333305359,0.01110333763062954
+ENRIN,2024-05-18,Siemens Energy to sell Indian wind turbine unit amid profitability push - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.21347655355930328,0.023037724196910858,0.7634857296943665,0.19043882936239243
+ENRIN,2024-05-18,Siemens Gamesa's India wind biz up for sale at $1 billion valuation - Livemint,Livemint,2026-10-19,live,neutral,0.15437528491020203,0.0071585820987820625,0.8384661078453064,0.14721670281141996
+ENRIN,2024-06-07,5 things to know before the stock market opens - CNBC,,2026-10-18,legacy,neutral,0.03404253348708153,0.03513267636299133,0.9308248162269592,-0.0010901428759098053
+ENRIN,2024-07-12,US companies head into earnings facing high expectations - Reuters,,2026-10-18,legacy,neutral,0.2221008688211441,0.11268634349107742,0.6652128100395203,0.10941452533006668
+ENRIN,2024-10-31,GE Vernova T&D India Ltd. - The Economic Times,,2026-10-18,legacy,neutral,0.046673331409692764,0.027057508006691933,0.9262691140174866,0.01961582340300083
+ENRIN,2024-12-02,Internal transactions at food giant ADM spark a sprawling criminal probe - Reuters,,2026-10-18,legacy,negative,0.020655475556850433,0.7545925378799438,0.22475194931030273,-0.7339370623230934
+ENRIN,2025-01-28,Indian stocks set for longest monthly losing streak in over 23 years - Reuters,,2026-10-18,legacy,negative,0.016416752710938454,0.9119775295257568,0.07160569727420807,-0.8955607768148184
+ENRIN,2025-02-12,Lyft shares sink nearly 8% on underwhelming fourth-quarter results - CNBC,,2026-10-18,legacy,negative,0.018518555909395218,0.9546999931335449,0.02678145281970501,-0.9361814372241497
+ENRIN,2025-03-26,Dollar Tree says it's winning over higher-income shoppers and may offset tariffs with price hikes - CNBC,,2026-10-18,legacy,positive,0.8350388407707214,0.02141380123794079,0.14354734122753143,0.8136250395327806
+ENRIN,2025-03-26,Siemens India shares soar 8% on NCLT nod for energy business demerger - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.5060639381408691,0.01561784278601408,0.4783182442188263,0.49044609535485506
+ENRIN,2025-04-01,Siemens Energy India board constituted; listing expected in CY25 - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.031570397317409515,0.014191912487149239,0.954237699508667,0.017378484830260277
+ENRIN,2025-04-07,Siemens Energy India announces new board of directors - ETHRWorld.com,ETHRWorld.com,2026-10-19,live,neutral,0.026324445381760597,0.027757348492741585,0.9459182024002075,-0.0014329031109809875
+ENRIN,2025-04-07,Siemens India shares surge 20% on ex-date for energy business spin-off - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.8839101791381836,0.023926567286252975,0.09216327220201492,0.8599836118519306
+ENRIN,2025-06-18,Siemens Energy India Monthly Technical Analysis | Stochastic RSI indicators - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.020704299211502075,0.05761806294322014,0.9216775894165039,-0.03691376373171806
+ENRIN,2025-06-19,Siemens Energy India Ltd. - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03120775707066059,0.020133668556809425,0.9486585259437561,0.011074088513851166
+ENRIN,2025-06-19,Siemens Energy India makes market debut; to invest ₹460 cr in Kalwa facility - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.7108293175697327,0.007221926003694534,0.2819487750530243,0.7036073915660381
+ENRIN,2025-06-19,"Siemens Energy shares list at Rs 2,840 on NSE, hits 5% upper circuit - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.06781759858131409,0.027929171919822693,0.9042532444000244,0.039888426661491394
+ENRIN,2025-06-20,"Grid instability rises with renewable load; Siemens Energy backs tech fix with STATCOMs, SynCons - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,positive,0.7509605884552002,0.046460412442684174,0.2025790810585022,0.704500176012516
+ENRIN,2025-06-21,Siemens Energy India Ltd - Bloomberg.com,,2026-10-18,legacy,neutral,0.02583956904709339,0.025400672107934952,0.9487597346305847,0.00043889693915843964
+ENRIN,2025-06-21,"Siemens Energy India Yearly results, Financial Summary - The Economic Times",The Economic Times,2026-10-19,live,neutral,0.036092840135097504,0.04458649083971977,0.9193206429481506,-0.008493650704622269
+ENRIN,2025-06-23,"ENRIN Stock Report - ENRIN Stock Insights, ENRIN Stock Analysis and details - The Economic Times",,2026-10-18,legacy,neutral,0.02953069470822811,0.029499217867851257,0.9409700632095337,3.147684037685394e-05
+ENRIN,2025-07-07,Siemens Energy India March quarter net profit grows 36% to ₹246 crore - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.9481792449951172,0.02247348241508007,0.029347321018576622,0.9257057625800371
+ENRIN,2025-07-08,Buy Siemens Energy India; target of Rs 3300: Motilal Oswal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.04820886254310608,0.01726839318871498,0.9345227479934692,0.030940469354391098
+ENRIN,2025-07-08,Siemens Energy India shares rise 2% after strong Q2; Jefferies initiates coverage with 'buy' - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.8749886155128479,0.011998660862445831,0.11301270127296448,0.8629899546504021
+ENRIN,2025-07-15,Samir Arora’s flagship fund pounces on these four stocks in June — Here’s why analysts think... - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.021939348429441452,0.06448448449373245,0.9135761857032776,-0.042545136064291
+ENRIN,2025-07-30,Bunge Banks on Viterra to Revive Profits After Slump - Bloomberg.com,,2026-10-18,legacy,positive,0.7197934985160828,0.041590213775634766,0.23861627280712128,0.678203284740448
+ENRIN,2025-08-04,Siemens Energy India Q3 results: Net profit surges 80% to ₹263 crore - Business Standard,,2026-10-18,legacy,positive,0.9481748342514038,0.026981646195054054,0.02484346367418766,0.9211931880563498
+ENRIN,2025-08-05,"Apollo tops profit estimates on strong fee-related earnings, inflows - Reuters",,2026-10-18,legacy,positive,0.9317673444747925,0.038113921880722046,0.030118731781840324,0.8936534225940704
+ENRIN,2025-08-10,"Nvidia and AMD to pay 15% of China chip sales revenues to the U.S. government, FT reports - CNBC",,2026-10-18,legacy,neutral,0.08168565481901169,0.01163528487086296,0.9066790342330933,0.07005036994814873
+ENRIN,2025-08-12,Venture Global's Plaquemines LNG export facility drives profit beat - Reuters,,2026-10-18,legacy,positive,0.6257833242416382,0.05045638978481293,0.32376036047935486,0.5753269344568253
+ENRIN,2025-08-18,"Dog days of earnings season, alternative investing woes, the new smartphone war and more in Morning Squawk - CNBC",,2026-10-18,legacy,neutral,0.02674151211977005,0.1409277617931366,0.8323307633399963,-0.11418624967336655
+ENRIN,2025-08-26,Wall Street Awaits Nvidia’s Results After 90% Jump: Markets Wrap - Bloomberg.com,,2026-10-18,legacy,neutral,0.07166627049446106,0.03763401880860329,0.8906996846199036,0.03403225168585777
+ENRIN,2025-08-28,Chipmaker Marvell's weak data center forecast prompts AI investors to dump its stock - Reuters,,2026-10-18,legacy,negative,0.00739330193027854,0.9644082188606262,0.028198519721627235,-0.9570149169303477
+ENRIN,2025-09-04,"US small-cap stocks break out, but for how long? - Reuters",,2026-10-18,legacy,neutral,0.05150119215250015,0.05728673189878464,0.8912120461463928,-0.005785539746284485
+ENRIN,2025-09-18,Stocks for the Long Run - Bloomberg.com,,2026-10-18,legacy,neutral,0.021638644859194756,0.041965603828430176,0.9363957643508911,-0.02032695896923542
+ENRIN,2025-09-30,"Hindustan Zinc, Siemens gain on Nifty reshuffle; Hero MotoCorp rises - Business Standard",Business Standard,2026-10-19,live,positive,0.9242879152297974,0.018764512613415718,0.056947555392980576,0.9055234026163816
+ENRIN,2025-10-14,JPMorgan lifts interest income forecast after profit beats estimates - Reuters,,2026-10-18,legacy,neutral,0.10067205131053925,0.3024093210697174,0.5969186425209045,-0.20173726975917816
+ENRIN,2025-10-24,General Dynamics beats results estimates on strong business jet deliveries - Reuters,,2026-10-18,legacy,neutral,0.1922299563884735,0.2554677724838257,0.5523023009300232,-0.06323781609535217
+ENRIN,2025-10-26,Earnings playbook: Five 'Magnificent Seven' members are set to report in busy week - CNBC,,2026-10-18,legacy,neutral,0.035169824957847595,0.05739131569862366,0.9074388742446899,-0.022221490740776062
+ENRIN,2025-11-05,"MSCI to add Paytm, 3 other Indian stocks to flagship global index - Reuters",Reuters,2026-10-19,live,neutral,0.10397080332040787,0.009970295242965221,0.8860588669776917,0.09400050807744265
+ENRIN,2025-11-06,Lyft CFO Erin Brewer on Q3 results: Our marketplace has never been healthier - CNBC,,2026-10-18,legacy,neutral,0.1315862536430359,0.05236700922250748,0.8160467147827148,0.07921924442052841
+ENRIN,2025-11-11,'Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings - CNBC,,2026-10-18,legacy,negative,0.03678088262677193,0.49043935537338257,0.4727798402309418,-0.45365847274661064
+ENRIN,2025-11-12,Siemens shares fall on earnings concerns despite sales outlook hike - Reuters,,2026-10-18,legacy,negative,0.011018281802535057,0.957086980342865,0.031894806772470474,-0.9460686985403299
+ENRIN,2025-11-19,Nvidia Earnings: Jensen Huang Needs Investors to Party Like It’s Not 1999 - Bloomberg.com,,2026-10-18,legacy,neutral,0.02633555978536606,0.03810839354991913,0.9355560541152954,-0.01177283376455307
+ENRIN,2025-11-25,Nvidia name-checks Michael Burry in secret memo pushing back on AI bubble allegations - CNBC,,2026-10-18,legacy,neutral,0.027508556842803955,0.22054935991764069,0.7519420981407166,-0.19304080307483673
+ENRIN,2025-12-05,"Share Market Today | Latest Stock Market News, Sensex Today and Nifty Live Updates - Business Standard",Business Standard,2026-10-19,live,neutral,0.04168953001499176,0.023459510877728462,0.9348509311676025,0.018230019137263298
+ENRIN,2025-12-11,Buy Siemens Energy India; target of Rs 3800: Motilal Oswal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.044519200921058655,0.01863275282084942,0.9368481040000916,0.025886448100209236
+ENRIN,2025-12-12,Accumulate Siemens Energy India; target of Rs 3312: Prabhudas Lilladher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.04991166293621063,0.015117313712835312,0.934971034526825,0.03479434922337532
+ENRIN,2025-12-22,COMMENTARY: India's stock rally hides slew of potential year-end bargains - Reuters,,2026-10-18,legacy,neutral,0.09948364645242691,0.1862318217754364,0.7142845988273621,-0.08674817532300949
+ENRIN,2025-12-23,Siemens Energy Peers Comparison: Top Capital Goods stocks comparison | Competitor Analysis - Moneycontrol - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.04383479058742523,0.026290560141205788,0.92987459897995,0.017544230446219444
+ENRIN,2026-01-06,SlateStone’s Erin Gibbs flags a market regime shift toward earnings in 2026 - CNBC,,2026-10-18,legacy,neutral,0.21738691627979279,0.0241289921104908,0.7584840655326843,0.193257924169302
+ENRIN,2026-01-18,Indian shares fall on downbeat earnings from heavyweights - Reuters,,2026-10-18,legacy,negative,0.009870700538158417,0.949108898639679,0.041020382195711136,-0.9392381981015205
+ENRIN,2026-01-27,Buy Siemens Energy India; target of Rs 3400: Motilal Oswal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.046081870794296265,0.018242087215185165,0.9356760382652283,0.0278397835791111
+ENRIN,2026-01-28,"The Fed meeting, Starbucks earnings, Amazon layoffs and more in Morning Squawk - CNBC",,2026-10-18,legacy,negative,0.012301750481128693,0.8617620468139648,0.12593626976013184,-0.8494602963328362
+ENRIN,2026-02-02,Carvana’s Red-Hot Growth Runs on a Cycle of Borrowed Money - Bloomberg.com,,2026-10-18,legacy,neutral,0.03504911810159683,0.040168847888708115,0.9247820377349854,-0.005119729787111282
+ENRIN,2026-02-10,"Australia's CBA first-half earnings hit record on market share gains, shares surge - Reuters",,2026-10-18,legacy,positive,0.9034140706062317,0.032135721296072006,0.06445017457008362,0.8712783493101597
+ENRIN,2026-02-10,"Lyft's weak adjusted core profit forecast, surprise 2025 loss send shares tumbling - Reuters",,2026-10-18,legacy,negative,0.008327758871018887,0.9574626684188843,0.03420956805348396,-0.9491349095478654
+ENRIN,2026-02-13,Siemens Energy India posts ₹313 crore profit for December quarter - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.474211186170578,0.10355569422245026,0.42223310470581055,0.37065549194812775
+ENRIN,2026-02-16,Accumulate Siemens Energy India; target of Rs 3145: Prabhudas Lilladher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.046635448932647705,0.01574539765715599,0.9376192092895508,0.030890051275491714
+ENRIN,2026-02-20,Buy Siemens Energy India; target of Rs 3600: Motilal Oswal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.045971259474754333,0.018035326153039932,0.9359934329986572,0.0279359333217144
+ENRIN,2026-03-01,Wall St Week Ahead AI disruption looms over markets with US jobs data on tap - Reuters,,2026-10-18,legacy,negative,0.03765295818448067,0.7948957681655884,0.16745132207870483,-0.7572428099811077
+ENRIN,2026-03-12,"Dollar General expects muted annual sales on weak spending, shares drop - Reuters",,2026-10-18,legacy,negative,0.008211944252252579,0.9713596105575562,0.02042842097580433,-0.9631476663053036
+ENRIN,2026-03-17,Kelly Evans: The fight between public and private - CNBC,,2026-10-18,legacy,neutral,0.05126657336950302,0.03525015711784363,0.9134832620620728,0.016016416251659393
+ENRIN,2026-03-18,InPost sees flat 2026 earnings as Yodel integration costs weigh - Reuters,,2026-10-18,legacy,negative,0.018735280260443687,0.9349839687347412,0.04628065600991249,-0.9162486884742975
+ENRIN,2026-03-26,Bertelsmann signals M&A appetite after RTL weakness drags earnings - Reuters,,2026-10-18,legacy,negative,0.03393727168440819,0.8961230516433716,0.06993966549634933,-0.8621857799589634
+ENRIN,2026-04-19,Earnings playbook: Tesla and Boeing lead a big week of reports - CNBC,,2026-10-18,legacy,neutral,0.3046914339065552,0.025313545018434525,0.6699950098991394,0.27937788888812065
+ENRIN,2026-04-23,"Cemex posts record Q1 earnings, maintains outlook despite weather hit - Reuters",,2026-10-18,legacy,positive,0.9370099902153015,0.035584818571805954,0.02740519307553768,0.9014251716434956
+ENRIN,2026-04-27,COMMENTARY: Morning Bid: Oil and chips - Reuters,,2026-10-18,legacy,neutral,0.030228570103645325,0.02216152846813202,0.9476099610328674,0.008067041635513306
+ENRIN,2026-04-27,"TCS, Siemens Energy expand partnership to develop AI-led industrial and energy solutions - ET Enterprise AI",ET Enterprise AI,2026-10-19,live,positive,0.8163424730300903,0.006514314562082291,0.1771431565284729,0.809828158468008
+ENRIN,2026-04-28,TCS and Siemens Energy Partner to Enhance AI Infrastructure - ET Datacenters,ET Datacenters,2026-10-19,live,positive,0.8369932174682617,0.006769631057977676,0.1562371701002121,0.830223586410284
+ENRIN,2026-04-29,"Visa shares climb as profit beat, raised forecast ease Middle East jitters - Reuters",,2026-10-18,legacy,positive,0.7441814541816711,0.14101994037628174,0.1147986501455307,0.6031615138053894
+ENRIN,2026-05-02,The Musk vs. OpenAI trial is underway — here's where things stand - CNBC,,2026-10-18,legacy,neutral,0.04611518234014511,0.029745811596512794,0.9241390824317932,0.016369370743632317
+ENRIN,2026-05-04,"Bulk and block deals: BNP Paribas Financial Markets picks up stake in Tata Motors, Siemens Energy India - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.16440634429454803,0.014864347875118256,0.8207292556762695,0.14954199641942978
+ENRIN,2026-05-14,Apple-OpenAI partnership deteriorates as legal options are explored - Business Standard,Business Standard,2026-10-19,live,negative,0.00936922151595354,0.9662236571311951,0.024407126009464264,-0.9568544356152415
+ENRIN,2026-05-15,Siemens Energy India posts 52% rise in Q2 PAT to ₹374.6 crore - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,positive,0.9360334277153015,0.014944568276405334,0.04902200773358345,0.9210888594388962
+ENRIN,2026-05-15,Siemens Energy India standalone net profit rises 52.21% in the March 2026 quarter - Business Standard,Business Standard,2026-10-19,live,positive,0.9342736005783081,0.03378422185778618,0.03194217383861542,0.9004893787205219
+ENRIN,2026-05-15,"Siemens Energy Standalone March 2026 Net Sales at Rs 2,394.10 crore, up 27.38% Y-o-Y - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9340704083442688,0.013189397752285004,0.05274016410112381,0.9208810105919838
+ENRIN,2026-05-18,Accumulate Siemens Energy India; target of Rs 3274: Prabhudas Lilladher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.046800121665000916,0.015800759196281433,0.93739914894104,0.030999362468719482
+ENRIN,2026-05-27,Siemens shares rise 5% despite mixed Q4; JM Financial maintains 'add' rating - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9305146336555481,0.017163539305329323,0.05232176184654236,0.9133510943502188
+ENRIN,2026-06-18,"Trade Spotlight: How should you trade Indian Hotels, Kirloskar Brothers, Siemens Energy, Data Patterns,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.04728243127465248,0.016329364851117134,0.9363881349563599,0.030953066423535347
+ENRIN,2026-06-24,"Siemens Energy India Capital Structure: Equity, Debt, and Shareholding Pattern - Moneycontrol - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.024792402982711792,0.02279600128531456,0.9524115920066833,0.001996401697397232
+ENRIN,2026-06-25,Siemens Energy - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.030062956735491753,0.020590538159012794,0.9493464827537537,0.009472418576478958
+ENRIN,2026-07-06,"Hitachi Energy, other power equipment stocks rise up to 4% as brokerages see Friday's sell-off as... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.8942376375198364,0.052631691098213196,0.05313070863485336,0.8416059464216232
+ENRIN,2026-07-12,"Earnings playbook: Reporting season gets underway with JPMorgan Chase, Netflix on deck - CNBC",,2026-10-18,legacy,neutral,0.1129891574382782,0.019458530470728874,0.8675523400306702,0.09353062696754932
+ENRIN,2026-07-14,Siemens Energy India plugs into India's electrification super cycle - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.09842499345541,0.009473691694438457,0.8921012878417969,0.08895130176097155
+ENRIN,2026-07-15,India's ICICI Prudential Life gains on earnings jump as new business profitability improves - Reuters,,2026-10-18,legacy,positive,0.9251298904418945,0.024108881130814552,0.05076126381754875,0.90102100931108
+ENRIN,2026-07-23,"Anthropic mulls mandatory employee stock trading plans after IPO, The Information reports - Reuters",,2026-10-18,legacy,neutral,0.018422508612275124,0.19669273495674133,0.7848847508430481,-0.1782702263444662
+ENRIN,2026-07-30,Siemens Energy India shares fall 2.26% in early trade - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.007687452714890242,0.9600469470024109,0.032265517860651016,-0.9523594942875206
+ENRIN,2026-08-03,Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture - CNBC,,2026-10-18,legacy,negative,0.01663503609597683,0.8455929756164551,0.13777197897434235,-0.8289579395204782
+ENRIN,2026-08-06,Siemens Energy India shares fall over 2% in early trade - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.008436555042862892,0.9597061276435852,0.031857363879680634,-0.9512695726007223
+ENRIN,2026-08-07,Buy Siemens Energy India; target of Rs 3434: Prabhudas Lilladher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.05454545095562935,0.014993807300925255,0.9304607510566711,0.039551643654704094
+ENRIN,2026-08-07,Buy Siemens Energy India; target of Rs 4100: Motilal Oswal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.046069324016571045,0.018103595823049545,0.9358270764350891,0.0279657281935215
+ENRIN,2026-08-07,Siemens Energy India (ENRIN IN) - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.03562850505113602,0.017452534288167953,0.9469189047813416,0.018175970762968063
+ENRIN,2026-08-07,Siemens Energy India standalone net profit rises 67.83% in the June 2026 quarter - Business Standard,Business Standard,2026-10-19,live,positive,0.9344955682754517,0.03529573604464531,0.0302087664604187,0.8991998322308064
+ENRIN,2026-08-07,"Siemens Energy Standalone June 2026 Net Sales at Rs 2,485.60 crore, up 39.28% Y-o-Y - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,positive,0.9371498227119446,0.013707366771996021,0.04914289712905884,0.9234424559399486
+ENRIN,2026-08-07,"Stocks to Watch Today: Alkem Labs, J Kumar Infra, Dabur, Britannia, Siemens Energy, Shipping Corporation,... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.03669201210141182,0.0187990702688694,0.944508969783783,0.01789294183254242
+ENRIN,2026-08-07,Volumes soar at Siemens Energy India Ltd counter - Business Standard,Business Standard,2026-10-19,live,neutral,0.1292521059513092,0.032908231019973755,0.837839663028717,0.09634387493133545
+ENRIN,2026-08-10,Siemens Energy India shares fall 2.02% in today's trade - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.007302063517272472,0.9611494541168213,0.031548503786325455,-0.9538473905995488
+ENRIN,2026-08-10,Siemens Energy India shares rise over 2% in early trade - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.8637710213661194,0.01604289747774601,0.12018609791994095,0.8477281238883734
+ENRIN,2026-08-12,Siemens Energy India Shares Fall 2% Amid Bearish Sentiment - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,negative,0.008097896352410316,0.9620934128761292,0.029808640480041504,-0.9539955165237188
+ENRIN,2026-08-17,Siemens Energy India Shares Rise 2% on Positive Market Sentiment - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,positive,0.9032444953918457,0.015688171610236168,0.08106735348701477,0.8875563237816095
+ENRIN,2026-09-02,Siemens Energy India - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.034131959080696106,0.019364750012755394,0.9465032815933228,0.014767209067940712
+ENRIN,2026-09-03,Buy Siemens Energy India; target of Rs 4000: Motilal Oswal - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.04697616398334503,0.017488202080130577,0.9355356693267822,0.029487961903214455
+ENRIN,2026-09-07,Siemens Energy India commissions cleaner high-voltage circuit breaker - ET EnergyWorld,ET EnergyWorld,2026-10-19,live,neutral,0.24330471456050873,0.0071653397753834724,0.7495299577713013,0.23613937478512526
+ENRIN,2026-09-08,Buy Siemens Energy India; target of Rs 3655: Prabhudas Lilladher - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.05499568209052086,0.014588446356356144,0.9304158687591553,0.040407235734164715
+ENRIN,2026-09-09,"India’s Grid 2035 challenge shifts from capacity addition to transmission, storage and flexibility: Indust.. - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,neutral,0.13544796407222748,0.011494825594127178,0.8530572056770325,0.1239531384781003
+ENRIN,2026-09-10,"India’s energy transition enters next phase with grid, storage, flexibility in focus, say leaders at ET En.. - ET EnergyWorld",ET EnergyWorld,2026-10-19,live,neutral,0.4449518918991089,0.010811694897711277,0.5442363619804382,0.4341401970013976
+ENRIN,2026-09-29,Australia's Cochlear hit with shareholder lawsuit over 2026 earnings forecast - Reuters,,2026-10-18,legacy,negative,0.017824998125433922,0.8447992205619812,0.13737580180168152,-0.8269742224365473
+ENRIN,2026-09-30,"BSE shares fall 2.5% on profit booking after Nifty inclusion; Ujjivan SFB, Siemens India rise up to 2.5%... - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,negative,0.013365530408918858,0.9587589502334595,0.02787553146481514,-0.9453934198245406
+ENRIN,2026-10-09,Siemens Energy India says Russian court rejects appeal; ₹44.38 crore order stands - ETLegalWorld.com,ETLegalWorld.com,2026-10-19,live,neutral,0.06346320360898972,0.14597536623477936,0.7905614376068115,-0.08251216262578964
+ENRIN,2026-10-12,"Oil rallies, sending dollar higher on expectations of higher US rates - Reuters",,2026-10-18,legacy,positive,0.7183758616447449,0.13994833827018738,0.14167574048042297,0.5784275233745575
+ENRIN,2026-10-13,Capital goods stocks fall after multibagger rally. Is this a buying opportunity for long-term investors? - Livemint,Livemint,2026-10-19,live,negative,0.03239117190241814,0.6420077681541443,0.32560107111930847,-0.6096165962517262
+ENRIN,2026-10-13,"F&O Quote - Live FNO BSE/NSE Quote, Nifty Quotes, Indian Stock Market BSE/NSE Price Increase, Chart, Open Interest Analysis - Moneycontrol.com",Moneycontrol.com,2026-10-19,live,neutral,0.04265166446566582,0.024669596925377846,0.932678759098053,0.01798206754028797
+ENRIN,2026-10-14,Market Trading Guide: Balrampur Chini Mills among 4 stock recommendations for Wednesday - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.06302057206630707,0.028052587062120438,0.9089269042015076,0.03496798500418663
+ENRIN,2026-10-15,BHEL (BHEL IN) - Moneycontrol.com,Moneycontrol.com,2026-10-19,live,neutral,0.027411429211497307,0.02419804222881794,0.948390543460846,0.003213386982679367
+ENRIN,2026-10-15,"Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",,2026-10-18,legacy,neutral,0.03676547110080719,0.024498071521520615,0.9387364387512207,0.012267399579286575
+ENRIN,2026-10-15,City Union Bank's GST demand cut to ₹208.91 crore from ₹337.79 crore - ETLegalWorld.com,ETLegalWorld.com,2026-10-19,live,negative,0.11495968699455261,0.8387137055397034,0.04632672294974327,-0.7237540185451508
+ENRIN,2026-10-15,Erin Gibbs: We do need to be concerned about their debt levels - CNBC,,2026-10-18,legacy,neutral,0.06775091588497162,0.0634879544377327,0.8687611222267151,0.004262961447238922
+ENRIN,2026-10-15,LIC Housing Finance among 4 F&O stocks with a sharp rise in futures open interest - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.4141443967819214,0.10987137258052826,0.47598427534103394,0.3042730242013931
+ENRIN,2026-10-15,Shellz India Ltd. - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.04295016825199127,0.03363138064742088,0.923418402671814,0.009318787604570389
+ENRIN,2026-10-15,Siemens Ltd. - The Economic Times,The Economic Times,2026-10-19,live,neutral,0.04440570995211601,0.031343039125204086,0.9242512583732605,0.013062670826911926
+ENRIN,2026-10-15,US Treasury pushes global partners to rename AI as 'super intelligence' - Reuters,,2026-10-18,legacy,neutral,0.22851142287254333,0.012204973958432674,0.7592836022377014,0.21630644891411066
+ENRIN,2026-10-15,"US midterms 2026: Why AI data centres, power bills and water use are becoming local election issues - The Economic Times",,2026-10-18,legacy,neutral,0.027816612273454666,0.11054577678442001,0.8616375923156738,-0.08272916451096535
+ENRIN,2026-10-16,"Cult.fit, Eswari Global Metal Industries, Sohan Lal Commodity Managementget Sebi nod for IPOs - ETLegalWorld.com",ETLegalWorld.com,2026-10-19,live,neutral,0.047729939222335815,0.017493318766355515,0.9347767233848572,0.0302366204559803
+ENRIN,2026-10-16,IMF chief says AI risks may exceed opportunities without safeguards and ethical framework - Reuters,,2026-10-18,legacy,neutral,0.0484357587993145,0.060830678790807724,0.890733540058136,-0.012394919991493225
+ENRIN,2026-10-16,Persistent Systems among 4 F&O stocks with a sharp rise in futures open interest - The Economic Times,The Economic Times,2026-10-19,live,negative,0.12674526870250702,0.8200855851173401,0.05316916108131409,-0.6933403164148331
+ENRIN,2026-10-16,Yes Bank weighs next steps after SC upholds verdict on AT-1 bond write-down - ETLegalWorld.com,ETLegalWorld.com,2026-10-19,live,neutral,0.04706365242600441,0.07122880220413208,0.8817075490951538,-0.02416514977812767
+ENRIN,2026-10-19,L&T Finance among 4 F&O stocks with a sharp rise in futures open interest - The Economic Times,The Economic Times,2026-10-19,live,positive,0.6616402864456177,0.10048990696668625,0.23786982893943787,0.5611503794789314
