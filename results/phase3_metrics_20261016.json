@@ -1,0 +1,154 @@
+{
+  "live_date": "2026-10-16",
+  "config": {
+    "project_root": "C:\\Users\\jayan\\Study Materials\\ml_alpha_portfolio\\ml-alpha-portfolio-model",
+    "horizon": 21,
+    "execution_lag": 0,
+    "train_days": 252,
+    "test_days": 21,
+    "step_size": 21,
+    "purge_days": null,
+    "top_n": 10,
+    "n_label_bins": 10,
+    "min_names_per_date": 20,
+    "winsor_q": 0.01,
+    "cost_bps_per_side": 20.0,
+    "holdout_months": 12,
+    "random_state": 42,
+    "expected_tickers": 99,
+    "benchmark_file": null,
+    "purge_effective": 21
+  },
+  "features": [
+    "momentum_1m",
+    "momentum_3m",
+    "momentum_6m",
+    "vol_30d",
+    "vol_90d",
+    "volume_zscore",
+    "volume_momentum",
+    "volume_log_change",
+    "rsi_14",
+    "macd_hist_pct",
+    "ema_cross",
+    "mom_vol_interaction",
+    "high_vol_regime",
+    "momentum_1m_lag5",
+    "ret_skew_10",
+    "ret_kurt_10",
+    "ret_skew_30",
+    "ret_kurt_30"
+  ],
+  "metrics": {
+    "walk_forward": {
+      "ic_mean": 0.04223808381279808,
+      "ic_std": 0.1835096994751181,
+      "ic_ir": 0.2301681269906123,
+      "ic_ir_annualised": 1.0170565879920188,
+      "hit_rate": 0.6301587301587301,
+      "t_stat_non_overlap": 2.2742076677141503,
+      "t_stat_newey_west": 2.225478057475084,
+      "n_dates": 1260,
+      "n_independent": 60,
+      "n_windows": 60,
+      "train_ic_mean": 0.18418542194319293,
+      "window_test_ic_mean": 0.04223808381279807,
+      "window_hit_rate": 0.6333333333333333,
+      "window_t_stat": 2.1723443280818135
+    },
+    "ic_holdout": {
+      "ic_mean": 0.07104602476031355,
+      "ic_std": 0.18903308837061758,
+      "ic_ir": 0.3758390944818135,
+      "ic_ir_annualised": 1.0561147184557922,
+      "hit_rate": 0.5947136563876652,
+      "t_stat_non_overlap": 1.0111528603500286,
+      "t_stat_newey_west": 1.6179882814394284,
+      "n_dates": 227,
+      "n_independent": 11
+    },
+    "backtest": {
+      "strategy_net": {
+        "cagr": 0.4562468342566022,
+        "ann_vol": 0.25532280123768114,
+        "sharpe": 1.6162224651921686,
+        "max_dd": -0.23661682430818243
+      },
+      "strategy_gross": {
+        "cagr": 0.494307569207322,
+        "ann_vol": 0.25522336741723917,
+        "sharpe": 1.720917844164719,
+        "max_dd": -0.21855788102691853
+      },
+      "universe_ew": {
+        "cagr": 0.23058755664892128,
+        "ann_vol": 0.1605375024371476,
+        "sharpe": 1.3813892491044246,
+        "max_dd": -0.13673723326906395
+      },
+      "excess_vs_ew": {
+        "mean_per_period": 0.01590780560761534,
+        "info_ratio": 1.2427525292088144,
+        "hit_rate": 0.6166666666666667,
+        "t_stat": 2.778879134520702
+      },
+      "avg_one_way_turnover": 0.5542372881355933,
+      "annual_cost_drag": 0.026560000000000004,
+      "n_periods": 60
+    },
+    "data_quality": {
+      "n_rows": 147079,
+      "n_tickers": 99,
+      "date_min": "2020-07-07",
+      "date_max": "2026-10-16",
+      "suspect_split_jumps": 0,
+      "ret_1d_backward_match": {
+        "same_day (t)": 0.0003467524255672122,
+        "lagged (t-1)": 0.9986537847007391,
+        "forward (t+1)": 0.00031275708972728944
+      },
+      "max_abs_ic_vs_next_day": 0.01075978647254339
+    },
+    "train_window_comparison": "            ic_pre_holdout  nw_t_pre_holdout  ic_holdout  hit_rate  train_ic  net_cagr   ew_cagr  excess_ir  turnover\nexperiment                                                                                                           \nlegacy_84d        0.011253          0.728622    0.028415  0.520833  0.065842  0.338485  0.227901   0.929513  0.736170\nfixed_84d         0.033623          1.431365    0.013633  0.578373  0.334496  0.340277  0.227901   0.711701  0.612766\nfixed_126d        0.046101          1.880938    0.028979  0.606151  0.275782  0.451325  0.227901   1.373357  0.604255\nfixed_252d        0.019529          0.789659    0.071046  0.602183  0.184185  0.419711  0.227901   1.032828  0.551064\nfixed_504d        0.023745          0.828292    0.047613  0.572421  0.119539  0.422046  0.227901   1.008798  0.510638",
+    "baseline_comparison": "                      ic_mean      nw_t  net_cagr  excess_ir  excess_hit  turnover\nsignal                                                                            \nML ranker            0.042238  2.225478  0.456247   1.242753    0.616667  0.554237\nrank by vol_90d      0.041841  1.753149  0.400255   0.877318    0.583333  0.200000\nrank by vol_30d      0.047291  2.402867  0.436345   1.014856    0.600000  0.450847\nrank by momentum_6m  0.000995  0.055122  0.264722   0.309731    0.550000  0.350847\nrandom (mean of 20)  0.000198  0.074632  0.191395  -0.386279    0.431667  0.895678\nrandom (95th pct)    0.003919  1.486318  0.251308   0.253305    0.568333  0.910424",
+    "capm_alpha": {
+      "alpha_per_period": 0.010234826395473613,
+      "alpha_annualised": 0.12281791674568335,
+      "alpha_t": 1.736459786564221,
+      "beta": 1.3069727779256053,
+      "beta_t": 10.983400960889544,
+      "r2": 0.6753157633524698,
+      "n": 60
+    },
+    "holdout_backtest": {
+      "strategy_net": {
+        "cagr": 0.28797426554518535,
+        "ann_vol": 0.23515993118582604,
+        "sharpe": 1.1900107246975704,
+        "max_dd": -0.061711698680057214
+      },
+      "strategy_gross": {
+        "cagr": 0.3210551469363443,
+        "ann_vol": 0.2353537193549284,
+        "sharpe": 1.299162983140138,
+        "max_dd": -0.05931169868005726
+      },
+      "universe_ew": {
+        "cagr": 0.01498271983313404,
+        "ann_vol": 0.15539606617916962,
+        "sharpe": 0.16617067265837396,
+        "max_dd": -0.08581359994102788
+      },
+      "excess_vs_ew": {
+        "mean_per_period": 0.02116838094040149,
+        "info_ratio": 2.071063850390014,
+        "hit_rate": 0.6,
+        "t_stat": 1.890613981486859
+      },
+      "avg_one_way_turnover": 0.5444444444444445,
+      "annual_cost_drag": 0.025919999999999995,
+      "n_periods": 10
+    },
+    "buffer_comparison": "           net_cagr  excess_ir  turnover  cost_drag\nhold_rank                                          \n10         0.456247   1.242753  0.554237    0.02656\n15         0.493351   1.394186  0.416949    0.02008\n20         0.464112   1.364557  0.345763    0.01672\n30         0.451728   1.239422  0.208475    0.01024"
+  }
+}

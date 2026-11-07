@@ -16,3 +16,5 @@ sentence-transformers
 openai
 python-dotenv
 nbformat>=4.2.0
+openpyxl
+xlrd

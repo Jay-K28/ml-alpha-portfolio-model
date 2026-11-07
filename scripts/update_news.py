@@ -5,7 +5,7 @@ import argparse
 import re
 import sys
 import time
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import quote_plus
 
@@ -62,6 +62,7 @@ JUNK_PATTERN = re.compile(  # [#3]
 NEWS_COLUMNS = [  # [#2] [#3]
     "ticker", "date", "headline", "source", "fetched_at", "fetch_mode",
     "sentiment_label", "p_positive", "p_negative", "p_neutral", "sentiment_score",
+    "published_utc", "mentions_company",   # [P1-N1] full timestamp; headline names the company
 ]
 
 
@@ -92,7 +93,15 @@ def _http_get(url):
     return resp.content
 
 
-def fetch_feed_items(url, symbol, fetched_at, fetch_mode, logger):  # [#3] [#6]
+def mentions_company(headline, search_name, symbol):  # [P1-N2]
+    """True if the headline names the company (first word of its name, >= 4 letters) or its symbol."""
+    h = str(headline).lower()
+    words = [w for w in re.findall(r"[a-z0-9&]+", str(search_name).lower()) if len(w) >= 4]
+    keys = set(words[:1]) | {str(symbol).lower()}
+    return any(re.search(rf"\b{re.escape(k)}\b", h) for k in keys)
+
+
+def fetch_feed_items(url, symbol, fetched_at, fetch_mode, logger, search_name=""):  # [#3] [#6] [P1-N1]
     content = with_retry(_http_get, url, what=f"news {symbol}", logger=logger)
     feed = feedparser.parse(content)
     rows = []
@@ -103,14 +112,18 @@ def fetch_feed_items(url, symbol, fetched_at, fetch_mode, logger):  # [#3] [#6]
         rows.append(
             {
                 "ticker": symbol,
+                # UTC calendar date: never later than the IST date, so Phase 2's date-only rule stays look-ahead safe
                 "date": date(*e.published_parsed[:3]).isoformat(),
+                "published_utc": datetime(*e.published_parsed[:6], tzinfo=timezone.utc).isoformat(),
                 "headline": clean_text(e.title),
                 "source": src.get("title", "") if hasattr(src, "get") else "",
                 "fetched_at": fetched_at.isoformat(),
                 "fetch_mode": fetch_mode,
+                "mentions_company": mentions_company(e.title, search_name or symbol, symbol),
             }
         )
-    return pd.DataFrame(rows, columns=["ticker", "date", "headline", "source", "fetched_at", "fetch_mode"])
+    return pd.DataFrame(rows, columns=["ticker", "date", "published_utc", "headline", "source", "fetched_at",
+                                       "fetch_mode", "mentions_company"])
 
 
 def filter_news(df, latest_day):  # [#3]
